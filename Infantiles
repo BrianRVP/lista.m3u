@@ -35,3 +35,6 @@ https://server11.pelispluscdn.info/newhls/7d0078d74fc11d36a7df72412b20d2c8/EP.0.
 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-last-of-us-2-1673841725.jpg" group-title="Series",THE LAST OF US 
 https://bit.ly/40mir4A
+
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2019/11/iptv-omniverse.jpg?x=480&y=375&quality=40" group-title="",IPTV
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/IPTV
