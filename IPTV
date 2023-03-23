@@ -1,4 +1,4 @@
-#EXTM3U
+Jo#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210820025220&path-prefix=es" group-title="infantiles",cartoon network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-360p.m3u8
@@ -6,11 +6,5 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-360p.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210820025220&path-prefix=es" group-title="infantiles",cartoon network (opc2)
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvargentinahd.com/img/telefehd.png" group-title="ARG",TELEFE
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvkEBrbMQ2ihLRVDGCRcvQMHQKNDrP5XPfnCl_HrJZHZ1lqr9RoTP8agc0KqWAHqJ0odh4IQkABIOd1PazTmuWQNgaffEyFI-ZRnhoE4j_gKvMgpPUedVekSPMJNT48NiyhTJRwql5XFRwnRko_E7lX4ByY3goUwjCP2VdltrpPlNhmfVnlnr_3rtTDa-NJNx-QqwIJP3xtkeX-q5v0EolwsiI9LxvS7E_9dQlfWC1kYWcR2vYh44BvKQgy61UyokGlYlfyO995KDiukngwihG29iaVF15HFBV0rbyMAKYcVG5ESTJFHD3SIi4fAuhzccFO7myNvj6Fg1LO4kgqi64KXOKKbZX1PeKNaWK-zFfR985SMDo-hEw6RdwH6ZE9-LIEVSpSBrhFn_YyoocM9hBMMfaQm84w8hToBxVqrSQRq_CFy4baOkfeniKj9_S1spkR2HGCELu4zHW5ZYy07rAwU_0Tuv7ohPaBjPff9_AhV_msK_V7CQku_tzq1PagiHXS5R3VKCC9vN9OWGOk0SbEZpLu8mRrpfoFyj9YSqPR1QeDn9Wt22q5vnNVLfBPfL7_5Xoq2IA8zuxdQnSCMdNl0fNB1-b2Rh6f5L6akPSu1SiLT7j81nhdj1k1jz_vZPU7P75BhLQLomxM5wJNwee7DGJYcdSqtKYgyJ3ltqhttQ4WFE4ahrsAYRZX283OLl9VcJKQS4MxeVC4-pv6b9SakyU_fkQS1z_bnQogQyPAhwKWiC8O_V_lwagHjxxpDbuFpcf9TinhBwaLwev7RIz-GIWRzdfaMWDNMmmv4H8rkZVAosfofr5F6zGmD7a-waFxY4AZ36OyUAiR0GgzSmbwpo57eH6OFPgEgASoJZXUtd2VzdC0yMJMG.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.tvargentinahd.com/img/telefehd.png" group-title="ARG",TELEFE OpC2
-https://usher.ttvnw.net/api/channel/hls/xt_t419r.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=9529691&play_session_id=c76b733bd0382db7bb0b394806d9916d&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=e088b330db50313a98ff56554fef558f17ace8a8&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22xt_t419r%22%2C%22channel_id%22%3A833835522%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%2218a0d5944f8d9a40%22%2C%22expires%22%3A1679457784%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22168.195.185.2%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1&cdm=wv&player_version=1.18.0
-
-
+#EXTINF:-1 tvg-logo="https://media.puntal.com.ar/p/d4a2322d1ae84db93472b71700962a34/adjuntos/270/imagenes/000/977/0000977262/plutotvjpg.jpg" group-title="",PLUTO TV
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Pluto%20tv
