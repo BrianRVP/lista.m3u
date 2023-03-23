@@ -15,3 +15,12 @@ https://raw.githubusercontent.com/juliorome/LISTAS-M3U-DE-CANALES/main/Canales%2
 
 #EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv/1604400204_458039_1604400248_noticia_normal_recorte2.jpg" group-title="",IPtv prueba
 https://raw.githubusercontent.com/eaguilera1978/magia/main/PantallasI.m3u
+
+
+
+#EXTINF: -1,El Gato con Botas: El último deseo (2022),
+http://51.81.208.167/pelis2022/Gato.con.Botas.El.ultimo.deseo.2022.1080p-dual-lat.mkv
+#EXTINF: -1,A.shaun.the.sheep.movie.farmagedon.2019.1080p-lat-cinecalidad.is.mp4,
+http://45.179.164.59:8181/Peliculas%20Infantiles/A.shaun.the.sheep.movie.farmageddon.2019.1080p-lat-cinecalidad.is.mp4
+#EXTINF: -1,A.cigüeñas.viaje.2017.1080p-dual-lat.mp4,
+http://45.179.164.59:8181/Peliculas%20Infantiles/A.storks.journey.2017.1080p-dual-lat.mp4
