@@ -16,5 +16,5 @@ https://raw.githubusercontent.com/juliorome/LISTAS-M3U-DE-CANALES/main/Canales%2
 #EXTINF:-1 xui-id="444" tvg-id="tycsports.ar" tvg-name="ARG| TYC SPORTS D" tvg-logo="http://play.flamaplus.tv:80/images /758060fb5febc7849337043e2bf750af.png" group-title="PACK DEPORTIVO ARGENTINA",ARG| TYC DEPORTES SD
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJmEVhuAp5sxBCSh1d1YGk-k/ts
 
-#EXTINF:-1 xui-id="444" tvg-id="tycsports.ar" tvg-name="ARG| TYC SPORTS SD" tvg-logo="http://play.flamaplus.tv:80/images /758060fb5febc7849337043e2bf750af.png" group-title="PACK DEPORTIVO ARGENTINA",ARG| TYC DEPORTES SD
-http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJmEVhuAp5sxBCSh1d1YGk-k/m3u8
+#EXTINF:-1 xui-id="444" tvg-id="tycsports.ar" tvg-name="ARG| TYC SPORTS SD" tvg-logo="http://play.flamaplus.tv:80/images /758060fb5febc7849337043e2bf750af.png" group-title="prueba ",ARG| TYC DEPORTES SD
+https://dood.wf/e/0cjg40igkuc9
