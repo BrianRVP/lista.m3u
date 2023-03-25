@@ -1,4 +1,27 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cocaine-bear-2-1678311727.jpg" group-title="Terror",OSO INTOXICADO
+https://server44.pelispluscdn.info/newhls/1ae4f17a998e249262cc03907da84e44/EP.0.0.v1.1678333518.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-big-four-2-1671561003.jpg" group-title="Comedia",Los 4 grandes
+https://server16.pelispluscdn.info/newhls/dca1afbde7a4597221c0483b162f72fc/EP.0.0.v0.1675933834.720.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/puss-in-boots-the-last-wish-2-1670905204.jpg" group-title="Infantiles",El gato con botas: El último deseo
+https://server14.pelispluscdn.info/newhls/903f2e45085950d6d0f6d2b5ec8d0109/EP.0.2.v12.1679241577.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/night-at-the-museum-kahmunrah-rises-again-2-1670689202.jpg" group-title="Infantiles",Noche en el museo: El retorno de Kahmunrah
+https://server41.pelispluscdn.info/newhls/7d3531861370fb9ab70c2d75bbf9df89/EP.0.2.v0.1675949103.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/encanto-2-1670326478.jpg" group-title="Infantiles",Encanto
+https://server06.pelispluscdn.info/newhls/56410947b4bd0d03a9d33fabff015f7c/EP.0.2.v1.1675951886.720.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/phineas-and-ferb-the-movie-candace-against-the-universe-2-1670325608.jpg" group-title="Infantiles",Phineas y Ferb, la película: Candace contra el Universo
+https://server18.pelispluscdn.info/newhls/57dfa6ff80f15976d04a4378edc81c93/EP.0.2.v0.1675939343.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/doragon-boru-supa-supa-hiro-2-1669025408.jpg" group-title="Animacion",Dragon Ball Super: Super Hero
+https://server20.pelispluscdn.info/newhls/77c94a44789a69b9e270863a5f73412b/EP.0.2.v9.1676021980.720.m3u8
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mummies-2-1678255203.jpg" group-title="Infantiles",Momias
 https://server35.pelispluscdn.info/newhls/6c6c51206dc6e2b0f7292b7670136008/EP.0.1.v1.1678340080.360.m3u8
 
