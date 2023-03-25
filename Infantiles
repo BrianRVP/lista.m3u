@@ -1,7 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/black-panther-wakanda-forever-2-1669011604.jpg" group-title="Animacion",Naruto
-https://woe241l.dood.video/u5kjwrgsahf3sdgge4gscpcblc75nzcjvx7moujpx52pukyl6oii5fucnnoq/v15pw9lzx1~sOYzmO5kXi?token=296wpgrngjoalwcn4f5t5fvw&expiry=1679719475131
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/luca-2-1624062482.jpg" group-title="Infantiles",Luca
+https://server18.pelispluscdn.info/newhls/1590d19f914c2ecf9b13865e32780294/EP.0.2.v0.1676126634.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/barbie-skipper-and-the-big-babysitting-adventure-2-1678552325.jpg" group-title="Infantiles",Barbie: Skipper y su gran aventura como canguro
+https://server22.pelispluscdn.info/newhls/1a3e2b5455a419d23ae1aff90051f201/EP.0.2.v0.1678555630.720.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cocaine-bear-2-1678311727.jpg" group-title="Terror",OSO INTOXICADO
 https://server44.pelispluscdn.info/newhls/1ae4f17a998e249262cc03907da84e44/EP.0.0.v1.1678333518.720.m3u8
