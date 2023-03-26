@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/smile-2-1668779779.jpg" group-title="Terror",Sonrie OpC2 
+https://delivery446.akamai-video-content.com/hls2/01/11924/tg1duzuipded_l/index-v1-a1.m3u8?t=YSQZtXLT6vAzkWRY38RhOFgXoJ197wVR6K_206r2OZY&s=1679808549&e=10800&f=59622942&srv=oegbsfmtyztnexvshknm&client=168.195.185.2
+
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/smile-2-1668779779.jpg" group-title="Terror",Sonrie
 https://server09.pelispluscdn.info/newhls/110df8523ac03ca5aa51ffa2d350b2fa/EP.0.1.v7.1677123055.m3u8
 
