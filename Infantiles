@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/monsters-university.jpg" group-title="Infantiles",Monsters University
+https://server40.pelispluscdn.info/newhls/1e852f4b1b9570d01615351060dd807b/EP.0.1.v1.1677212589.720.m3u8
 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-croods-2-una-nueva-era-1608300603.jpg" group-title="Infantiles",Los Croods 2: Una Nueva Era
 https://server35.pelispluscdn.info/newhls/46b677f27c1fb92fc059e197919fd417/EP.0.1.v0.1676625106.720.m3u8
