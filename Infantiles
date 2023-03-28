@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF: -1,Prueba
-http://51.81.208.167/anime/TokyoGhoul/1/Tokyo_ghoul_S01E01.mkv
-
-#EXTINF: -1,Pr
-http://45.179.164.59:8181/tv_channels_Jellyfin.m3u
 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/monsters-university.jpg" group-title="Infantiles",Monsters University
 https://server40.pelispluscdn.info/newhls/1e852f4b1b9570d01615351060dd807b/EP.0.1.v1.1677212589.720.m3u8
@@ -75,6 +70,8 @@ https://server21.pelispluscdn.info/newhls/15f029cd7393aa656e833575c01c0b8a/EP.0.
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mega-lightning-2-1678275602.jpg" group-title="Accion",Mega Lightning
 https://server39.pelispluscdn.info/newhls/22ee643c3d3f48e05b2d9a47eed31129/EP.0.2.v0.1678375927.720.m3u8
 
+#EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/TOKYO GHOUL.jpg" group-title="ANIME",TOKYO GHOUL
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Tokyo%20Ghoul
 
 #EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/shingeki-no-kyojin.jpg" group-title="ANIME",Shingeki no Kyojin
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Shingeki%20no%20Kyojin
@@ -87,3 +84,4 @@ https://bit.ly/40mir4A
 
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2019/11/iptv-omniverse.jpg?x=480&y=375&quality=40" group-title="",IPTV
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/IPTV
+
