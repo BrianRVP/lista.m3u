@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF: -1,The turning 2020 1080p-dual-lat-cinecalidad is
-https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Pelis%20y%20series%20HD%20full%204k
+#EXTINF: -1,Prueba
+http://51.81.208.167/anime/TokyoGhoul/1/Tokyo_ghoul_S01E01.mkv
 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/monsters-university.jpg" group-title="Infantiles",Monsters University
 https://server40.pelispluscdn.info/newhls/1e852f4b1b9570d01615351060dd807b/EP.0.1.v1.1677212589.720.m3u8
@@ -52,9 +52,6 @@ https://server35.pelispluscdn.info/newhls/6c6c51206dc6e2b0f7292b7670136008/EP.0.
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/avatar-the-way-of-water-2-1671126604.jpg" group-title="Fantasia",avatar el Camino del agua
 https://server08.pelispluscdn.info/newhls/d47a55c137e57abc8fbdd1cc36981754/EP.0.2.v15.1678811003.360.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/avatar-the-way-of-water-2-1671126604.jpg" group-title="Fantasia",avatar el Camino del agua opc 2
-https://860567511.tapecontent.net/radosgw/7YZyV8w24xCxmx/f7qtEwNJoDt0PPWHzvtq6UBiW4Ms2Fc92RoPniudhLYi3Otf1AsvSGCzueXrC3qITkjjf8hzk-Jw50aqIspAwEa4l8MfS9cfilfghofzTiVnsFEc277Hs_MK9Q6QuoSAno115l1kaLX8gWVZjgH_INXu3yGfsQal2H7S2DFk3NbGzKq468ePyzZoZz5Mp721rCfkKa-NOkfyK5br0nSs99FYjgPobVoD2MSNKahQTJoiqkLrWl_5vFA-AC_ENNgQt_he14IKovU-7LkyUolNK31kjco4HyUG4hIigQ/%5B76600%5D%5BL%5D%5BHD%5D.mp4.mp4?stream=1
 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/ant-man-y-la-avispa-quantumania-2-1678281003.jpg" group-title="Marvel Studio",Ant-Man y la Avispa: Quantumanía
 https://server41.pelispluscdn.info/newhls/eff980362cb854bc8e158aa98846329e/EP.0.1.v1.1678339218.360.m3u8
