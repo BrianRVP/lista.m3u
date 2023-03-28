@@ -2,6 +2,9 @@
 #EXTINF: -1,Prueba
 http://51.81.208.167/anime/TokyoGhoul/1/Tokyo_ghoul_S01E01.mkv
 
+#EXTINF: -1,Pr
+http://45.179.164.59:8181/tv_channels_Jellyfin.m3u
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/monsters-university.jpg" group-title="Infantiles",Monsters University
 https://server40.pelispluscdn.info/newhls/1e852f4b1b9570d01615351060dd807b/EP.0.1.v1.1677212589.720.m3u8
 
