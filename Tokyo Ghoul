@@ -93,5 +93,8 @@ https://archive.org/download/temp3cap3/temp3cap3.mkv
 #EXTINF:-1 tvg-logo="https://archive.org/download/temp3cap1/TOKYO%20GHOULRe.jpg" group-title="Temporada 3",TOKYO GHOUL cap4
 https://archive.org/download/temp3cap4/temp3cap4.mkv
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/temp3cap1/TOKYO%20GHOULRe.jpg" group-title="Temporada 3",TOKYO GHOUL cap4
+#EXTINF:-1 tvg-logo="https://archive.org/download/temp3cap1/TOKYO%20GHOULRe.jpg" group-title="Temporada 3",TOKYO GHOUL cap5
 https://archive.org/download/temp3cap5/temp3cap5.mkv
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/temp3cap1/TOKYO%20GHOULRe.jpg" group-title="Temporada 3",TOKYO GHOUL cap6
+https://archive.org/download/temp3cap6/temp3cap6.mkv
