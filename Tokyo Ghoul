@@ -76,16 +76,21 @@ http://51.81.208.167/anime/TokyoGhoul/2/Tokyo_ghoul_S02E11.mkv
 http://51.81.208.167/anime/TokyoGhoul/2/Tokyo_ghoul_S02E12.mkv
 
 
+
+
+
 #Temporada3
 
-#EXTINF:-1 tvg-logo="https://d3fa68hw0m2vcc.cloudfront.net/800/150024856.jpeg" group-title="Temporada 3",TOKYO GHOUL cap1
-https://archive.org/download/tmp3cap1/tmp3cap1.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/temp3cap1/TOKYO%20GHOULRe.jpg" group-title="Temporada 3",TOKYO GHOUL cap1
+https://archive.org/download/temp3cap1/temp3cap1.mkv
 
-#EXTINF:-1 tvg-logo="https://d3fa68hw0m2vcc.cloudfront.net/800/150024856.jpeg" group-title="Temporada 3",TOKYO GHOUL cap2
+#EXTINF:-1 tvg-logo="https://archive.org/download/temp3cap1/TOKYO%20GHOULRe.jpg" group-title="Temporada 3",TOKYO GHOUL cap2
 https://archive.org/download/tep3cap2_202303/tep3cap2.mkv
 
-#EXTINF:-1 tvg-logo="https://d3fa68hw0m2vcc.cloudfront.net/800/150024856.jpeg" group-title="Temporada 3",TOKYO GHOUL cap3
+#EXTINF:-1 tvg-logo="https://archive.org/download/temp3cap1/TOKYO%20GHOULRe.jpg" group-title="Temporada 3",TOKYO GHOUL cap3
 https://archive.org/download/temp3cap3/temp3cap3.mkv
 
-#EXTINF:-1 tvg-logo="https://d3fa68hw0m2vcc.cloudfront.net/800/150024856.jpeg" group-title="Temporada 3",TOKYO GHOUL cap4
+#EXTINF:-1 tvg-logo="https://archive.org/download/temp3cap1/TOKYO%20GHOULRe.jpg" group-title="Temporada 3",TOKYO GHOUL cap4
 https://archive.org/download/temp3cap4/temp3cap4.mkv
+
+
