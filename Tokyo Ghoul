@@ -80,3 +80,6 @@ http://51.81.208.167/anime/TokyoGhoul/2/Tokyo_ghoul_S02E12.mkv
 
 #EXTINF:-1 tvg-logo="https://d3fa68hw0m2vcc.cloudfront.net/800/150024856.jpeg" group-title="Temporada 3",TOKYO GHOUL cap1
 https://archive.org/download/tmp3cap1/tmp3cap1.mp4
+
+#EXTINF:-1 tvg-logo="https://d3fa68hw0m2vcc.cloudfront.net/800/150024856.jpeg" group-title="Temporada 3",TOKYO GHOUL cap2
+https://archive.org/download/tep3cap2_202303/tep3cap2.mkv
