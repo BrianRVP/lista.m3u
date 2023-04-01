@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/t-1-04-boku-no-hero-latino/My%20Hero%20academia.jpg" group-title="Boku no Hero Academia T1",Cap1
+https://archive.org/download/t-1-04-boku-no-hero-latino/T1%2001%20Boku%20no%20Hero%20Latino.mkv
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/t-1-04-boku-no-hero-latino/My%20Hero%20academia.jpg" group-title="Boku no Hero Academia T1", Cap2
+https://archive.org/download/t-1-04-boku-no-hero-latino/T1%2002%20Boku%20no%20Hero%20Latino.mkv
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/t-1-04-boku-no-hero-latino/My%20Hero%20academia.jpg" group-title="Boku no Hero Academia T1", Cap3
+https://archive.org/download/t-1-04-boku-no-hero-latino/T1%2003%20Boku%20no%20Hero%20Latino.mkv
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/t-1-04-boku-no-hero-latino/My%20Hero%20academia.jpg" group-title="Boku no Hero Academia T1",Cap4
+https://archive.org/download/t-1-04-boku-no-hero-latino/T1%2004%20Boku%20no%20Hero%20Latino.mkv
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/t-1-04-boku-no-hero-latino/My%20Hero%20academia.jpg" group-title="Boku no Hero Academia T1",Cap5
+https://archive.org/download/t-1-04-boku-no-hero-latino/T1%2005%20Boku%20no%20Hero%20Latino.mkv
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/t-1-04-boku-no-hero-latino/My%20Hero%20academia.jpg" group-title="Boku no Hero Academia T1",Cap6
+https://archive.org/download/t-1-04-boku-no-hero-latino/T1%2006%20Boku%20no%20Hero%20Latino.mkv
