@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/dungeons-dragons-honor-among-thieves-2-1680420001.jpg" group-title="prueba",prueba 
-https://raw.githubusercontent.com/JONATANJP78/Lista/4a72975d7a18677b1b67cefce33e37bb417736aa/CANALES_24.7.m3u
 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/dungeons-dragons-honor-among-thieves-2-1680420001.jpg" group-title="Fantasia",Dungeons & Dragons: Honor entre ladrones
 https://fast1.flvvideo.com/movie/1680433200/168504_2.m3u8
@@ -87,6 +85,9 @@ https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/My%20Hero%20Academia
 
 #EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/TOKYO GHOUL.jpg" group-title="ANIME",TOKYO GHOUL
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Tokyo%20Ghoul
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fkfVqKJ/JUJUTSU-KAISEN-latino.png" group-title="Animes",JUJUTSU KAISEN LATINO
+https://archive.org/download/elch4v0/Jujutsu%20Kaisen%20L.m3u
 
 #EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/shingeki-no-kyojin.jpg" group-title="ANIME",Shingeki no Kyojin
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Shingeki%20no%20Kyojin
