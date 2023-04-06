@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/dungeons-dragons-honor-among-thieves-2-1680420001.jpg" group-title="prueba",prueba 
+https://raw.githubusercontent.com/JONATANJP78/Lista/4a72975d7a18677b1b67cefce33e37bb417736aa/CANALES_24.7.m3u
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/dungeons-dragons-honor-among-thieves-2-1680420001.jpg" group-title="Fantasia",Dungeons & Dragons: Honor entre ladrones
 https://fast1.flvvideo.com/movie/1680433200/168504_2.m3u8
 
