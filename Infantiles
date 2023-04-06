@@ -80,6 +80,10 @@ https://server21.pelispluscdn.info/newhls/15f029cd7393aa656e833575c01c0b8a/EP.0.
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mega-lightning-2-1678275602.jpg" group-title="Accion",Mega Lightning
 https://server39.pelispluscdn.info/newhls/22ee643c3d3f48e05b2d9a47eed31129/EP.0.2.v0.1678375927.720.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cJx07RV/Dragon-Ball-Z-Serie-Androides-Cell.png" group-title="ANIME",Dragon Ball Z Serie Androides Cell
+https://raw.githubusercontent.com/laureanoflix/SERIES/main/DBZ.m3u
+
 #EXTINF:-1 tvg-logo="https://archive.org/download/t-1-04-boku-no-hero-latino/My%20Hero%20academia.jpg" group-title="ANIME",BOKU NO HERO ACADEMIA
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/My%20Hero%20Academia
 
