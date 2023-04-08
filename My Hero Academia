@@ -1,4 +1,4 @@
-3#EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/t-1-04-boku-no-hero-latino/My%20Hero%20academia.jpg" group-title="Boku no Hero Academia T1",Cap1
 https://archive.org/download/t-1-04-boku-no-hero-latino/T1%2001%20Boku%20no%20Hero%20Latino.mkv
@@ -125,53 +125,55 @@ https://ia802600.us.archive.org/15/items/t-2-boku-no-hero-latino-capitulo-24/T2%
 #Temporada 3
 
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/32vtHSabDHKMn_ssEZ5mbPWiEo4=/210x312/smart/filters:format(webp)/media/movies/covers/2018/04/A20356-2708349155.1519057411.jpg" group-title="Boku no Hero Academia T3",Cap1
+#EXTINF:-1 tvg-logo="https://ia601602.us.archive.org/28/items/t3_20230408/t3.jpg" group-title="Boku no Hero Academia T3",Cap1
 https://ia601604.us.archive.org/4/items/t-3-boku-no-hero-latino-capitulo-1/T3%20Boku%20no%20Hero%20LATINO%20Capitulo%20%281%29.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/32vtHSabDHKMn_ssEZ5mbPWiEo4=/210x312/smart/filters:format(webp)/media/movies/covers/2018/04/A20356-2708349155.1519057411.jpg" group-title="Boku no Hero Academia T3",Cap 2
+#EXTINF:-1 tvg-logo="https://ia601602.us.archive.org/28/items/t3_20230408/t3.jpg" group-title="Boku no Hero Academia T3",Cap 2
 https://ia601604.us.archive.org/4/items/t-3-boku-no-hero-latino-capitulo-1/T3%20Boku%20no%20Hero%20LATINO%20Capitulo%20%282%29.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/32vtHSabDHKMn_ssEZ5mbPWiEo4=/210x312/smart/filters:format(webp)/media/movies/covers/2018/04/A20356-2708349155.1519057411.jpg" group-title="Boku no Hero Academia T3",Cap 3
+#EXTINF:-1 tvg-logo="https://ia601602.us.archive.org/28/items/t3_20230408/t3.jpg" group-title="Boku no Hero Academia T3",Cap 3
 https://ia801604.us.archive.org/4/items/t-3-boku-no-hero-latino-capitulo-1/T3%20Boku%20no%20Hero%20LATINO%20Capitulo%20%283%29.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/32vtHSabDHKMn_ssEZ5mbPWiEo4=/210x312/smart/filters:format(webp)/media/movies/covers/2018/04/A20356-2708349155.1519057411.jpg" group-title="Boku no Hero Academia T3",Cap 4
+#EXTINF:-1 tvg-logo="https://ia601602.us.archive.org/28/items/t3_20230408/t3.jpg" group-title="Boku no Hero Academia T3",Cap 4
 https://ia601604.us.archive.org/4/items/t-3-boku-no-hero-latino-capitulo-1/T3%20Boku%20no%20Hero%20LATINO%20Capitulo%20%284%29.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/32vtHSabDHKMn_ssEZ5mbPWiEo4=/210x312/smart/filters:format(webp)/media/movies/covers/2018/04/A20356-2708349155.1519057411.jpg" group-title="Boku no Hero Academia T3",Cap 5
+#EXTINF:-1 tvg-logo="https://ia601602.us.archive.org/28/items/t3_20230408/t3.jpg" group-title="Boku no Hero Academia T3",Cap 5
 https://ia601604.us.archive.org/4/items/t-3-boku-no-hero-latino-capitulo-1/T3%20Boku%20no%20Hero%20LATINO%20Capitulo%20%285%29%281%29.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/32vtHSabDHKMn_ssEZ5mbPWiEo4=/210x312/smart/filters:format(webp)/media/movies/covers/2018/04/A20356-2708349155.1519057411.jpg" group-title="Boku no Hero Academia T3",Cap 6
+#EXTINF:-1 tvg-logo="https://ia601602.us.archive.org/28/items/t3_20230408/t3.jpg" group-title="Boku no Hero Academia T3",Cap 6
 https://ia601604.us.archive.org/4/items/t-3-boku-no-hero-latino-capitulo-1/T3%20Boku%20no%20Hero%20LATINO%20Capitulo%20%286%29.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/32vtHSabDHKMn_ssEZ5mbPWiEo4=/210x312/smart/filters:format(webp)/media/movies/covers/2018/04/A20356-2708349155.1519057411.jpg" group-title="Boku no Hero Academia T3",Cap 7
+#EXTINF:-1 tvg-logo="https://ia601602.us.archive.org/28/items/t3_20230408/t3.jpg" group-title="Boku no Hero Academia T3",Cap 7
 https://ia801604.us.archive.org/4/items/t-3-boku-no-hero-latino-capitulo-1/T3%20Boku%20no%20Hero%20LATINO%20Capitulo%20%287%29.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/32vtHSabDHKMn_ssEZ5mbPWiEo4=/210x312/smart/filters:format(webp)/media/movies/covers/2018/04/A20356-2708349155.1519057411.jpg" group-title="Boku no Hero Academia T3",Cap 8
+#EXTINF:-1 tvg-logo="https://ia601602.us.archive.org/28/items/t3_20230408/t3.jpg" group-title="Boku no Hero Academia T3",Cap 8
 https://ia601609.us.archive.org/17/items/t-3-boku-no-hero-latino-capitulo-8/T3%20Boku%20no%20Hero%20LATINO%20Capitulo%20%288%29.mp4
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/32vtHSabDHKMn_ssEZ5mbPWiEo4=/210x312/smart/filters:format(webp)/media/movies/covers/2018/04/A20356-2708349155.1519057411.jpg" group-title="Boku no Hero Academia T3",Cap 9
+#EXTINF:-1 tvg-logo="https://ia601602.us.archive.org/28/items/t3_20230408/t3.jpg" group-title="Boku no Hero Academia T3",Cap 9
 https://ia601604.us.archive.org/4/items/t-3-boku-no-hero-latino-capitulo-1/T3%20Boku%20no%20Hero%20LATINO%20Capitulo%20%289%29.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/32vtHSabDHKMn_ssEZ5mbPWiEo4=/210x312/smart/filters:format(webp)/media/movies/covers/2018/04/A20356-2708349155.1519057411.jpg" group-title="Boku no Hero Academia T3",Cap 10
+#EXTINF:-1 tvg-logo="https://ia601602.us.archive.org/28/items/t3_20230408/t3.jpg" group-title="Boku no Hero Academia T3",Cap 10
 https://ia601604.us.archive.org/4/items/t-3-boku-no-hero-latino-capitulo-1/T3%20Boku%20no%20Hero%20LATINO%20Capitulo%20%2810%29.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/32vtHSabDHKMn_ssEZ5mbPWiEo4=/210x312/smart/filters:format(webp)/media/movies/covers/2018/04/A20356-2708349155.1519057411.jpg" group-title="Boku no Hero Academia T3",Cap 11
+#EXTINF:-1 tvg-logo="https://ia601602.us.archive.org/28/items/t3_20230408/t3.jpg" group-title="Boku no Hero Academia T3",Cap 11
 https://ia601604.us.archive.org/4/items/t-3-boku-no-hero-latino-capitulo-1/T3%20Boku%20no%20Hero%20LATINO%20Capitulo%20%2811%29.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/32vtHSabDHKMn_ssEZ5mbPWiEo4=/210x312/smart/filters:format(webp)/media/movies/covers/2018/04/A20356-2708349155.1519057411.jpg" group-title="Boku no Hero Academia T3",Cap 12
+#EXTINF:-1 tvg-logo="https://ia601602.us.archive.org/28/items/t3_20230408/t3.jpg" group-title="Boku no Hero Academia T3",Cap 12
 https://ia801604.us.archive.org/4/items/t-3-boku-no-hero-latino-capitulo-1/T3%20Boku%20no%20Hero%20LATINO%20Capitulo%20%2812%29.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/32vtHSabDHKMn_ssEZ5mbPWiEo4=/210x312/smart/filters:format(webp)/media/movies/covers/2018/04/A20356-2708349155.1519057411.jpg" group-title="Boku no Hero Academia T3",Cap 13
+#EXTINF:-1 tvg-logo="https://ia601602.us.archive.org/28/items/t3_20230408/t3.jpg" group-title="Boku no Hero Academia T3",Cap 13
 https://ia801604.us.archive.org/4/items/t-3-boku-no-hero-latino-capitulo-1/T3%20Boku%20no%20Hero%20LATINO%20Capitulo%20%2813%29.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/32vtHSabDHKMn_ssEZ5mbPWiEo4=/210x312/smart/filters:format(webp)/media/movies/covers/2018/04/A20356-2708349155.1519057411.jpg" group-title="Boku no Hero Academia T3",Cap 14
+#EXTINF:-1 tvg-logo="https://ia601602.us.archive.org/28/items/t3_20230408/t3.jpg" group-title="Boku no Hero Academia T3",Cap 14
 https://ia801604.us.archive.org/4/items/t-3-boku-no-hero-latino-capitulo-1/T3%20Boku%20no%20Hero%20LATINO%20Capitulo%20%2814%29.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/32vtHSabDHKMn_ssEZ5mbPWiEo4=/210x312/smart/filters:format(webp)/media/movies/covers/2018/04/A20356-2708349155.1519057411.jpg" group-title="Boku no Hero Academia T3",Cap 15
+#EXTINF:-1 tvg-logo="https://ia601602.us.archive.org/28/items/t3_20230408/t3.jpg" group-title="Boku no Hero Academia T3",Cap 15
 https://ia601604.us.archive.org/4/items/t-3-boku-no-hero-latino-capitulo-1/T3%20Boku%20no%20Hero%20LATINO%20Capitulo%20%2815%29.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/32vtHSabDHKMn_ssEZ5mbPWiEo4=/210x312/smart/filters:format(webp)/media/movies/covers/2018/04/A20356-2708349155.1519057411.jpg" group-title="Boku no Hero Academia T3",Cap 16
+#EXTINF:-1 tvg-logo="https://ia601602.us.archive.org/28/items/t3_20230408/t3.jpg" group-title="Boku no Hero Academia T3",Cap 16
 https://ia801604.us.archive.org/4/items/t-3-boku-no-hero-latino-capitulo-1/T3%20Boku%20no%20Hero%20LATINO%20Capitulo%20%2816%29.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/32vtHSabDHKMn_ssEZ5mbPWiEo4=/210x312/smart/filters:format(webp)/media/movies/covers/2018/04/A20356-2708349155.1519057411.jpg" group-title="Boku no Hero Academia T3",Cap 17
+#EXTINF:-1 tvg-logo="https://ia601602.us.archive.org/28/items/t3_20230408/t3.jpg" group-title="Boku no Hero Academia T3",Cap 17
 https://ia801604.us.archive.org/4/items/t-3-boku-no-hero-latino-capitulo-1/T3%20Boku%20no%20Hero%20LATINO%20Capitulo%20%2817%29.ia.mp4
+
+
