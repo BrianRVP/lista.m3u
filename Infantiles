@@ -1,10 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/super-mario-bros-la-pelicula-2-1680808202.jpg" group-title="Infantiles",Super Mario Bros La Película
-https://fast1.flvvideo.com/movie/1680807600/168507_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/super-mario-bros-la-pelicula-2-1680808202.jpg" group-title="Infantiles",Super Mario Bros La Película opc 2
-https://delivery203.akamai-video-content.com/hls2/01/12098/8y9xlaxo5wur_l/index-v1-a1.m3u8?t=GV6zxxalBacaXqDam5nbmRuQGBUxgMhZZEWd43ulIr0&s=1680922701&e=10800&f=60491303&srv=openlcjgxogpeorqyuqi&client=168.195.185.6
+https://ia902601.us.archive.org/18/items/super-mario-bros_202304/SUPER%20MARIO%20BROS.mp4
 
 #EXTINF:-1 tvg-logo="https://m.animeflv.net/uploads/animes/covers/3599.jpg" group-title="Animacion",My Hero Academia World Mission
 https://ia601608.us.archive.org/16/items/anime-online-ninja-my-hero-academia-world-heroes-mission-latino-v-1_202304/%5BAnimeOnlineNinja%5D_My_Hero_Academia_-_World_Heroes%27_Mission_Latino_v1.mp4
