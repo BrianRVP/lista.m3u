@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/20/01/02/21/46/4781968.jpg" group-title="Terror",Un Lugar En Silencio 2
+http://www.konectar1.com/yesi/Un_Lugar_En_Silencio_2_2021.mp4
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/my-little-pony-la-pelicula.jpg" group-title="Infantiles",My Little Pony: La Película
 https://server14.pelispluscdn.info/newhls/7eefa9a2174a5a167da940b29cd79b38/EP.0.1.v0.1677551336.720.m3u8
 
