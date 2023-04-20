@@ -106,8 +106,11 @@ https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/My%20Hero%20Academia
 #EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/TOKYO GHOUL.jpg" group-title="ANIME",TOKYO GHOUL
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Tokyo%20Ghoul
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fkfVqKJ/JUJUTSU-KAISEN-latino.png" group-title="ANIME",JUJUTSU KAISEN LATINO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fkfVqKJ/JUJUTSU-KAISEN-latino.png" group-title="ANIME",JUJUTSU KAISEN HD LATINO
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Jujutsu%20Kaisen
+
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/jujutsu-kaisen-tv.jpg" group-title="ANIME",JUJUTSU KAISEN SD LATINO
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Jujutsu%20kaisen%20SD
 
 #EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/shingeki-no-kyojin.jpg" group-title="ANIME",Shingeki no Kyojin
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Shingeki%20no%20Kyojin
