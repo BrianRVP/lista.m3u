@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/proyecto-x.jpg" group-title="Comedia",Proyecto X
+https://server47.pelispluscdn.info/newhls/31c46a99379065f7c4c3764cf9809d9e/EP.0.1.v1.1677739115.720.m3u8
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-popes-exorcist-2-1680807603.jpg" group-title="Terror",El exorcista del papa
 https://server13.pelispluscdn.info/newhls/889fdb530a2d9b5d2b3f072187dd34eb/EP.0.2.v0.1681632596.720.m3u8
 
