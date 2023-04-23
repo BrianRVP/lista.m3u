@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-popes-exorcist-2-1680807603.jpg" group-title="Terror",El exorcista del papa
+https://server13.pelispluscdn.info/newhls/889fdb530a2d9b5d2b3f072187dd34eb/EP.0.2.v0.1681632596.720.m3u8
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/lo-imposible.jpg" group-title="Drama",Lo Imposible
 https://server17.pelispluscdn.info/newhls/e6bc3b27092489a5c41751601887d5c4/EP.0.1.v0.1677387938.360.m3u8
 
