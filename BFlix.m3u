@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/grandes-heroes.jpg" group-title="Infantiles",Grandes Héroes
+https://server39.pelispluscdn.info/newhls/07f7bc807f14b32a7b060b86fe971c44/EP.0.1.v1.1677375866.720.m3u8
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/proyecto-x.jpg" group-title="Comedia",Proyecto X
 https://server47.pelispluscdn.info/newhls/31c46a99379065f7c4c3764cf9809d9e/EP.0.1.v1.1677739115.720.m3u8
 
