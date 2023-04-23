@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/milagro-en-la-celda-7-1585612530.jpg" group-title="Drama",Milagro en La Celda 7
+https://server39.pelispluscdn.info/newhls/06e87a441b61209186487cb2937ac55b/EP.0.1.v0.1676870471.720.m3u8
+
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/20/01/02/21/46/4781968.jpg" group-title="Terror",Un Lugar En Silencio 2
 https://ia601600.us.archive.org/17/items/un-lugar-en-silencio-2_202304/Un%20Lugar%20En%20Silencio%202.mp4
 
