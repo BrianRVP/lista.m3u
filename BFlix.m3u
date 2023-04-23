@@ -64,6 +64,9 @@ https://server44.pelispluscdn.info/newhls/1ae4f17a998e249262cc03907da84e44/EP.0.
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-big-four-2-1671561003.jpg" group-title="Comedia",Los 4 grandes
 https://server16.pelispluscdn.info/newhls/dca1afbde7a4597221c0483b162f72fc/EP.0.0.v0.1675933834.720.m3u8
 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/shazam-fury-of-the-gods-2-1679083802.jpg" group-title="DC Comics",¡Shazam! La furia de los dioses
+https://server07.pelispluscdn.info/newhls/4d33fd6b943616d0098b70f0c0583e66/EP.0.2.v4.1681641154.720.m3u8
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/black-panther-wakanda-forever-2-1669011604.jpg" group-title="Marvel Studio",Black Panther: Wakanda Forever
 http://51.81.208.167/pelis2022/Black.Panther.Wakanda.Forever.2022.lati.mp4
 
