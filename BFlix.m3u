@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/unidos-1583928603.jpg" group-title="Infantiles",Unidos (Onward)
+https://server39.pelispluscdn.info/newhls/9f339f0c550cd8c47d3a2908288ff017/EP.0.1.v2.1676879968.720.m3u8
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/grandes-heroes.jpg" group-title="Infantiles",Grandes Héroes
 https://server39.pelispluscdn.info/newhls/07f7bc807f14b32a7b060b86fe971c44/EP.0.1.v1.1677375866.720.m3u8
 
