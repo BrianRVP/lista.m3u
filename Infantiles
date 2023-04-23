@@ -15,6 +15,9 @@ https://server28.pelispluscdn.info/newhls/ecfd75857eaddb446a199090154e8351/EP.0.
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/my-little-pony-la-pelicula.jpg" group-title="Infantiles",My Little Pony: La Película
 https://server14.pelispluscdn.info/newhls/7eefa9a2174a5a167da940b29cd79b38/EP.0.1.v0.1677551336.720.m3u8
 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-exorcista-2-1681417802.jpg" group-title="Terror",La Exorcista
+https://server27.pelispluscdn.info/newhls/224f4cf3b76d57464aeb9145af31ca47/EP.0.2.v0.1681631247.720.m3u8
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/super-mario-bros-la-pelicula-2-1680808202.jpg" group-title="Infantiles",Super Mario Bros La Película
 https://ia902601.us.archive.org/18/items/super-mario-bros_202304/SUPER%20MARIO%20BROS.mp4
 
