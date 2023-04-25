@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-nina-de-la-comunion-2-1681842004.jpg" group-title="Terror",La niña de la comunión
+https://server18.pelispluscdn.info/newhls/4ef039e4de5598dc16f53433dd0e9b89/EP.0.1.v0.1681845227.720.m3u8
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/unidos-1583928603.jpg" group-title="Infantiles",Unidos (Onward)
 https://server39.pelispluscdn.info/newhls/9f339f0c550cd8c47d3a2908288ff017/EP.0.1.v2.1676879968.720.m3u8
 
