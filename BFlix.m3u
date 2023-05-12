@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/guardians-of-the-galaxy-volume-3-2-1683243601.jpg" group-title="Marvel Studio",Guardianes de la Galaxia vol.3
+https://pc-10.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ffb4eb5d68c081c51f64173d1c355fac/EP.0.2.v0.1683249814.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/guardianes-de-la-galaxia-vol-2.jpg" group-title="Marvel Studio",Guardianes de la Galaxia vol.2
+https://pc-12.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/02f911aa0149f41432701b786c6cab19/EP.0.1.v2.1677457122.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/guardianes-de-la-galaxia.jpg" group-title="Marvel Studio",Guardianes de la Galaxia
+https://pc-20.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/74848c6efa9f5cc629d789f3c789e0a3/EP.0.1.v1.1677403501.m3u8
 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-corredor-del-laberinto-las-pruebas.jpg" group-title="Accion",Maze Runner: corre o morir
 https://pc-11.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/bcf15f1d6cc7692e2f809bac496fe03c/EP.0.1.v1.1679640626.m3u8
