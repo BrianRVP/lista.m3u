@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/john-wick-chapter-4-2-1679733602.jpg" group-title="Accion",John Wick 4
+https://pc-08.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/b8e3f820d138b64a1873d1be8f1e0bfa/EP.0.1.v3.1680181895.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/john-wick-3-parabellum.jpg" group-title="Accion",John Wick 3
+https://pc-17.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/5eac450715b6db485c3462ed2eb55889/EP.0.2.v6.1679364358.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/john-wick-2-un-nuevo-dia-para-matar.jpg" group-title="Accion",John Wick 2
+https://pc-44.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/dc37e245f9f9c33fc86e86f5de2b5f21/EP.0.2.v1.1676668908.720.m3u8
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/john-wick-otro-dia-para-matar.jpg" group-title="Accion",John Wick
 https://pc-21.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/6e90fc3b7f8bf83e3e871fc730afaa4f/EP.0.1.v1.1677673169.m3u8
 
