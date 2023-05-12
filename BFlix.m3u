@@ -1,5 +1,70 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/harry-potter-y-la-piedra-filosofal.jpg" group-title="Fantasia",Harry Potter y la piedra filosofal
+https://pc-18.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/d0867d2c0ab0c2ba288df13d41823f46/EP.0.1.v1.1677223601.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/harry-potter-y-la-camara-secreta.jpg" group-title="Fantasia",Harry Potter y la cámara de los secretos
+https://pc-17.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/b3ffd22c9d2d99f29de3806e1bd422d7/EP.0.1.v2.1677494062.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/harry-potter-y-el-prisionero-de-azkaban.jpg" group-title="Fantasia",Harry Potter y el prisionero de Azkaban
+https://pc-06.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/628350bdb3d892039150a90e89d6974d/EP.0.1.v3.1677822396.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/harry-potter-y-el-caliz-de-fuego.jpg" group-title="Fantasia",Harry Potter y el cáliz de fuego
+https://pc-27.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/91251b24766ffefe9dc81ab2ec8edffb/EP.0.1.v1.1678250289.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/harry-potter-y-la-orden-del-fenix.jpg" group-title="Fantasia",Harry Potter y la orden del fenix
+https://pc-39.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/7811de16d16e207bb4dba110b50ea55b/EP.0.1.v1.1677269873.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/harry-potter-y-el-misterio-del-principe.jpg" group-title="Fantasia",Harry Potter y el Misterio del Príncipe
+https://pc-16.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/70758a7c51c770d5a80497b7f0aed5b1/EP.0.1.v1.1677779411.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.1aGEfAcXsWHZqUxK1ujhhgAAAA&pid=Api&P=0&w=400&h=600" group-title="Fantasia",Harry Potter y las Reliquias de la Muerte parte 1
+https://pc-28.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/8f4669fd03147d1dda982822982d0449/EP.0.1.v1.1677440041.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.ZMlUPd5zfopeHOQvmAsq_AHaFk&pid=Api&H=120&W=160" group-title="Fantasia",Harry Potter y las Reliquias de la Muerte parte 2
+https://pc-26.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/873c1faa312524f5e8db52ed52372025/EP.0.1.v2.1679645594.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/animales-fantasticos-y-donde-encontrarlos.jpg" group-title="Fantasia",Animales fantásticos y Donde Encontrarlos
+https://pc-41.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/fe60ce6eeb5c78680d86af1d3b9faa65/EP.0.1.v1.1677423039.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/animales-fantasticos-los-crimenes-de-grindelwald.jpg" group-title="Fantasia",Animales fantásticos 2 los Crímenes de Grindelwald
+https://pc-17.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/7190cee7e8a74339c17f9a35c2ea9e73/EP.0.1.v2.1679640748.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/harry-potter-20th-anniversary-return-to-hogwarts-2-1641231250.jpg" group-title="Fantasia",Harry Potter, 20º Aniversario: Regreso a Hogwarts
+https://pc-12.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/7d8e4040ceac49f936f4d1ba8506eb1b/EP.0.0.v2.1681737655.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/rapido-y-furioso.jpg" group-title="Accion",Rápido y Furioso
+https://pc-26.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/4ea4a97854c32b709ac9e780c276547d/EP.0.1.v1.1678169012.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mas-rapido-y-mas-furioso.jpg" group-title="Accion",Rápido y Furioso 2 Más Rápido y Más Furioso
+https://pc-02.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/e3566ac1b80a62cc98ace816d6566860/EP.0.1.v0.1677417533.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/rapido-y-furioso-reto-tokio.jpg" group-title="Accion",Rápido y Furioso 3 Reto Tokio
+https://pc-45.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/4d5e743392ece3f4a1322bcceaac9790/EP.0.2.v0.1677128341.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/rapidos-y-furiosos-4.jpg" group-title="Accion",Rápido y Furioso 4
+https://pc-20.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ce7122d449910f8a50f293e84f6dd7bd/EP.0.2.v1.1676277528.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/rapidos-y-furiosos-5in-control.jpg" group-title="Accion",Rápido y Furioso 5 Sin Control
+https://pc-34.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/7db36887441993e78364479c8f25374e/EP.0.2.v2.1676519786.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/rapidos-y-furiosos-6.jpg" group-title="Accion",Rápido y Furioso 6
+https://pc-30.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/0387473d12fb13d6e8e0dfbbe455aee7/EP.0.1.v1.1677348865.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/rapidos-y-furiosos-7.jpg" group-title="Accion",Rápido y Furioso 7
+https://pc-15.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/f3bd5676e5f1c69d6c960375f952feb1/EP.0.1.v1.1679639837.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/rapidos-y-furiosos-8.jpg" group-title="Accion",Rápido y Furioso 8
+https://pc-06.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/723518c4c9ea8c50f02b46f620508312/EP.0.2.v0.1676801376.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/rapidos-y-furiosos-hobbs-y-shaw.jpg" group-title="Accion",Rápido y Furioso Hobbs y Shaw
+https://pc-21.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/351bf6c05fbac9345b9d07a8a0e8f4da/EP.0.1.v4.1679664107.1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://repelisflis.com/wp-content/uploads/2022/04/rI2F6jZ6a7K0bODSJStywn3eHLm-185x278.jpg" group-title="Accion",Rápido y Furioso 9
+https://pc-38.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/b40ecc71e6f9e74e6bf247f1d5e57744/EP.0.1.v2.1676465758.360.m3u8
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pokemon-10-el-desafio-de-darkrai-1601417109.jpg" group-title="Pokemon", Pokemon 10
 https://pc-25.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/cbc1ed7787e056b089d4bdabdfc43f9c/EP.0.1.v0.1676720346.360.m3u8
 
