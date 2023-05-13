@@ -1,4 +1,41 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/piratas-del-caribe-5-la-venganza-de-salazar.jpg" group-title="Ciencia Ficcion",Piratas del Caribe 5: La venganza de Salazar
+https://pc-40.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ab32f68a9920cad109be027be321d7ce/EP.0.1.v2.1677270788.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/piratas-del-caribe-4-navegando-aguas-misteriosas.jpg" group-title="Ciencia Ficcion",Piratas del Caribe 4: Navegando Aguas Misteriosas
+https://pc-18.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/cd2135d223c541cb41bb762eecc0bd9e/EP.0.1.v0.1677153581.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/piratas-del-caribe-3-en-el-fin-del-mundo.jpg" group-title="Ciencia Ficcion",Piratas del Caribe 3: En el Fin del Mundo
+https://pc-20.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/34dc391af567eed650a9ea27c39f8056/EP.0.1.v0.1677514952.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/piratas-del-caribe-2-el-cofre-de-la-muerte.jpg" group-title="Ciencia Ficcion",Piratas del Caribe 2: El Cofre de la Muerte
+https://pc-34.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/3a8fc04fbe4ec360a447fdf336145a35/EP.0.1.v1.1677470252.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/piratas-del-caribe-1-la-maldicion-del-perla-negra.jpg" group-title="Ciencia Ficcion",Piratas del Caribe 1: La Maldición del Perla Negra
+https://pc-12.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/84bb25268cf5ce088a63c54fd8b16316/EP.0.1.v0.1677491787.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/soy-leyenda.jpg" group-title="Ciencia Ficcion",Soy Leyenda
+https://pc-27.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/5da312795b2bfb8579b2eab994dd93f5/EP.0.1.v0.1678428951.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/jeepers-creepers-reborn-2-1669011404.jpg" group-title="Terror",Jeepers Creepers 4 Reborn
+https://pc-21.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/9df8f6e7db83540e925f9cd76225de96/EP.0.1.v3.1675968140.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/jeepers-creepers-3.jpg" group-title="Terror",Jeepers Creepers 3
+https://pc-02.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/9ced69e4519c2f424887e2b4eeed1f97/EP.0.1.v0.1677342226.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/jeepers-creepers-2.jpg" group-title="Terror",Jeepers Creepers 2
+https://pc-25.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/0ad974c5167a6c740ba6f3a0f0186050/EP.0.1.v0.1677375174.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/jeepers-creepers.jpg" group-title="Terror",Jeepers Creepers
+https://pc-13.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/575837dc864eda558b8012bb791e4af3/EP.0.1.v0.1677582535.1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/buscando-a-dory.jpg" group-title="Infantiles",Buscando a Dory
+https://pc-27.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/bcef4b5651c1c02098b7d57713187861/EP.0.2.v0.1677426345.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/buscando-a-nemo.jpg" group-title="Infantiles",Buscando a Nemo
+https://pc-26.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/d1944b6e28e53565171d030dc7944b73/EP.0.1.v0.1678047686.m3u8
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/guardians-of-the-galaxy-volume-3-2-1683243601.jpg" group-title="Marvel Studio",Guardianes de la Galaxia vol.3
 https://pc-10.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ffb4eb5d68c081c51f64173d1c355fac/EP.0.2.v0.1683249814.m3u8
 
