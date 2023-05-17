@@ -1,5 +1,41 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://bit.ly/39CS4j2" group-title="Nuevo catálogo",CONCIERTOS
+https://bit.ly/3RMu6Fi
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/nsaz5eites3l5j3/ACCION.jpg" group-title="Nuevo catálogo",ACCION
+https://bit.ly/3EjMy4M
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/1mxo64pury4n6c5/CIENCIA%20FICCION.jpg" group-title="Nuevo catálogo",CIENCIA FICCION
+https://bit.ly/3MgzC1B
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/f7qrw5a4wi1rqgj/DRAMA.jpg" group-title="Nuevo catálogo",DRAMA
+https://bit.ly/3rQXq2V
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5t41za79plctdl5/ROMANTICAS.jpg" group-title="Nuevo catálogo",ROMANTICAS
+https://bit.ly/3CCJH5X
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5gyw537zrf1i3ic/SUSPENSO.jpg" group-title="Nuevo catálogo",SUSPENSO
+https://bit.ly/3SVJsrV
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/eq0ll4uhvj52zi2/TERROR.jpg" group-title="Nuevo catálogo",TERROR
+https://bit.ly/3EjOF8I
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/1jub9jqdl93rw2s/INFANTIL.jpg" group-title="Nuevo catálogo",INFANTIL
+https://bit.ly/3rvS9NR
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44frvua29qa624p/comedia.png" group-title="Nuevo catálogo",COMEDIA
+https://bit.ly/3EkdQbf
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4sqs0e6bk7r6q14/FANTASIA.jpg" group-title="Nuevo catálogo",FANTASIA
+https://bit.ly/3UXFFfo
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/2el43q0s6q17tof/MEXICANA.jpg" group-title="Nuevo catálogo",MEXICANAS
+https://bit.ly/3SUXuKk
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xi1vnjdy647u7ru/SUPER%20HEROES.jpg" group-title="Nuevo catálogo",SUPER HEROES
+https://bit.ly/3CaOB8H
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-boys.jpg" group-title="Series",The Boy
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/THE%20boys
 
