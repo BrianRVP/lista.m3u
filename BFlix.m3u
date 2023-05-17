@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-boys.jpg" group-title="Series",The Boy
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/THE%20boys
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-nino.jpg" group-title="Terror",The Boy
 https://pc-45.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/4b9d0cb7777536dba602714c2e56a194/EP.0.1.v0.1678561251.720.m3u8
 
