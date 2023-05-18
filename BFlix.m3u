@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/6w0dp9all38z4u4/a9aa51a2dcc6c5bd5e4f8beb4defb7059cd6fa26_hq.jpg" group-title="Nuevo catálogo",ANIME
+https://bit.ly/3IY4RN6
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/94s0mNy/81-H2q-S3-W9k-L-AC-SL1500.jpg"group-title="Nuevo catálogo",Peliculas Anime 
+https://bit.ly/3okyWx5
+
 #EXTINF:-1 tvg-logo="https://bit.ly/39CS4j2" group-title="Nuevo catálogo",CONCIERTOS
 https://bit.ly/3RMu6Fi
 
