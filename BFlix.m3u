@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Rom%C3%A1ntica
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Suspenso
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/eq0ll4uhvj52zi2/TERROR.jpg" group-title="Nuevo catálogo",TERROR
-https://bit.ly/3EjOF8I
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Terror
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/1jub9jqdl93rw2s/INFANTIL.jpg" group-title="Nuevo catálogo",INFANTIL
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Infantiles
