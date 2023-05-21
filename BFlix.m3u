@@ -25,7 +25,7 @@ https://bit.ly/3rQXq2V
 https://bit.ly/3CCJH5X
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5gyw537zrf1i3ic/SUSPENSO.jpg" group-title="Nuevo catálogo",SUSPENSO
-https://bit.ly/3SVJsrV
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Suspenso
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/eq0ll4uhvj52zi2/TERROR.jpg" group-title="Nuevo catálogo",TERROR
 https://bit.ly/3EjOF8I
@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Comedia
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Fantas%C3%ADa
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/2el43q0s6q17tof/MEXICANA.jpg" group-title="Nuevo catálogo",MEXICANAS
-https://bit.ly/3SUXuKk
+
  
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xi1vnjdy647u7ru/SUPER%20HEROES.jpg" group-title="Nuevo catálogo",SUPER HEROES
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Super%20h%C3%A9roe
