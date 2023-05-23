@@ -57,6 +57,16 @@ https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Fantas%C3%ADa
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xi1vnjdy647u7ru/SUPER%20HEROES.jpg" group-title="Nuevo catálogo",SUPER HEROES
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Super%20h%C3%A9roe
 
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-rey-leon-2019.jpg" group-title="Infantiles",El Rey León (2019)
+https://pc-28.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c9b951235b4152aad981bd643c51a20a/EP.0.2.v5.1676488399.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/coco.jpg" group-title="Infantiles",Coco
+https://pc-15.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/6dc7ac72797cdb6504ef330e6dbb54b3/EP.0.1.v0.1677392443.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/turning-red-2-1668774852.jpg" group-title="Infantiles",Turning Red
+https://pc-38.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ad74c354ce4cb33c0aec4e455f73a566/EP.0.2.v0.1675994257.720.m3u8
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/fast-x-2-1684533003.jpg" group-title="Accion",Rápido y Furioso X
 https://pc-14.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/9ddec690edc5c849f099297e3801b473/EP.0.2.v0.1684540342.360.m3u8
 
