@@ -8,55 +8,10 @@ http://archive.org/download/PremierPS3/4N1M311.m3u
 
  #EXTINF:-1 tvg-logo="http://archive.org/download/P0R74D455UBM3NU/P0R74D45D3C4R1C47UR45.png" group-title="PS3MOVIE",Caricaturas 
 http://archive.org/download/PremierPS3/C4R1C47UR45P5312.m3u 
-
 #EXTINF:-1 tvg-logo="http://archive.org/download/P0R74D455UBM3NU/P0R74D45D353R135.png" group-title="PS3MOVIE",Series
 http://archive.org/download/PremierPS3/S3R13514.m3u
-
-#EXTINF:-1 tvg-logo="https://www.softzone.es/app/uploads-softzone.es/2019/10/Fondos-de-pantalla-de-series-de-TV.jpg"group-title="Nuevo catálogo",Series
-
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/6w0dp9all38z4u4/a9aa51a2dcc6c5bd5e4f8beb4defb7059cd6fa26_hq.jpg" group-title="Nuevo catálogo",ANIME
-
-
-#EXTINF:-1,tvg-logo="https://i.ibb.co/94s0mNy/81-H2q-S3-W9k-L-AC-SL1500.jpg"group-title="Nuevo catálogo",Peliculas Anime 
-
-
-#EXTINF:-1 tvg-logo="https://bit.ly/39CS4j2" group-title="Nuevo catálogo",CONCIERTOS
-
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/nsaz5eites3l5j3/ACCION.jpg" group-title="Nuevo catálogo",ACCION
-
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/1mxo64pury4n6c5/CIENCIA%20FICCION.jpg" group-title="Nuevo catálogo",CIENCIA FICCION
-
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/f7qrw5a4wi1rqgj/DRAMA.jpg" group-title="Nuevo catálogo",DRAMA
-
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5t41za79plctdl5/ROMANTICAS.jpg" group-title="Nuevo catálogo",ROMANTICAS
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5gyw537zrf1i3ic/SUSPENSO.jpg" group-title="Nuevo catálogo",SUSPENSO
-
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/eq0ll4uhvj52zi2/TERROR.jpg" group-title="Nuevo catálogo",TERROR
-
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/1jub9jqdl93rw2s/INFANTIL.jpg" group-title="Nuevo catálogo",INFANTIL
-
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44frvua29qa624p/comedia.png" group-title="Nuevo catálogo",COMEDIA.
-
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4sqs0e6bk7r6q14/FANTASIA.jpg" group-title="Nuevo catálogo",FANTASIA
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/2el43q0s6q17tof/MEXICANA.jpg" group-title="Nuevo catálogo",MEXICANAS
-
- 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xi1vnjdy647u7ru/SUPER%20HEROES.jpg" group-title="Nuevo catálogo",SUPER HEROES
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/palmer-2-1612023003.jpg" group-title="Drama",Palmer
 https://pc-12.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/6b8ed9e86a61a4de8b72788a0d2b8df7/EP.0.2.v0.1679305473.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-rey-leon-2019.jpg" group-title="Infantiles",El Rey León (2019)
 https://pc-28.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c9b951235b4152aad981bd643c51a20a/EP.0.2.v5.1676488399.720.m3u8
 
@@ -522,5 +477,17 @@ https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/IPTV
  
 #EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/plunderer.jpg" group-title="ANIME", Plunderer 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Plunderer
-
-
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cars.jpg" group-title="Infantiles",Cars
+https://pc-45.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/24b477933deeb8a5550e31f835aa06b1/EP.0.1.v4.1678456619.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cars-2-una-nueva-aventura-sobre-ruedas.jpg" group-title="Infantiles",Cars 2: Una Nueva Aventura Sobre Ruedas
+https://pc-37.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/f3054b6761e2b0d9d3b40be3cc295948/EP.0.1.v0.1677265469.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cars-3.jpg" group-title="Infantiles",Cars 3
+https://pc-47.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/14b55aab58e624f13172477a87fcaf95/EP.0.2.v2.1676673240.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/enredados.jpg" group-title="Infantiles",Enredados
+https://pc-05.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/27c95580ad71a5103055a6b857c8f7fd/EP.0.1.v0.1677768654.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/frozen-una-aventura-congelada.jpg" group-title="Infantiles",Frozen: Una Aventura Congelada
+https://pc-24.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/fee40eca3564b92730b7653c5506811d/EP.0.2.v1.1679374999.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/frozen-2-2-1574439004.jpg" group-title="Infantiles",Frozen 2
+http://ia601506.us.archive.org/27/items/0_20200218_20200218/301.mp4 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/smile-2-1668779779.jpg" group-title="Terror",smile
+https://dl.dropbox.com/s/nr8czlw9r2bw1m2/SMILL3.mp4
