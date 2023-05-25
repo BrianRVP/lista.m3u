@@ -5,8 +5,15 @@ http://archive.org/download/PremierPS3/C0nc3ntr4d0.m3u
 
 #EXTINF:-1 tvg-logo="http://archive.org/download/P0R74D455UBM3NU/P0R74D45D34N1M3.png" group-title="PS3MOVIE",Anime 
 http://archive.org/download/PremierPS3/4N1M311.m3u
-
- #EXTINF:-1 tvg-logo="http://archive.org/download/P0R74D455UBM3NU/P0R74D45D3C4R1C47UR45.png" group-title="PS3MOVIE",Caricaturas 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-minions.jpg" group-title="Infantiles",Los Minions
+https://pc-16.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/8b3580547ba919687962ea3b1e411305/EP.0.2.v1.1677329965.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/minions-el-origen-de-gru.png" group-title="Infantiles",Los Minions 2:El origen de Gru
+https://pc-45.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/afbd74f0e41d7e60b045056844361672/EP.0.2.v0.1676054432.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-minions-y-sus-amigos-volumen-1.png" group-title="Infantiles",Los Minions y sus amigos Volumen 1
+https://pc-06.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c4df436a2a30cfd226f0a73e5f2428e8/EP.0.2.v1.1676027158.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/minions-y-sus-amigos-volumen-2.png" group-title="Infantiles",Los Minions y sus amigos Volumen 2
+https://pc-28.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/aa5ff4214da0ebcaf84ed398369b41ec/EP.0.2.v1.1675994302.720.m3u8
+#EXTINF:-1 tvg-logo="http://archive.org/download/P0R74D455UBM3NU/P0R74D45D3C4R1C47UR45.png" group-title="PS3MOVIE",Caricaturas 
 http://archive.org/download/PremierPS3/C4R1C47UR45P5312.m3u 
 #EXTINF:-1 tvg-logo="http://archive.org/download/P0R74D455UBM3NU/P0R74D45D353R135.png" group-title="PS3MOVIE",Series
 http://archive.org/download/PremierPS3/S3R13514.m3u
@@ -14,7 +21,6 @@ http://archive.org/download/PremierPS3/S3R13514.m3u
 https://pc-12.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/6b8ed9e86a61a4de8b72788a0d2b8df7/EP.0.2.v0.1679305473.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-rey-leon-2019.jpg" group-title="Infantiles",El Rey León (2019)
 https://pc-28.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c9b951235b4152aad981bd643c51a20a/EP.0.2.v5.1676488399.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/coco.jpg" group-title="Infantiles",Coco
 https://pc-15.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/6dc7ac72797cdb6504ef330e6dbb54b3/EP.0.1.v0.1677392443.720.m3u8
 
