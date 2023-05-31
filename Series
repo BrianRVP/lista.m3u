@@ -33,7 +33,7 @@ http://archive.org/download/black-summer-serie/BLACK%20SUMMER%20%20SERIE.m3u
 http://archive.org/download/ns_20210520/BOJA.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/BUFF.jpg" group-title="Disney+",Buffy la caza vampiros
 http://archive.org/download/ANIME_20190528/BUF.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BREAKING BAD.jpg" group-title="Disney+",BREAKING BAD
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BREAKING BAD.jpg" group-title="Star+",BREAKING BAD
 http://archive.org/download/ns_20210520/BB.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CAMPAMENTO DE VERANO.jpg" group-title="HBO Max",CAMPAMENTO DE VERANO
 http://archive.org/download/ns_20210520/CAMPAMENTO.m3u
