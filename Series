@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/silicon-valley.jpg" group-title="HBO Max",silicon valley
+
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Silicon%20valley%20serie%20hbo%20max
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-last-of-us-2-1673841725.jpg" group-title="HBO Max",THE LAST OF US 
 https://bit.ly/40mir4A
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-boys.jpg" group-title="Prime video",The Boy
