@@ -23,6 +23,8 @@ http://archive.org/download/elch4v0/MARAVILLO.m3u
 https://archive.org/download/si2_20220111/arck.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ARROW.jpg" group-title="Netflix",ARROW
 http://archive.org/download/ns_20210520/arrow.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/happy.jpg" group-title="Netflix",HAPPY!
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Happy!
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA3NDk0NzM1MF5BMl5BanBnXkFtZTcwOTYxMTk3OQ@@._V1_FMjpg_UX1000_.jpg" group-title="Star+",BAJO EL DOMO
 https://archive.org/download/elch4v0/domi.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BETTER CALL SAUL.jpg" group-title="Netflix",BETTER CALL SAUL
