@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/counterpart.jpg" group-title="Hbo Max",Counterpart
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/counterpart
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/stranger-things.jpg" group-title="Netflix", stranger things
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/stranger%20things
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/silicon-valley.jpg" group-title="HBO Max",silicon valley
