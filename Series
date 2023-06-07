@@ -1,5 +1,61 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hermanos-de-sangre.jpg" group-title="HBO Max",band of brothers
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Band%20of%20brothers
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-terror.jpg" group-title="Prime video",The terror/el terror
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/el%20terror
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/stranger-things.jpg" group-title="Netflix", stranger things
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/stranger%20things
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/silicon-valley.jpg" group-title="HBO Max",silicon valley
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Silicon%20valley%20serie%20hbo%20max
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-last-of-us-2-1673841725.jpg" group-title="HBO Max",THE LAST OF US 
+https://bit.ly/40mir4A
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/todo-el-mundo-odia-a-chris-1669602642.png" group-title="HBO Max",todos odian a Chris
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/todos%20odian%20a%20chris
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-boys.jpg" group-title="Prime video",The Boy
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/THE%20boys
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/ash-vs-evil-dead.jpg" group-title="Prime video",ash vs evil dead
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/ash%20vs%20evil%20dead
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/preacher.jpg" group-title="Prime video",preacher 
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Preacher
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/AMERICAN DAD.jpg" group-title="Star+",AMERICAN DAD
+http://archive.org/download/ladarius34b_k964n_mygeoweb_2/AD1.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/american-horror-story.jpg" group-title="Star+",AMERICAN HORROR HISTORY
+http://archive.org/download/ns_20210520/HOHIS.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ANDY  Y  MACK.jpg" group-title="Disney+",ANDY  Y  MACK
+http://archive.org/download/ns_20210520/ANDMA.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk1NjAwOTM1OV5BMl5BanBnXkFtZTgwMzUwODQ3NzM@._V1_FMjpg_UX1000_.jpg" group-title="HBO Max",ANIMAL KINGDOM
+https://archive.org/download/ns_20210520/AN1MAL.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWRhYjZjOTQtOGNiNC00MTQ0LWE2MTYtMTQxYzEwNDE3NjYyXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg" group-title="Disney+",ANOS MARAVILLOSOS
+http://archive.org/download/elch4v0/MARAVILLO.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ohGz4HDYGTite1GmRhRuBMVAn03.jpg" group-title="Netflix",Arcane (2021)
+https://archive.org/download/si2_20220111/arck.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ARROW.jpg" group-title="Netflix",ARROW
+http://archive.org/download/ns_20210520/arrow.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/happy.jpg" group-title="Netflix",HAPPY!
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Happy!
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA3NDk0NzM1MF5BMl5BanBnXkFtZTcwOTYxMTk3OQ@@._V1_FMjpg_UX1000_.jpg" group-title="Star+",BAJO EL DOMO
+https://archive.org/download/elch4v0/domi.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BETTER CALL SAUL.jpg" group-title="Netflix",BETTER CALL SAUL
+http://archive.org/download/ns_20210520/saul.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BIG LITTLE LIES.jpg" group-title="HBO Max",BIG LITTLE LIES
+http://archive.org/download/ns_20210520/BIGLIT.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BLACK MIRROR.jpg" group-title="Netflix",BLACK MIRROR
+http://archive.org/download/ns_20210520/BLACK%20MIRR.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BLACK SUMMER.jpg" group-title="Netflix",BLACK SUMMER
+http://archive.org/download/black-summer-serie/BLACK%20SUMMER%20%20SERIE.m3u
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/bojack_horseman-687229611-mmed.jpg" group-title="Netflix",BOJACK HORSEMAN
+http://archive.org/download/ns_20210520/BOJA.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/BUFF.jpg" group-title="Disney+",Buffy la caza vampiros
+http://archive.org/download/ANIME_20190528/BUF.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BREAKING BAD.jpg" group-title="Star+",BREAKING BAD
+http://archive.org/download/ns_20210520/BB.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CAMPAMENTO DE VERANO.jpg" group-title="HBO Max",CAMPAMENTO DE VERANO
+http://archive.org/download/ns_20210520/CAMPAMENTO.m3u
+
+
+
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/counterpart.jpg" group-title="HBO Max",Counterpart
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/counterpart
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CASA DE FLORES.jpg" group-title="Netflix",CASA DE FLORES
@@ -332,54 +388,3 @@ https://archive.org/download/elch4v0/what.m3u
 https://archive.org/download/elch4v0/ZOY1.m3u
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hermanos-de-sangre.jpg" group-title="HBO Max",band of brothers
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Band%20of%20brothers
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-terror.jpg" group-title="Prime video",The terror/el terror
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/el%20terror
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/stranger-things.jpg" group-title="Netflix", stranger things
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/stranger%20things
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/silicon-valley.jpg" group-title="HBO Max",silicon valley
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Silicon%20valley%20serie%20hbo%20max
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-last-of-us-2-1673841725.jpg" group-title="HBO Max",THE LAST OF US 
-https://bit.ly/40mir4A
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/todo-el-mundo-odia-a-chris-1669602642.png" group-title="HBO Max",todos odian a Chris
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/todos%20odian%20a%20chris
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-boys.jpg" group-title="Prime video",The Boy
-https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/THE%20boys
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/ash-vs-evil-dead.jpg" group-title="Prime video",ash vs evil dead
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/ash%20vs%20evil%20dead
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/preacher.jpg" group-title="Prime video",preacher 
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Preacher
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/AMERICAN DAD.jpg" group-title="Star+",AMERICAN DAD
-http://archive.org/download/ladarius34b_k964n_mygeoweb_2/AD1.m3u
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/american-horror-story.jpg" group-title="Star+",AMERICAN HORROR HISTORY
-http://archive.org/download/ns_20210520/HOHIS.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ANDY  Y  MACK.jpg" group-title="Disney+",ANDY  Y  MACK
-http://archive.org/download/ns_20210520/ANDMA.m3u
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk1NjAwOTM1OV5BMl5BanBnXkFtZTgwMzUwODQ3NzM@._V1_FMjpg_UX1000_.jpg" group-title="HBO Max",ANIMAL KINGDOM
-https://archive.org/download/ns_20210520/AN1MAL.m3u
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWRhYjZjOTQtOGNiNC00MTQ0LWE2MTYtMTQxYzEwNDE3NjYyXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg" group-title="Disney+",ANOS MARAVILLOSOS
-http://archive.org/download/elch4v0/MARAVILLO.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ohGz4HDYGTite1GmRhRuBMVAn03.jpg" group-title="Netflix",Arcane (2021)
-https://archive.org/download/si2_20220111/arck.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ARROW.jpg" group-title="Netflix",ARROW
-http://archive.org/download/ns_20210520/arrow.m3u
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/happy.jpg" group-title="Netflix",HAPPY!
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Happy!
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA3NDk0NzM1MF5BMl5BanBnXkFtZTcwOTYxMTk3OQ@@._V1_FMjpg_UX1000_.jpg" group-title="Star+",BAJO EL DOMO
-https://archive.org/download/elch4v0/domi.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BETTER CALL SAUL.jpg" group-title="Netflix",BETTER CALL SAUL
-http://archive.org/download/ns_20210520/saul.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BIG LITTLE LIES.jpg" group-title="HBO Max",BIG LITTLE LIES
-http://archive.org/download/ns_20210520/BIGLIT.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BLACK MIRROR.jpg" group-title="Netflix",BLACK MIRROR
-http://archive.org/download/ns_20210520/BLACK%20MIRR.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BLACK SUMMER.jpg" group-title="Netflix",BLACK SUMMER
-http://archive.org/download/black-summer-serie/BLACK%20SUMMER%20%20SERIE.m3u
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/bojack_horseman-687229611-mmed.jpg" group-title="Netflix",BOJACK HORSEMAN
-http://archive.org/download/ns_20210520/BOJA.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/BUFF.jpg" group-title="Disney+",Buffy la caza vampiros
-http://archive.org/download/ANIME_20190528/BUF.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BREAKING BAD.jpg" group-title="Star+",BREAKING BAD
-http://archive.org/download/ns_20210520/BB.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CAMPAMENTO DE VERANO.jpg" group-title="HBO Max",CAMPAMENTO DE VERANO
-http://archive.org/download/ns_20210520/CAMPAMENTO.m3u
-
