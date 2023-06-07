@@ -1,6 +1,13 @@
 #EXTM3U 
 
-
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-noche-del-demonio.jpg" group-title="",La Noche del Demonio
+https://pc-06.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/a804f3ca6a876e9fb2bbaedfb2838df5/EP.0.1.v0.1677782178.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-noche-del-demonio-2.jpg" group-title="",La Noche del Demonio 2
+https://pc-24.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/3f4c638e42ff462eaead5b17758d9346/EP.0.1.v0.1677413956.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-noche-del-demonio-3.jpg" group-title="",La Noche del Demonio 3
+https://pc-27.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/0edbb13bd117d97f98c5dc66ab1f01a0/EP.0.1.v0.1678347697.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-noche-del-demonio-4-la-ultima-llave.jpg" group-title="",La Noche del Demonio 4 :La última llave
+https://pc-22.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/01207304254f033a8940bdad165393f9/EP.0.1.v0.1677392451.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-nino.jpg" group-title="",The Boy 
 https://pc-45.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/4b9d0cb7777536dba602714c2e56a194/EP.0.1.v0.1678561251.720.m3u8 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/brahms-el-nino-2-1584735004.jpg" group-title="",Brahms: The Boy 2 
