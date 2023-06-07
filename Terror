@@ -1,5 +1,14 @@
 #EXTM3U 
-
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hellraiser-1.jpg" group-title="",Hellraiser 1
+https://pc-35.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/6991d49b9a3429a451f1e865f723fccc/EP.0.1.v0.1677374022.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hellraiser-2.jpg" group-title="",Hellraiser 2
+https://pc-01.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ed93ce26203013ee408ec167094584d0/EP.0.1.v0.1677515311.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hellraiser-iii-infierno-en-la-tierra.jpg" group-title="",Hellraiser III: Infierno en la Tierra
+https://pc-25.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/e474538020544e614b0f8cc58fb8c2a4/EP.0.1.v0.1677521472.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hellraiser-iv-el-final-de-la-dinastia-sangrienta.jpg" group-title="",Hellraiser IV: El Final de la Dinastía Sangrienta
+https://pc-27.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/71f3914ff4b707af394217fbd2ab9670/EP.0.1.v0.1679767408.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hellraiser-v-infierno.jpg" group-title="",Hellraiser V: Infierno
+https://pc-05.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/242573ef66d3af7f5920984c44224f97/EP.0.1.v0.1677979027.720.m3u8r
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-noche-del-demonio.jpg" group-title="",La Noche del Demonio
 https://pc-06.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/a804f3ca6a876e9fb2bbaedfb2838df5/EP.0.1.v0.1677782178.360.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-noche-del-demonio-2.jpg" group-title="",La Noche del Demonio 2
