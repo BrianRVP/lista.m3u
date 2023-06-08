@@ -72,7 +72,7 @@ https://dl.dropbox.com/s/xx7am78pf0ali4p/pr1nc1ch1c460.m3u
 https://archive.org/download/si2_20220111/chu.m3u 
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CLOSE ENOUGH.jpg" group-title="Netflix",CLOSE ENOUGH
 http://archive.org/download/clo-eno/Clo%20Eno.m3u 
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CLUB DE CUERVOS.jpg" group-title="Neflix",CLUB DE CUERVOS
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CLUB DE CUERVOS.jpg" group-title="Netflix",CLUB DE CUERVOS
 http://archive.org/download/ns_20210520/CLUBCUERVOS.m3u 
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/COBRA KAI.jpg" group-title="Netflix",COBRA KAI
 https://archive.org/download/si2_20220111/CK.m3u
@@ -100,7 +100,7 @@ http://archive.org/download/ns_20210520/dexter.m3u
 http://archive.org/download/ns_20210520/DINOSAURIOS.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DOOM PATROL.jpg" group-title="HBO Max",DOOM PATROL
 http://archive.org/download/ns_20210520/DOOMPATROL.m3u
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTliN2ViODMtMjc3OS00ZDcxLWEwNTgtMTJkMjcyMzI2MzU3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Hbo Max",DR DEATH
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTliN2ViODMtMjc3OS00ZDcxLWEwNTgtMTJkMjcyMzI2MzU3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="HBO Max",DR DEATH
 https://archive.org/download/elch4v0/drde.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DR HOUSE.jpg" group-title="HBO Max",DR HOUSE
 http://archive.org/download/ns_20210520/DRH.m3u
@@ -146,7 +146,7 @@ https://archive.org/download/si2_20220111/WF.m3u
 http://archive.org/download/ns_20210520/FINAL.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/FOREVER.jpg" group-title="Prime video",FOREVER
 http://archive.org/download/ns_20210520/FOREVER.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/FRIENDS.jpg" group-title="Hbo Max",FRIENDS
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/FRIENDS.jpg" group-title="HBO Max",FRIENDS
 http://archive.org/download/ns_20210520/FRIEND.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/FUTURAMA.jpg" group-title="Star+",FUTURAMA
 http://archive.org/download/ns_20210520/FUTURAMA.m3u
