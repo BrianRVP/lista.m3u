@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo=""group-title="infantiles",hv
-http://s32.bitdl.ir/Series/Stranger.Things/S04/Stranger.Things.S04E09.720p.HEVC.x265-MeGusta.Bia2HD.mkv
-
+#EXTINF:-1 tvg-logo=""group-title="",hv
+https://github.com/iptv-org/iptv/blob/master/streams/ar.m3u
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210820025220&path-prefix=es"group-title="infantiles",cartoon network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-360p.m3u8
  
