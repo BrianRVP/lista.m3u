@@ -27,6 +27,8 @@ http://archive.org/download/ladarius34b_k964n_mygeoweb_2/AD1.m3u
 http://archive.org/download/ns_20210520/HOHIS.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ANDY  Y  MACK.jpg" group-title="Disney+",ANDY  Y  MACK
 http://archive.org/download/ns_20210520/ANDMA.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/alice-in-borderland-2-1607758082.jpg" group-title="Netflix",Alice in borderlandd
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Series%20de%20netflix
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk1NjAwOTM1OV5BMl5BanBnXkFtZTgwMzUwODQ3NzM@._V1_FMjpg_UX1000_.jpg" group-title="HBO Max",ANIMAL KINGDOM
 https://archive.org/download/ns_20210520/AN1MAL.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWRhYjZjOTQtOGNiNC00MTQ0LWE2MTYtMTQxYzEwNDE3NjYyXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg" group-title="Disney+",ANOS MARAVILLOSOS
