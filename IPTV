@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo=""group-title="",hv
-https://archive.org/download/1-4940469535917474793/1_4940469535917474793.m3u8
+http://m3ukodi.com/m3u/flog/13:02.m3u 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210820025220&path-prefix=es"group-title="infantiles",cartoon network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-360p.m3u8
  
