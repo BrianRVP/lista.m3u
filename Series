@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg" group-title="Netflix",Euphoria 1
+
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/halo-1668956365.png" group-title="Paramount+",HALO (2022)
 https://raw.githubusercontent.com/Bvserver123/Ghghg/main/Halo
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hermanos-de-sangre.jpg" group-title="HBO Max",band of brothers
