@@ -10,6 +10,7 @@ http://archive.org/download/PremierPS3/C4R1C47UR45P5312.m3u
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Series
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2019/11/iptv-omniverse.jpg?x=480&y=375&quality=40" group-title="",IPTV 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/IPTV 
+#EXTINF:-1 , Desastres naturales
 
 #EXTINF:-1 ,Infantiles 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Infantiles
