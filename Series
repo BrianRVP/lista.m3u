@@ -397,3 +397,5 @@ https://archive.org/download/elch4v0/what.m3u
 https://archive.org/download/elch4v0/ZOY1.m3u
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hermanos-de-sangre.jpg" group-title="HBO Max",band of brothers
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Band%20of%20brothers
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/anne-with-an-e-1598657484.jpg" group-title="Netflix",Anne with an E
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Anne%20with%20an%20E
