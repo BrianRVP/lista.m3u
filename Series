@@ -94,6 +94,8 @@ http://archive.org/download/clo-eno/Clo%20Eno.m3u
 http://archive.org/download/ns_20210520/CLUBCUERVOS.m3u 
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/COBRA KAI.jpg" group-title="Netflix",COBRA KAI
 https://archive.org/download/si2_20220111/CK.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/v-invasion-extraterrestre-1669266001.png" group-title="Apple tv+",V invasion extraterrestre
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/V%20invasion%20extraterrestre
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/COMIDAS BIZARRAS.jpg" group-title="Apple tv+",COMIDAS BIZARRAS
 http://archive.org/download/comida_202003/comida.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CONSTANTINE.jpg" group-title="HBO Max",CONSTANTINE
