@@ -1,5 +1,25 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://archive.org/download/tv_20230714/Netflix.png" group-title="Netflix", NETFLIX 
+https://archive.org/download/tuj_20230714/Netflix.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/tv_20230714/Prim.png" group-title="Prime video", PRIME VIDEO
+ https://archive.org/download/tuj_20230714/Primp.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/tv_20230714/HBO.png" group-title="HBO Max", HBO Max 
+https://archive.org/download/tuj_20230714/HBO.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/tv_20230714/Disney.png" group-title="Disney+", DISNEY+
+https://archive.org/download/tuj_20230714/Disney.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/tv_20230714/Star.png" group-title="Star+", STAR+
+https://archive.org/download/tuj_20230714/Star.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/tv_20230714/Paramount.png" group-title="Paramount+", PARAMOUNT+
+https://archive.org/download/tuj_20230714/Paramount.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/tv_20230714/Tv.png" group-title="Apple tv+", APPLE TV+
+https://archive.org/download/tuj_20230714/Tv.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/tv_20230714/Hulu.png" group-title="Hulu", HULU
+https://archive.org/download/tuj_20230714/Huu.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/tv_20230714/Shundder.png" group-title="Shudder", SHUDDER
+https://archive.org/download/tuj_20230714/Shuder.mp4
+................Pegar Debajo De Esto..................
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/invasion-secreta-1689220912.png" group-title="Disney+", Invasion Secreta
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Invasion%20secreta
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6HanIV2hTLE2w7A5bI1KJb3bTL7.jpg" group-title="Prime video",The Walking Dead: World Beyond (2020)
