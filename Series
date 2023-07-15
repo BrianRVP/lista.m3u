@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://gray-wktb-prod.cdn.arcpublishing.com/resizer/_0q-L39o6VcGdFl2HeKBqu4jb2k=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/JYDNHDPW3ZDVRHIERWNZUG3OFA.jpg" group-title="Netflix", NETFLIX X  X X  X 
+#EXTINF:-1 tvg-logo="https://gray-wktb-prod.cdn.arcpublishing.com/resizer/_0q-L39o6VcGdFl2HeKBqu4jb2k=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/JYDNHDPW3ZDVRHIERWNZUG3OFA.jpg" group-title="Netflix", NETFLIX
 https://archive.org/download/tuj_20230714/Netflix.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/tv_20230714/Prim.png" group-title="Prime video", PRIME VIDEO
  https://archive.org/download/tuj_20230714/Primp.mp4
