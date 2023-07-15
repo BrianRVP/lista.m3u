@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo=""group-title="",hv
-http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Dragon%20Ball%20Z/005-Goku%20muere,%20solo%20hay%20una%20oportunidad.mp4
+http://cdn.club8.ca/get.php?username=j34x5wzmj9&password=v0lcqkfwqg&type=m3u_plus
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210820025220&path-prefix=es"group-title="infantiles",cartoon network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-360p.m3u8
  
