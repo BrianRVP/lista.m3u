@@ -92,6 +92,8 @@ http://archive.org/download/ns_20210520/BOJA.m3u
 http://archive.org/download/ANIME_20190528/BUF.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BREAKING BAD.jpg" group-title="Star+",BREAKING BAD
 http://archive.org/download/ns_20210520/BB.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/stranger-things.jpg" group-title="Netflix",stranger things
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Stranger%20things
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CAMPAMENTO DE VERANO.jpg" group-title="HBO Max",CAMPAMENTO DE VERANO
 http://archive.org/download/ns_20210520/CAMPAMENTO.m3u
 
