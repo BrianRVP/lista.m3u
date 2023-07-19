@@ -1,6 +1,8 @@
 #EXTM3U
 
 .................
-
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/m8F4HDlKpJk3GoDtq20h2dyQWwA.jpg" group-title="Cartoon Network",Las aventuras de Jackie Chan
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Las%20aventuras%20de%20Jackie%20Chan
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/silver-surfer.jpg" group-title="Caricaturas retro",Silver surfer
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Silver%20surfer
 
