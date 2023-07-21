@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210820025220&path-prefix=es" group-title="Cartoon Network",Cartoon Network (En Vivo )
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 
 .................
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/n4KwrlUKO9S4GvOdZzmnz4zOxx7.jpg" group-title="Cartoon Network", Ben 10: Supremacía Alienígena
