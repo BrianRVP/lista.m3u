@@ -1,5 +1,14 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/crepusculo.jpg" group-title="", Crepúsculo
+https://pc-29.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/7efcd8159dcbb9b235b25cd389d76db8/EP.0.1.v2.1677097597.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-saga-crepusculo-luna-nueva.jpg" group-title="", Crepúsculo : luna nueva 
+https://pc-21.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/795f69a120b3700169edd08dd907a153/EP.0.1.v0.1677543394.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-saga-crepusculo-eclipse.jpg" group-title="", Crepúsculo: Eclipse 
+https://pc-41.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/2a84ec1f4acf07c9733dd68a39654093/EP.0.1.v0.1677320141.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-saga-crepusculo-amanecer-parte-1.jpg" group-title="", Crepúsculo: Amanecer parte 1
+https://pc-21.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/27d4f1a6004aca33c467b663dde716e3/EP.0.1.v1.1677529916.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-saga-crepusculo-amanecer-parte-2.jpg" group-title="", Crepúsculo: Amanecer parte 2
+https://pc-17.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/aca9dbdf1e8ff2fc602e64640f93f6c5/EP.0.1.v0.1677392065.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/avatar-the-way-of-water-2-1671126604.jpg" group-title="",avatar el Camino del agua 
 https://pc-12.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/d47a55c137e57abc8fbdd1cc36981754/EP.0.2.v19.1681642276.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/dungeons-dragons-honor-among-thieves-2-1680420001.jpg" group-title="",Dungeons & Dragons: Honor entre ladrones
