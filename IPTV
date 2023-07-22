@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo=""group-title="",hv
-https://raw.githubusercontent.com/michelotero25/1ptv/01fef350cbd56276456629539608e4378596ca7d/08FEB2016%207%20CANALES%20MAS%2050%20PELICULAS.m3u
+https://raw.githubusercontent.com/sagitariolop/lista/c98f1e1fd645bb66c4030edfed53e3a750e722ad/tclub.m3u
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210820025220&path-prefix=es"group-title="infantiles",cartoon network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-360p.m3u8
  
