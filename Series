@@ -69,8 +69,14 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Preacher
 http://archive.org/download/ladarius34b_k964n_mygeoweb_2/AD1.m3u
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/american-horror-story.jpg" group-title="Star+",AMERICAN HORROR HISTORY
 http://archive.org/download/ns_20210520/HOHIS.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/power-rangers-fuerza-salvaje.jpg" group-title="Prime video",Power rangers,fuerza salvaje
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Power%20rangers%20fuerza%20salvaje
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ANDY  Y  MACK.jpg" group-title="Disney+",ANDY  Y  MACK
 http://archive.org/download/ns_20210520/ANDMA.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/power-rangers-fuerza-del-tiempo.jpg" group-title="Prime video",Power rangers fuerza del tiempo
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Power%20rangers%20fuerza%20del%20tiempo
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/power-rangers-dino-fury-1669337375.png" group-title="Prime video",Power rangers dino fury
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Power%20rangers%20dino%20fury
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/alice-in-borderland-2-1607758082.jpg" group-title="Netflix",Alice in borderlandd
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Series%20de%20netflix
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk1NjAwOTM1OV5BMl5BanBnXkFtZTgwMzUwODQ3NzM@._V1_FMjpg_UX1000_.jpg" group-title="HBO Max",ANIMAL KINGDOM
