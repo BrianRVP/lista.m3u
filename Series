@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/1jub9jqdl93rw2s/INFANTIL.jpg" group-title="caricaturas",Caricaturas 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/1jub9jqdl93rw2s/INFANTIL.jpg" group-title="",Caricaturas 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Caricatura
 #EXTINF:-1 tvg-logo="https://gray-wktb-prod.cdn.arcpublishing.com/resizer/_0q-L39o6VcGdFl2HeKBqu4jb2k=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/JYDNHDPW3ZDVRHIERWNZUG3OFA.jpg" group-title="Netflix", NETFLIX
 https://archive.org/download/tuj_20230714/Netflix.mp4
