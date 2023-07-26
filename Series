@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/1jub9jqdl93rw2s/INFANTIL.jpg" group-title="",Novelas 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Novela
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/1jub9jqdl93rw2s/INFANTIL.jpg" group-title="",Caricaturas 
@@ -28,6 +27,8 @@ https://archive.org/download/tuj_20230714/Shuder.mp4
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Invasion%20secreta
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/primal-1607966467.jpg" group-title="HBO Max",Primal
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Primal
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/obi-wan-kenobi-2-1669011161.jpg" group-title="Disney+",Obi-wan kenobi
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Obi%20wan%20kenobi
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6HanIV2hTLE2w7A5bI1KJb3bTL7.jpg" group-title="Prime video",The Walking Dead: World Beyond (2020)
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Twkb
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/hannibal-675473429-mmed.jpg" group-title="Prime video",Hannibal
@@ -38,6 +39,10 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Mis%20aventuras%2
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Euphoria
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/halo-1668956365.png" group-title="Paramount+",HALO (2022)
 https://raw.githubusercontent.com/Bvserver123/Ghghg/main/Halo
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/true-detective.jpg" group-title="HBO Max",True detective
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/True%20detective
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/1883-2-1640009164.jpg" group-title="Paramount+",1883
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/1883
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/SYvwtsk4vWPAtB0wlgLlecWCFc.jpg" group-title="HBO Max",VGLY
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/VGLY
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hermanos-de-sangre.jpg" group-title="HBO Max",band of brothers
@@ -52,6 +57,10 @@ https://raw.githubusercontent.com/Dragonjunior890/Ejemplo/main/From
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Woo%3AUna%20abogada%20extraordinaria
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-terror.jpg" group-title="Prime video",The terror/el terror
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/el%20terror
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-witcher-1578109844.jpg" group-title="Netflix",The witcher
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20witcher
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/6SJppowm7cdQgLkvoTlnTUSbjr9.jpg" group-title="HBO Max",Superman y lois
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Superman%20y%20lois
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/stranger-things.jpg" group-title="Netflix", stranger things
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Stranger%20things
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/american-gods.jpg" group-title="Prime video", American gods 
