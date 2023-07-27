@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo=""group-title="",hv
-https://raw.githubusercontent.com/rogelio3232/VEGETA/main/README.m3u
+https://raw.githubusercontent.com/BrianRVP/Cuantas/main/tv_channels_3572559_plus.txt
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210820025220&path-prefix=es"group-title="infantiles",cartoon network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-360p.m3u8
  
