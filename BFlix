@@ -1,10 +1,10 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="http://archive.org/download/entertaiment09/P0R74D4Dr4m4.png" group-title="",Peliculas 
+#EXTINF:-1 tvg-logo="http://archive.org/download/entertaiment09/P0R74D4Dr4m4.png" group-title="PS3MOVIE",Peliculas 
 http://archive.org/download/PremierPS3/C0nc3ntr4d0.m3u 
-#EXTINF:-1 tvg-logo="http://archive.org/download/P0R74D455UBM3NU/P0R74D45D34N1M3.png" group-title="",Anime 
+#EXTINF:-1 tvg-logo="http://archive.org/download/P0R74D455UBM3NU/P0R74D45D34N1M3.png" group-title="PS3MOVIE",Anime 
 http://archive.org/download/PremierPS3/4N1M311.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/P0R74D455UBM3NU/P0R74D45D3C4R1C47UR45.png" group-title="",Caricaturas 
+#EXTINF:-1 tvg-logo="http://archive.org/download/P0R74D455UBM3NU/P0R74D45D3C4R1C47UR45.png" group-title="PS3MOVIE",Caricaturas 
 http://archive.org/download/PremierPS3/C4R1C47UR45P5312.m3u
 #EXTINF:-1 ,Series
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Series
