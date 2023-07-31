@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo=""group-title="",hv
-https://m.ok.ru/dk?st.cmd=moviePlaybackRedirect&st.sig=1633575d1818acc30455ffd3c5d6ee6bb9e25f71&st.uid=600105841724&st.mq=1&st.mvid=2264286104137&st.ip=168.195.185.6&st.dla=on&st.exp=1690800536060&st.hls=on&_prevCmd=movieMain&tkn=6678
+https://pc-47.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/733db9cc592543f5c805c3dbbe19bec5/EP.0.1.v0.1678251380.1080.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210820025220&path-prefix=es"group-title="infantiles",cartoon network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-360p.m3u8
  
