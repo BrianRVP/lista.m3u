@@ -152,7 +152,9 @@ https://dl.dropbox.com/s/xx7am78pf0ali4p/pr1nc1ch1c460.m3u
 #EXTINF:-1 tvg-logo="https://www.pelisplus.lat/wp-content/uploads/2021/12/iF8ai2QLNiHV4anwY1TuSGZXqfN-200x300.jpg" group-title="Star+",Chucky
 https://archive.org/download/si2_20220111/chu.m3u 
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CLOSE ENOUGH.jpg" group-title="Netflix",CLOSE ENOUGH
-http://archive.org/download/clo-eno/Clo%20Eno.m3u 
+http://archive.org/download/clo-eno/Clo%20Eno.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/ted-lasso-2-1637478486.jpg" group-title="Apple tv+",Ted lasso
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Ted%20lasso
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CLUB DE CUERVOS.jpg" group-title="Netflix",CLUB DE CUERVOS
 http://archive.org/download/ns_20210520/CLUBCUERVOS.m3u 
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/COBRA KAI.jpg" group-title="Netflix",COBRA KAI
