@@ -20,6 +20,8 @@ https://archive.org/download/ns_20210520/Amphibia.m3u
 https://archive.org/download/elch4v0/hema.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/ANIMANIACS.jpg" group-title="Cartoon Network",ANIMANIACS
 http://archive.org/download/listasaqui_ymail4_Alf/ANIMANIACS.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-tren-infinito-1587571514.jpg" group-title="Cartoon Network",Infinity train
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Infinity%20train
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/AVATAR KORRA.jpg" group-title="Nickelodeon",AVATAR KORRA
 https://archive.org/download/ns_20210520/tempora.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/AVATAR LA LEYENDA DE AANG.jpg" group-title="Nickelodeon",AVATAR LA LEYENDA DE AANG
