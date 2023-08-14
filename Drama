@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-polaquito-1580232904.jpg"group-title="",El Polaquito
+ https://pc-19.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/55c634d8b7c4c191c7422be44fb57182/EP.0.1.v0.1677267619.360.m3u8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/sffZb1HKUvMcKmuB8KycMZ61ycQ.jpg" group-title="", un momento peligroso 
 https://m.ok.ru/dk?st.cmd=moviePlaybackRedirect&st.sig=ce884e03b2e69139274e2fa13a4a212ae3d8af7e&st.uid=600105841724&st.mq=1&st.mvid=354783988355&st.ip=168.195.185.6&st.dla=off&st.exp=1690858305305&st.hls=on&_prevCmd=movieLayer=4007
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/axb5KzE3cfwmKhnx33wmHJtADM8.jpg" group-title="", señales 
