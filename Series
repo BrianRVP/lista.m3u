@@ -169,8 +169,12 @@ http://archive.org/download/comida_202003/comida.m3u
 http://archive.org/download/ns_20210520/JONHCONSTAN.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CUMBIA NINJA.jpg" group-title="Star+",CUMBIA NINJA
 http://archive.org/download/kuhlman_1/Series/series/Cumbia Ninja.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/harley-quinn-1578109859.jpg" group-title="HBO Max",Harley Quinn español latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Harley%20Quinn%20espa%C3%B1ol%20latino
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DAREDEVIL.jpg" group-title="Disney+",DAREDEVIL
 http://archive.org/download/ns_20210520/Daredevil.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/barry.jpg" group-title="HBO Max",Barry
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Barry
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DARK.jpg" group-title="Netflix",DARK
 http://archive.org/download/ns_20210520/DARK.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DAWSONS CREEK.jpg" group-title="Prime video",DAWSONS CREEK
