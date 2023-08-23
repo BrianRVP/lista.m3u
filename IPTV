@@ -1,11 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo=""group-title="pruebas",h1
+#EXTINF:-1 tvg-logo=""group-title="Plutotv + canales",Canales
 https://telechancho.github.io/telechancho-iptv/telechancho-infinity.m3u
 #EXTINF:-1 tvg-logo=""group-title="pruebas",h2
 http://regioplay.xyz/ma23/regioflix.m3u
 #EXTINF:-1 tvg-logo=""group-title="pruebas",h3
-https://www.tdtchannels.com/lists/tv_mpd.m3u8
-
+http://limonapp.in:8080/get.php?username=6mplus1138atn&password=zjct5yjd&type=m3u_plus
 
 #EXTINF:-1 tvg-logo="https://cdn.conmebol.com/wp-content/uploads/2021/11/libertadores-generico_1-1024x751.jpg"group-title="Deportes", Libertadores 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/638df7f42b4fea0007f8af98/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
