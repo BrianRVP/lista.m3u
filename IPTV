@@ -7,7 +7,7 @@ http://regioplay.xyz/ma23/regioflix.m3u
 #EXTINF:-1 tvg-logo=""group-title="pruebas",h3
 http://limonapp.in:8080/get.php?username=6mplus1138atn&password=zjct5yjd&type=m3u_plus
 
-#EXTINF:-1 tvg-logo=""group-title="Vip",Solo Para Celulares 
+#EXTINF:-1 tvg-logo=""group-title="Vip", Canales HD
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/VIP
 
 #EXTINF:-1 tvg-logo="https://cdn.conmebol.com/wp-content/uploads/2021/11/libertadores-generico_1-1024x751.jpg"group-title="Deportes", Libertadores 
