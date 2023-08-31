@@ -6,6 +6,8 @@ http://archive.org/download/PremierPS3/C0nc3ntr4d0.m3u
 http://archive.org/download/PremierPS3/4N1M311.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/P0R74D455UBM3NU/P0R74D45D3C4R1C47UR45.png" group-title="",Caricaturas PS3MOVIE
 http://archive.org/download/PremierPS3/C4R1C47UR45P5312.m3u
+#EXTINF:-1 tvg-logo=""group-title="", PELÍCULAS VIP
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Pel%C3%ADculas.txt
 
 #EXTM3U
 #EXTINF:-1 , ################Brian&Dante#####################################
