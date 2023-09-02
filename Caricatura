@@ -3,7 +3,8 @@
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 
 .................
-
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/uchu_densetsu_ulysses_31_ulysse_31-789671168-large.jpg" group-title=“Caricatura”,Ulises31
+https://raw.githubusercontent.com/AaronCoyu/Ulise/main/Ulises%2031
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/uchu_densetsu_ulysses_31_ulysse_31-789671168-large.jpg" group-title=“Caricaturas retro”,Ulises31
 https://raw.githubusercontent.com/AaronCoyu/Ulise31/main/Ulises31
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/n4KwrlUKO9S4GvOdZzmnz4zOxx7.jpg" group-title="Cartoon Network", Ben 10: Supremacia Alienigena 
