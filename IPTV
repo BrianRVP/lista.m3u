@@ -4,7 +4,7 @@
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/playlist.txt
 #EXTINF:-1 tvg-logo=""group-title="Por Paises", Chile
 https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Chile.txt
-#EXTINF:-1 tvg-logo=""group-title="Por Paises", Perú
+#EXTINF:-1 tvg-logo=""group-title="Por Paises", Peru
 https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Peru.txt
 #EXTINF:-1 tvg-logo=""group-title="Por Paises", Venezuela 
 https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Venezuela.txt
