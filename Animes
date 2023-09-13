@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dBsDWUcdfbuZwglgyeeQ9ChRoS4.jpg" group-title=“”,DBZ Saga Saiyan
+https://raw.githubusercontent.com/AaronCoyu/DBZ01/main/Saiyan
 #EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/plunderer.jpg" group-title="", Plunderer 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Plunderer 
 #EXTINF:-1 tvg-logo="https://www1.animeonline.ninja/wp-content/uploads/2021/05/gFZ3K5tgFit6PHOXLvSRwzDWacG-185x278.jpg" group-title="",Kimetsu no Yaiba 
