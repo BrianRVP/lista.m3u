@@ -1,119 +1,119 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dBsDWUcdfbuZwglgyeeQ9ChRoS4.jpg" group-title=“”,DBZ Saga Saiyan
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dBsDWUcdfbuZwglgyeeQ9ChRoS4.jpg" group-title=“Shonen”,DBZ Saga Saiyan
 https://raw.githubusercontent.com/AaronCoyu/DBZ01/main/Saiyan
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/plunderer.jpg" group-title="", Plunderer 
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/plunderer.jpg" group-title="Accion", Plunderer 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Plunderer 
-#EXTINF:-1 tvg-logo="https://www1.animeonline.ninja/wp-content/uploads/2021/05/gFZ3K5tgFit6PHOXLvSRwzDWacG-185x278.jpg" group-title="",Kimetsu no Yaiba 
+#EXTINF:-1 tvg-logo="https://www1.animeonline.ninja/wp-content/uploads/2021/05/gFZ3K5tgFit6PHOXLvSRwzDWacG-185x278.jpg" group-title="Accion",Kimetsu no Yaiba 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Kimetsu%20no%20Yaiba 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cJx07RV/Dragon-Ball-Z-Serie-Androides-Cell.png" group-title="",Dragon Ball Z Serie Androides Cell 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cJx07RV/Dragon-Ball-Z-Serie-Androides-Cell.png" group-title="Shonen",Dragon Ball Z Serie Androides Cell 
 https://raw.githubusercontent.com/laureanoflix/SERIES/main/DBZ.m3u 
-#EXTINF:-1 tvg-logo="https://archive.org/download/t-1-04-boku-no-hero-latino/My%20Hero%20academia.jpg" group-title="",BOKU NO HERO ACADEMIA 
+#EXTINF:-1 tvg-logo="https://archive.org/download/t-1-04-boku-no-hero-latino/My%20Hero%20academia.jpg" group-title="Shonen",BOKU NO HERO ACADEMIA 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/My%20Hero%20Academia 
-#EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/TOKYO GHOUL.jpg" group-title="",TOKYO GHOUL 
+#EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/TOKYO GHOUL.jpg" group-title="Gore",TOKYO GHOUL 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Tokyo%20Ghoul 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fkfVqKJ/JUJUTSU-KAISEN-latino.png" group-title="",JUJUTSU KAISEN HD LATINO 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fkfVqKJ/JUJUTSU-KAISEN-latino.png" group-title="Fantasia Oscura",JUJUTSU KAISEN HD LATINO 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Jujutsu%20Kaisen 
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/jujutsu-kaisen-tv.jpg" group-title="",JUJUTSU KAISEN SD LATINO 
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/jujutsu-kaisen-tv.jpg" group-title="Fantasia Oscura",JUJUTSU KAISEN SD LATINO 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Jujutsu%20kaisen%20SD 
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/shingeki-no-kyojin.jpg" group-title="",Shingeki no Kyojin 
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/shingeki-no-kyojin.jpg" group-title="Accion",Shingeki no Kyojin 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Shingeki%20no%20Kyojin 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/devilman-crybaby.png" group-title="",Devilman cry baby
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/devilman-crybaby.png" group-title="Accion",Devilman cry baby
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Devilman%20crybaby
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/woj562S4ezij0xne8tE1nfDucow.jpg" group-title="",Housing complex c
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/woj562S4ezij0xne8tE1nfDucow.jpg" group-title="Terror",Housing complex c
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Housing%20complex%20c
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/ito-junji-collection.jpg" group-title="",Junji ito: Relatos japoneses de lo macabro
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/ito-junji-collection.jpg" group-title="Terror",Junji ito: Relatos japoneses de lo macabro
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/junji%20ito%20maniac%3A%20Relatos%20japoneses%20de%20lo%20macabro
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/saint-seiya-omega.jpg" group-title="",Saint seiya omega
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/saint-seiya-omega.jpg" group-title="Shonen",Saint seiya omega
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Saint%20seiya%20omega
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/terra-formers.jpg" group-title="",Terra formars
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/terra-formers.jpg" group-title="Ciencia Ficcion",Terra formars
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Terra%20formars
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/made-in-abyss.jpg" group-title="",Made in abyss
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/made-in-abyss.jpg" group-title="Fantasia Oscura",Made in abyss
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Made%20in%20abyss
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/spy-x-family.jpg" group-title="",Spy x family
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/spy-x-family.jpg" group-title="Comedia",Spy x family
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Spy%20x%20family%20latino
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/spy-x-family.jpg" group-title="",Spy x family
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/spy-x-family.jpg" group-title="Comedia",Spy x family
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Spy%20x%20family%20subtitulado%20al%20espa%C3%B1ol
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/gantz.jpg" group-title="",Gantz
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/gantz.jpg" group-title="Seinen",Gantz
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Gantz
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/initial-d.png" group-title="",Initial D
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/initial-d.png" group-title="Seinen",Initial D
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Initial%20D
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/jojos-bizarre-adventure.jpg" group-title="",Jojo's bizarre adventure
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/jojos-bizarre-adventure.jpg" group-title="Accion",Jojo's bizarre adventure
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Jojo's%20bizarre%20adventure
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/kenyuu-densetsu-yaiba.jpg" group-title="",La leyenda del espadachín yaiba
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/kenyuu-densetsu-yaiba.jpg" group-title="Comedia",La leyenda del espadachín yaiba
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/La%20leyenda%20del%20espadachin%20yaiba
-#EXTINF:-1 tvg-logo=https://img.animeflv.cc/cover/jojo-no-kimyou-na-bouken-part-6-stone-ocean.jpg" group-title"",Jojo's bizarre adventure stone ocean
+#EXTINF:-1 tvg-logo=https://img.animeflv.cc/cover/jojo-no-kimyou-na-bouken-part-6-stone-ocean.jpg" group-title"Accion",Jojo's bizarre adventure stone ocean
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Jojo's%20bizarre%20adventure%20stone%20ocean
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/jojo-no-kimyou-na-bouken-diamond-wa-kudakenai.jpg" group-title="",Jojo's no kimyou na bouken: Diamond wa kudakenai
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/jojo-no-kimyou-na-bouken-diamond-wa-kudakenai.jpg" group-title="Accion",Jojo's no kimyou na bouken: Diamond wa kudakenai
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Jojo's%20no%20kimyou%20na%20bouken%20diamond%20wa%20kudakenai
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/jojos-bizarre-adventure-the-animation.jpg" group-title="",Jojo's bizarre adventure the animation
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/jojos-bizarre-adventure-the-animation.jpg" group-title="Accion",Jojo's bizarre adventure the animation
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Jojo's%20bizarre%20adventure%20the%20animation
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/jojos-bizarre-adventure-stardust-crusaders.jpg" group-title="",Jojo's bizarre adventure: Stardust Crusaders season 1
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/jojos-bizarre-adventure-stardust-crusaders.jpg" group-title="Accion",Jojo's bizarre adventure: Stardust Crusaders season 1
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Jojo's%20bizarre%20adventure%20stardust%20crusaders%20season%201
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/jojos-bizarre-adventure-stardust-crusaders-2.jpg" group-title="",Jojo's bizarre adventure: Stardust crusaders season 2
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/jojos-bizarre-adventure-stardust-crusaders-2.jpg" group-title="Accion",Jojo's bizarre adventure: Stardust crusaders season 2
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Jojo's%20bizarre%20adventure%20stardust%20crusaders%20season%202
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/jojo-no-kimyou-na-bouken-ougon-no-kaze.jpg" group-title="",Jojo's no kimyou na bouken: Ougon no kaze
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/jojo-no-kimyou-na-bouken-ougon-no-kaze.jpg" group-title="Accion",Jojo's no kimyou na bouken: Ougon no kaze
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Jojo's%20no%20kimyou%20na%20bouken%20ougon%20no%20kaza
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/dekiru-neko-wa-kyou-mo-yuuutsu.jpg" group-title="",Dekiru Neko wa Kyou mo Yuuutsu
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/dekiru-neko-wa-kyou-mo-yuuutsu.jpg" group-title="Recuentos de la vida",Dekiru Neko wa Kyou mo Yuuutsu
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Dekiru%20neko%20wa%20kyou%20mo%20yuuutsu
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/shuumatsu-no-walkure.jpg" group-title="",Record of ragnarok Español latino
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/shuumatsu-no-walkure.jpg" group-title="Artes Marciales",Record of ragnarok Español latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Record%20of%20ragnarok%20espa%C3%B1ol%20latino
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/shuumatsu-no-walkure.jpg" group-title="",Record of ragnarok subtitulado
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/shuumatsu-no-walkure.jpg" group-title="Artes Marciales",Record of ragnarok subtitulado
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Record%20of%20ragnarok%20subtitulado
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/kami-nomi-zo-shiru-sekai.jpg" group-title="",Kami Nomi zo Shiru Sekai Completo
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/kami-nomi-zo-shiru-sekai.jpg" group-title="Comedia Romantica",Kami Nomi zo Shiru Sekai Completo
 https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/Kami%20Nomi%20zo%20Shiru%20Sekai%20Completo
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/kyochuu-rettou-movie.jpg" group-title="",Kyochuu Rettou Movie (Terror)
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/kyochuu-rettou-movie.jpg" group-title="Terror",Kyochuu Rettou Movie
 https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/Kyochuu%20Rettou%20Movie
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/harmony.jpg" group-title="",Harmony (Psicologico)
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/harmony.jpg" group-title="Ciencia Ficcion",Harmony
 https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/Harmony%20(Psicologico)
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/1996/10/w1280/cXvNMcxg6EH0NlZYigEE9ZB2zKk.jpg" group-title="",Cazadores de Duendes Completo
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/1996/10/w1280/cXvNMcxg6EH0NlZYigEE9ZB2zKk.jpg" group-title="Fantasia",Cazadores de Duendes Completo
 https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/Cazadores%20de%20Duendes%20Completa
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/baki-2018.jpg" group-title="",Baki 2018 subtitulado
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/baki-2018.jpg" group-title="Artes Marciales",Baki 2018 subtitulado
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Baki%202018
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/baki-dai-reitaisaihen.jpg" group-title="",Baki:Dai reitaisai hen subtitulado
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/baki-dai-reitaisaihen.jpg" group-title="Artes Marciales",Baki:Dai reitaisai hen subtitulado
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Baki%20dai%20%20reitaisai%20hen
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/grappler-baki-saidai-tournament-hen.jpg" group-title="",Grappler baki:Saidai tournament hen subtitulado
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/grappler-baki-saidai-tournament-hen.jpg" group-title="Artes Marciales",Grappler baki:Saidai tournament hen subtitulado
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Baki%20grappler%20%20saidai%20tournament
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/drappler-baki.jpg" group-title="",Baki the grappler subtitulado
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/drappler-baki.jpg" group-title="Artes Marciales",Baki the grappler subtitulado
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Baki%20grappler%20y%20baki%20grappler%20ova
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/hanma-baki-son-of-ogre.jpg" group-title="",Baki:Hijo de ogro subtitulado
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/hanma-baki-son-of-ogre.jpg" group-title="Artes Marciales",Baki:Hijo de ogro subtitulado
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Baki%20hijo%20de%20ogro%20temporada%201%20y%202
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/to-be-hero.jpg" group-title="",To be hero subtitulado
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/to-be-hero.jpg" group-title="Comedia",To be hero subtitulado
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/To%20be%20hero
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/to-be-heroine.jpg" group-title="",To be heroine subtitulado
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/to-be-heroine.jpg" group-title="Comedia",To be heroine subtitulado
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/To%20be%20heroine
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/high-score-girl.jpg" group-title="",High Score Girl
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/high-score-girl.jpg" group-title="Comedia",High Score Girl
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/High%20score%20girls
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/kengan_ashura-540534862-mmed.jpg" group-title="",Kengan Ashura
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/kengan_ashura-540534862-mmed.jpg" group-title="Artes Marciales",Kengan Ashura
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Kengan%20Ashura
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/little-witch-academia-tv.jpg" group-title="",Little Witch Academia
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/little-witch-academia-tv.jpg" group-title="Fantasia",Little Witch Academia
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Little%20witch%20academia
-#EXTINF:-1 tvg-logo="https://img.animeflv.bz/cover/ansatsu-kyoushitsu-tv.jpg" group-title="",Ansatsu Kyoushitsu
+#EXTINF:-1 tvg-logo="https://img.animeflv.bz/cover/ansatsu-kyoushitsu-tv.jpg" group-title="Accion",Ansatsu Kyoushitsu
 https://raw.githubusercontent.com/Abarrera7/local/main/Ansatsu%20Kyoushitsu
-#EXTINF:-1 tvg-logo="https://img.animeflv.bz/cover/rurouni-kenshin-meiji-kenkaku-romantan-2023.jpg" group-title="",Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
+#EXTINF:-1 tvg-logo="https://img.animeflv.bz/cover/rurouni-kenshin-meiji-kenkaku-romantan-2023.jpg" group-title="Romance",Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
 https://raw.githubusercontent.com/Abarrera7/local/main/Rurouni%20Kenshin%202023
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/saint-seiya-the-lost-canvas.jpg" group-title="",Saint Seiya:The Lost Canvas latino
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/saint-seiya-the-lost-canvas.jpg" group-title="Shonen",Saint Seiya:The Lost Canvas latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Saint%20seiya%20the%20lost%20canvas
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/mashle.jpg" group-title="",Mashle subtitulado
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/mashle.jpg" group-title="Comedia",Mashle subtitulado
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Mashle%20subtitulado
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/hell-girl.jpg" group-title="",Hell Girl subtitulado
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/hell-girl.jpg" group-title="Terror",Hell Girl subtitulado
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Hell%20girl
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/kakegurui.jpg" group-title="",Kakegurui subtitulado
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/kakegurui.jpg" group-title="Suspenso",Kakegurui subtitulado
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Kakegurui
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/kanojo-okarishimasu.jpg" group-title="",Rent a girlfriend subtitulado
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/kanojo-okarishimasu.jpg" group-title="Comedia Romantica",Rent a girlfriend subtitulado
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Rent%20a%20girlfriend%20subtitulado
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/tonikaku-kawaii-2nd-season.jpg" group-title="",Tonikaku Kawaii temporada 2 subtitulado
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/tonikaku-kawaii-2nd-season.jpg" group-title="Comedia Romantica",Tonikaku Kawaii temporada 2 subtitulado
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Tonikaku%20Kawaii%20subtitulado
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/rokka-no-yuusha.jpg" group-title="",Rokka no Yuusha subtitulado
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/rokka-no-yuusha.jpg" group-title="Fantasia",Rokka no Yuusha subtitulado
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Rokka%20no%20Yuusha%20subtitulado
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/horimiya-piece.jpg" group-title="",Horimiya:Piece subtitulado
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/horimiya-piece.jpg" group-title="Romance",Horimiya:Piece subtitulado
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Horimiya%20piece%20subtitulado
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/dorohedoro.jpg" group-title="",Dorohedoro subtitulado
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/dorohedoro.jpg" group-title="Fantasia Oscura",Dorohedoro subtitulado
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Dorohedoro%20subtitulado
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/inuyashiki.jpg" group-title="",Inuyashiki
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/inuyashiki.jpg" group-title="Seinen",Inuyashiki
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Inuyashiki%20subtitulado
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/chainsaw-man.jpg" group-title="",Chainsaw Man
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/chainsaw-man.jpg" group-title="Shonen",Chainsaw Man
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Chainsaw%20Man%20subtitulado
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Housing_Complex_C_Visual.jpg" group-title="",Housing Complex C 2022 (Terror)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Housing_Complex_C_Visual.jpg" group-title="Terror",Housing Complex C 2022
 https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/Housing%20Complex%20C
-#EXTINF:-1 tvg-logo="https://serieslan.com/tb/lgm.jpg" group-title="",Las Guerreras Magicas + ovas Latino
+#EXTINF:-1 tvg-logo="https://serieslan.com/tb/lgm.jpg" group-title="Shojo",Las Guerreras Magicas + ovas Latino
 https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/Las%20Guerreras%20Magicas%20Latino
