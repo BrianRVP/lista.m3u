@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.imdb.com/title/tt0214341/mediaviewer/rm1238408192?ref_=ttmi_mi_all_prd_27" group-title=“Anime”,DBZ Saga Saiyan 720
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6VKOfL6ihwTiB5Vibq6QTfzhxA6.jpg" group-title=“Anime”,DBZ Saga Saiyan 720
 https://raw.githubusercontent.com/AaronCoyu/SagaSaiyan/main/Saiyan
 #EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/plunderer.jpg" group-title="Accion", Plunderer 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Plunderer 
