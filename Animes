@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/dBsDWUcdfbuZwglgyeeQ9ChRoS4.jpg" group-title=“Anime”,DBZ Saga Frezzer 720
+https://raw.githubusercontent.com/AaronCoyu/Frezzer/main/Frezzer
+
+
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ywtyEDTM2YO7qod7USNNwhrAfvA.jpg" group-title=“Anime”,DBZ Saga Garlick Jr 720
 https://raw.githubusercontent.com/AaronCoyu/Garlick/main/Garlick%20Jr
