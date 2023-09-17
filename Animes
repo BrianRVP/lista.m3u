@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/dBsDWUcdfbuZwglgyeeQ9ChRoS4.jpg" group-title=“Anime”,DBZ Saga Frezzer 720
+https://raw.githubusercontent.com/AaronCoyu/Frezzer/main/Frezzer
 #EXTINF:-1 tvg-logo="https://www.imdb.com/title/tt0214341/mediaviewer/rm1238408192?ref_=ttmi_mi_all_prd_27" group-title=“Anime”,DBZ Saga Saiyan 720
 https://raw.githubusercontent.com/AaronCoyu/SagaSaiyan/main/Saiyan
 #EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/plunderer.jpg" group-title="Accion", Plunderer 
