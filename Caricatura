@@ -3,14 +3,14 @@
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 
 .................
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xa63wUdChEZL6uDFRzjYITbVPqW.jpg" group-title=“Caricatura”,Candy1975
+https://raw.githubusercontent.com/AaronCoyu/Candy/main/Candy
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/silverhawks_tv_series-694193002-large.jpg"group-title=“Caricaturas”,Halcones Galacticos T2
 https://raw.githubusercontent.com/AaronCoyu/Halcon2/main/Halcones%202
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/silverhawks_tv_series-694193002-large.jpg"group-title=“Caricaturas”,Halcones Galacticos
 https://raw.githubusercontent.com/AaronCoyu/Halcones1/main/H%20temporada%201
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/uchu_densetsu_ulysses_31_ulysse_31-789671168-large.jpg" group-title=“Caricatura”,Ulises31
 https://raw.githubusercontent.com/AaronCoyu/Ulise/main/Ulises%2031
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/uchu_densetsu_ulysses_31_ulysse_31-789671168-large.jpg" group-title=“Caricaturas retro”,Ulises31
-https://raw.githubusercontent.com/AaronCoyu/Ulise31/main/Ulises31
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/n4KwrlUKO9S4GvOdZzmnz4zOxx7.jpg" group-title="Cartoon Network", Ben 10: Supremacia Alienigena 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Ben%2010%3A%20Supremacia%20Alienigena
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/m8F4HDlKpJk3GoDtq20h2dyQWwA.jpg" group-title="Cartoon Network",Las aventuras de Jackie Chan
