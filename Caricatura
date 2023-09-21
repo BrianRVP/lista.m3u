@@ -3,7 +3,7 @@
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 
 .................
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xa63wUdChEZL6uDFRzjYITbVPqW.jpg" group-title=“Caricatura”,Candy1975
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xa63wUdChEZL6uDFRzjYITbVPqW.jpg" group-title=“Caricaturas retro”,Candy Candy 1975
 https://raw.githubusercontent.com/AaronCoyu/Candy/main/Candy
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/silverhawks_tv_series-694193002-large.jpg"group-title=“Caricaturas”,Halcones Galacticos T2
 https://raw.githubusercontent.com/AaronCoyu/Halcon2/main/Halcones%202
