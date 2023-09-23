@@ -1,5 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/nightbooks-2-1631763006.jpg"group-title="", cuentos al caer la noche
+https://server13.mxcdnab.online/newhls/b24eb75dec63096894117cd211fb7e72/EP.0.2.v1.1676157450.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/monstrous-2-1670325302.jpg"group-title="", monstruos (SUB)
+https://server15.mxcdnab.online/newhls/4c8590913c971dfb5e3e4cec92dc210a/EP.0.0.v0.1675945335.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/afterlife-of-the-party-2-1630660803.jpg"group-title="", la fiesta del más allá
+https://server27.mxcdnab.online/newhls/fca593df1430e80eea9c033e2b7cc082/EP.0.2.v1.1677211398.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/under-wraps-2-1633998604.jpg"group-title="", una momia en halloween
+https://server45.mxcdnab.online/newhls/df9f4414e591cc92d5d5d1fd9d530f38/EP.0.2.v2.1676568112.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/dynasty-warriors-2-1625332442.jpg"group-title="", disnatia warriors (SUB)
+https://server17.mxcdnab.online/newhls/0c52099116e7467dcffada0083d94e5b/EP.0.0.v0.1679408256.720.m3u8
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/ghostbusters-afterlife-2-1637417704.jpg"group-title="", casa fantasmas: más alla
 https://server25.mxcdnab.online/newhls/54c5e121e7b7f2aba3284a4c8c159452/EP.0.2.v0.1676239462.720.m3u8
 
