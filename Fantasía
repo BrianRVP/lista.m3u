@@ -1,6 +1,11 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/kingdom-ashin-of-the-north-2-1670326540.jpg"group-title="", Kingdom: Ashin del norte
+https://server45.mxcdnab.online/newhls/4138858dc2d9ded18bd6707a85d03ef1/EP.0.1.v0.1675935234.720.m3u8
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-puerta-magica-1695134243.png"group-title="", la puerta magica
 https://server25.mxcdnab.online/newhls/d63a1af637bbc4476c0d379466e84485/EP.0.1.v1.1695137686.720.m3u8
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-rey-mono-1692434974.png" group-title="",THE MONKEY KING 
 https://pc-15.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/1c73ea851515ee2f6b2fd3c267b24fe2/EP.0.2.v2.1692440189.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/dragon-fury-2-1624327564.jpg"group-title="" ,furia de dragon
