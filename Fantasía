@@ -1,10 +1,42 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/avengers-grimm-time-wars-2-1619755683.jpg"group-title="",las vengadoras de grimm: tiempos de guerra
 https://server35.mxcdnab.online/newhls/e36ed675a3af95ecb75c29ffa62b3e05/EP.0.1.v0.1676509184.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/werewolf-castle-2-1682186170.jpg"group-title="", Werewolf Castle (SUB)
 https://server09.mxcdnab.online/newhls/1905b5d2e9961e586eac623cacb4647c/EP.0.0.v0.1682195365.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/xin-shen-bang-ne-zha-chong-sheng-2-1619144763.jpg"group-title="", nezha el renacer de un dios
 https://server45.mxcdnab.online/newhls/21312f24299615c1eebcf4bf95da7f13/EP.0.0.v0.1677835437.720.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/nightbooks-2-1631763006.jpg"group-title="", cuentos al caer la noche
+https://server13.mxcdnab.online/newhls/b24eb75dec63096894117cd211fb7e72/EP.0.2.v1.1676157450.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/monstrous-2-1670325302.jpg"group-title="", monstruos (SUB)
+https://server15.mxcdnab.online/newhls/4c8590913c971dfb5e3e4cec92dc210a/EP.0.0.v0.1675945335.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/afterlife-of-the-party-2-1630660803.jpg"group-title="", la fiesta del más allá
+https://server27.mxcdnab.online/newhls/fca593df1430e80eea9c033e2b7cc082/EP.0.2.v1.1677211398.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/under-wraps-2-1633998604.jpg"group-title="", una momia en halloween
+https://server45.mxcdnab.online/newhls/df9f4414e591cc92d5d5d1fd9d530f38/EP.0.2.v2.1676568112.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/dynasty-warriors-2-1625332442.jpg"group-title="", disnatia warriors (SUB)
+https://server17.mxcdnab.online/newhls/0c52099116e7467dcffada0083d94e5b/EP.0.0.v0.1679408256.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/ghostbusters-afterlife-2-1637417704.jpg"group-title="", casa fantasmas: más alla
+https://server25.mxcdnab.online/newhls/54c5e121e7b7f2aba3284a4c8c159452/EP.0.2.v0.1676239462.720.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-monkey-king-reborn-2-1641351258.jpg"group-title="", Kingdom: Ashin del norte
+https://server47.mxcdnab.online/newhls/4267e185283cb9c2c49577a0ec235f5a/EP.0.0.v0.1676784109.720.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-school-for-good-and-evil-2-1668851459.jpg"group-title="", Kingdom: Ashin del norte
+https://server01.mxcdnab.online/newhls/0dddb561e76580fb61b41265e1629782/EP.0.1.v0.1675953788.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/kingdom-ashin-of-the-north-2-1670326540.jpg"group-title="", Kingdom: Ashin del norte
+https://server45.mxcdnab.online/newhls/4138858dc2d9ded18bd6707a85d03ef1/EP.0.1.v0.1675935234.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-puerta-magica-1695134243.png"group-title="", la puerta magica
+https://server25.mxcdnab.online/newhls/d63a1af637bbc4476c0d379466e84485/EP.0.1.v1.1695137686.720.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-rey-mono-1692434974.png" group-title="",THE MONKEY KING 
 https://pc-15.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/1c73ea851515ee2f6b2fd3c267b24fe2/EP.0.2.v2.1692440189.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/dragon-fury-2-1624327564.jpg"group-title="" ,furia de dragon
