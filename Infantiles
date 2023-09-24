@@ -1,9 +1,16 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/AaGG41JN1mfQXUXFPxDINFDIJQ9.jpg",Animal Crossing La pelicula
 https://archive.org/download/videotime-cine-latino/Animal%20Crossing%20La%20pelicula.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/2902985.jpg",Un jefe en pañales 1
+http://archive.org/download/t0y2t0r7/UNJ3F3ENP1%C3%91.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Un_Jefe_en_Pañales_2_Poster.jpg",Un jefe en pañales 2 - Negocios de familia
+http://archive.org/download/tt6932874_202107/tt6932874.mp4
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/bob-esponja-presenta-la-marea-desconocida-1693841699.png"group-title="",Bob Esponja Presenta: La Marea Desconocida
 https://pc-25.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/59edb86502708ce3824bf816940b1245/EP.0.2.v2.1693906328.720.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-AEjJ_oOkoMw/UOQh80_qyiI/AAAAAAAAHw0/eAn0Ma7gx7A/s1600/Barbie_La_Princesa_y_La_Estrella_Pop.jpg"group-title="",Barbie: La princesa y la estrella Pop (2012)
+https://ia600509.us.archive.org/8/items/barbie-la-princesa-y-la-estrella-de-pop-2012-cinelatino-1/%EF%BC%82Barbie%20La%20Princesa%20Y%20La%20Estrella%20De%20Pop%EF%BC%82%20%282012%29%20-%20Cinelatino%20%281%29.mp4
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pequenos-guerreros-1586370904.jpg" group-title="",Pequenos guerreros (1998)
 https://pc-03.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/682b76f9a1230d36c9130010792467d3/EP.0.1.v0.1676993459.360.m3u8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ueO9MYIOHO7M1PiMUeX74uf8fB9.jpg"group-title="",Tortugas Ninja: Caos mutante

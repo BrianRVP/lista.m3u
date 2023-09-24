@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/jessica-forever-2-1682097002.jpg"group-title="", Jessica Forever
+https://server15.mxcdnab.online/newhls/2b85c20ff5d8879170fe9ec4c2b3de14/EP.0.0.v0.1682100689.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/avengers-grimm-time-wars-2-1619755683.jpg"group-title="",las vengadoras de grimm: tiempos de guerra
 https://server35.mxcdnab.online/newhls/e36ed675a3af95ecb75c29ffa62b3e05/EP.0.1.v0.1676509184.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/werewolf-castle-2-1682186170.jpg"group-title="", Werewolf Castle (SUB)
@@ -23,11 +25,11 @@ https://server17.mxcdnab.online/newhls/0c52099116e7467dcffada0083d94e5b/EP.0.0.v
 https://server25.mxcdnab.online/newhls/54c5e121e7b7f2aba3284a4c8c159452/EP.0.2.v0.1676239462.720.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-monkey-king-reborn-2-1641351258.jpg"group-title="", Kingdom: Ashin del norte
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-monkey-king-reborn-2-1641351258.jpg"group-title="", the-monkey-king-reborn
 https://server47.mxcdnab.online/newhls/4267e185283cb9c2c49577a0ec235f5a/EP.0.0.v0.1676784109.720.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-school-for-good-and-evil-2-1668851459.jpg"group-title="", Kingdom: Ashin del norte
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-school-for-good-and-evil-2-1668851459.jpg"group-title="", the-school-for-good-and-evil
 https://server01.mxcdnab.online/newhls/0dddb561e76580fb61b41265e1629782/EP.0.1.v0.1675953788.720.m3u8
 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/kingdom-ashin-of-the-north-2-1670326540.jpg"group-title="", Kingdom: Ashin del norte
