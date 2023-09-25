@@ -1,9 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2u09FiAuyMdS6EzOi7FH0ULciys.jpg" group-title=“Anime”,DBGT Saga 1
-https://raw.githubusercontent.com/AaronCoyu/GT/main/1%C2%B0%20Saga%20El%20Gran%20Viaje
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg" group-title="Naruto S",Naruto Shippuden Temporada 1
 https://raw.githubusercontent.com/AaronCoyu/NarutoShippuden/main/T1
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6VKOfL6ihwTiB5Vibq6QTfzhxA6.jpg" group-title="DBZ",DBZ Saga Saiyan 
 https://raw.githubusercontent.com/AaronCoyu/SagaSaiyan/main/Saiyan
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/dBsDWUcdfbuZwglgyeeQ9ChRoS4.jpg" group-title="DBZ",DBZ Saga Frezzer
@@ -12,8 +11,10 @@ https://raw.githubusercontent.com/AaronCoyu/Frezzer/main/Frezzer
 https://raw.githubusercontent.com/AaronCoyu/Garlick/main/Garlick%20Jr
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9j6Fgr7hn3EZpi5wMQMhwnpxYtb.jpg" group-title="DBZ",DBZ Saga Androides y Cell 
 https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Cell 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7tDoK1McXUcYiDvdecrdf061Znq.jpg" group-title="DBZ,Saga Majin Boo
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7tDoK1McXUcYiDvdecrdf061Znq.jpg" group-title="DBZ",Saga Majin Boo
 https://raw.githubusercontent.com/AaronCoyu/DBZ01/main/Majin%20Boo
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2u09FiAuyMdS6EzOi7FH0ULciys.jpg" group-title="DBZ",DBGT Saga 1
+https://raw.githubusercontent.com/AaronCoyu/GT/main/1%C2%B0%20Saga%20El%20Gran%20Viaje
 
 
 #EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/plunderer.jpg" group-title="Accion", Plunderer 
