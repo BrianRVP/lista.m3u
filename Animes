@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.cuevana3.eu/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F1azUShBxKqHUUJf61BIpnJTtAWO.jpg&w=640&q=75"group-title="",Toriko & One Piece & Dragon Ball Z
+https://dl.dropbox.com/scl/fi/a9j23mbdupuf6etdkc3ou/Toriko-One-Piece-Dragon-Ball-Z_.mp4?rlkey=v8sl6h53vd4yhpcvpta3js8m7&dl=0
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg" group-title="Naruto S",Naruto Shippuden Temporada 1
 https://raw.githubusercontent.com/AaronCoyu/NarutoShippuden/main/T1
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/onCLyCOgszTIyyVs2XKYSkKPOPG.jpg" group-title="DBZ",DB 01 En busca de las Esferas del Dragon
