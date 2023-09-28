@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7a295ezYFYw8fSYSBAFUex0romb.jpg"group-title="One Punch Man", One Punch Man temp 1
+https://raw.githubusercontent.com/linkarg13/Onepunchman/main/ONE%20PUNCH-MAN%201
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7a295ezYFYw8fSYSBAFUex0romb.jpg"group-title="One Punch Man", One Punch Man temp 2
+https://raw.githubusercontent.com/linkarg13/Onepunchman/main/ONE%20PUNCH%20MAN%202
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7a295ezYFYw8fSYSBAFUex0romb.jpg"group-title="One Punch Man", One Punch Man temp 3
+https://raw.githubusercontent.com/linkarg13/Onepunchman/main/ONE%20PUNCH%20MAN%203
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7a295ezYFYw8fSYSBAFUex0romb.jpg"group-title="One Punch Man",One Punch Man Specials
+https://raw.githubusercontent.com/linkarg13/Onepunchman/main/One%20Punch%20Man%20Specials
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7a295ezYFYw8fSYSBAFUex0romb.jpg"group-title="One Punch
+https://dl.dropbox.com/scl/fi/sws9tawri08ys1qtfrgjq/Saitama-v-Garou-_-One-Punch-Man-Manga-Animation-720P_HD.mp4?rlkey=ns1azp2owfxcfgqulyp322n6h&dl=0
 #EXTINF:-1 tvg-logo="https://www.cuevana3.eu/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F1azUShBxKqHUUJf61BIpnJTtAWO.jpg&w=640&q=75"group-title="",Toriko & One Piece & Dragon Ball Z
 https://dl.dropbox.com/scl/fi/a9j23mbdupuf6etdkc3ou/Toriko-One-Piece-Dragon-Ball-Z_.mp4?rlkey=v8sl6h53vd4yhpcvpta3js8m7&dl=0
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg" group-title="Naruto S",Naruto Shippuden Temporada 1
