@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hZHNsGDRRguDj3Ry2cy6GAa806P.jpg"group-title="SLAM DUNK",SLAM DUNK
+https://raw.githubusercontent.com/linkarg13/SLAMDUNK/main/Temporada%201
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71HjWyR-86L._AC_UF1000,1000_QL80_FMwebp_.jpg"group-title="HAIKYUU!!", HAIKYUU!! TEMP 1(SUB)
 https://raw.githubusercontent.com/linkarg13/HAIKYUU-/main/Temp%201
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71HjWyR-86L._AC_UF1000,1000_QL80_FMwebp_.jpg"group-title="HAIKYUU!!",HAIKYUU!!TEMP 2(SUB)
