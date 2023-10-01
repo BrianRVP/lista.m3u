@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/lamborghini-the-man-behind-the-legend-2-1669011202.jpg"group-title="",Lamborghini: The Man Behind the Legend
+https://dl.dropbox.com/scl/fi/6xxtpkembml9f8jrd67sx/lambo.mp4?rlkey=odsb1m8rik15lpb0wq6hdaous&dl=0
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/a-millones-de-kilometros-1695025581.png"group-title="", A millones de kilometros
 https://server27.mxcdnab.online/newhls/cc35f7a60f7b5edcdadc44dac9afa0e7/EP.0.1.v1.1695136897.720.m3u8
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.ABk8R1PIDJxK7Tl5zkUWYwHaLH&pid=Api&P=0&w=400&h=600" group-title="",STEP UP
