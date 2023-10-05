@@ -5,7 +5,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 .................
 
 
-#EXTINF:-1 tvg-logo="https://ia600502.us.archive.org/6/items/la-primera-temporada-completa/La_Primera_Temporada_Completa.jpg"group-title="Caricaturas", BOB ESOONJA TEMP 1
+#EXTINF:-1 tvg-logo="https://ia600502.us.archive.org/6/items/la-primera-temporada-completa/La_Primera_Temporada_Completa.jpg"group-title="Nickelodeon", BOB ESOONJA TEMP 1
 https://raw.githubusercontent.com/linkarg13/BOBESPONJA/main/BOB%20ESPONJA%201
 #EXTINF:-1 tvg-logo="https://ia600502.us.archive.org/6/items/la-primera-temporada-completa/temporada-2.jpg"group-title="Nickelodeon", BOB ESPONJA  TEMP 2
 https://raw.githubusercontent.com/linkarg13/BOBESPONJA/main/BOB%20ESPONJA%202
@@ -13,6 +13,21 @@ https://raw.githubusercontent.com/linkarg13/BOBESPONJA/main/BOB%20ESPONJA%202
 https://raw.githubusercontent.com/linkarg13/BOBESPONJA/main/BOB%20ESPONJA%203
 #EXTINF:-1 tvg-logo="https://ia800502.us.archive.org/6/items/la-primera-temporada-completa/Season4.jpg"group-title="Nickelodeon",BOB ESPONJA TEMPO 4
 https://raw.githubusercontent.com/linkarg13/BOBESPONJA/main/BOB%20ESPONJA%204
+#EXTINF:-1 tvg-logo="https://ia600502.us.archive.org/27/items/3495358/4726333.jpg"group-title="Nickelodeon",BOB ESPONJA TEMP 5
+https://raw.githubusercontent.com/linkarg13/BOBESPONJA/main/BOB%20ESPONA%205
+#EXTINF:-1 tvg-logo="https://ia802604.us.archive.org/21/items/temporada-6_202310/temporada-6.jpg"group-title="Nickelodeon",BOB ESPONJA TEMP 6
+https://raw.githubusercontent.com/linkarg13/BOBESPONJA/main/BOB%20ESPONJA%206
+#EXTINF:-1 tvg-logo="https://archive.org/download/images_20231004/images.jpeg"group-title="Nickelodeon",BOB ESPONJA TEMP 7
+https://raw.githubusercontent.com/linkarg13/BOBESPONJA/main/BOB%20ESPONJA%207
+#EXTINF:-1 tvg-logo="https://archive.org/download/assistir-Bob-Esponja-8a-Temporada-2011-online-pczgd21b5mzj7yh7edl1jnp1ymworiomkf07qtwywo/assistir-Bob-Esponja-8a-Temporada-2011-online-pczgd21b5mzj7yh7edl1jnp1ymworiomkf07qtwywo.jpg"group-title="Nickelodeon",BOB ESPONJA TEMP 8
+https://raw.githubusercontent.com/linkarg13/BOBESPONJA/main/BOB%20ESPONJA%208
+#EXTINF:-1 tvg-logo="https://ia800502.us.archive.org/6/items/la-primera-temporada-completa/images%20%281%29.jpeg"group-title="Nickelodeon",BOB ESPONJA TEMP 9
+https://raw.githubusercontent.com/linkarg13/BOBESPONJA/main/BOB%20ESPONJA%209
+#EXTINF:-1 tvg-logo="https://archive.org/download/3495358/3495358.jpg"group-title="Nickelodeon",BOB ESPONJA TEMP 10
+https://raw.githubusercontent.com/linkarg13/BOBESPONJA/main/BOB%20ESPONJA%2010
+
+
+
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xa63wUdChEZL6uDFRzjYITbVPqW.jpg" group-title=“Caricaturas retro”,Candy Candy 1975
 https://raw.githubusercontent.com/AaronCoyu/Candy/main/Candy
