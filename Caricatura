@@ -4,12 +4,10 @@ https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 
 .................
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/6e/c9/b5/6ec9b5e39eee4c27125ecbf07d7633be.jpg"group-title="",Mazinger Z
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/6e/c9/b5/6ec9b5e39eee4c27125ecbf07d7633be.jpg"group-title="Caricaturas retro",Mazinger Z
 https://raw.githubusercontent.com/linkarg13/SERIES/main/Mazinger%20Z
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nvnUa6L5dTlmEU1F679undOJbny.jpg"group-title="",Gran Mazinger
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nvnUa6L5dTlmEU1F679undOJbny.jpg"group-title="Caricaturas retro",Gran Mazinger
 https://raw.githubusercontent.com/linkarg13/SERIES/main/Gran%20Mazinger
-
 
 #EXTINF:-1 tvg-logo="https://ia600502.us.archive.org/6/items/la-primera-temporada-completa/La_Primera_Temporada_Completa.jpg"group-title="Nickelodeon", BOB ESOONJA TEMP 1
 https://raw.githubusercontent.com/linkarg13/BOBESPONJA/main/BOB%20ESPONJA%201
@@ -33,7 +31,8 @@ https://raw.githubusercontent.com/linkarg13/BOBESPONJA/main/BOB%20ESPONJA%209
 https://raw.githubusercontent.com/linkarg13/BOBESPONJA/main/BOB%20ESPONJA%2010
 #EXTINF:-1 tvg-logo=""group-title="Nickelodeon",BOB ESPONJA TEMP 11
 https://raw.githubusercontent.com/linkarg13/BOBESPONJA/main/BOB%20ESPONJA%2011
-
+ #EXTINF:-1 tvg-logo="https://ia800503.us.archive.org/28/items/sponge-bob-season-12-digital-cover_202310/SpongeBob_Season_12_Digital_Cover.jpg"group-title="",BOB ESPONJA TEMP 12
+https://raw.githubusercontent.com/linkarg13/BOBESPONJA/main/BOB%20ESPONJA%2012
 
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xa63wUdChEZL6uDFRzjYITbVPqW.jpg" group-title=“Caricaturas retro”,Candy Candy 1975
