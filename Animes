@@ -103,6 +103,9 @@ https://raw.githubusercontent.com/AaronCoyu/NST10/main/NST10
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg" group-title=“Naruto S”,Naruto Shippuden 11
 https://raw.githubusercontent.com/AaronCoyu/NST11/main/NST11
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg" group-title=“Naruto S”,Naruto Shippuden 13 Relleno
+https://raw.githubusercontent.com/AaronCoyu/NST13/main/NST13
+
 
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/onCLyCOgszTIyyVs2XKYSkKPOPG.jpg" group-title="DBZ",DB 01 En busca de las Esferas del Dragon
@@ -137,8 +140,6 @@ https://raw.githubusercontent.com/AaronCoyu/GT2/main/Saga%20Baby
 https://raw.githubusercontent.com/AaronCoyu/GT3/main/Saga%20de%20Super%20N17
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/aenNvQvDhKalUoLQpj1IViQRx1v.jpg" group-title="DBZ",DBGT Saga Los Dragones Oscuros
 https://raw.githubusercontent.com/AaronCoyu/GT4/main/Saga%20Los%20Dragones%20Oscuros
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2VMZ1zRFPnUQtQp5K4WRXvDYBjh.jpg" group-title=“DBZ”,HD PELICULAS
-https://raw.githubusercontent.com/AaronCoyu/DBZMovies/main/DBZPeliculas
 
 #EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/plunderer.jpg" group-title="Accion", Plunderer 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Plunderer 
