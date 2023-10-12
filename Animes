@@ -1,6 +1,6 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://img.animeflv.ws/cover/kemono-jihen.jpg"group-title="Accion", Kemono Jihen https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Kemono%20Jihen
 #EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6438/f6ec57ac9c69a96d94ea4ca8303f055530be9b54_hq.jpg"group-title="ONE PIECE",TEMP 1
 https://raw.githubusercontent.com/linkarg13/ANIME/main/ONE%20PIECE%20TEMP%201
 #EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6438/92eedb3d6606da09f1f5f3a056ed3018a1b39564_hq.jpg"group-title="ONE PIECE",TEMP 2
