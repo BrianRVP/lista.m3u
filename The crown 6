@@ -1,10 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/1M876KPjulVwppEpldhdc8V4o68.jpg"group-title=""The Crown 1
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/1M876KPjulVwppEpldhdc8V4o68.jpg"group-title="",The Crown 1
 https://server25.peliscdn.online/newhls/fa1bf469410924f41d0404d1adeda17a/EP.4.2.v0.1700170523.720.m3u8
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/1M876KPjulVwppEpldhdc8V4o68.jpg"group-title=""The Crown2
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/1M876KPjulVwppEpldhdc8V4o68.jpg"group-title="",The Crown2
 https://server26.peliscdn.online/newhls/fa1bf469410924f41d0404d1adeda17a/EP.3.0.v0.1700172373.720.m3u8
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/1M876KPjulVwppEpldhdc8V4o68.jpg"group-title=""The Crown3
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/1M876KPjulVwppEpldhdc8V4o68.jpg"group-title="",The Crown3
 https://server08.peliscdn.online/newhls/fa1bf469410924f41d0404d1adeda17a/EP.2.2.v0.1700170356.720.m3u8
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/1M876KPjulVwppEpldhdc8V4o68.jpg"group-title=""The Crown4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/1M876KPjulVwppEpldhdc8V4o68.jpg"group-title="",The Crown4
 https://server25.peliscdn.online/newhls/fa1bf469410924f41d0404d1adeda17a/EP.4.2.v0.1700170523.720.m3u8
