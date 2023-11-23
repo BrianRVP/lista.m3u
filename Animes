@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9RTWmNrzy7IfpdpMOynjT5KDfVP.jpg" group-title=“Caballeros del Zodiaco”,Saga Santuario
+https://raw.githubusercontent.com/AaronCoyu/CDZ1/main/Caballeros%2001
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zHgc9nTXiP77qoy14BO7WUFTwkp.jpg" group-title=“SuperCampeones”,Supercampeones Temporada 1
 https://raw.githubusercontent.com/AaronCoyu/CapitanTsubasa/main/Tsubasa
 
