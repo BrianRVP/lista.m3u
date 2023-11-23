@@ -453,7 +453,7 @@ https://archive.org/download/elch4v0/sweedr.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE BOYS.jpg" group-title="Prime video",THE BOYS
 http://archive.org/download/3-d-kanojo/TB.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE CROWN.jpg" group-title="Netflix",THE CROWN
-http://archive.org/download/cro-3/CRO.m3u
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Temporadas%20The%20crown
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE DEFENDERS.jpg" group-title="Disney+",THE DEFENDERS
 http://archive.org/download/ns_20210520/DEFENDER.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE END OF THE WORD.jpg" group-title="Netflix",THE END OF THE WORD
