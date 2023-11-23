@@ -452,7 +452,7 @@ http://archive.org/download/sweethome_202101/SWEETHOME.m3u
 https://archive.org/download/elch4v0/sweedr.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE BOYS.jpg" group-title="Prime video",THE BOYS
 http://archive.org/download/3-d-kanojo/TB.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE CROWN.jpg" group-title="Netflix",THE CROWN
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/1M876KPjulVwppEpldhdc8V4o68.jpg" group-title="Netflix",THE CROWN
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Temporadas%20The%20crown
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE DEFENDERS.jpg" group-title="Disney+",THE DEFENDERS
 http://archive.org/download/ns_20210520/DEFENDER.m3u
