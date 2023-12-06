@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-shepherd.jpg"group-title="",The Shepherd
+https://pc-18.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/f98fc2eeb8feb844b7f0001582608309/EP.0.2.v0.1701519559.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mision-imposible.jpg"group-title="",misión imposible 
 https://pc-05.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/64dbed26bf981fcabaeb8e44761eade4/EP.0.1.v0.1677988882.360.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mision-imposible-2.jpg"group-title="",misión imposible 2
