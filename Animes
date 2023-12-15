@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/awcSoxNyCJg3OzH7acX6K6EISDZ.jpg"group-title="SuperCampeones",SUPER CAMPEONES
+https://raw.githubusercontent.com/linkarg13/SERIES/main/Supercampeones
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9RTWmNrzy7IfpdpMOynjT5KDfVP.jpg" group-title=“Caballeros del Zodiaco”,Saga Santuario
 https://raw.githubusercontent.com/AaronCoyu/CDZ1/main/Caballeros%2001
 
