@@ -1,9 +1,8 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo=""group-title="https://www.themoviedb.org/t/p/w220_and_h330_face/f9nqRcXKVT96dYKPVQpTONYcxnK.jpg",la despedida
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/f9nqRcXKVT96dYKPVQpTONYcxnK.jpg"group-title="",la despedida
 https://pc-11.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/bd92a6870441f5efdab703893e6050a2/EP.0.2.v0.1702170743.720.m3u8
-#EXTINF:-1 tvg-logo=""group-title="https://www.themoviedb.org/t/p/w220_and_h330_face/hwc8TlNjddcgpCzujLP17hBC8TI.jpg",Blackberry: El Inicio De La Historia
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/hwc8TlNjddcgpCzujLP17hBC8TI.jpg"group-title="",Blackberry: El Inicio De La Historia
 https://pc-12.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/0e593303ba8e5d6bc827bbf79e5329c0/EP.0.2.v0.1702103269.720.m3u8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/4LBnOi9K18tRmeoClUb3uo75u0u.jpg"group-title="",Pequeños grandes amigos 
 https://pc-19.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/de8d1e88385c330e90e5a00edb4e7357/EP.0.1.v0.1701952057.720.m3u8
