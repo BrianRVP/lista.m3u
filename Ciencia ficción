@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-llegada.jpg"group-title="",la llegada
+https://server22.peliscdn.online/newhls/328d1df386588b6302c0e45ad8adbece/EP.0.2.v1.1676537955.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-mill-1696950513.png"group-title="",The Mill(SUB)
 https://pc-07.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/1b209c584ccaf8ad518d5b34dab7f860/EP.0.0.v0.1696951816.720.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/nU3Ivtwbo30W66WTSqOuCeyJaln/nU3Ivtwbo30W66WTSqOuCeyJaln.jpeg"group-title="",Resistencia
