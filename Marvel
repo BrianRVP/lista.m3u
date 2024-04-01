@@ -1,5 +1,25 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/7ygcpWXsWmEc83j7zE8P0lvC0Q.jpg"group-title=""Doctor Extraño:,El Hechicero Supremo
+https://cache006.peliscdn.online/newhls/bc1d36e11596f5b9be3f8b5a63974bc0/EP.0.1.v0.1709514261.720.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/mFL0EzAhEj3vscyGUMk6sT7pfQg.jpg"group-title="",Marvel Rising: Battle Of The Band
+https://cache005.peliscdn.online/newhls/7321e386a6178faf0af28c9d8a2c52c3/EP.0.1.v0.1710149362.360.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/iCiaRZUwMddvUmQcUtbZwu808g.jpg"group-title="",Marvel Rising:Playing With Fir
+https://cache006.peliscdn.online/newhls/33ad5a0813816952f82beafb07e9e85d/EP.0.1.v0.1710090892.360.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/8bbspDJMKus6XSnw2F4gBuACylo.jpg"group-title="",Marvel Rising: Chasing Ghosts
+https://cache003.peliscdn.online/newhls/e846c58ea100de0ba299e3b4b6da6e1a/EP.0.1.v1.1709963324.360.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/4fcvluN98HWo6VB7C5ONRNOL4CY.jpg"group-title="",Marvel Rising: Operation Shuri
+https://cache008.peliscdn.online/newhls/cf87e4e689aba262e664e13d5aae486d/EP.0.1.v0.1710301822.360.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/kY1ufnbv2bTyoNcAtGF4BwapKi6.jpg"group-title="",Marvel Rising: Secret Warriors
+https://cache010.peliscdn.online/newhls/f3e3f6670599a2cf7d2b40902fff1a8a/EP.0.2.v1.1709546825.720.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/2StM8Vavf7ukvuj9mxg1o7nKxmi.jpg"group-title="",Marvel Super Hero Adventures: Frost Figh
+https://cache011.peliscdn.online/newhls/62eabd14417f3c974ec403417fae7683/EP.0.1.v0.1710325170.720.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/8BVM79SlfNzY73dTakZMvOgSRg0.jpg"group-title="",Marvelous and the Black Hole
+https://cache005.peliscdn.online/newhls/5eb60e0d02bcf45361f8b3c0fcd9b43d/EP.0.0.v0.1710241295.360.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/vpuuFM032yiX8tox4L84Wl9MGjG.jpg"group-title="",The Marvels
+https://cache010.peliscdn.online/newhls/ef6d31cb7e94896b8f73b03e97ccc4b7/EP.0.2.v0.1708680023.720.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/4tOusszxyHiqhVkhA0Ng19eZFtp.jpg"group-title="",Los Vengadores: Justicia y Venganza
+https://cache017.peliscdn.online/newhls/32ef865956de4ad6903c43122ce9e1a7/EP.0.1.v0.1709632274.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/deadpool.jpg" group-title="",Deadpool(2016)
 https://pc-33.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/612e42c82aba80421f2e39e0d6c203bb/EP.0.2.v1.1676486894.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/deadpool-2.jpg" group-title="",Deadpool 2 (2018)
