@@ -86,8 +86,8 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Mis%20aventuras%2
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/invincible
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg" group-title="HBO Max",Euphoria 1
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Euphoria
-#EXTINF:-1 tvg-logo="https://static.eldiario.es/clip/2e5dd4d5-8c3a-4778-aacf-18b173ae3fc3_16-9-discover-aspect-ratio_default_0.jpg" group-title="Telefe",Los simuladores version argentina
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Los%20simuladores%20version%20argentina
+#EXTINF:-1 tvg-logo="https://static.eldiario.es/clip/2e5dd4d5-8c3a-4778-aacf-18b173ae3fc3_16-9-discover-aspect-ratio_default_0.jpg" group-title="Telefe",Simuladores version argentina
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Simuladores%20argentina
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/halo-1668956365.png" group-title="Paramount+",HALO (2022)
 https://raw.githubusercontent.com/Bvserver123/Ghghg/main/Halo
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/true-detective.jpg" group-title="HBO Max",True detective
@@ -136,6 +136,8 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Twisted%20metal
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/THE%20boys
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/ash-vs-evil-dead.jpg" group-title="Prime video",ash vs evil dead
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/ash%20vs%20evil%20dead
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-chavo-del-ocho-1669646032.png" group-title="Prime video",El chavo del ocho
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/El%20chavo%20del%20ocho
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/preacher.jpg" group-title="Prime video",preacher 
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Preacher
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/AMERICAN DAD.jpg" group-title="Star+",AMERICAN DAD
