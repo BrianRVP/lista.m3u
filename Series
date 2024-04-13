@@ -268,7 +268,7 @@ http://archive.org/download/m-4-nd-4-l-0-r-1-an-0-temp-01-m-3-u/M4ND4L0R1AN0TEMP
 https://archive.org/download/elch4v0/sisy.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/gonzalez-narvaez/b34ckm4.jpg" group-title="Netflix",EL MUNDO DE BEAKMAN {1992}
 http://archive.org/download/ns_20210520/BECMAN.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/zfwbbab1yfHAjFbbClh1jYoV8gi.jpg" group-title="NETFLIX",Parasyte:Los grises latino
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/zfwbbab1yfHAjFbbClh1jYoV8gi.jpg" group-title="Netflix",Parasyte:Los grises latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Parasyte%3ALos%20grises
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/EL MUNDO OCULTO DE SABRINA.jpg" group-title="Netflix",EL MUNDO OCULTO DE SABRINA
 http://archive.org/download/kuhlman_1/Series/series/El%20mundo%20oculto%20de%20sabrina%20opc%202.m3u
