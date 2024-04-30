@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Guatemala.txt
 #EXTINF:-1 tvg-logo=""group-title="Plutotv + canales",Canales
 https://telechancho.github.io/telechancho-iptv/telechancho-infinity.m3u
 #EXTINF:-1 tvg-logo=""group-title="pruebas",h2
-https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/lista%20iptv%20de%20peliculas.txt
+https://www.googleapis.com/drive/v3/files/1N1oNr91Y7mLRyH-pFi0u7R43xaPBftaA?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10
 #EXTINF:-1 tvg-logo=""group-title="pruebas",hj
 https://www.googleapis.com/drive/v3/files/1yHdIinqchLh4OsIWeNofZWYQ7PsGkJop?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10
 #EXTINF:-1 tvg-logo=""group-title="Vip", Deportes
