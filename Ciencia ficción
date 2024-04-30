@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-llegada.jpg"group-title="",la llegada
-https://server22.peliscdn.online/newhls/328d1df386588b6302c0e45ad8adbece/EP.0.2.v1.1676537955.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-llegada.jpg"group-title="",la llegada (2016) 720p latino
+https://cache005.peliscdn.online/newhls/328d1df386588b6302c0e45ad8adbece/EP.0.1.v1.1708859288.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-mill-1696950513.png"group-title="",The Mill(SUB)
 https://pc-07.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/1b209c584ccaf8ad518d5b34dab7f860/EP.0.0.v0.1696951816.720.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/nU3Ivtwbo30W66WTSqOuCeyJaln/nU3Ivtwbo30W66WTSqOuCeyJaln.jpeg"group-title="",Resistencia
@@ -33,12 +33,12 @@ https://pc-12.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxj
 https://pc-36.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/54f828301039bc2ff8b7dfd62d58b4a3/EP.0.2.v3.1676142386.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/interestelar.jpg" group-title="", Interestelar 
 https://pc-15.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/3030a2c920fe338caf68329a2aa4bf2e/EP.0.1.v1.1677424856.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/piratas-del-caribe-5-la-venganza-de-salazar.jpg" group-title="",Piratas del Caribe 5: La venganza de Salazar
-https://pc-40.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ab32f68a9920cad109be027be321d7ce/EP.0.1.v2.1677270788.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/piratas-del-caribe-4-navegando-aguas-misteriosas.jpg" group-title="",Piratas del Caribe 4: Navegando Aguas Misteriosas
-https://pc-18.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/cd2135d223c541cb41bb762eecc0bd9e/EP.0.1.v0.1677153581.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/piratas-del-caribe-3-en-el-fin-del-mundo.jpg" group-title="",Piratas del Caribe 3: En el Fin del Mundo
-https://pc-20.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/34dc391af567eed650a9ea27c39f8056/EP.0.1.v0.1677514952.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/piratas-del-caribe-5-la-venganza-de-salazar.jpg" group-title="",Piratas del Caribe 5: La venganza de Salazar (2017) 720p latino
+https://cache007.peliscdn.online/newhls/ab32f68a9920cad109be027be321d7ce/EP.0.1.v2.1708705735.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/piratas-del-caribe-4-navegando-aguas-misteriosas.jpg" group-title="",Piratas del Caribe 4: Navegando Aguas Misteriosas (2011) 720p latino
+https://cache006.peliscdn.online/newhls/cd2135d223c541cb41bb762eecc0bd9e/EP.0.1.v0.1708710464.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/piratas-del-caribe-3-en-el-fin-del-mundo.jpg" group-title="",Piratas del Caribe 3: En el Fin del Mundo (2007) 720p latino
+https://cache011.peliscdn.online/newhls/34dc391af567eed650a9ea27c39f8056/EP.0.1.v0.1708716420.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/piratas-del-caribe-2-el-cofre-de-la-muerte.jpg" group-title="",Piratas del Caribe 2: El Cofre de la Muerte
 https://pc-34.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/3a8fc04fbe4ec360a447fdf336145a35/EP.0.1.v1.1677470252.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/piratas-del-caribe-1-la-maldicion-del-perla-negra.jpg" group-title="",Piratas del Caribe 1: La Maldición del Perla Negra
