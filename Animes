@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s3clSZKSqJNILzmAEm5KaTUS5Z0.jpg"group-title="DBZ",DBKai
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/DBKai
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/c1T8UHwCaq6JeQYgt4U8ERPGoxN.jpg"group-title="Accion",Kaiju No. 8 (2024)
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Kaiju%20no%208
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/awcSoxNyCJg3OzH7acX6K6EISDZ.jpg"group-title="SuperCampeones",SUPER CAMPEONES
