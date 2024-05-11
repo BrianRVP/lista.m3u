@@ -210,8 +210,14 @@ https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Shingeki%20no%20Kyojin
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Devilman%20crybaby
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/woj562S4ezij0xne8tE1nfDucow.jpg" group-title="Terror",Housing complex c
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Housing%20complex%20c
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/ito-junji-collection.jpg" group-title="Terror",Junji ito: Relatos japoneses de lo macabro
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/ito-junji-collection.jpg" group-title="Terror",Junji ito: Relatos japoneses de lo macabro subtitulado
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/junji%20ito%20maniac%3A%20Relatos%20japoneses%20de%20lo%20macabro
+#EXTINF:-1 tvg-logo="https://img.animeflv.ws/cover/ito-junji-collection.jpg" group-title="Terror",Junji Ito Maniac: Relatos japoneses de lo macabro latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Junji%20ito%20maniac%20latino
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/tAECSui9V4CtOZBwKJAfQH4M2Di.jpg" group-title="Terror",Invasion en las alturas subtitulado
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Invasion%20en%20las%20alturas%20subtitulado
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/tAECSui9V4CtOZBwKJAfQH4M2Di.jpg" group-title="Terror",Invasion en las alturas latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Invasion%20en%20las%20alturas%20latino
 #EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/saint-seiya-omega.jpg" group-title="Shonen",Saint seiya omega
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Saint%20seiya%20omega
 #EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/terra-formers.jpg" group-title="Ciencia Ficcion",Terra formars
@@ -286,6 +292,8 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Saint%20seiya%20t
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Mashle%20subtitulado
 #EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/hell-girl.jpg" group-title="Terror",Hell Girl subtitulado
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Hell%20girl
+#EXTINF:-1 tvg-logo="https://img.animeflv.ws/cover/hell-girl.jpg" group-title="Terror",Hell Girl latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Hell%20girl%20latino
 #EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/kakegurui.jpg" group-title="Suspenso",Kakegurui subtitulado
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Kakegurui
 #EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/kanojo-okarishimasu.jpg" group-title="Comedia Romantica",Rent a girlfriend subtitulado
