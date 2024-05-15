@@ -1,5 +1,6 @@
 #EXTM3U
+#Accion
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/infierno-rojo.jpg" group-title"Accion",Infierno rojo (1988) 720p latino
 https://cache018.peliscdn.online/newhls/11be51808f834d2459b6974c5284e34f/EP.0.2.v0.1709981851.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/robocop-1-1987.jpg" group-title="",Robocop 1 (1987) 720p latino
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/robocop-1-1987.jpg" group-title="Accion",Robocop 1 (1987) 720p latino
 https://cache007.peliscdn.online/newhls/ca8a816e4e870eb8920c6fbfeb281805/EP.0.1.v0.1709214948.720.m3u8
