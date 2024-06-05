@@ -19,8 +19,8 @@ https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Guatemala.txt
 https://telechancho.github.io/telechancho-iptv/telechancho-infinity.m3u
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qd5mogpwp8i3slq8pw2vd/d6x3mmi-2fb87b96-b6ba-45fd-953d-9486a7a2fdf5.jpg?rlkey=dw00kjesv9gtql08eul7sqdl3&dl=0"group-title="pruebas",hl
 https://www.googleapis.com/drive/v3/files/1PlF-SPCGfmptxXVq4azyGZSOZaF6rMFX?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10
-#EXTINF:-1 tvg-logo=""group-title="pruebas",hj
-https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Jkm.php
+#EXTINF:-1 tvg-logo=""group-title="pruebas",c1
+https://www.googleapis.com/drive/v3/files/1svy_Poy9F-MD9j-CvGptn2-aWcMchX8e?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10
 #EXTINF:-1 tvg-logo=""group-title="Vip", Deportes
 https://raw.githubusercontent.com/Zickari0619/DEPORTES/main/DEPORTESCHILE.m3u
 #EXTINF:-1 tvg-logo=""group-title="Vip", Canales 24/7
