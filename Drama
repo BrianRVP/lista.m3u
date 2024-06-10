@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/nahir.jpg"group-title="", Nahir (2024)
+https://www.googleapis.com/drive/v3/files/136gbDdLqzh_dR5oN6SrPuKRzBq_6WRD7?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w188_and_h282_bestv2/cNtNlHNHmcfAPFf4K4yhEf24Yev.jpg"group-title="",El Camino de Hill
 https://dl.dropbox.com/scl/fi/z4ws02ib2seqq8uj7vlhs/239309-28e66ac3-9c69-40ac-9e57-184e8b66c9eb-qbwz-2031967-doodstream.mp4?rlkey=1ovwrn7qrl88o4lynnagycv2o&dl=0
 #EXTINF:-1 tvg-logo="https://ia600207.us.archive.org/16/items/ferrari-396284438-large-1/Ferrari-396284438-large%20%281%29.jpg"group-title="",Ferrari (2023)
