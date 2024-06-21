@@ -14,6 +14,9 @@ https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Venezuela.txt
 https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Uruguay.txt
 #EXTINF:-1 tvg-logo=""group-title="Por Paises", Guatemala 
 https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Guatemala.txt
+#EXTINF:-1 tvg-logo="https://ia600406.us.archive.org/1/items/images_20240621/images.jpeg"group-title="",copa euro y america
+https://raw.githubusercontent.com/linkarg13/SERIES/main/Copa%20euro%20y%20america
+
 
 #EXTINF:-1 tvg-logo=""group-title="Plutotv + canales",Canales
 https://telechancho.github.io/telechancho-iptv/telechancho-infinity.m3u
