@@ -50,7 +50,12 @@ https://cache015.peliscdn.online/newhls/6401bc37baa9143ce4fb830a481db0fa/EP.0.1.
 https://cache012.peliscdn.online/newhls/6978f8ed49e17ec8aaba4c05cfd0b495/EP.0.1.v0.1708955167.360.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/robocop-3-1579645805.jpg" group-title="Accion",Robocop 3 (1993) 360p latino
 https://cache013.peliscdn.online/newhls/10728b1d3a886b9f3360e92ce561c11a/EP.0.1.v0.1709524806.360.m3u8
+
+
 #Infantiles
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w116_and_h174_face/etctWkYFfP7voGM3rd7uqxQJavY.jpg" group-title="Infantiles",El Guardian De Las Palabras (1994) 720p latino
+https://dl.dropbox.com/scl/fi/jf4sth4meu7vzzoc5dr0z/seg-1-v1-a1.mp4?rlkey=jk6y19767k4z22v3229z517zs&dl=0
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-sirenita.jpg" group-title="Infantiles",La sirenita (1989) 720p latino
 https://cache006.peliscdn.online/newhls/820d765f12c3212ccf915a6bc87ded94/EP.0.1.v1.1708715569.720.m3u8
 #EXTINF:-1  tvg-logo="https://pelisimg.online/cover/e-t-el-extraterrestre.jpg" group-title="Infantiles",E.T. El Extraterrestre (1982) 720p latino
