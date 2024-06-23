@@ -2,8 +2,6 @@
 
 
 
-"#EXTM3U
-
 
 #EXTINF:-1,tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/tshllXJDIctUlD1kMPQdIh37L2V.jpg",Argylle: agente secreto (2024)
 https://dl.dropbox.com/scl/fi/t6rijs8arxg8yryc0jovi/4rgy.mp4?rlkey=hrx9ustmmc7zisfpqfdsxxuoj
@@ -29,7 +27,7 @@ https://dl.dropbox.com/scl/fi/lkripk0qmmnuan0j7y06g/1nd14n4.mkv?rlkey=baf29h38vu
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kSNQPpm/ext2.jpg",Misión Rescate 2 (2023)
 https://dl.dropbox.com/s/ohbgz776mnv8f7u/extrac2.mp4
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/lagranpor/lagranpor.png",La Gran Muralla (2016)
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/iImPtjtMOQcVrMeKj6tqYFoWEVa.jpg",La Gran Muralla (2016)
 https://dl.dropbox.com/s/mn8wtasq82xrken/342536476587912344.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CMzr3b1/PIRATAS-DEL-CARIBE-EL-COFRE-DE-LA-MUERTE.jpg",Piratas del Caribe 2 - El cofre de la muerte
@@ -98,7 +96,7 @@ https://archive.org/download/casa-en-el-lago/87234--bfc7cfbc-00d6-4215-96b3-11b7
 #EXTINF:-1 tvg-logo="https://archive.org/download/eeeee_202302/__ia_thumb.jpg",Devoción (2022)
 https://archive.org/download/devotion-720p-dual-1.4-gb/Devotion%20720p%20DUAL%201.4%20GB.mkv
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/glad_20230202/glad.jpg",Gladiador (2000)
+#EXTINF:-1 tvg-logo="https://ibb.co/tpCfSYQ",Gladiador (2000)
 https://archive.org/download/026_20200428/026.mkv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDRHzSm/Free.jpg",Chico libre (2021)
@@ -195,9 +193,6 @@ https://archive.org/download/chocolate_202004/chocolate/chocolate.mkv
 https://archive.org/download/maiz23/maiz/maiz%2023.mkv
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/cjyGCKyEZKhZF2YkqxyzrfoeKoL.jpg",Apocalypto (2006) Dialecto Maya
-https://dl.dropbox.com/s/ewmka7ezyxmojqe/4p0c4lypt0.mp4
-
-#EXTINF:-1 tvg-logo="https://archive.org/download/apopor/apopor.png",Apocalipto (2006)
 https://archive.org/download/picante_202003/picante/picante.mp4
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/ay90WBc6vrC7IYneuuyAS00hw2F.jpg",Yojimbo (1961) Doble
