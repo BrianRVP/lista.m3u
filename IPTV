@@ -14,8 +14,10 @@ https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Venezuela.txt
 https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Uruguay.txt
 #EXTINF:-1 tvg-logo=""group-title="Por Paises", Guatemala 
 https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Guatemala.txt
+
 #EXTINF:-1 tvg-logo="https://ia600406.us.archive.org/1/items/images_20240621/images.jpeg"group-title="",copa euro y america
 https://raw.githubusercontent.com/linkarg13/SERIES/main/Copa%20euro%20y%20america
+
 #EXTINF:-1 tvg-logo="https://ibb.co/Pr0FrWg"group-title="",SAMSUNG TV PLUS
 https://raw.githubusercontent.com/linkarg13/Samsung-tv-p-us/main/SAMSUNGTVPLUS
 
@@ -28,7 +30,7 @@ https://telechancho.github.io/telechancho-iptv/telechancho-infinity.m3u
 #EXTINF:-1 tvg-logo=""group-title="pruebas",c
 https://be6721.rcr72.waw04.cdn112.com/hls2/01/06352/8qszfuvymczp_h/master.m3u8?t=c0LvPnAZWGPPQvhfuBAgPxsPYguAkpBx-1UJLozY7Vg&s=1718471706&e=43200&f=31778630&srv=28&asn=60068&sp=4000
 #EXTINF:-1 tvg-logo=""group-title="pruebas",c1
-https://ssmalxtwk.sw-cdnstreamwish.com/hls2/01/04176/2fa1dzq1m2u5_n/master.m3u8?t=RPmItaNJxE1NBxN5sHP37b-i-LmCbWyRYuf1bWT6P-A&s=1719148146&e=129600&f=20882136&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=271991
+https://www.mediafire.com/file/45ehbhpjn0k1pxx/cre3d1.pkg/file
 #EXTINF:-1 tvg-logo=""group-title="pruebas",c2
 https://tvlatino.club:2082/get.php?username=miguel04vip3mess&password=CFMkEx79aHja&type=m3u_plus
 #EXTINF:-1 tvg-logo=""group-title="Vip", Deportes
