@@ -30,7 +30,7 @@ https://telechancho.github.io/telechancho-iptv/telechancho-infinity.m3u
 #EXTINF:-1 tvg-logo=""group-title="pruebas",c
 https://ssmalxtwk.sw-cdnstreamwish.com/hls2/01/04176/2fa1dzq1m2u5_n/master.m3u8?t=RPmItaNJxE1NBxN5sHP37b-i-LmCbWyRYuf1bWT6P-A&s=1719148146&e=129600&f=20882136&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=271991
 #EXTINF:-1 tvg-logo=""group-title="pruebas",c1
-https://www.mediafire.com/file/45ehbhpjn0k1pxx/cre3d1.pkg/file
+https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/INFANTIL.m3u
 #EXTINF:-1 tvg-logo=""group-title="pruebas",c2
 https://tvlatino.club:2082/get.php?username=miguel04vip3mess&password=CFMkEx79aHja&type=m3u_plus
 #EXTINF:-1 tvg-logo=""group-title="Vip", Deportes
