@@ -5,7 +5,11 @@
 #EXTINF:-1 tvg-logo="https://archive.org/download/large_mv5by2u5ymq3yjgtm2i2oc00ymm5ltkym2mtn2i5zjg2mde0odkwxkeyxkfqcgdeqxvymdm2nd/large_MV5BY2U5YmQ3YjgtM2I2OC00YmM5LTkyM2MtN2I5Zjg2MDE0ODkwXkEyXkFqcGdeQXVyMDM2NDM2MQ__._V1_FMjpg_UX1000_.jpg"group-title="",Bad boys 4 (2024)
 https://dl.dropbox.com/scl/fi/cjprf7xar6f5724tvv1mn/Ver-Bad-Boys-Hasta-la-muerte-online-Cuevana2.mp4?rlkey=ejcbwaip1gmrpuqnhbwjwbwb5&dl=0
 
+<<<<<<< patch-161
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/5XR7Pbo8qdwdpOIsFtWJOEiOJD6.jpg"group-title="",Bad boys 3 (2020)
+=======
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/5XR7Pbo8qdwdpOIsFtWJOEiOJD6.jpg"group-title="",Bad boys 3(2020)
+>>>>>>> main
 https://cache003.peliscdn.online/newhls/9aab9c639bcfcf0188dea61d4661bb51/EP.0.1.v0.1708831245.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qyHDZB87UQF9cu6uuQzhhaKGvuo.jpg"group-title="",Bad boys 2 (2003)
