@@ -417,8 +417,6 @@ https://dl.dropbox.com/scl/fi/5cs7bp2nhmaek970i4fyn/235653-4051763b-49d5-4182-9e
 https://dl.dropboxusercontent.com/scl/fi/j3ghfd6js8mdvi8qzbnvw/G51D6Z7I4LL31A-M4I5N87U23S-9001ONE.mp4?rlkey=e1vph40auenwzw5r6616uo2ye&st=0uoyht80
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cazadores-en-tierra-inhospita.jpg"group-title="", cazadores en tierra inhospita
 https://xwhokrurewib.sw-cdnstream.com/hls2/01/02916/5aa0w8xsavm2_,n,h,.urlset/index-f2-v1-a1.m3u8?t=ZB72vXHSgQW2-uzV8jL-DWi-LX2u5zWn-gK9IAKMIY0&s=1706561117&e=129600&f=14584547&srv=W5Yj349NT2GF&i=0.4&sp=500&p1=W5Yj349NT2GF&p2=W5Yj349NT2GF&asn=11664
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-shepherd.jpg"group-title="",The Shepherd
-https://pc-18.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/f98fc2eeb8feb844b7f0001582608309/EP.0.2.v0.1701519559.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mision-imposible.jpg"group-title="",misión imposible (1996) 720p latino
 https://cache009.peliscdn.online/newhls/64dbed26bf981fcabaeb8e44761eade4/EP.0.1.v0.1709075412.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mision-imposible-2.jpg"group-title="",misión imposible 2 (2000) 720p latino
@@ -512,8 +510,14 @@ https://pc-13.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxj
 https://cache010.peliscdn.online/newhls/3670bf25ec1237d543decac85386dc03/EP.0.1.v0.1708988840.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/sin-escalas.jpg" group-title="",Sin Escalas (2014) 720p latino
 https://cache018.peliscdn.online/newhls/e1da86082a7dcd114adfa57da11f6425/EP.0.1.v0.1709220378.720.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/rrr-2-1669103404.jpg" group-title="",RRR
 https://pc-39.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/f72ef72dbea46c67a791c3cdc5b90499/EP.0.2.v0.1676061643.720.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/venganza-implacable-1608237909.jpg" group-title="",Venganza Implacable (2020) 360p 
 https://cache008.peliscdn.online/newhls/e4407387637787e046a50c0e883ff269/EP.0.1.v0.1708894396.360.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/blacklight-1669297536.png" group-title="",Blacklight 
