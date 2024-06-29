@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/Zickari0619/DEPORTES/main/DEPORTESCHILE.m3u
 https://raw.githubusercontent.com/Zickari0619/24-7/main/247.m3u
 
 #EXTINF:-1 tvg-logo="https://cdn.conmebol.com/wp-content/uploads/2021/11/libertadores-generico_1-1024x751.jpg"group-title="Deportes", Libertadores 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/638df7f42b4fea0007f8af98/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+http://ultrapremium.cloud:8080/get.php?username=96109895&password=2473ph&type=m3u_plus
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210820025220&path-prefix=es"group-title="infantiles",cartoon network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-360p.m3u8
  
