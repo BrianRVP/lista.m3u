@@ -39,6 +39,9 @@ https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/master.m3u
 http://stream.radio90.fm:2050/live.m3u8?fbclid=IwZXh0bgNhZW0CMTEAAR0h_2LZIrAbrx9plMWBf3nfTwpK8f-iQ10XgmTEMcYTrx98cuQyR1FZgow_aem_yr0i62ih3trPqPNwqpaTjA
 
 
+#EXTINF:-1 tvg-logo=""group-title="prueba",radio
+http://stream.radio90.fm:2000/ios
+
 #EXTINF:-1 tvg-logo=""group-title="pruebas",radio music puq
 https://vdochile.com:3761/live/redupxprlive.m3u8?fbclid=IwZXh0bgNhZW0CMTEAAR3DGPy_AbE3p65IeR0tvEiX_10Dwb1lcVpBmN-UKUbQnPcbLwX1Q7IHf8I_aem_kCLB9o5zQniBGGGbZFYxrQ
 
