@@ -19,6 +19,8 @@ https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Guatemala.txt
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lnb9HZQ/40919552-bot-n-redondo-con-la-bandera-y-el-texto-calidad-premium.jpg"group-title="", PREMIUM
+https://bit.ly/guilmoncito
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NVLN8hp/images.jpg"group-title="",BFlix TV
 https://raw.githubusercontent.com/linkarg13/DEPORTE/main/Bflix%20tv
@@ -34,9 +36,6 @@ https://raw.githubusercontent.com/linkarg13/DEPORTE/main/FUTBOL%20VIVO
 
 #EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_landscape_tablet/f_png/mls/ld9ebd4owgmirf5wc98e.png"group-title="",ARGENTINA VS PERU 
 https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/master.m3u8?hdnea=st=1719685828~exp=1719862228~acl=/hls/live/2040462/canal8cordoba/TOK/*~hmac=c5e7dad40fdb0d7b73aa224d9438aaca784370e602970a2aef676d697f2eb570
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lnb9HZQ/40919552-bot-n-redondo-con-la-bandera-y-el-texto-calidad-premium.jpg"group-title="", PREMIUM
-https://bit.ly/guilmoncito
 
 
 
