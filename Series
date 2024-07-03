@@ -53,8 +53,8 @@ https://raw.githubusercontent.com/linkarg13/SERIES/main/El%20chavo
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/x%20men%2097
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-encargado-2-1668829575.jpg"group-title="Star+", el encargado
 https://raw.githubusercontent.com/linkarg13/PELICULAS/main/ELENCARGADO
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uuot1N5AgZ7xRCKgm4ZCwOhgIJu.jpg"group-title=“Prime video”,GEN V
-https://raw.githubusercontent.com/AaronCoyu/GENV/main/GENV
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uuot1N5AgZ7xRCKgm4ZCwOhgIJu.jpg"group-title=“Prime video”,GEN V latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Gen%20V
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mr-pickles-1578934520.jpg"group-title="HBO Max",Mr. Pickles
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Mrpicle
 #EXTINF:-1 tvg-logo="https://www.cuevana3.eu/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3Iw27VOUE9PGjrupjDAvPnlbGR9.jpg&w=640&q=75"group-title="Netflix", cuerpo en llamas
@@ -91,7 +91,7 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Obi%20wan%20kenob
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Twkb
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/hannibal-675473429-mmed.jpg" group-title="Prime video",Hannibal
 https://raw.githubusercontent.com/Bvserver123/Ghghg/main/Hannibal
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/o8YYo24AIe5KxRqrgEEVwcPw0M6.jpg" group-title="HBO Max",Mis nuevas aventuras con superman 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/o8YYo24AIe5KxRqrgEEVwcPw0M6.jpg" group-title="HBO Max",Mis nuevas aventuras con superman latino 
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Mis%20aventuras%20con%20superman
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/invincible-2-1617205323.jpg" group-title="Prime video",Invencible latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/invencible
@@ -105,10 +105,10 @@ https://raw.githubusercontent.com/Bvserver123/Ghghg/main/Halo
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Knucles
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/true-detective.jpg" group-title="HBO Max",True detective
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/True%20detective
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/SYvwtsk4vWPAtB0wlgLlecWCFc.jpg" group-title="HBO Max",VGLY latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/VGLY
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/1883-2-1640009164.jpg" group-title="Paramount+",1883
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/1883
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/SYvwtsk4vWPAtB0wlgLlecWCFc.jpg" group-title="HBO Max",VGLY
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/VGLY
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hermanos-de-sangre.jpg" group-title="HBO Max",band of brothers latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Band%20of%20brothers
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-walking-dead.jpg" group-title="Star+",the walking dead
@@ -163,6 +163,8 @@ http://archive.org/download/ns_20210520/HOHIS.m3u
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Power%20rangers%20fuerza%20salvaje
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ANDY  Y  MACK.jpg" group-title="Disney+",ANDY  Y  MACK
 http://archive.org/download/ns_20210520/ANDMA.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/hVIvwh1wIzWYjG2Hzb5ztoBwEFl.jpg" group-title="Disney+",Acolyte
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Acolyte
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/power-rangers-fuerza-del-tiempo.jpg" group-title="Prime video",Power rangers fuerza del tiempo
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Power%20rangers%20fuerza%20del%20tiempo
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/power-rangers-dino-fury-1669337375.png" group-title="Prime video",Power rangers dino fury
@@ -567,8 +569,10 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20tick
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Tokyo%20vice
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-returned.jpg" group-title="Apple tv+",The returned
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20returned
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/muy-viejo-para-morir-joven-1586966431.jpg" group-title="Prime video",Muy viejo para morir joven
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/muy-viejo-para-morir-joven-1586966431.jpg" group-title="Prime video",Muy viejo para morir joven latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Muy%20viejo%20para%20morir%20joven
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/img/1a/dd/1add5061b1c27ae10929a4d3fe3ac200.jpg" group-title="Prime video",¿Quién lo mató? latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/%C2%BFQui%C3%A9n%20lo%20mat%C3%B3%3F
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/years-and-years.jpg" group-title="HBO Max",Years and years
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Years%20and%20years
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/anne-with-an-e-1598657484.jpg" group-title="Netflix",Anne with an E
@@ -601,11 +605,11 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Oscuro%20Deseo
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/La%20casa%20de%20papel%20temporada%205
 #EXTINF:-1 tvg-logo="https://www.clarin.com/img/2024/04/22/xCel-AVbY_720x0__1.jpg" group-title="Netflix",bebe reno latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/bebe%20reno%20latino
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/peacemaker-2-1642142642.jpg" group-title="HBO Max",Peacemaker
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/peacemaker-2-1642142642.jpg" group-title="HBO Max",Peacemaker latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Peacemaker
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-rehearsal-2-1669013408.jpg" group-title="HBO Max",The Rehearsal
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20Rehearsal
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/house-of-the-dragon-2-1669011306.jpg" group-title="HBO Max",La casa del dragon
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/house-of-the-dragon-2-1669011306.jpg" group-title="HBO Max",La casa del dragon latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/La%20casa%20del%20dragon
 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-rehearsal-2-1669013408.jpg" group-title="HBO Max",The Rehearsal
