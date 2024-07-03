@@ -38,6 +38,9 @@ https://raw.githubusercontent.com/linkarg13/DEPORTE/main/FUTBOL%20VIVO
 https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/master.m3u8?hdnea=st=1719685828~exp=1719862228~acl=/hls/live/2040462/canal8cordoba/TOK/*~hmac=c5e7dad40fdb0d7b73aa224d9438aaca784370e602970a2aef676d697f2eb570
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDs30bS/IMG-20240703-030446.jpg"group-title="pruebas",SR.REGIO
+https://raw.githubusercontent.com/linkarg13/Prueba/main/Sregio
+
 
 
 --------------
