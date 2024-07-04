@@ -39,11 +39,11 @@ https://raw.githubusercontent.com/linkarg13/DEPORTE/main/FUTBOL%20VIVO
 https://raw.githubusercontent.com/linkarg13/Prueba/main/Sregio
 
 
-#EXTINF:-1 tvg-logo=""group-title="pruebas",server probando
+#EXTINF:-1 tvg-logo=""group-title="pruebas",serve1
 https://iptv-org.github.io/iptv/languages/spa.m3u
 
-#EXTINF:-1 tvg-logo=""group-title="pruebas",prueba 2
-https://iptv-org.github.io/iptv/index.country.m3u
+#EXTINF:-1 tvg-logo=""group-title="pruebas",prueb2
+https://iptv-org.github.io/iptv/index.category.m3u
 
 
 
