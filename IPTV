@@ -1,6 +1,4 @@
-#EXTM3U 
-
-
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EuD3NFEVxqo/XwcVyOUbDHI/AAAAAAAA2mo/ZUkrO1nc7GQPy2ycgo8jROEUH3c9ASw-QCK8BGAsYHg/s0/2020-07-09.png" group-title="CHILE",UCV
 https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
@@ -80,4 +78,5 @@ http://tv.teleclub.xyz/lista/canales.m3u
 #EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv/1604400204_458039_1604400248_noticia_normal_recorte2.jpg" group-title="IPTV ACTUALIZABLES",IPTV ADULT
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Pelis%20y%20series%20HD%20full%204
 
-
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/0zbu8t0wjvuyxzoqyqjtk/IMG-20240704-WA0009.jpg?rlkey=5v0cyd5a072o9797i1j67gn1a&dl=0" group-title="", ARGENTINA VS ECUADOR 
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1720126463~exp=1720133663~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=83e88b6b46650ed67410dcd5d046d843d170d989704131811eb1abe049f113e8
