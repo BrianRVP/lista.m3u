@@ -79,4 +79,4 @@ http://tv.teleclub.xyz/lista/canales.m3u
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Pelis%20y%20series%20HD%20full%204
 
 #EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/0zbu8t0wjvuyxzoqyqjtk/IMG-20240704-WA0009.jpg?rlkey=5v0cyd5a072o9797i1j67gn1a&dl=0" group-title="", ARGENTINA VS ECUADOR 
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1720126463~exp=1720133663~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=83e88b6b46650ed67410dcd5d046d843d170d989704131811eb1abe049f113e8
+https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/master.m3u8?hdnea=st=1720140751~exp=1720317151~acl=/hls/live/2040462/canal8cordoba/TOK/*~hmac=ea8c04536573ccce1601ae0ee72ff47bccef8ed912b2982f0cb0800e53306885
