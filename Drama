@@ -1,4 +1,8 @@
 #EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/i9mQEM8dzl5vklW6VEqlONdbUJk.jpg"group-title="",besos que matan(1997)
+https://cache020.peliscdn.online/newhls/555521a7641913fc8c7eabbd8a2a0a1c/EP.0.1.v1.1709613299.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/nahir.jpg"group-title="", Nahir (2024)
 https://www.googleapis.com/drive/v3/files/136gbDdLqzh_dR5oN6SrPuKRzBq_6WRD7?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w188_and_h282_bestv2/cNtNlHNHmcfAPFf4K4yhEf24Yev.jpg"group-title="",El Camino de Hill
