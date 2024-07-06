@@ -1,8 +1,10 @@
 #EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/fqw049swt2tvvdt5xt82u/Problemista-969959543-large.jpg?rlkey=phmw758v7m0oqp5up9aok82zu&dl=0"group-title="",problemista(2024)
+https://dl.dropbox.com/scl/fi/688rdkyh0lg4e764zkhsu/Problemista-2024-720p-DUAL-1.61-GB.mkv?rlkey=tau846fzvdu0hcy5v7vr41led&dl=0
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/tW6V8C81lzYuRy8yFe1dvvGhL4j.jpg"group-title="",Padre no hay más que uno
 https://dl.dropbox.com/scl/fi/hkbfltigz5o1t41bcxe4w/Padre-no-hay-mas-que-uno-1080p-CASTELLANO-1-45-GB.mp4?rlkey=omm8aedczrykpe36ia22m2nyh&dl=0
-
-
 #EXTINF:-1 tvg-logo="https://archive.org/download/nDrUZE24mSB54cuHEjslMLvfFRQ/nDrUZE24mSB54cuHEjslMLvfFRQ.jpg"group-title="",los infalibles (2024)
 https://archive.org/download/los-infalibles-2024-720p-trial-1.71-gb/Los%20Infalibles%20%282024%29%20720p%20TRIAL%201.71%20GB.mkv
 #EXTINF:-1 tvg-logo="https://archive.org/download/img-20240703-185830-742/IMG_20240703_185830_742.jpg"group-title="",un detective suelto (2024)
