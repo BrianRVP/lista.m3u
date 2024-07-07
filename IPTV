@@ -30,16 +30,7 @@ https://raw.githubusercontent.com/linkarg13/DEPORTE/main/BICS
 https://raw.githubusercontent.com/linkarg13/DEPORTE/main/FUTBOL
 
 #EXTINF:-1 tvg-logo="https://ia600406.us.archive.org/1/items/images_20240621/images.jpeg"group-title="",FUTBOL VIVO
-.1
-#EXTINF:-1 tvg-logo=""group-title="",Uruguay vs Brasil
-https://264b5fd4b823.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.905417993498.channel.iFThIlOW4UYi.m3u8
-
-.1
-#EXTINF:-1 tvg-logo=""group-title="",Uruguay vs Brasil
-https://264b5fd4b823.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.905417993498.channel.iFThIlOW4UYi.m3u8
-
-
-
+https://raw.githubusercontent.com/linkarg13/DEPORTE/main/FUTBOL%20VIVO
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDs30bS/IMG-20240703-030446.jpg"group-title="pruebas",SR.REGIO
 https://raw.githubusercontent.com/linkarg13/Prueba/main/Sregio
