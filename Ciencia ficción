@@ -3,10 +3,22 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/sin-limites_202407/sin-limites.jpg"group-title="",sin limites (2011)
-https://cache013.peliscdn.online/newhls/2f3336b9f36611f3e0425cf95e1e75eb/EP.0.1.v1.1708771090.m3u8
+
+
+---------------------MAD MAX--------------
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VQ5M4vq/IMG-20240626-001614-583.jpg"group-title="",Furiosa: De la saga Mad Max (2024)
 https://dl.dropbox.com/scl/fi/a40mw5j2zpz2z6knpvlx9/PS3MOVIE-..mp4?rlkey=flr1q2rqwrfc3vuqwelfn6ri1&dl=0
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/fubhuus8bvlx88c8kpn12/IMG_20240707_072507_922.jpg?rlkey=csp4wvovocbv6jpfewb1i5w4r&dl=0"group-title="",Mad Max: Furia en el Camino(2015) 
+https://archive.org/download/mad-max-furia-en-el-camino-2015-hd-1-81-gb_202407/Mad%20max%20furia%20en%20el%20camino%202015%20HD%201%2C81%20GB.mp4
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/7ojx4z8lmcdwqf2qu5o0g/IMG_20240707_072528_278.jpg?rlkey=2tdrkc4xasccqkgg0cb7hyhin&dl=0"group-title="",Mad Max 3:Más Allá de la Cúpula del Trueno(1985)
+https://archive.org/download/mad-max-3-1985-hd-2-59-gb/Mad%20Max%203%20%281985%29%20HD%202%2C59%20GB.mkv
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tqgkpzgo72d280ilb697c/IMG_20240707_072517_535.jpg?rlkey=0qcjhpo8yty7ud3iifz9630yo&dl=0"group-title="",Mad Max 2: El Guerrero de la Carretera (1981)
+https://cache005.peliscdn.online/newhls/dec4de1e9869f0cbf97b76d86401e2be/EP.0.1.v0.1708953677.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/hua6ijr0jn0id572mo5iq/IMG_20240707_072533_284.jpg?rlkey=0auy5azl0t4ec6cwapk0yqt0m&dl=0"group-title="",Mad Max: Salvajes de Autopista(1979)
+https://cache011.peliscdn.online/newhls/c87e326513aaa45ea79e5813a68fcc80/EP.0.1.v0.1709083328.m3u8
+
+
 
 -------------------planeta de los simios ------------
 
@@ -57,6 +69,10 @@ https://cache014.peliscdn.online/newhls/e3d28f82e9358a1edc5c49ae836b2af0/EP.0.1.
 https://cache006.peliscdn.online/newhls/c60664468e5b68718edf0151ec5bdb01/EP.0.1.v0.1708796782.m3u8
 
 
+
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/sin-limites_202407/sin-limites.jpg"group-title="",sin limites (2011)
+https://cache013.peliscdn.online/newhls/2f3336b9f36611f3e0425cf95e1e75eb/EP.0.1.v1.1708771090.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-llegada.jpg"group-title="",la llegada (2016) 720p latino
 https://cache005.peliscdn.online/newhls/328d1df386588b6302c0e45ad8adbece/EP.0.1.v1.1708859288.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-mill-1696950513.png"group-title="",The Mill(SUB)
