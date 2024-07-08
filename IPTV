@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/linkarg13/Prueba/main/Sregio
 
 
 #EXTINF:-1 tvg-logo=""group-title="pruebas",serve1
-https://m3u.cl/lista/total.m3u 
+http://192.168.1.33:30001/file/EDFawkMf/video.mp4 
 
 #EXTINF:-1 tvg-logo=""group-title="pruebas",prueb2
 https://raw.githubusercontent.com/FattiJim/pelisplus-tw-proyecto.github.io/main/index.php
