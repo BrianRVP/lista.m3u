@@ -1,21 +1,6 @@
 #EXTM3U
 
 
-
---------------------rey escorpion------------
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/9LVocsQ2Pnc0RaKNhUhGvEs8ekM.jpg"group-title="",El rey escorpion 5
-https://dl.dropbox.com/scl/fi/ssi6rfsrcysreqyc9a9b1/rey5_4936199977647997179.mp4?rlkey=5w7srwc2m58ztv8e6j097zef3&dl=0
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/o0Ecfsb3HKxnw1D4WpTKHUpr4jF.jpg"group-title="", el rey escorpion 4 
-https://ia601405.us.archive.org/35/items/rey4_4936199977647997178/rey4_4936199977647997178.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/3xCBshzQNkaUpiRV23mIGTKaN1k.jpg"group-title="", El rey escorpion 3
-https://archive.org/download/rey3_20240709_004104_794/rey3_20240709_004104_794.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XXMJjRQ/IMG-20240707-162756-383.jpg"group-title="",,El Rey Escorpión 2
-https://dl.dropboxusercontent.com/scl/fi/2e65v8k369vrbtu3894eo/1_4936199977647997178.mp4?rlkey=jsdedlnotr817qd4nk1arbiis&dl=0
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/aAOQaJ9PeL29mgr2og42d3ZV68L.jpg"group-title="",El rey escorpion
-https://cache014.peliscdn.online/newhls/9f187049cb3c4d8b8afdad27a8e839ab/EP.0.1.v0.1709227872.m3u8
-
-
 ---------------------MAD MAX--------------
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VQ5M4vq/IMG-20240626-001614-583.jpg"group-title="",Furiosa: De la saga Mad Max (2024)
@@ -72,6 +57,20 @@ https://archive.org/download/alien-vs-predator-2004-hd-1-62-gb/Alien%20vs%20Pred
 https://archive.org/download/alien-resurrection-720p-1-86-gb/Alien%20resurrection%20720p%201%2C86%20GB.mkv
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/na56kpf63rptb9omj95x4/alien3_poster.jpg?rlkey=qf43ydf6fdomowpozecaqen6m&dl=0"group-title="",Alien³ (1992)
 https://cache008.peliscdn.online/newhls/738dc721837680d502037d68ab2cc2c7/EP.0.1.v0.1709046734.m3u8
+
+--------------------rey escorpion------------
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/9LVocsQ2Pnc0RaKNhUhGvEs8ekM.jpg"group-title="",El rey escorpion 5
+https://dl.dropbox.com/scl/fi/ssi6rfsrcysreqyc9a9b1/rey5_4936199977647997179.mp4?rlkey=5w7srwc2m58ztv8e6j097zef3&dl=0
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/o0Ecfsb3HKxnw1D4WpTKHUpr4jF.jpg"group-title="", el rey escorpion 4 
+https://ia601405.us.archive.org/35/items/rey4_4936199977647997178/rey4_4936199977647997178.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/3xCBshzQNkaUpiRV23mIGTKaN1k.jpg"group-title="", El rey escorpion 3
+https://archive.org/download/rey3_20240709_004104_794/rey3_20240709_004104_794.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XXMJjRQ/IMG-20240707-162756-383.jpg"group-title="",,El Rey Escorpión 2
+https://dl.dropboxusercontent.com/scl/fi/2e65v8k369vrbtu3894eo/1_4936199977647997178.mp4?rlkey=jsdedlnotr817qd4nk1arbiis&dl=0
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/aAOQaJ9PeL29mgr2og42d3ZV68L.jpg"group-title="",El rey escorpion
+https://cache014.peliscdn.online/newhls/9f187049cb3c4d8b8afdad27a8e839ab/EP.0.1.v0.1709227872.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8ct4zbzip1h64xnhscksd/Aliens_El_regreso-989223912-large.jpg?rlkey=qwvj3dhmars2si2xgnhgv6xtj&dl=0"group-title="",alien 2 regreso (1986)
 https://dl.dropbox.com/scl/fi/2khujwjbygm5w7oae2gr5/1_5181705449363211039.mp4?rlkey=mgd7degj823edk486jxrmz7ox&dl=0
