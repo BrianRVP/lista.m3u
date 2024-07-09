@@ -1,9 +1,16 @@
 #EXTM3U
 
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/xz91Gre0w7tyl99jGEh5oGc8DQ7.jpg"group-title="",muere,hart
+https://dl.dropbox.com/scl/fi/wdy5jf8ytqoi5vdsxk9wl/Hart-Duro-De-Entrenar-720p-DUAL-870.03-MB.mkv?rlkey=cpsftycltnbt8gy5r62qzwf3r&dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NS66r54/Muere-Hart-2-Doble-o-nada-555294751-large.jpg"group-title="",muere,hart 2
+https://archive.org/download/hart-duro-de-entrenar-2-720p-dual-1.59-gb/Hart%20Duro%20De%20Entrenar%202%20720p%20DUAL%201.59%20GB.mkv
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/iwk9pWR6MwTInEQc8Vw5vGHjeQ0.jpg"group-title="",Tonto pero no tanto
 https://dl.dropbox.com/scl/fi/6yyuqt6oc9rlcsuyekwsn/Billy-Madison-HD-LAT-700.04-MB.avi?rlkey=brojb1ghizlo8s195ktf2pfy4&dl=0
-
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/fqw049swt2tvvdt5xt82u/Problemista-969959543-large.jpg?rlkey=phmw758v7m0oqp5up9aok82zu&dl=0"group-title="",problemista(2024)
 https://dl.dropbox.com/scl/fi/688rdkyh0lg4e764zkhsu/Problemista-2024-720p-DUAL-1.61-GB.mkv?rlkey=tau846fzvdu0hcy5v7vr41led&dl=0
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/tW6V8C81lzYuRy8yFe1dvvGhL4j.jpg"group-title="",Padre no hay más que uno
