@@ -74,7 +74,7 @@ https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Pluto%20tv
 
 #EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv/1604400204_458039_1604400248_noticia_normal_recorte2.jpg" group-title="", TELECLUB
 http://tv.teleclub.xyz/lista/canales.m3u
-#EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv/1604400204_458039_1604400248_noticia_normal_recorte2.jpg" group-title="IPTV ACTUALIZABLES",IPTV ADULT
+#EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv/1604400204_458039_1604400248_noticia_normal_recorte2.jpg" group-title="", ADULT
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Pelis%20y%20series%20HD%20full%204
 
 #EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/0zbu8t0wjvuyxzoqyqjtk/IMG-20240704-WA0009.jpg?rlkey=5v0cyd5a072o9797i1j67gn1a&dl=0" group-title="", ARGENTINA VS ECUADOR 
