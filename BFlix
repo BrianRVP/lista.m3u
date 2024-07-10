@@ -1,6 +1,6 @@
 #EXTM3U
-
-
+#EXTINF:-1, Peliculas Religiosas
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/peliculas%20religiosas
 #EXTINF:-1,Found Footage
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Found%20Footage
 #EXTINF:-1 , belico
@@ -11,10 +11,6 @@ https://raw.githubusercontent.com/Isaxd183/Pruwba/main/Prueba
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Pel%C3%ADculas%20de%20desastres%20naturales
 #EXTINF:-1 ,80 & 90
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Pelis80y90
-#EXTINF:-1 ,Series
-https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Series
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2019/11/iptv-omniverse.jpg?x=480&y=375&quality=40" group-title="",IPTV 
-https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/IPTV 
 #EXTINF:-1 ,Infantiles 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Infantiles
 #EXTINF:-1 ,Accion 
@@ -37,5 +33,11 @@ https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Dc%20Comics
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Marvel
 #EXTINF:-1 ,Animación 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Animaci%C3%B3n
+
+#EXTINF:-1 ,Series
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Series
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2019/11/iptv-omniverse.jpg?x=480&y=375&quality=40" group-title="",IPTV 
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/IPTV 
+
 #EXTINF:-1 ,Animes
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Animes
