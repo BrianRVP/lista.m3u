@@ -1,22 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EuD3NFEVxqo/XwcVyOUbDHI/AAAAAAAA2mo/ZUkrO1nc7GQPy2ycgo8jROEUH3c9ASw-QCK8BGAsYHg/s0/2020-07-09.png" group-title="CHILE",UCV
-https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=""group-title="Por Paises", Argentina 
-https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/playlist.txt
-#EXTINF:-1 tvg-logo=""group-title="Por Paises", Chile
-https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Chile.txt
-#EXTINF:-1 tvg-logo=""group-title="Por Paises", Peru
-https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Peru.txt
-#EXTINF:-1 tvg-logo=""group-title="Por Paises", Venezuela 
-https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Venezuela.txt
-#EXTINF:-1 tvg-logo=""group-title="Por Paises", Uruguay 
-https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Uruguay.txt
-#EXTINF:-1 tvg-logo=""group-title="Por Paises", Guatemala 
-https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Guatemala.txt
-
-
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210820025220&path-prefix=es" group-title="",IPTV BFlix PREMIUM 
+https://ultrapremium.cloud:8080/get.php?username=96109895&password=2473ph&type=m3u_plus
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lnb9HZQ/40919552-bot-n-redondo-con-la-bandera-y-el-texto-calidad-premium.jpg"group-title="", PREMIUM
 https://bit.ly/guilmoncito
 
