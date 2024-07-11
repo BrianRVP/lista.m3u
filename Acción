@@ -1,15 +1,20 @@
 #EXTM3U
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/cND79ZWPFINDtkA8uwmQo1gnPPE.jpg"group-title="",60 minutos
+https://archive.org/download/60-minutos-720p-dual-1.11-gb/60%20Minutos%20720p%20DUAL%201.11%20GB.mkv
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg"group-title="",Caracortada
 https://dl.dropbox.com/scl/fi/oo4vpadivclpc78nm9gs4/Scarface-720p-LAT-1.33-GB.mp4?rlkey=uxisu1m7u7j1i9b3pggg7ifhe&st=j7oagb2g&dl=0
-
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/iLgRu4hhSr6V1uManX6ukDriiSc.jpg"group-title="",Una aventura extraordinaria
 https://dl.dropbox.com/scl/fi/puvcjoutho50afn6voouh/163231-cadfd741-ed7b-40d7-93a2-219d16cf0835-opxb-1149406-doodstream.mp4?rlkey=rbowse2lqkjzazws7lio635gs&dl=0
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/xjw5trHV7Mwo61P0kCTy8paEkgO.jpg"group-title="",Al filo del mañana
 https://dl.dropbox.com/scl/fi/ek7eiyzeo9xjvjxployya/1_4904692887838523875.mp4?rlkey=0u11lbea04adrlo0ehewincv4&st=m47bj3pk&dl=0
-
 #EXTINF:-1 tvg-logo="https://archive.org/download/img-20240705-075140-392/IMG_20240705_075140_392.jpg"group-title="",Los tres mosqueteros: Milady (2023)
 https://archive.org/download/los-tres-mosqueteros-milady-2023-720p-dual-1.91-gb/Los%20Tres%20Mosqueteros%20Milady%20%282023%29%20720p%20DUAL%201.91%20GB.mkv
-
 #EXTINF:-1 tvg-logo="https://archive.org/download/large_mv5by2u5ymq3yjgtm2i2oc00ymm5ltkym2mtn2i5zjg2mde0odkwxkeyxkfqcgdeqxvymdm2nd/large_MV5BY2U5YmQ3YjgtM2I2OC00YmM5LTkyM2MtN2I5Zjg2MDE0ODkwXkEyXkFqcGdeQXVyMDM2NDM2MQ__._V1_FMjpg_UX1000_.jpg"group-title="",Bad boys 4 (2024)
 https://dl.dropbox.com/scl/fi/cjprf7xar6f5724tvv1mn/Ver-Bad-Boys-Hasta-la-muerte-online-Cuevana2.mp4?rlkey=ejcbwaip1gmrpuqnhbwjwbwb5&dl=0
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/5XR7Pbo8qdwdpOIsFtWJOEiOJD6.jpg"group-title="",Bad boys 3(2020)
