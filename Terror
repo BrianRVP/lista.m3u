@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-extranos-caceria-nocturna.jpg" ,Los Extraños: Cacería Nocturna
+https://cache001.peliscdn.online/newhls/941a59606d2a93db22bab2006de2a9dd/EP.0.1.v0.1709290922.m3u8
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/1DdfXaXzi1sJysZ800GOUAwlLR4.jpg"group-title="",Hotel sin salida
 https://dl.dropbox.com/scl/fi/fq09nxaoe2gljz4e5qatz/Hotel-Sin-Salida-720p-LAT-1.28-GB.mp4?rlkey=uj4hjf9xm4ga9n3fgtrtla8pz&st=t53draea&dl=0
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qp0xpheiKwK2ASjX3YUwDPVOzHx.jpg"group-title="",Hotel sin salida 2
