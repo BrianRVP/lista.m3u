@@ -58,5 +58,5 @@ http://tv.teleclub.xyz/lista/canales.m3u
 #EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv/1604400204_458039_1604400248_noticia_normal_recorte2.jpg" group-title="", ADULT
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Pelis%20y%20series%20HD%20full%204
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BrianRVP/Bflix/main/1080x1350-2024-06-19T103812.910-1024x576.png" group-title="", ARGENTINA VS  Canadá 
-https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/master.m3u8?hdnea=st=1720553762~exp=1720730162~acl=/hls/live/2040462/canal8cordoba/TOK/*~hmac=abf05c9c016a87474ef83e0c344a11da36fa85cb78a0788bd7c3d8228a75c6d3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BrianRVP/Bflix/main/1080x1350-2024-06-19T103812.910-1024x576.png" group-title="", ARGENTINA VS  COLOMBIA
+https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/master.m3u8?hdnea=st=1720986501~exp=1721162901~acl=/hls/live/2040462/canal8cordoba/TOK/*~hmac=a7b62731e63988482bb15188d49b76b41b52663d75b8cb4d32d3fb62981e1318
