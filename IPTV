@@ -14,11 +14,6 @@ https://raw.githubusercontent.com/linkarg13/DEPORTE/main/BICS
 #EXTINF:-1 tvg-logo="https://ia600406.us.archive.org/1/items/images_20240621/images.jpeg"group-title="",DEPORTE
 https://raw.githubusercontent.com/linkarg13/DEPORTE/main/FUTBOL
 
-#EXTINF:-1 tvg-logo=""group-title="FUTBOL VIVO",sala 1
-http://172.105.6.199:8081/app/ht/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="FUTBOL VIVO",sala 2
-
-
 #EXTINF:-1 tvg-logo="https://ia600406.us.archive.org/1/items/images_20240621/images.jpeg"group-title="",FUTBOL VIVO
 https://raw.githubusercontent.com/linkarg13/DEPORTE/main/PREMIUM
 
