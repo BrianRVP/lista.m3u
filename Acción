@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/1M300Yg1ccr0xGgTO4bpK9uKI7X.jpg"group-title="",Shooter: El tirador 
+https://dl.dropbox.com/scl/fi/3vc9eikyi20ft8ej797ly/1152x480Shooter-El-tirador.mp4?rlkey=7lokd15gptg4bu3ugal591dss&dl=0
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/vuyYqZVFGmF2rCBy8C6QytaAbBY.jpg"group-title="",13 horas
 https://cache020.peliscdn.online/newhls/d5761d491808ba06aafd46e64681179e/EP.0.1.v1.1708881276.m3u8
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/e6hXSlsnAShEJ7M63wweyDbhv0r.jpg"group-title="",Guardianes de altamar
