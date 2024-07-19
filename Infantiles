@@ -1,11 +1,17 @@
 #EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/9iIDsw7RJHYU94z7k4mbYP5IlYT.jpg"group-title="",sing 2
+https://archive.org/download/sing-2_202407/sing%202.mp4
+#EXTINF:-1 tvg-logo=""group-title="",El Mundo Miraculous Shanghai (2023)
+https://archive.org/download/el-mundo-miraculous-shanghai-720p-dual-1-53-gb/El%20Mundo%20Miraculous%20Shanghai%20720p%20DUAL%201%2C53%20GB.mkv
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/isb2Qow76GpqYmsSyfdMfsYAjts.jpg"group-title="",El cadaver de la novia
 https://dl.dropbox.com/scl/fi/7ex4trqmnuh4stzndwpqw/226687-5acc7786-e492-411f-89b5-6ac9748d1fd2-fmcj-1897933-doodstream.mp4?rlkey=ok4h2rojhmeqt6jr4tfjdfgch&dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8sS9bWZ/w-D4ccm-FDo-REmq-AHmzw-Oj-Nu-Ysylv.jpg"group-title="",mi primera cita
 https://archive.org/download/intensamente-primera-cita-de-riley-2015-1080p-dual-83.87-mb/Intensamente%20Primera%20cita%20de%20Riley%20%282015%29%201080p%20DUAL%2083.87%20MB.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/vBiqoYfDIWKKzZTiQScqgCO09UD.jpg"group-title="",La leyenda de la llorona
 https://dl.dropbox.com/scl/fi/oolhk49sd4tmrh1e0zydj/92211-768f1c32-1ecc-4700-849a-6d6d805a9761-utbx-867401-doodstream.mp4?rlkey=g0ty5wrd3ucayi0igh6ztotp7&dl=0
-
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qGLnbmNnOAI1IgjtWdfVWnJkGku.jpg"group-title="",un gato con suerte
 https://dl.dropbox.com/scl/fi/0kr1cozc0jsd2c66j8l8g/Un-Gato-Con-Suerte-2024-720p-DUAL-1.3-GB.mkv?rlkey=wj5zkzyq70ci7cy1bfu3glxlt&dl=0
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/9mOEVJCKUWMxTABooY1U0FSwfi6.jpg"group-title="",una familia de barrio (2024)
