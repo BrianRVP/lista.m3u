@@ -59,13 +59,8 @@ https://cache020.peliscdn.online/newhls/873c1faa312524f5e8db52ed52372025/EP.0.1.
 https://cache017.peliscdn.online/newhls/fe60ce6eeb5c78680d86af1d3b9faa65/EP.0.1.v1.1708728812.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/animales-fantasticos-los-crimenes-de-grindelwald.jpg" group-title="",Animales fantásticos 2 los Crímenes de Grindelwald
 https://cache011.peliscdn.online/newhls/7190cee7e8a74339c17f9a35c2ea9e73/EP.0.1.v2.1708723036.720.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/yOeuJdwag4bAlnvgrdweRoiuXGC.jpg" group-title="",Animales fantásticos 3 los Secretos de Dumbledore
 https://cache015.peliscdn.online/newhls/585e96feaec357fe1fa324d979f42728/EP.0.1.v2.1708713830.720.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/harry-potter-20th-anniversary-return-to-hogwarts-2-1641231250.jpg" group-title="",Harry Potter, 20º Aniversario: Regreso a Hogwarts
 https://cache006.peliscdn.online/newhls/7d8e4040ceac49f936f4d1ba8506eb1b/EP.0.0.v2.1708655819.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/las-cronicas-de-narnia-el-leon-la-bruja-y-el.jpg" group-title="",Las Crónicas de Narnia: El León, La Bruja y El Ropero
@@ -88,6 +83,8 @@ https://cache014.peliscdn.online/newhls/87834e8c6d08ce91fc99ae3530aba708/EP.0.1.
 https://moodle1.myyschool.xyz/emUrRGV6aC9UTEJsdndINDkrT1B4cnl0UTFYZ2lGMVZzakpTOUZKWFB5UT0.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-secret-garden-2-1597216323.jpg" group-title="",El Jardin Secreto
 https://cache017.peliscdn.online/newhls/54342ce14b02cb44d1fe14d72ecbe340/EP.0.1.v0.1709377926.720.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nPhFNB6/Van.jpg",Van Helsing
+https://dl.dropbox.com/s/78yalld8nmq1383/Van%20Helsing%20%282004%29.mp4
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-hogar-de-miss-peregrine-para-ninos-peculiares.jpg" group-title="",El Hogar de Miss Peregrine para Niños Peculiares
 https://cache008.peliscdn.online/newhls/7b72643c2dcae0cf8b5032fdbdbcd6fc/EP.0.1.v2.1708751965.720.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/3xFxGodKPMFLheS8rujFSmLfcq4.jpg" group-title="",Un puente hacia Terabithia
