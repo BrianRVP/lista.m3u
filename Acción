@@ -1,4 +1,8 @@
 #EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/kSq6Y51TcGqFqYaRRKKijNtHeJX.jpg"group-title="",el duro
+https://archive.org/download/el-duro_202407/El%20duro.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/odBUpjZGxY3y7FBo5NBtEYGJf5r.jpg"group-title="", Alerta roja
 https://dl.dropbox.com/scl/fi/8n0skaqb1azot62aqbhgz/Alerta-Roja-1080p-LAT-1-59-GB.mp4?rlkey=v89pbddu9naeklqa7t0o9owqm&st=05o1zdx2&dl=0
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/1M300Yg1ccr0xGgTO4bpK9uKI7X.jpg"group-title="",Shooter: El tirador 
