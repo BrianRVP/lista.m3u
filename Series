@@ -469,7 +469,10 @@ http://archive.org/download/sedven/sedven.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SEX EDUCATION.jpg" group-title="Netflix",SEX EDUCATION
 http://archive.org/download/ns_20210520/seed.m3u
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/08/25/13/36/120735.jpg" group-title="HBO Max",Smallville
-http://archive.org/download/ANIME_20190528/SMALLVILLE.m3u
+https://dl.dropbox.com/s/nnh3v77mim55ulx/Smallville.m3u
+
+
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SHERLOCK CASTELLANO.jpg" group-title="Prime video",SHERLOCK CASTELLANO
 http://archive.org/download/ns_20210520/SHERLOCK.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SIN LIMITES.jpg" group-title="Prime video",SIN LIMITES
