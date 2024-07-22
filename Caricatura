@@ -5,7 +5,8 @@ https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 .................
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/gkmlFc6kE2djINsy2RWGVHlex73.jpg"group-title="Disney channel", pecezuelos
 https://raw.githubusercontent.com/HECTHINHOXD/Series-bflix/main/Pecezuelos
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mcpcpgs/somosositos.png" group-title="Cartoon Network", Escandalositos
+https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Ositos
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/6e/c9/b5/6ec9b5e39eee4c27125ecbf07d7633be.jpg"group-title="Caricaturas retro",Mazinger Z
 https://raw.githubusercontent.com/linkarg13/SERIES/main/Mazinger%20Z
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nvnUa6L5dTlmEU1F679undOJbny.jpg"group-title="Caricaturas retro",Gran Mazinger
