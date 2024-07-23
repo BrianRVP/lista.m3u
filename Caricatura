@@ -150,8 +150,8 @@ http://archive.org/download/kkkkk_202101/L46R4NJ473MP0.m3u
 https://archive.org/download/ns_20210520/LA%20JOVEN%20LIGA.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LA MASCARA .jpg" group-title="Cartoon Network",LA MASCARA 
 https://archive.org/download/ns_20210520/la-mascara-serie-animada.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LA PANTERA ROSA.jpg" group-title="Caricaturas retro",LA PANTERA ROSA
-http://archive.org/download/lapanterarosa_202001/La%20Pantera%20Rosa.m3u
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/uJF7qr1CiNkJcwj4Xqb1s0klI1F.jpg"group-title="Caricaturas retro", La pantera rosa
+https://raw.githubusercontent.com/HECTHINHOXD/La-pantera-rosa/main/README.md
 #EXTINF:-1 tvg-logo="" group-title="Cartoon Network",LA VACA Y EL POLLITO
 https://archive.org/download/ns_20210520/VACAPOLLO.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LADY BUG.jpg" group-title="Disney channel",LADY BUG
