@@ -1,4 +1,7 @@
-#EXTM3U
+#EXTM3
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/aE2agcR5vLmGwcXPv5vbPvdinvp.jpg"group-title="", Elvis
+https://dl.dropbox.com/scl/fi/tgzmii8grba502mxhunvv/3LV1S.mkv?rlkey=cayrw89uua8awt62qq9bmji5h
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/33gkfCURxgBBpiAnrWua4Txmrvs.jpg"group-title="", Desafiando gigantes
 https://dl.dropbox.com/scl/fi/tlljkl2cldpallo783ujw/Desafiando-gigantes-2006-1080p-Latino-SD.mp4?rlkey=1qx0wys4smqmgk5u0bw72igzj&st=ez6995gy&dl=0
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/jl6bUYM5HBTMyckxeJKA2x0UQjS.jpg"group-title="", Golpe bajo:El juego final
