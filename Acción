@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTGRP:ACCION
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/gmevXpxenntwhtw404e8imaNW9d.jpg"group-title="", Contrarreloj
 https://dl.dropbox.com/scl/fi/c5zqs0kt4uawmfau0txix/1728x720-Contrarreloj.mp4?rlkey=ll8o548mmeikdf1t44mdqexxr&st=4fr83viy&dl=0
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/kSq6Y51TcGqFqYaRRKKijNtHeJX.jpg"group-title="",el duro
