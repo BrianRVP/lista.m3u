@@ -62,5 +62,5 @@ http://tv.teleclub.xyz/lista/canales.m3u
 #EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv/1604400204_458039_1604400248_noticia_normal_recorte2.jpg" group-title="", ADULT
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Pelis%20y%20series%20HD%20full%204
 
-#EXTINF:-1 tvg-logo="" group-title="",prueba 
-https://dl.dropbox.com/scl/fi/3hsv1pottcd1j8zaxste7/S01E01-El-vag-n-cuadriculado.m4v?rlkey=3wd6267bbk722cq8fgfy7khge&dl=0
+#EXTINF:-1 tvg-logo="https://pelotalibre.org/wp-content/uploads/2022/12/DirecTV_Sports.png" group-title="",BOCA JUNIORS 
+https://cdn3.en-vivo.info/hotflix/eventos/index.m3u8?token=99a3491fdf1d486c6991b5dd969cc508b6450630-8b924efd0771443d71ae9c67f1a96ac7-1721876666-1721865866&remote=168.195.185.6
