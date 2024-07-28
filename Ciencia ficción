@@ -1,21 +1,23 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y5qshyw/afiche-vampirosdeldia.jpg"group-title="",vamoiros de dia
+https://cache012.peliscdn.online/newhls/57e3149575c9a0219d2808e1bd94e9b4/EP.0.1.v0.1708950276.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/6mq3OSMsmcTtoRLXiYOp8VZGOdw.jpg"group-title="", Inframundo 
+https://cache018.peliscdn.online/newhls/86b1ffb46fbd9a0a04d4d928fd98e5a1/EP.0.1.v0.1709026008.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/lvzqDNt7YWKVEGdHFKyJHz5aeR8.jpg"group-title="", Inframundo 2 evoluvion
+https://cache012.peliscdn.online/newhls/8059140c2404a1bf2ba5b98b30a2fcc1/EP.0.1.v0.1708838097.m3u8
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/aFGitUgdg0A6LJYtv1nISTf8W8j.jpg"group-title="", Señales
 https://archive.org/download/dibujo_202004/dibujo/dibujo.mkv 
-
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/v7dWDGqLS0FHsVpSLNeKo9xlkg1.jpg"group-title="", The goonies
 https://archive.org/download/elex_20210814_202108/losgu.mkv
-
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/nKsWkGTEZ93hdQjEWQm5Ns1baDT.jpg"group-title="", Waterworld
 https://archive.org/download/003_20200426_202004/003.mkv
-
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/t4xb2r36SR2sbUtOsPXdZ3lCmcJ.jpg"group-title="", Poder sin limites
 https://dl.dropbox.com/scl/fi/qexczcwpq4umgnn2p87hl/Poder-sin-limites-2012-espa-ol-latino-SD.mp4?rlkey=tzgyub5iqjwenusbw6wkb51es&st=zkr2dwlg&dl=0
-
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/5HHOAXZxUmJ1q3ayKIubEp9PGwR.jpg"group-title="", Proyecto almanaque
 https://dl.dropboxusercontent.com/s/jrn5kyiy4dq4cym/Proyecto-Almanac.mp4?fbclid=IwAR1yIgH00ozsmax04dEEKAji8YWdcDJrFrVT5lq26CU_E6yTftl80JjKpak
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg"group-title="", The creator
 https://dl.dropbox.com/scl/fi/c2nsu7t0pph2pv60v2x2k/creator.mkv?rlkey=80ib396dostkw9vgnuxawqu03
-
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/e7jW5JDUsXQAgmCgNSvi0vnKqkI.jpg"group-title="",Perspectiva 2024
 https://dl.dropbox.com/scl/fi/9twgu9sfca7df414pwd98/Perspectiva.mp4?rlkey=qfa9kzbmggqvm2kxza4a5rvre&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/2NCcAZ3M3F0FxENYmammBknwpVn.jpg"group-title="", jupiter ascending
