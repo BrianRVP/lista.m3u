@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v0Q2uYARIqui1sEBF0bCLJaliDI.jpg"group-title="",Deadpool y wolverine server 2
+https://archive.org/download/128dead-seg-1-v-1-a-1/128dead-seg-1-v1-a1.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v0Q2uYARIqui1sEBF0bCLJaliDI.jpg"group-title="",deadpool y wolverine
 https://dl.dropbox.com/scl/fi/2qcpgj97npcpw7s6xvqgo/Deadpool-Wolverine-2024-DeTodoPeliculas.mp4?rlkey=l20h3kq98p4q64uedlgpu1jlq&dl=0
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/5qLP3JVg8NE3zdZd48lqhx7iN5Q.jpg"group-title="",Los 4 Fantasticos(2005)
