@@ -1,6 +1,9 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QPNYz9R/images-1.jpg"group-title="",los descendientes el ascenso de red
+http://192.168.1.53:30001/file/5W2WMQpG/video.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/1OtIhamt5JU1f8OajkJX3KMRqgQ.jpg"group-title="",los descendientes 3
+http://192.168.1.53:30001/file/0p5BcUHM/video.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/7DgCv4sOScbIo99VPcTXk7C4UQD.jpg"group-title="",leyenda jinete sin cabeza 
 https://archive.org/download/vid-20240719-130500-328/VID_20240719_130500_328.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/nJMNvYZ21bMdB2Pq0qCk88jnQc6.jpg"group-title="",WILD EYED AND WICKED (SUB 2024)
