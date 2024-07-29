@@ -1,6 +1,9 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/9LjeEVkW6dZB11TbmjU3B88CE2w.jpg"group-title="",las profundidades del Sena (2024)
+https://archive.org/download/video_2024-07-27_13-49-24/video_2024-07-27_13-49-24.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/syKwepJwzvoYhPLBfUy4YYSrstr.jpg"group-title="",misión hostil
+https://archive.org/download/mihost/mihost.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/gmevXpxenntwhtw404e8imaNW9d.jpg"group-title="", Contrarreloj
 https://dl.dropbox.com/scl/fi/c5zqs0kt4uawmfau0txix/1728x720-Contrarreloj.mp4?rlkey=ll8o548mmeikdf1t44mdqexxr&st=4fr83viy&dl=0
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/kSq6Y51TcGqFqYaRRKKijNtHeJX.jpg"group-title="",el duro
