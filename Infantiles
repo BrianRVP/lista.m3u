@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/bdFsS0A2dCcVXUdaxcUfnvLOTqz.jpg"group-title="",Ted y tody
+http://192.168.1.53:30001/file/MMifaokz/video.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/kbeVZtX9HcsrkSyF0KrB4odkkiM.jpg"group-title="",trasto
 http://192.168.1.53:30001/file/ZoY5oOuL/video.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/6cpb2IP2c8gEbS2E2VfLKfx04cP.jpg"group-title="",Orión y la oscuridad (2024)
