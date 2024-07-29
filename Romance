@@ -1,7 +1,12 @@
 #EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/6OD0yBusMHXSQDdVFSrTlcFc3PO.jpg"group-title="",maravilloso desastre (2023)
+https://archive.org/download/video_2024-07-26_23-08-52/video_2024-07-26_23-08-52.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HVhP7R8/IMG-20240727-110227-797.jpg"group-title="",casese quien pueda
+https://archive.org/download/video_2024-07-27_08-56-23/video_2024-07-27_08-56-23.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/sVKeuoy82eR02iMIqRAepqMCoag.jpg"group-title="", La teoría del todo
 https://dl.dropbox.com/scl/fi/s7khk9opyvcrt6t02l5fx/La-teor-a-del-todo-2015-SD.mp4?rlkey=svpesoha5pb4qc2g016vxgd65&st=cht7uixr&dl=0
-
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/1RxPBKMpHlcm5PORiPo6LHUV2ft.jpg"group-title="",a través de mi ventana 3
 https://archive.org/download/mi-1-720p-b/mi1%20720pB.mkv
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/hisRiTK0zCP1sXtlCSrmFRVOVlz.jpg"group-title="",a través de mi ventana 2
