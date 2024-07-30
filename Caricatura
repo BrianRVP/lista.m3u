@@ -142,8 +142,8 @@ https://archive.org/download/ns_20210520/ZIM.m3u
 https://archive.org/download/ns_20210520/JimyNeutrontemp.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/KICK BUTTOWSKI (MEDIO DOBLE DE RIESGO).jpg" group-title="Disney channel",KICK BUTTOWSKI (MEDIO DOBLE DE RIESGO)
 https://archive.org/download/ns_20210520/KICK.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/KND LOS CHICOS DEL BARRIO.jpg" group-title="Cartoon Network",KND LOS CHICOS DEL BARRIO
-http://archive.org/download/KNDtempo/KNDtempo.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9oTedS82oVnrjHp3BHIpHefuBCG.jpg" group-title="Cartoon Network",KND LOS CHICOS DEL BARRIO
+https://raw.githubusercontent.com/Imag7/Imagt/main/los%20chicos%20del%20barrio
 #EXTINF:-1 tvg-logo="https://serieslan.com/tb/lgj.jpg" group-title="Nickelodeon",La Granja
 http://archive.org/download/kkkkk_202101/L46R4NJ473MP0.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LA JOVEN LIGA DE LA JUSTICIA.jpg" group-title="Cartoon Network",LA JOVEN LIGA DE LA JUSTICIA
