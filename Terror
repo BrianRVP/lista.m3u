@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/eEcy8YQyxnZowlVSoiAfp72mxQF.jpg"group-title="",verdad o reto extensión extendida.
+https://archive.org/download/verdad-o-reto-version-extendida/Verdad%20o%20reto_%20Versi%C3%B3n%20extendida.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YZ5jSzb/Carnada-2024.jpg"group-title="",Carnada (2024)
 https://archive.org/download/seg-1-v1-a1_202407/seg-1-v1-a1.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/lpnRQzopVI4rPRE0aiXG3lOwjqq.jpg"group-title="", La sociedad de la nieve
