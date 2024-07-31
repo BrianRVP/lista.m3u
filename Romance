@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5umEGkCrshN1JDywCbWZRvkdmry.jpg"group-title="",novia por contrato
+https://archive.org/download/s-0lt-3r-0-3n-c-4s-4/s0lt3r0%203n%20c4s4.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/6OD0yBusMHXSQDdVFSrTlcFc3PO.jpg"group-title="",maravilloso desastre (2023)
 https://archive.org/download/video_2024-07-26_23-08-52/video_2024-07-26_23-08-52.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HVhP7R8/IMG-20240727-110227-797.jpg"group-title="",casese quien pueda
