@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d0w1Zfd/F4248531.jpg"group-title="",Nickelodeon Kids' Choice Awards (2024)
+https://archive.org/download/nick-3l-0d-30n-k-1-choi-3-awards-2024/Nick3l0d30n%20K1Choi3%20Awards%202024.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/bdFsS0A2dCcVXUdaxcUfnvLOTqz.jpg"group-title="",Ted y tody
 http://192.168.1.53:30001/file/MMifaokz/video.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/kbeVZtX9HcsrkSyF0KrB4odkkiM.jpg"group-title="",trasto
