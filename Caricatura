@@ -116,8 +116,8 @@ http://archive.org/download/g470_20200814/g470.m3u
 http://archive.org/download/garfieldysusamigos_202007/garfieldysusamigos.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/GARGOLAS.jpg" group-title="Disney channel",GARGOLAS
 https://archive.org/download/ns_20210520/GARGOLAS.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/GENERADOR REX.jpg" group-title="Cartoon Network",GENERADOR REX
-https://archive.org/download/ns_20210520/GENERADOR%20REX.m3u
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/fL7S22SWWOjJTgHEkk68VZ4Z8RO.jpg" group-title="Cartoon Network",GENERADOR REX
+https://raw.githubusercontent.com/Imag7/Imagt/main/Generador
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/GRAVITY FALLS.jpg" group-title="Disney channel",GRAVITY FALLS
 http://archive.org/download/listasaqui_ymail4_Alf/Gravity%20Falls.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/GUMBALL.jpg" group-title="Cartoon Network",GUMBALL
