@@ -17,7 +17,8 @@ https://raw.githubusercontent.com/linkarg13/DEPORTE/main/FUTBOL
 #EXTINF:-1 tvg-logo="https://ia600406.us.archive.org/1/items/images_20240621/images.jpeg"group-title="",FUTBOL VIVO
 https://raw.githubusercontent.com/linkarg13/DEPORTE/main/PREMIUM
 
-
+#EXTINF:-1 tvg-logo=""group-title="",canales CL
+https://m3u.cl/lista/total.m3u
 
 #EXTINF:-1 tvg-logo=""group-title="",listas IptV
 https://raw.githubusercontent.com/linkarg13/DEPORTE/main/Listas
