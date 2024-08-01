@@ -1,5 +1,8 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/2kEL2QFPyqGcFhGvzVos58dQXKS.jpg"group-title="",no negociable (2024)
+https://archive.org/download/n-0-n-3g-0-c-1abl-3-1/N0%20n3g0C1abl3_1.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fnWLRrN/unnamed-1.jpg"group-title="",a toda madre 
 https://archive.org/download/a-toda-madre/A%20toda%20madre.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/d6mQAufyjfqGhRcvqTKAmUV6QRo.jpg"group-title="",solo una noche de juego
