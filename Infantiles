@@ -1,4 +1,8 @@
 #EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/eU9IBodwp3RnTgIJzwKjHow1LI3.jpg"group-title="",All hallows eve
+https://cache010.peliscdn.online/newhls/f0f7f535ad43de0a9b51976ce458a3ad/EP.0.2.v0.1709689181.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ojsARUPhtbMAcA3dCR3UwcHW1wM.jpg"group-title="",paw Patrol la súper película 
 https://archive.org/download/p-4w-p-4tr-0l-l-4-superpelicula/P4w%20p4tr0l_%20L4%20superpel%C3%ADcula.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d0w1Zfd/F4248531.jpg"group-title="",Nickelodeon Kids' Choice Awards (2024)
