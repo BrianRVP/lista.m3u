@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/zL2Zu78RmTV25BNxzbQANSWNbrm.jpg"group-title="",la vida en juego (2006)
+https://archive.org/download/la-vida-en-juego.-dvdrip.hq.cast-ok.-ru/La%20Vida%20En%20Juego.DVDRip.hq.cast%20OK.RU.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/btEGORik9yiYzaa0m2djb6klWBf.jpg"group-title="",juego de campeones (199)
+https://archive.org/download/ver-varsity-blues-juego-de-campeones-1999-online/Ver%20Varsity%20Blues%20%28Juego%20de%20campeones%29%20%281999%29%20online.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/v0guO0krvyz8IfKGxEje04LVM9d.jpg"group-title="",Tesla (2020)
 https://archive.org/download/tesla_202408/Tesla.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k6MgeIWontRgJJSO2tnziEnpOfW.jpg"group-title="",atraco 88 (2024)
