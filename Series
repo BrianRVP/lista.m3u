@@ -393,7 +393,7 @@ http://archive.org/download/t-1la/T1la.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOCKE AND KEY.jpg" group-title="Netflix",LOCKE AND KEY
 http://archive.org/download/ns_20210520/lock.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkwOTE1ZDYtODQ3Yy00YTYwLTg0YWQtYmVkNmFjNGZlYmRiXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_FMjpg_UX1000_.jpg" group-title="Disney+",LOKI
-https://archive.org/download/elch4v0/LKI.m3u
+https://raw.githubusercontent.com/Imag7/Imagt/main/Lok
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS DUKES DE HAZZARD.jpg" group-title="Prime video",LOS DUKES DE HAZZARD
 http://archive.org/download/ns_20210520/dukes.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS EXPEDIENTES SECRETOS X.jpg" group-title="Star+",LOS EXPEDIENTES SECRETOS X
