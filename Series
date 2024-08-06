@@ -31,10 +31,15 @@ https://raw.githubusercontent.com/linkarg13/SERIES/main/Nuevavida%20a%20m%C3%AD%
 https://dl.dropbox.com/s/qybhybywfjkupuq/xen4.m3u
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/5Yiep9EwcQgLolg013ETBVqHxuD.jpg"group-title="HBO Max",RICK Y MORTY
 https://bit.ly/3y81KkU
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5MtCSHh/Evil-Serie-de-TV-731550198-large.jpg"group-title="Paramount+",evil
-https://raw.githubusercontent.com/linkarg13/SERIES/main/EVIL
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qUtzC5uxiZ1bfiKdeHz8ZvNUByT.jpg"group-title="Prime video",caballeros del zodiaco (1989)
+https://archive.org/download/caballeros-del-zodiaco_202408/caballeros%20del%20zodiaco.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jk5wf0r/v-H0-Mghb0l-NJ5k7-Ep-Dw-I7i-JV7qa-O-1.jpg"group-title="Star+",LOS SIMPSON
 https://raw.githubusercontent.com/linkarg13/Los-Simpson-/main/Temp1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pJKdfqw/S3m-Qv-Ux-Ro-720x0-1.jpg"group-title="Star+", el encargado
+https://raw.githubusercontent.com/linkarg13/PELICULAS/main/ELENCARGADO
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MtCSHh/Evil-Serie-de-TV-731550198-large.jpg"group-title="Paramount+",evil
+https://raw.githubusercontent.com/linkarg13/SERIES/main/EVIL
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Netflix",Los Bridgerton (2024)
 https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Bridgestone
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-umbrella-academy.jpg"group-title="Netflix",The Umbrella Academy
@@ -57,9 +62,6 @@ https://raw.githubusercontent.com/linkarg13/ELZORRO/main/ELZORRO
 https://raw.githubusercontent.com/linkarg13/SERIES/main/El%20chavo
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/x-men-97.jpg" group-title="Disney+",X-men '97 latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/x%20men%2097
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pJKdfqw/S3m-Qv-Ux-Ro-720x0-1.jpg"group-title="Star+", el encargado
-https://raw.githubusercontent.com/linkarg13/PELICULAS/main/ELENCARGADO
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-boys.jpg" group-title="Prime video",The boys temporada 4 latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20boys%20temporada%204
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mr-pickles-1578934520.jpg"group-title="HBO Max",Mr. Pickles
