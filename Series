@@ -408,96 +408,51 @@ https://archive.org/download/ns_20210520/adams.m3u
 http://archive.org/download/koht1_202001/KOHT1.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/misportadashd567/resizer.jpg" group-title="Star+",Los Simpson
 https://archive.org/download/si2_20220111/si00.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS SIMULADORESMEXICO.jpg" group-title="Paramount+",LOS SIMULADORESMEXICO
-http://archive.org/download/ns_20210520/SIMU.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS TRES CHIFLADOS.jpg" group-title="Prime video",LOS TRES CHIFLADOS
-http://archive.org/download/ns_20210520/TRECHI.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOST PERDIDOS.jpg" group-title="Star+",LOST PERDIDOS
-http://archive.org/download/ns_20210520/LOST.m3u
+
+
+
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOVE DEATH AND ROBOTS.jpg" group-title="Netflix",LOVE DEATH AND ROBOTS
 http://archive.org/download/peliculas_201903/LoveDeath%20Robots.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/vkGnVBSNpayJ1oCfyVaMvhrim95.jpg" group-title="Netflix",LUCIFER
 https://archive.org/download/elch4v0/luc1f3r.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/MALCOLM EL DE EN MEDIO.jpg" group-title="Star+",MALCOLM EL DE EN MEDIO
-http://archive.org/download/uaufderharl_c922j_ymail4_Lis1/lis1.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/MANUAL DE SUPERVIVENCIA ESCOLAR DE NED.jpg" group-title="Apple tv+",MANUAL DE SUPERVIVENCIA ESCOLAR DE NED
-http://archive.org/download/ns_20210520/NED.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/MARVEL RUNAWAYS.jpg" group-title="Disney+",MARVEL RUNAWAYS
-http://archive.org/download/marvel_20200522/Marvel.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/MENTES CRIMINALES.jpg" group-title="Star+",MENTES CRIMINALES
-http://archive.org/download/mc_20200903/MC.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/MI NIÑERA ES UN VAMPIRO .jpg" group-title="HBO Max",MI NIÑERA ES UN VAMPIRO 
-http://archive.org/download/acde288908f6856d326290398e8ea715-360p/acde288908f6856d326290398e8ea715-360p.mp4
 #EXTINF:-1 tvg-logo="https://www23.estrenosdoramas.net/wp-content/uploads/2020/02/My_Holo_Love.jpg?x64181" group-title="Netflix",MY HOLO LOVE
 https://archive.org/download/elch4v0/my%20holo%20love.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/NACION Z.jpg" group-title="Netflix",NACION Z
 http://archive.org/download/ns_20210520/NACION%20Z.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/NICKY JAM EL GANADOR.jpg" group-title="Netflix",NICKY JAM EL GANADOR
 http://archive.org/download/ns_20210520/ELGAN.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/NIP TUCK CORTES Y PUNTADAS.jpg" group-title="Prime video",NIP TUCK CORTES Y PUNTADAS
-http://archive.org/download/ns_20210520/NIPTUCK.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/NOSOTROS LOS GUAPOS.jpg" group-title="Prime video",NOSOTROS LOS GUAPOS
-http://archive.org/download/ns_20210520/Nosotros%20los%20Guapos.m3u
+
+
+
+
+---------NETFLIX--------
+
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/OSCURO DESEO .jpg" group-title="Netflix",OSCURO DESEO 
 http://archive.org/download/t-1odcnkdbejrvq/T1odcnkdbejrvq.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/ikqlGaEt9lv9LEUX02LO9fNJ0x4.jpg" group-title="Netflix",Peaky Blinders
 https://archive.org/download/elch4v0/P3KY.m3u
 #EXTINF:-1 tvg-logo="https://pm1.narvii.com/6061/68c942f64555dfba90e3f78c25317b5be581359f_hq.jpg" group-title="Netflix",PINOCCHIO
 https://archive.org/download/ns_20210520/pinocho.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/POWER.jpg" group-title="Prime video",POWER
-http://archive.org/download/ns_20210520/POWER.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/PRISON BREAK.jpg" group-title="Star+",PRISON BREAK
-http://archive.org/download/ns_20210520/PRISONBRAK.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/RAGNAROK.jpg" group-title="Netflix",RAGNAROK
 http://archive.org/download/ns_20210520/ragnar.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/b1IBsimEJOLjBLYsdBZ1VAcmq73.jpg" group-title="Netflix",Rebelde (2022)
 https://archive.org/download/si2_20220111/reb.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAyNDE5YTYtZGVhNC00ZGMxLWIxNmItNDBiYWUwODQ5ZWY1XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg" group-title="Netflix",RESIDENT EVIL LA TINIEBLA INFINITA
 https://archive.org/download/elch4v0/residevil.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/RICK Y MORTY.jpg" group-title="HBO Max",RICK Y MORTY
-https://archive.org/download/elch4v0/rick%20y%20morty.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SABRINA LA BRUJA ADOLESCENTE.jpg" group-title="Paramount+",SABRINA LA BRUJA ADOLESCENTE
-http://archive.org/download/sabrina-2/sabrinatemporada.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzEzMzM2ODc1Ml5BMl5BanBnXkFtZTcwMTg2MjAzMQ@@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Netflix",SALVADOS POR LA CAMPANA
 https://archive.org/download/elch4v0/salcam1.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SALVAJES.jpg" group-title="Prime video",SALVAJES
-http://archive.org/download/SALVAJ/SALVAJ.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SANTA CLARITA DIET.jpg" group-title="Netflix",SANTA CLARITA DIET
 http://archive.org/download/ns_20210520/SANDIE.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SCREAM QUEENS.jpg" group-title="Prime video",SCREAM QUEENS
-http://archive.org/download/ns_20210520/SCREAMQUEEN.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SED DE REVANCHA GET EVEN.jpg" group-title="Netflix",SED DE REVANCHA GET EVEN
 http://archive.org/download/sedven/sedven.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SEX EDUCATION.jpg" group-title="Netflix",SEX EDUCATION
 http://archive.org/download/ns_20210520/seed.m3u
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/08/25/13/36/120735.jpg" group-title="HBO Max",Smallville
-https://dl.dropbox.com/s/nnh3v77mim55ulx/Smallville.m3u
 #EXTINF:-1 tvg-logo="https://archive.org/download/sup_20230128/sup.png",Smallville (Superman) 2001
 https://dl.dropbox.com/s/ma09c5wwkbtekws/Smallville%20Superman.m3u
-
-
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SHERLOCK CASTELLANO.jpg" group-title="Prime video",SHERLOCK CASTELLANO
-http://archive.org/download/ns_20210520/SHERLOCK.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SIN LIMITES.jpg" group-title="Prime video",SIN LIMITES
-http://archive.org/download/ns_20210520/limite.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SOBRENATURAL.jpg" group-title="HBO Max",SOBRENATURAL
-http://archive.org/download/ns_20210520/SUPERNATURAL.m3u
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzdhODc3OTctODc2ZS00MjIxLWIxMzAtY2M0M2UwMjFiNzNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Disney+",SOCIOS Y SABUESOS
-https://archive.org/download/elch4v0/sys.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTNhY2JlMmItMGMzZi00ZTM2LTlmNTItZDBkMGVhNGJhYWRhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Netflix",SOMBRA Y HUESO
 https://archive.org/download/elch4v0/huesom.m3u
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEyODg2NzkwMDBeQTJeQWpwZ15BbWU4MDQwODI3MzIx._V1_FMjpg_UX1000_.jpg" group-title="Star+",Sons of Anarchy
-https://archive.org/download/elch4v0/ANARCH.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SOUTH PARK.jpg" group-title="Paramount+",SOUTH PARK
-http://archive.org/download/ns_20210520/south%20park.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SOY TU FAN.jpg" group-title="Star+",SOY TU FAN
-http://archive.org/download/stf-2/STF.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SPAWN.jpg" group-title="HBO Max",SPAWN
-http://archive.org/download/ns_20210520/SPAWN.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/STAR TREK PICARD.jpg" group-title="Paramount+",STAR TREK PICARD
-http://archive.org/download/ns_20210520/STARPI.m3u
-
-
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/STRANGER THINGS.jpg" group-title="Netflix",STRANGER THINGS
 http://archive.org/download/ns_20210520/stin.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SWEET HOME.jpg" group-title="Netflix",SWEET HOME
@@ -512,9 +467,6 @@ http://archive.org/download/macross-frontier/the%20end%20of%20the%20world00.m3u
 http://archive.org/download/BU22OK/BU.M3U
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE KING THE ETERNAL MONARCH.jpg" group-title="Netflix",THE KING THE ETERNAL MONARCH
 http://archive.org/download/king_20201210/KING.m3u
-
----------NETFLIX--------
-
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE OFFICE.jpg" group-title="Netflix",THE OFFICE
 http://archive.org/download/theoffice-1/THEOFFICE.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/TITANS.jpg" group-title="Netflix",TITANS
@@ -556,7 +508,22 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/bebe%20reno%20lat
 
 -----------PRIME VIDEO--------
 
-
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS TRES CHIFLADOS.jpg" group-title="Prime video",LOS TRES CHIFLADOS
+http://archive.org/download/ns_20210520/TRECHI.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/NIP TUCK CORTES Y PUNTADAS.jpg" group-title="Prime video",NIP TUCK CORTES Y PUNTADAS
+http://archive.org/download/ns_20210520/NIPTUCK.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/NOSOTROS LOS GUAPOS.jpg" group-title="Prime video",NOSOTROS LOS GUAPOS
+http://archive.org/download/ns_20210520/Nosotros%20los%20Guapos.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/POWER.jpg" group-title="Prime video",POWER
+http://archive.org/download/ns_20210520/POWER.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SALVAJES.jpg" group-title="Prime video",SALVAJES
+http://archive.org/download/SALVAJ/SALVAJ.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SCREAM QUEENS.jpg" group-title="Prime video",SCREAM QUEENS
+http://archive.org/download/ns_20210520/SCREAMQUEEN.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SHERLOCK CASTELLANO.jpg" group-title="Prime video",SHERLOCK CASTELLANO
+http://archive.org/download/ns_20210520/SHERLOCK.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SIN LIMITES.jpg" group-title="Prime video",SIN LIMITES
+http://archive.org/download/ns_20210520/limite.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/STUDIO 60 DUAL AUDIO.jpg" group-title="Prime video",STUDIO 60 DUAL AUDIO
 http://archive.org/download/ns_20210520/STUDIO60.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE BOYS.jpg" group-title="Prime video",THE BOYS
@@ -579,6 +546,10 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Hunters
 ----------DISNEY-------------
 
 
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/MARVEL RUNAWAYS.jpg" group-title="Disney+",MARVEL RUNAWAYS
+http://archive.org/download/marvel_20200522/Marvel.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzdhODc3OTctODc2ZS00MjIxLWIxMzAtY2M0M2UwMjFiNzNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Disney+",SOCIOS Y SABUESOS
+https://archive.org/download/elch4v0/sys.m3u
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-1N2pHNvkx8U/VSIF_aeog9I/AAAAAAABo0k/r-Vwe9UEzMs/s1600/Star%2BWars%2BLa%2BGuerra%2BDe%2BLos%2BClones%2B%2B.jpg" group-title="Disney+",Star Wars Guerra De Clones
 https://archive.org/download/kkkkk_202101/574rW4r5L46u3rr4D305Cl0n35.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/STAR WARS LA GUERRA DE LOS CLONES.jpg" group-title="Disney+",STAR WARS LA GUERRA DE LOS CLONES
@@ -601,6 +572,20 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Moon%20Knight
 
 -------STAR+----------------
 
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS SIMULADORESMEXICO.jpg" group-title="Paramount+",LOS SIMULADORESMEXICO
+http://archive.org/download/ns_20210520/SIMU.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/MENTES CRIMINALES.jpg" group-title="Star+",MENTES CRIMINALES
+http://archive.org/download/mc_20200903/MC.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOST PERDIDOS.jpg" group-title="Star+",LOST PERDIDOS
+http://archive.org/download/ns_20210520/LOST.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/MALCOLM EL DE EN MEDIO.jpg" group-title="Star+",MALCOLM EL DE EN MEDIO
+http://archive.org/download/uaufderharl_c922j_ymail4_Lis1/lis1.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/PRISON BREAK.jpg" group-title="Star+",PRISON BREAK
+http://archive.org/download/ns_20210520/PRISONBRAK.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEyODg2NzkwMDBeQTJeQWpwZ15BbWU4MDQwODI3MzIx._V1_FMjpg_UX1000_.jpg" group-title="Star+",Sons of Anarchy
+https://archive.org/download/elch4v0/ANARCH.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SOY TU FAN.jpg" group-title="Star+",SOY TU FAN
+http://archive.org/download/stf-2/STF.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE STRAIN.jpg" group-title="Star+",THE STRAIN
 http://archive.org/download/ns_20210520/THESTRAIN.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/shing089/walki.jpg" group-title="Star+",The Walking Dead
@@ -614,6 +599,16 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Pancho%20Villa%3A
       
 -------- HBO+---------------
 
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/MI NIÑERA ES UN VAMPIRO .jpg" group-title="HBO Max",MI NIÑERA ES UN VAMPIRO 
+http://archive.org/download/acde288908f6856d326290398e8ea715-360p/acde288908f6856d326290398e8ea715-360p.mp4
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/RICK Y MORTY.jpg" group-title="HBO Max",RICK Y MORTY
+https://archive.org/download/elch4v0/rick%20y%20morty.m3u
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/08/25/13/36/120735.jpg" group-title="HBO Max",Smallville
+https://dl.dropbox.com/s/nnh3v77mim55ulx/Smallville.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SOBRENATURAL.jpg" group-title="HBO Max",SOBRENATURAL
+http://archive.org/download/ns_20210520/SUPERNATURAL.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SPAWN.jpg" group-title="HBO Max",SPAWN
+http://archive.org/download/ns_20210520/SPAWN.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE FLASH.jpg" group-title="HBO Max",THE FLASH
 http://archive.org/download/ns_20210520/FLAS.m3
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/VINILO HBO.jpg" group-title="HBO Max",VINILO HBO
@@ -652,6 +647,12 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/One%20Piece%3ALiv
 
  ---------PARAMOUNT--------
 
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SABRINA LA BRUJA ADOLESCENTE.jpg" group-title="Paramount+",SABRINA LA BRUJA ADOLESCENTE
+http://archive.org/download/sabrina-2/sabrinatemporada.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/STAR TREK PICARD.jpg" group-title="Paramount+",STAR TREK PICARD
+http://archive.org/download/ns_20210520/STARPI.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SOUTH PARK.jpg" group-title="Paramount+",SOUTH PARK
+http://archive.org/download/ns_20210520/south%20park.m3u
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/yellowstone.jpg" group-title="Paramount+",Yellowstone
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Yellowstone
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/acapulco-shore.jpg" group-title="Paramount+",Acapulco Shore Latino
@@ -663,6 +664,9 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Your%20honor
 
 -------APPLE TV-----------
 
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/MANUAL DE SUPERVIVENCIA ESCOLAR DE NED.jpg" group-title="Apple tv+",MANUAL DE SUPERVIVENCIA ESCOLAR DE NED
+http://archive.org/download/ns_20210520/NED.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/VIAJEROS EN EL TIEMPO QUANTUM LEAP.jpg" group-title="Apple tv+",VIAJEROS EN EL TIEMPO QUANTUM LEAP
 http://archive.org/download/ns_20210520/viajeros%20en%20el%20tiempo.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzMyMDM3MTY1M15BMl5BanBnXkFtZTgwMjQxNDIzMTE@._V1_FMjpg_UX1000_.jpg" group-title="Apple tv+",ZOEY 101
