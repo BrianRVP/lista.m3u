@@ -29,6 +29,7 @@ https://archive.org/download/elch4v0/w.m3u
 https://archive.org/download/elch4v0/what.m3u
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/moon-knight-1668956321.png" group-title="Disney+",Moon Knight
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Moon%20Knight
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/x-men-97.jpg" group-title="Disney+",X-men '97 latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/x%20men%2097
 #EXTINF:-1 tvg-logo="https://archive.org/download/images_20231204/images.jpeg"group-title=""Disney+",EL ZORRO
 https://raw.githubusercontent.com/linkarg13/ELZORRO/main/ELZORRO
