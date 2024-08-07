@@ -496,159 +496,196 @@ http://archive.org/download/stf-2/STF.m3u
 http://archive.org/download/ns_20210520/SPAWN.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/STAR TREK PICARD.jpg" group-title="Paramount+",STAR TREK PICARD
 http://archive.org/download/ns_20210520/STARPI.m3u
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-1N2pHNvkx8U/VSIF_aeog9I/AAAAAAABo0k/r-Vwe9UEzMs/s1600/Star%2BWars%2BLa%2BGuerra%2BDe%2BLos%2BClones%2B%2B.jpg" group-title="Disney+",Star Wars Guerra De Clones
-https://archive.org/download/kkkkk_202101/574rW4r5L46u3rr4D305Cl0n35.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/STAR WARS LA GUERRA DE LOS CLONES.jpg" group-title="Disney+",STAR WARS LA GUERRA DE LOS CLONES
-http://archive.org/download/ns_20210520/CLONE.m3u
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTVjNTVjMDMtNjUyMC00ZmM0LWE4OWMtMWZkNzY4NjM0NDMzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Disney+",Star Wars The Bad Batch
-https://archive.org/download/elch4v0/sTARWA.m3u
+
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/STRANGER THINGS.jpg" group-title="Netflix",STRANGER THINGS
 http://archive.org/download/ns_20210520/stin.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/STUDIO 60 DUAL AUDIO.jpg" group-title="Prime video",STUDIO 60 DUAL AUDIO
-http://archive.org/download/ns_20210520/STUDIO60.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SWEET HOME.jpg" group-title="Netflix",SWEET HOME
 http://archive.org/download/sweethome_202101/SWEETHOME.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk4ZDRhYzEtZWExNy00MjIyLTgyYmMtN2Y2MzA4YzZhZTZmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" group-title="Netflix",Sweet Tooth
 https://archive.org/download/elch4v0/sweedr.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE BOYS.jpg" group-title="Prime video",THE BOYS
-http://archive.org/download/3-d-kanojo/TB.m3u
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/1M876KPjulVwppEpldhdc8V4o68.jpg" group-title="Netflix",THE CROWN
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Temporadas%20The%20crown
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE DEFENDERS.jpg" group-title="Disney+",THE DEFENDERS
-http://archive.org/download/ns_20210520/DEFENDER.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE END OF THE WORD.jpg" group-title="Netflix",THE END OF THE WORD
 http://archive.org/download/macross-frontier/the%20end%20of%20the%20world00.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE FLASH.jpg" group-title="HBO Max",THE FLASH
-http://archive.org/download/ns_20210520/FLAS.m3u
 #EXTINF:-1 tvg-logo="" group-title="Netflix",THE OFFICE
 http://archive.org/download/BU22OK/BU.M3U
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE KING THE ETERNAL MONARCH.jpg" group-title="Netflix",THE KING THE ETERNAL MONARCH
 http://archive.org/download/king_20201210/KING.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/shing089/7h3m4n.jpg" group-title="Disney+",THE MANDALORIAN
-http://archive.org/download/m-4-nd-4-l-0-r-1-an-0-temp-01-m-3-u/M4ND4L0R1AN0TEMP01M3U.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE MANDALORIAN.jpg" group-title="Disney+",THE MANDALORIAN
-http://archive.org/download/ns_20210520/THMDLRNO.m3u
+
+---------NETFLIX--------
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE OFFICE.jpg" group-title="Netflix",THE OFFICE
 http://archive.org/download/theoffice-1/THEOFFICE.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE STRAIN.jpg" group-title="Star+",THE STRAIN
-http://archive.org/download/ns_20210520/THESTRAIN.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/shing089/walki.jpg" group-title="Star+",The Walking Dead
-http://archive.org/download/kkkkk_202101/7h3w4lk1nPR1NC1P4L.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/TITANS.jpg" group-title="Netflix",TITANS
 http://archive.org/download/ns_20210520/TITAN.m3u
 #EXTINF:-1 tvg-logo="https://www23.estrenosdoramas.net/wp-content/uploads/2020/01/Touch.jpg" group-title="Netflix",TOUCH
 https://archive.org/download/elch4v0/TOUCH.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/TROLLHUNTER.jpg" group-title="Netflix",TROLLHUNTER
 http://archive.org/download/ns_20210520/trollhunter.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/UN EXTRAÑO ENEMIGO.jpg" group-title="Prime video",UN EXTRAÑO ENEMIGO
-http://archive.org/download/LosJovenesTitanes/UN%20Extra%C3%B1o%20enemigo.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/UNA FAMILIA DE 10.jpg" group-title="Prime video",UNA FAMILIA DE 10
-http://archive.org/download/unafamiliadediez/primera%20temporada.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/shing089/ya555.jpg" group-title="Prime video",Vecinos
-http://archive.org/download/shing089/v3c12n055.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/VIAJEROS EN EL TIEMPO QUANTUM LEAP.jpg" group-title="Apple tv+",VIAJEROS EN EL TIEMPO QUANTUM LEAP
-http://archive.org/download/ns_20210520/viajeros%20en%20el%20tiempo.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/VIKINGOS.jpg" group-title="Netflix",VIKINGOS
 http://archive.org/download/113y-3s/VK.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/VINILO HBO.jpg" group-title="HBO Max",VINILO HBO
-http://archive.org/download/v-1-n-1-l-0/V1N1L0.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/VIZ A VIZ.jpg" group-title="Netflix",VIZ A VIZ
 http://archive.org/download/t-5vavfufjfkxksu/T5vavfufjfkxksu.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/wv-2_20210119/WV.jpg" group-title="Disney+",Wandavision
-https://archive.org/download/elch4v0/w.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/92bJ5Ja4oEoun9zFvAOMVtaNfrA.jpg" group-title="Disney+",WHAT IF?
-https://archive.org/download/elch4v0/what.m3u
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzMyMDM3MTY1M15BMl5BanBnXkFtZTgwMjQxNDIzMTE@._V1_FMjpg_UX1000_.jpg" group-title="Apple tv+",ZOEY 101
-https://archive.org/download/elch4v0/ZOY1.m3u
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hermanos-de-sangre.jpg" group-title="HBO Max",band of brothers latino
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Band%20of%20brothers
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/archive-81-2-1642252803.jpg" group-title="Netflix",Archivo 81
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Archivo%2081
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/castle-rock.jpg" group-title="Hulu",Castle rock
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/castle%20rock
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/creepshow-1579040127.jpg" group-title="Shudder",Creepshow
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Creepshow
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/euEhiPzIaNfLAWf1u5xXPjyPqvi.jpg" group-title="Apple tv+",Defender a jacob
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Defender%20a%20jacob
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/buenos-presagios.jpg" group-title="Prime video",Good omens
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Good%20omens
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-oa.jpg" group-title="Netflix",The OA
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20OA
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/paper-girls-2-1669011195.jpg" group-title="Prime video",Paper girls 
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Paper%20girls
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/rumbo-al-infierno-1669344118.png" group-title="Netflix",Rumbo al infierno latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Rumbo%20al%20infierno
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-looming-tower.jpg" group-title="Apple tv+",The looming tower
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20looming%20tower
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-garrapata.jpg" group-title="HBO Max",The tick
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20tick
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/tokyo_vice-495153193-mmed.jpg" group-title="HBO Max",Tokyo vice
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Tokyo%20vice
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-returned.jpg" group-title="Apple tv+",The returned
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20returned
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/muy-viejo-para-morir-joven-1586966431.jpg" group-title="Prime video",Muy viejo para morir joven latino
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Muy%20viejo%20para%20morir%20joven
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/years-and-years.jpg" group-title="HBO Max",Years and years
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Years%20and%20years
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/anne-with-an-e-1598657484.jpg" group-title="Netflix",Anne with an E
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Anne%20with%20an%20E
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/yellowstone.jpg" group-title="Paramount+",Yellowstone
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Yellowstone
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/todo-es-una-mierda-everything-sucks.jpg" group-title="Netflix",Everthing sucks! latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Everthing%20sucks!
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hemlock-grove.jpg" group-title="Netflix",Hemlock grove
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Hemlock%20grove
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-midnight-gospel-1587583248.jpg" group-title="Netflix",The midnight gospel latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20midnight%20gospel
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/SYvwtsk4vWPAtB0wlgLlecWCFc.jpg" group-title="HBO Max",VGLY
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/vgly
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/harley-quinn-1578109859.jpg" group-title="HBO Max",Harley Quinn Latino
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/harley%20quinn
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-chapo.jpg" group-title="Netflix",El chapo
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/El%20chapo
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-soprano.jpg" group-title="HBO Max",Los sopranos
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Los%20sopranos
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/how-to-become-a-cult-leader-1690765194.png" group-title="Netflix",Como se convirtieron en lideres de sectas latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Como%20se%20convirtieron%20en%20lideres%20de%20sectas
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cobra-kai.jpg" group-title="Netflix",Cobra Kai temporada 5 latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Cobra%20kai%20temporada%205
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/warrior.jpg" group-title="HBO Max",Warrior
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Warrior
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/oscuro-deseo-1594849861.jpg" group-title="Netflix",Oscuro Deseo
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Oscuro%20Deseo
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-casa-de-papel.jpg" group-title="Netflix",La Casa de Papel temporada 5
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/La%20casa%20de%20papel%20temporada%205
 #EXTINF:-1 tvg-logo="https://www.clarin.com/img/2024/04/22/xCel-AVbY_720x0__1.jpg" group-title="Netflix",bebe reno latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/bebe%20reno%20latino
+
+-----------PRIME VIDEO--------
+
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/STUDIO 60 DUAL AUDIO.jpg" group-title="Prime video",STUDIO 60 DUAL AUDIO
+http://archive.org/download/ns_20210520/STUDIO60.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE BOYS.jpg" group-title="Prime video",THE BOYS
+http://archive.org/download/3-d-kanojo/TB.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/UN EXTRAÑO ENEMIGO.jpg" group-title="Prime video",UN EXTRAÑO ENEMIGO
+http://archive.org/download/LosJovenesTitanes/UN%20Extra%C3%B1o%20enemigo.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/UNA FAMILIA DE 10.jpg" group-title="Prime video",UNA FAMILIA DE 10
+http://archive.org/download/unafamiliadediez/primera%20temporada.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/shing089/ya555.jpg" group-title="Prime video",Vecinos
+http://archive.org/download/shing089/v3c12n055.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/buenos-presagios.jpg" group-title="Prime video",Good omens
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Good%20omens
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/paper-girls-2-1669011195.jpg" group-title="Prime video",Paper girls 
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Paper%20girls
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/muy-viejo-para-morir-joven-1586966431.jpg" group-title="Prime video",Muy viejo para morir joven latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Muy%20viejo%20para%20morir%20joven
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hunters-1585350037.jpg" group-title="Prime video",Hunters
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Hunters
+
+----------DISNEY-------------
+
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-1N2pHNvkx8U/VSIF_aeog9I/AAAAAAABo0k/r-Vwe9UEzMs/s1600/Star%2BWars%2BLa%2BGuerra%2BDe%2BLos%2BClones%2B%2B.jpg" group-title="Disney+",Star Wars Guerra De Clones
+https://archive.org/download/kkkkk_202101/574rW4r5L46u3rr4D305Cl0n35.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/STAR WARS LA GUERRA DE LOS CLONES.jpg" group-title="Disney+",STAR WARS LA GUERRA DE LOS CLONES
+http://archive.org/download/ns_20210520/CLONE.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTVjNTVjMDMtNjUyMC00ZmM0LWE4OWMtMWZkNzY4NjM0NDMzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Disney+",Star Wars The Bad Batch
+https://archive.org/download/elch4v0/sTARWA.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE DEFENDERS.jpg" group-title="Disney+",THE DEFENDERS
+http://archive.org/download/ns_20210520/DEFENDER.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/shing089/7h3m4n.jpg" group-title="Disney+",THE MANDALORIAN
+http://archive.org/download/m-4-nd-4-l-0-r-1-an-0-temp-01-m-3-u/M4ND4L0R1AN0TEMP01M3U.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE MANDALORIAN.jpg" group-title="Disney+",THE MANDALORIAN
+http://archive.org/download/ns_20210520/THMDLRNO.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/wv-2_20210119/WV.jpg" group-title="Disney+",Wandavision
+https://archive.org/download/elch4v0/w.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/92bJ5Ja4oEoun9zFvAOMVtaNfrA.jpg" group-title="Disney+",WHAT IF?
+https://archive.org/download/elch4v0/what.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/moon-knight-1668956321.png" group-title="Disney+",Moon Knight
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Moon%20Knight
+
+
+-------STAR+----------------
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE STRAIN.jpg" group-title="Star+",THE STRAIN
+http://archive.org/download/ns_20210520/THESTRAIN.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/shing089/walki.jpg" group-title="Star+",The Walking Dead
+http://archive.org/download/kkkkk_202101/7h3w4lk1nPR1NC1P4L.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/me-llamo-earl.jpg" group-title="Star+",Mi nombre es Earl
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Mi%20nombre%20es%20Earl
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/esposas-desesperadas.jpg" group-title="Star+",Esposas Desesperadas
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Esposas%20desesperadas
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pancho-villa-el-centauro-del-norte-1690425477.png" group-title="Star+",Pancho Villa: El centauro del norte
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Pancho%20Villa%3A%20El%20centauro%20del%20norte
+      
+-------- HBO+---------------
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE FLASH.jpg" group-title="HBO Max",THE FLASH
+http://archive.org/download/ns_20210520/FLAS.m3
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/VINILO HBO.jpg" group-title="HBO Max",VINILO HBO
+http://archive.org/download/v-1-n-1-l-0/V1N1L0.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hermanos-de-sangre.jpg" group-title="HBO Max",band of brothers latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Band%20of%20brothers
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-garrapata.jpg" group-title="HBO Max",The tick
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20tick
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/tokyo_vice-495153193-mmed.jpg" group-title="HBO Max",Tokyo vice
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Tokyo%20vice
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/warrior.jpg" group-title="HBO Max",Warrior
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Warrior
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/harley-quinn-1578109859.jpg" group-title="HBO Max",Harley Quinn Latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/harley%20quinn
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/years-and-years.jpg" group-title="HBO Max",Years and years
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Years%20and%20years
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/SYvwtsk4vWPAtB0wlgLlecWCFc.jpg" group-title="HBO Max",VGLY
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/vgly
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-soprano.jpg" group-title="HBO Max",Los sopranos
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Los%20sopranos
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/peacemaker-2-1642142642.jpg" group-title="HBO Max",Peacemaker latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Peacemaker
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-rehearsal-2-1669013408.jpg" group-title="HBO Max",The Rehearsal
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20Rehearsal
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/house-of-the-dragon-2-1669011306.jpg" group-title="HBO Max",La casa del dragon latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/La%20casa%20del%20dragon
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-rehearsal-2-1669013408.jpg" group-title="HBO Max",The Rehearsal
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20Rehearsal
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/tiny-toons-1669862501.png" group-title="HBO Max",Tiny Toons
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Tiny%20Toons
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hunters-1585350037.jpg" group-title="Prime video",Hunters
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Hunters
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/roma-1571634632.jpg" group-title="HBO Max",Roma
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Roma
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/esposas-desesperadas.jpg" group-title="Star+",Esposas Desesperadas
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Esposas%20desesperadas
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/moon-knight-1668956321.png" group-title="Disney+",Moon Knight
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Moon%20Knight
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/me-llamo-earl.jpg" group-title="Star+",Mi nombre es Earl
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Mi%20nombre%20es%20Earl
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pancho-villa-el-centauro-del-norte-1690425477.png" group-title="Star+",Pancho Villa: El centauro del norte
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Pancho%20Villa%3A%20El%20centauro%20del%20norte
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/fsQ2KHbZk12z3h3dba2ActMEudj.jpg" group-title="Netflix",One Piece:Live Action latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/One%20Piece%3ALive%20Action
+
+
+ ---------PARAMOUNT--------
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/yellowstone.jpg" group-title="Paramount+",Yellowstone
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Yellowstone
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/acapulco-shore.jpg" group-title="Paramount+",Acapulco Shore Latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Acapulco%20shore
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/tulsa-king-2-1668754733.jpg" group-title="Paramount+",Tulsa King Latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Tulsa%20king
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/your-honor-2-1670920203.jpg" group-tilte="Paramount+",Your honor Latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Your%20honor
+
+-------APPLE TV-----------
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/VIAJEROS EN EL TIEMPO QUANTUM LEAP.jpg" group-title="Apple tv+",VIAJEROS EN EL TIEMPO QUANTUM LEAP
+http://archive.org/download/ns_20210520/viajeros%20en%20el%20tiempo.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzMyMDM3MTY1M15BMl5BanBnXkFtZTgwMjQxNDIzMTE@._V1_FMjpg_UX1000_.jpg" group-title="Apple tv+",ZOEY 101
+https://archive.org/download/elch4v0/ZOY1.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/euEhiPzIaNfLAWf1u5xXPjyPqvi.jpg" group-title="Apple tv+",Defender a jacob
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Defender%20a%20jacob
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-looming-tower.jpg" group-title="Apple tv+",The looming tower
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20looming%20tower
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-returned.jpg" group-title="Apple tv+",The returned
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20returned
+
+
+---------Shudder-------------
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/creepshow-1579040127.jpg" group-title="Shudder",Creepshow
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Creepshow
+
+
+--------HULU-----------------
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/castle-rock.jpg" group-title="Hulu",Castle rock
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/castle%20rock
+
+
+
+..
