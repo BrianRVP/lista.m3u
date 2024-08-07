@@ -1,0 +1,31 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/p0r74d45_202012/resizer.jpg" group-title="Apple tv+",GRIMM
+http://archive.org/download/ns_20210520/GRIMM.m3u
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/hechiceras-1598544399.jpg" group-title="Apple tv+",Hechiceras (1998)
+https://archive.org/download/elch4v0/h0.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ LE TEMES A LA OCURIDAD 2019.jpg" group-title="Apple tv+",LE TEMES A LA OCURIDAD 2019
+http://ia601509.us.archive.org/19/items/l-3-t-3-m-3-s-4-l-4-o-0-scurid-4-d/L3T3M3S4L4O0SCURID4D.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/MANUAL DE SUPERVIVENCIA ESCOLAR DE NED.jpg" group-title="Apple tv+",MANUAL DE SUPERVIVENCIA ESCOLAR DE NED
+http://archive.org/download/ns_20210520/NED.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/VIAJEROS EN EL TIEMPO QUANTUM LEAP.jpg" group-title="Apple tv+",VIAJEROS EN EL TIEMPO QUANTUM LEAP
+http://archive.org/download/ns_20210520/viajeros%20en%20el%20tiempo.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzMyMDM3MTY1M15BMl5BanBnXkFtZTgwMjQxNDIzMTE@._V1_FMjpg_UX1000_.jpg" group-title="Apple tv+",ZOEY 101
+https://archive.org/download/elch4v0/ZOY1.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/euEhiPzIaNfLAWf1u5xXPjyPqvi.jpg" group-title="Apple tv+",Defender a jacob
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Defender%20a%20jacob
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-looming-tower.jpg" group-title="Apple tv+",The looming tower
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20looming%20tower
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-returned.jpg" group-title="Apple tv+",The returned
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20returned
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/ted-lasso-2-1637478486.jpg" group-title="Apple tv+",Ted lasso
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Ted%20lasso
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/v-invasion-extraterrestre-1669266001.png" group-title="Apple tv+",V invasion extraterrestre
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/V%20invasion%20extraterrestre
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/COMIDAS BIZARRAS.jpg" group-title="Apple tv+",COMIDAS BIZARRAS
+http://archive.org/download/comida_202003/comida.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/gonzalez-narvaez/dr4k3yj0sh.jpg" group-title="Apple tv+",DRAKE & JOSH
+http://archive.org/download/ns_20210520/DRAJOS.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DROP DEAD DIVA DIVINA DELA MUERTE ESP.jpg" group-title="Apple tv+",DROP DEAD DIVA DIVINA DELA MUERTE ESP
+http://archive.org/download/ns_20210520/DIVA.m3u
