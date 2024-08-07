@@ -5,8 +5,7 @@
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/5Yiep9EwcQgLolg013ETBVqHxuD.jpg"group-title="HBO Max",RICK Y MORTY
 https://bit.ly/3y81KkU
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg"group-title="Prime video",caballeros del zodiaco (1989)
-https://archive.org/download/caballeros-del-zodiaco_202408/caballeros%20del%20zodiaco.m3u
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jk5wf0r/v-H0-Mghb0l-NJ5k7-Ep-Dw-I7i-JV7qa-O-1.jpg"group-title="Star+",LOS SIMPSON
 https://raw.githubusercontent.com/linkarg13/Los-Simpson-/main/Temp1
 
@@ -22,22 +21,14 @@ https://raw.githubusercontent.com/linkarg13/ELZORRO/main/ELZORRO
 https://raw.githubusercontent.com/linkarg13/SERIES/main/El%20chavo
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/x-men-97.jpg" group-title="Disney+",X-men '97 latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/x%20men%2097
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-boys.jpg" group-title="Prime video",The boys temporada 4 latino
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20boys%20temporada%204
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mr-pickles-1578934520.jpg"group-title="HBO Max",Mr. Pickles
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Mrpicle
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/gen-v-1695972913.png" group-title="Prime video",Gen V latino
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Gen%20V
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/img/1a/dd/1add5061b1c27ae10929a4d3fe3ac200.jpg" group-title="Prime video",Quien lo mato
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Quien%20lo%20mato
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-otra-chica-negra-1694756501.png"group-title="Star+ ", la otra chica negra
 https://raw.githubusercontent.com/linkarg13/Laotrachicadenegro/main/La%20otra%20chica%20de%20negro
 #EXTINF:-1 tvg-logo="https://media.comicbook.com/wp-content/uploads/2013/01/FionnaCake_01_CV2ndPrint-197x300.jpg" group-title="HBO Max",Hora de aventura: Fionna y Cake (2023)
 https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/Hora%20de%20aventura%20Fionna%20y%20Cake
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/ahsoka-1692780038.png"group-title="Disney+",Ahsoka
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Ahsoka
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/reacher-2-1643968087.jpg" group-title="Prime video",Reacher (2022) AMAZON VIDEO
-https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/REACHER%20AMAZON%20(2022)
 
 #EXTINF:-1 tvg-logo="https://www.pelisplus.lat/wp-content/uploads/2021/12/iF8ai2QLNiHV4anwY1TuSGZXqfN-200x300.jpg" group-title="Star+",Chucky 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Chucky
@@ -53,14 +44,10 @@ https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Invasion%20secreta
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Primal
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/obi-wan-kenobi-2-1669011161.jpg" group-title="Disney+",Obi-wan kenobi
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Obi%20wan%20kenobi
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6HanIV2hTLE2w7A5bI1KJb3bTL7.jpg" group-title="Prime video",The Walking Dead: World Beyond (2020)
-https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Twkb
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/hannibal-675473429-mmed.jpg" group-title="Prime video",Hannibal
-https://raw.githubusercontent.com/Bvserver123/Ghghg/main/Hannibal
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/o8YYo24AIe5KxRqrgEEVwcPw0M6.jpg" group-title="HBO Max",Mis nuevas aventuras con superman latino 
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Mis%20aventuras%20con%20superman
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/invincible-2-1617205323.jpg" group-title="Prime video",Invencible latino
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/invencible
+
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg" group-title="HBO Max",Euphoria 1
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Euphoria
 #EXTINF:-1 tvg-logo="https://static.eldiario.es/clip/2e5dd4d5-8c3a-4778-aacf-18b173ae3fc3_16-9-discover-aspect-ratio_default_0.jpg" group-title="Telefe",Simuladores version argentina
@@ -83,12 +70,12 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20walking%20d
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20walking%20dead%20temporada%206%20a%20la%2011
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/from-2-1645539123.jpg" group-title="HBO Max",From
 https://raw.githubusercontent.com/Dragonjunior890/Ejemplo/main/From
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-terror.jpg" group-title="Prime video",The terror/el terror
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/el%20terror
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/6SJppowm7cdQgLkvoTlnTUSbjr9.jpg" group-title="HBO Max",Superman y lois
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Superman%20y%20lois
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/american-gods.jpg" group-title="Prime video", American gods 
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/American%20gods
+
+
+
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/silicon-valley.jpg" group-title="HBO Max",silicon valley
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Silicon%20valley%20serie%20hbo%20max
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-last-of-us-2-1673841725.jpg" group-title="HBO Max",THE LAST OF US 
@@ -99,14 +86,12 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/todos%20odian%20a
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Twisted%20metal
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/cPn71YFDENH0JkWUezlsLyWmLfN.jpg" group-title="Peacock",Ted latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Ted
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-boys.jpg" group-title="Prime video",The Boy
-https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/THE%20boys
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/ash-vs-evil-dead.jpg" group-title="Prime video",ash vs evil dead
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/ash%20vs%20evil%20dead
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-chavo-del-ocho-1669646032.png" group-title="Prime video",El chavo del ocho
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/El%20chavo%20del%20ocho
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/preacher.jpg" group-title="Prime video",preacher 
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Preacher
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/AMERICAN DAD.jpg" group-title="Star+",AMERICAN DAD
 http://archive.org/download/ladarius34b_k964n_mygeoweb_2/AD1.m3u
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/american-horror-story.jpg" group-title="Star+",AMERICAN HORROR HISTORY
@@ -159,8 +144,9 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/counterpart
 http://archive.org/download/c-3-l-38-riti-3/C3L38RITI3.m3u 
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CHERNOBYL.jpg" group-title="HBO Max",CHERNOBYL latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Chernobyl
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7gtp4lusk685hdmuEXMbYrmSQoY.jpg" group-title="Prime video",CHICAGO PD
-https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Chicago%20pd 
+
+
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/ted-lasso-2-1637478486.jpg" group-title="Apple tv+",Ted lasso
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Ted%20lasso
 
@@ -184,10 +170,8 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Barry
 hhkvhk
 
 
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DAWSONS CREEK.jpg" group-title="Prime video",DAWSONS CREEK
-http://archive.org/download/ns_20210520/DAWSONSCRE.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DE VIAJE CON LOS DERVEZ.jpg" group-title="Prime video",DE VIAJE CON LOS DERVEZ
-http://archive.org/download/ns_20210520/DEVIAJECONLOSDER.m3u
+
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DEADLY CLASS.jpg" group-title="HBO Max",DEADLY CLASS
 http://archive.org/download/ns_20210520/deacla.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DEXTER.jpg" group-title="HBO Max",DEXTER
@@ -205,10 +189,10 @@ http://archive.org/download/ns_20210520/DRAJOS.m3u
 
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DROP DEAD DIVA DIVINA DELA MUERTE ESP.jpg" group-title="Apple tv+",DROP DEAD DIVA DIVINA DELA MUERTE ESP
 http://archive.org/download/ns_20210520/DIVA.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/EL BUEN DOCTOR.jpg" group-title="Prime video",EL BUEN DOCTOR
-http://archive.org/download/ns_20210520/El%20buen%20doctor.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/5P5P2LL4luYbWawQFAhYqxHqOWy.jpg" group-title="Prime video",Fallout latino
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Fallout
+
+korlwnkdll
+
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/EL CHAVO DEL 8 ORIGINAL.jpg" group-title="Disney+",EL CHAVO DEL 8 ORIGINAL
 http://archive.org/download/elch4v0/elch4v0.m3u
 
@@ -228,8 +212,6 @@ http://archive.org/download/ns_20210520/FG1.m3u
 
 
 
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/FOREVER.jpg" group-title="Prime video",FOREVER
-http://archive.org/download/ns_20210520/FOREVER.m3u
 
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/FRIENDS.jpg" group-title="HBO Max",FRIENDS
 http://archive.org/download/ns_20210520/FRIEND.m3u
@@ -240,8 +222,10 @@ http://archive.org/download/ns_20210520/FUTURAMA.m3u
 
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/HEROES.jpg" group-title="Prime video",HEROES
 http://archive.org/download/ns_20210520/heroes.m3u
-
-
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/FOREVER.jpg" group-title="Prime video",FOREVER
+http://archive.org/download/ns_20210520/FOREVER.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LA CASA DE LOS DIBUJOS.jpg" group-title="Prime video",LA CASA DE LOS DIBUJOS
+http://archive.org/download/ns_20210520/casa%20dib.m3u
 
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/HOW I MET YOUR MOTHER COMO CONOCI A TU MADRE.jpg" group-title="Star+",HOW I MET YOUR MOTHER COMO CONOCI A TU MADRE
 http://archive.org/download/ns_20210520/COMO%20CONOCI.m3u
@@ -251,8 +235,6 @@ https://archive.org/download/elch4v0/CARLY.m3u
 
 
 
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LA CASA DE LOS DIBUJOS.jpg" group-title="Prime video",LA CASA DE LOS DIBUJOS
-http://archive.org/download/ns_20210520/casa%20dib.m3u
 
 
 
@@ -472,6 +454,46 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/bebe%20reno%20lat
 
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7gtp4lusk685hdmuEXMbYrmSQoY.jpg" group-title="Prime video",CHICAGO PD
+https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Chicago%20pd
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/EL BUEN DOCTOR.jpg" group-title="Prime video",EL BUEN DOCTOR
+http://archive.org/download/ns_20210520/El%20buen%20doctor.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/5P5P2LL4luYbWawQFAhYqxHqOWy.jpg" group-title="Prime video",Fallout latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Fallout
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LA CASA DE LOS DIBUJOS.jpg" group-title="Prime video",LA CASA DE LOS DIBUJOS
+http://archive.org/download/ns_20210520/casa%20dib.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg"group-title="Prime video",caballeros del zodiaco (1989)
+https://archive.org/download/caballeros-del-zodiaco_202408/caballeros%20del%20zodiaco.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-boys.jpg" group-title="Prime video",The boys temporada 4 latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20boys%20temporada%204
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/gen-v-1695972913.png" group-title="Prime video",Gen V latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Gen%20V
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/img/1a/dd/1add5061b1c27ae10929a4d3fe3ac200.jpg" group-title="Prime video",Quien lo mato
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Quien%20lo%20mato
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/reacher-2-1643968087.jpg" group-title="Prime video",Reacher (2022) AMAZON VIDEO
+https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/REACHER%20AMAZON%20(2022)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6HanIV2hTLE2w7A5bI1KJb3bTL7.jpg" group-title="Prime video",The Walking Dead: World Beyond (2020)
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Twkb
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/hannibal-675473429-mmed.jpg" group-title="Prime video",Hannibal
+https://raw.githubusercontent.com/Bvserver123/Ghghg/main/Hannibal
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/invincible-2-1617205323.jpg" group-title="Prime video",Invencible latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/invencible
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-terror.jpg" group-title="Prime video",The terror/el terror
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/el%20terror
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/american-gods.jpg" group-title="Prime video", American gods 
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/American%20gods
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-boys.jpg" group-title="Prime video",The Boy
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/THE%20boys
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/ash-vs-evil-dead.jpg" group-title="Prime video",ash vs evil dead
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/ash%20vs%20evil%20dead
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-chavo-del-ocho-1669646032.png" group-title="Prime video",El chavo del ocho
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/El%20chavo%20del%20ocho
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/preacher.jpg" group-title="Prime video",preacher 
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Preacher
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DAWSONS CREEK.jpg" group-title="Prime video",DAWSONS CREEK
+http://archive.org/download/ns_20210520/DAWSONSCRE.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DE VIAJE CON LOS DERVEZ.jpg" group-title="Prime video",DE VIAJE CON LOS DERVEZ
+http://archive.org/download/ns_20210520/DEVIAJECONLOSDER.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQyZGRmMjMtN2Q5OC00Mjc4LWIwOTUtMTBjYzhiMDExNDY4XkEyXkFqcGdeQXVyMTI5NDA0OTQ3._V1_FMjpg_UX1000_.jpg" group-title="Prime video",HARINA 2022
 https://archive.org/download/si2_20220111/hari.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/GOTHAM.jpg" group-title="Prime video",GOTHAM
