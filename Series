@@ -285,10 +285,7 @@ http://archive.org/download/ns_20210520/El%20buen%20doctor.m3u
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Fallout
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/EL CHAVO DEL 8 ORIGINAL.jpg" group-title="Disney+",EL CHAVO DEL 8 ORIGINAL
 http://archive.org/download/elch4v0/elch4v0.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/EL JOVEN SHELDON.jpg" group-title="Prime video",EL JOVEN SHELDON
-http://archive.org/download/ns_20210520/JOVESH.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/EL JUEGO DE LAS LLAVES.jpg" group-title="Prime video",EL JUEGO DE LAS LLAVES
-http://archive.org/download/ns_20210520/LLAVE.m3u
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDI0ZDVhNTctOWI5Yy00NDE4LWI0MjctYTJiODU4ODA1YTJjXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg" group-title="Netflix",EL JUEGO DEL CALAMAR
 https://archive.org/download/elch4v0/calam.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ EL MANDALORIANO.jpg" group-title="Disney+",EL MANDALORIANO
@@ -311,108 +308,79 @@ https://archive.org/download/elch4v0/Elite.m3u
 http://archive.org/download/esta-mierda-me-supera/Esta%20mierda%20me%20supera.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODNiODVmYjItM2MyMC00ZWQyLTgyMGYtNzJjMmVmZTY2OTJjXkEyXkFqcGdeQXVyNzk3NDUzNTc@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Disney+",FALCON Y EL SOLDADO DE INVIERNO
 https://archive.org/download/a271dceb-e0bf-4c8a-b6b9-bc94b7866d88/FLAC.m3u
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/FAMILY GUY PADRE DE FAMILIA.jpg" group-title="Star+",FAMILY GUY PADRE DE FAMILIA
 http://archive.org/download/ns_20210520/FG1.m3u
-#EXTINF:-1 tvg-logo="https://www.pelisplus.lat/wp-content/uploads/2022/04/j00juJOffNdhkpkIaayQjcgvK2n-200x300.jpg" group-title="Prime video",Fear the Walking Dead
-https://archive.org/download/si2_20220111/WF.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/FINAL SPACE.jpg" group-title="Netflix",FINAL SPACE
-http://archive.org/download/ns_20210520/FINAL.m3u
+
+
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/FOREVER.jpg" group-title="Prime video",FOREVER
 http://archive.org/download/ns_20210520/FOREVER.m3u
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/FRIENDS.jpg" group-title="HBO Max",FRIENDS
 http://archive.org/download/ns_20210520/FRIEND.m3u
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/FUTURAMA.jpg" group-title="Star+",FUTURAMA
 http://archive.org/download/ns_20210520/FUTURAMA.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/GAMBITO DE DAMA.jpg" group-title="Netflix",GAMBITO DE DAMA
-http://archive.org/download/gam_20201208/GAM.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/GOTHAM.jpg" group-title="Prime video",GOTHAM
-http://archive.org/download/ns_20210520/GOTHAM.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/p0r74d45_202012/resizer.jpg" group-title="Apple tv+",GRIMM
-http://archive.org/download/ns_20210520/GRIMM.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/GUAU QUE AMIGO.jpg" group-title="Netflix",GUAU QUE AMIGO
-http://archive.org/download/ns_20210520/GUAU.m3u
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQyZGRmMjMtN2Q5OC00Mjc4LWIwOTUtMTBjYzhiMDExNDY4XkEyXkFqcGdeQXVyMTI5NDA0OTQ3._V1_FMjpg_UX1000_.jpg" group-title="Prime video",HARINA 2022
-https://archive.org/download/si2_20220111/hari.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/h-4-unt-3-d/H4UNT3D.jpg" group-title="Netflix",Haunted 2018
-http://archive.org/download/shing089/H4un73d.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/xnT8LA7DVnrJKaHX4LpgCLTTAvg.jpg" group-title="Disney+",Hawkeye
-https://archive.org/download/elch4v0/haw.m3u
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/hechiceras-1598544399.jpg" group-title="Apple tv+",Hechiceras (1998)
-https://archive.org/download/elch4v0/h0.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/HECHIZEROS DE WABERLY PLACE.jpg" group-title="Disney+",HECHIZEROS DE WABERLY PLACE
-http://archive.org/download/ns_20210520/hechizo.m3u
+
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/HEROES.jpg" group-title="Prime video",HEROES
 http://archive.org/download/ns_20210520/heroes.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/HIGH SCORE.jpg" group-title="Netflix",HIGH SCORE
-http://archive.org/download/ns_20210520/high%20score.m3u
+
+
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/HOW I MET YOUR MOTHER COMO CONOCI A TU MADRE.jpg" group-title="Star+",HOW I MET YOUR MOTHER COMO CONOCI A TU MADRE
 http://archive.org/download/ns_20210520/COMO%20CONOCI.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/HOW TO GET AWAY WITH MURDER.jpg" group-title="Netflix",HOW TO GET AWAY WITH MURDER
-http://archive.org/download/hm_20200929/HTGAWM.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/A5iqVpn8xOWeYAkJRLbk6Q3vyR6.jpg" group-title="Paramount+",I CARLY 2021
 https://archive.org/download/elch4v0/CARLY.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/IN TO BADLANDS.jpg" group-title="Prime video",IN TO BADLANDS
-http://archive.org/download/ns_20210520/INTOBADLANDS.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/JACK RYAN.jpg" group-title="Prime video",JACK RYAN
-http://archive.org/download/ns_20210520/jack%20ryan.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/JUEGO DE TRONOS.jpg" group-title="HBO Max",JUEGO DE TRONOS
-http://archive.org/download/g-4-m-30-ftr-0-n-0-m-3-u_202010/G4M30FTR0N0%24M3U.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/losmejoresexitos/c4mpcr35.jpg" group-title="Netflix",Jurassic WordlCampamento Crustaceo
-http://archive.org/download/losmejoresexitos/tempfd.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/gonzalez-narvaez/k3n4lyk3l.jpg" group-title="Paramount+",KENAL Y KEL
-http://archive.org/download/ANIME_20190528/KYK.m3u
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTBlZmE4YzItNTY5Mi00NmIxLTlhZTAtOWIxNjFlNTMzNmI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="Netflix",KINGDOM
-https://archive.org/download/elch4v0/kindo.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/KINGS AVATAR.jpg" group-title="Netflix",KINGS AVATAR
-http://archive.org/download/ns_20210520/KINGA.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LA CASA DE LAS FLORES.jpg" group-title="Netflix",LA CASA DE LAS FLORES
-http://archive.org/download/ns_20210520/LACASADELASFLORES.m3u
+
+
+
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LA CASA DE LOS DIBUJOS.jpg" group-title="Prime video",LA CASA DE LOS DIBUJOS
 http://archive.org/download/ns_20210520/casa%20dib.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LA CASA DE PAPEL.jpg" group-title="Netflix",LA CASA DE PAPEL
-http://archive.org/download/ns_20210520/la%20casa%20de%20pape.m3u
-#EXTINF:-1 tvg-logo="" group-title="Netflix",LA CASA DE PAPEL
-http://archive.org/download/BY1234/BY.M3U
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LA CQ.jpg" group-title="HBO Max",LA CQ
-http://archive.org/download/ns_20210520/cq.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LA DIMENSION DESCONOCIDA .jpg" group-title="Prime video",LA DIMENSION DESCONOCIDA 
-http://archive.org/download/ns_20210520/dimension.m3u
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2NjY3MDIzMV5BMl5BanBnXkFtZTcwNzMzMjYyMQ@@._V1_UY268_CR5,0,182,268_AL_.jpg" group-title="Prime video",LA FAMILIA MONSTER
-https://archive.org/download/elch4v0/FAMMONS.m3u
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/la-familia-p-luche.jpg" group-title="Prime video",LA FAMILIA PELUCHE
-https://archive.org/download/elch4v0/peluc.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/shing089/Lordersvu.jpg" group-title="Prime video",LA LEY Y ORDEN UVE
-http://archive.org/download/BT09BT/BT.M3U
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LA TEORIA DEL BIN BANG.jpg" group-title="HBO Max",LA TEORIA DEL BIN BANG
-http://archive.org/download/peliculas_201903/La%20teoria%20del%20big%20bang.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/shing089/7h3m4n.jpg" group-title="Disney+",LATINO MANDALORIAN
-http://archive.org/download/shing089/7H3M4ND4L0.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LE TEMES A LA OBSCURIDAD.jpg" group-title="Prime video",LE TEMES A LA OBSCURIDAD
-http://archive.org/download/ns_20210520/TEMESOB.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ LE TEMES A LA OCURIDAD 2019.jpg" group-title="Apple tv+",LE TEMES A LA OCURIDAD 2019
-http://ia601509.us.archive.org/19/items/l-3-t-3-m-3-s-4-l-4-o-0-scurid-4-d/L3T3M3S4L4O0SCURID4D.m3u
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LEJOS.jpg" group-title="Netflix",LEJOS
 http://archive.org/download/t-1la/T1la.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOCKE AND KEY.jpg" group-title="Netflix",LOCKE AND KEY
 http://archive.org/download/ns_20210520/lock.m3u
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkwOTE1ZDYtODQ3Yy00YTYwLTg0YWQtYmVkNmFjNGZlYmRiXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_FMjpg_UX1000_.jpg" group-title="Disney+",LOKI
-https://raw.githubusercontent.com/Imag7/Imagt/main/Lok
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS DUKES DE HAZZARD.jpg" group-title="Prime video",LOS DUKES DE HAZZARD
-http://archive.org/download/ns_20210520/dukes.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS EXPEDIENTES SECRETOS X.jpg" group-title="Star+",LOS EXPEDIENTES SECRETOS X
-http://archive.org/download/ns_20210520/expedientes%20x.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS HEROES DEL NORTE.jpg" group-title="Prime video",LOS HEROES DEL NORTE
-http://archive.org/download/ns_20210520/HEROESNERTE.m3u
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA5MmM4ZmYtMWE4My00OGUzLWE0ZDQtNGE5Mjc3ZWM0Y2Q1XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_FMjpg_UX1000_.jpg" group-title="Paramount+",LOS LOCOS ADDAMS
-https://archive.org/download/ns_20210520/adams.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS REYES DE LA COLINA.jpg" group-title="Prime video",LOS REYES DE LA COLINA
-http://archive.org/download/koht1_202001/KOHT1.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/misportadashd567/resizer.jpg" group-title="Star+",Los Simpson
-https://archive.org/download/si2_20220111/si00.m3u
 
 
 
 
+---------NETFLIX--------
+
+
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/HIGH SCORE.jpg" group-title="Netflix",HIGH SCORE
+http://archive.org/download/ns_20210520/high%20score.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/FINAL SPACE.jpg" group-title="Netflix",FINAL SPACE
+http://archive.org/download/ns_20210520/FINAL.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/GAMBITO DE DAMA.jpg" group-title="Netflix",GAMBITO DE DAMA
+http://archive.org/download/gam_20201208/GAM.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/GUAU QUE AMIGO.jpg" group-title="Netflix",GUAU QUE AMIGO
+http://archive.org/download/ns_20210520/GUAU.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/h-4-unt-3-d/H4UNT3D.jpg" group-title="Netflix",Haunted 2018
+http://archive.org/download/shing089/H4un73d.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/HOW TO GET AWAY WITH MURDER.jpg" group-title="Netflix",HOW TO GET AWAY WITH MURDER
+http://archive.org/download/hm_20200929/HTGAWM.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTBlZmE4YzItNTY5Mi00NmIxLTlhZTAtOWIxNjFlNTMzNmI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="Netflix",KINGDOM
+https://archive.org/download/elch4v0/kindo.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/losmejoresexitos/c4mpcr35.jpg" group-title="Netflix",Jurassic WordlCampamento Crustaceo
+http://archive.org/download/losmejoresexitos/tempfd.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/KINGS AVATAR.jpg" group-title="Netflix",KINGS AVATAR
+http://archive.org/download/ns_20210520/KINGA.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LA CASA DE PAPEL.jpg" group-title="Netflix",LA CASA DE PAPEL
+http://archive.org/download/ns_20210520/la%20casa%20de%20pape.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LA CASA DE LAS FLORES.jpg" group-title="Netflix",LA CASA DE LAS FLORES
+http://archive.org/download/ns_20210520/LACASADELASFLORES.m3u
+#EXTINF:-1 tvg-logo="" group-title="Netflix",LA CASA DE PAPEL
+http://archive.org/download/BY1234/BY.M3U
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOVE DEATH AND ROBOTS.jpg" group-title="Netflix",LOVE DEATH AND ROBOTS
 http://archive.org/download/peliculas_201903/LoveDeath%20Robots.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/vkGnVBSNpayJ1oCfyVaMvhrim95.jpg" group-title="Netflix",LUCIFER
@@ -423,13 +391,6 @@ https://archive.org/download/elch4v0/my%20holo%20love.m3u
 http://archive.org/download/ns_20210520/NACION%20Z.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/NICKY JAM EL GANADOR.jpg" group-title="Netflix",NICKY JAM EL GANADOR
 http://archive.org/download/ns_20210520/ELGAN.m3u
-
-
-
-
----------NETFLIX--------
-
-
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/OSCURO DESEO .jpg" group-title="Netflix",OSCURO DESEO 
 http://archive.org/download/t-1odcnkdbejrvq/T1odcnkdbejrvq.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/ikqlGaEt9lv9LEUX02LO9fNJ0x4.jpg" group-title="Netflix",Peaky Blinders
@@ -509,6 +470,38 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/bebe%20reno%20lat
 
 -----------PRIME VIDEO--------
 
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQyZGRmMjMtN2Q5OC00Mjc4LWIwOTUtMTBjYzhiMDExNDY4XkEyXkFqcGdeQXVyMTI5NDA0OTQ3._V1_FMjpg_UX1000_.jpg" group-title="Prime video",HARINA 2022
+https://archive.org/download/si2_20220111/hari.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/GOTHAM.jpg" group-title="Prime video",GOTHAM
+http://archive.org/download/ns_20210520/GOTHAM.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/EL JOVEN SHELDON.jpg" group-title="Prime video",EL JOVEN SHELDON
+http://archive.org/download/ns_20210520/JOVESH.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/EL JUEGO DE LAS LLAVES.jpg" group-title="Prime video",EL JUEGO DE LAS LLAVES
+http://archive.org/download/ns_20210520/LLAVE.m3u
+#EXTINF:-1 tvg-logo="https://www.pelisplus.lat/wp-content/uploads/2022/04/j00juJOffNdhkpkIaayQjcgvK2n-200x300.jpg" group-title="Prime video",Fear the Walking Dead
+https://archive.org/download/si2_20220111/WF.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/IN TO BADLANDS.jpg" group-title="Prime video",IN TO BADLANDS
+http://archive.org/download/ns_20210520/INTOBADLANDS.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/JACK RYAN.jpg" group-title="Prime video",JACK RYAN
+http://archive.org/download/ns_20210520/jack%20ryan.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LE TEMES A LA OBSCURIDAD.jpg" group-title="Prime video",LE TEMES A LA OBSCURIDAD
+http://archive.org/download/ns_20210520/TEMESOB.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS DUKES DE HAZZARD.jpg" group-title="Prime video",LOS DUKES DE HAZZARD
+http://archive.org/download/ns_20210520/dukes.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS HEROES DEL NORTE.jpg" group-title="Prime video",LOS HEROES DEL NORTE
+http://archive.org/download/ns_20210520/HEROESNERTE.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS REYES DE LA COLINA.jpg" group-title="Prime video",LOS REYES DE LA COLINA
+http://archive.org/download/koht1_202001/KOHT1.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LA DIMENSION DESCONOCIDA .jpg" group-title="Prime video",LA DIMENSION DESCONOCIDA 
+http://archive.org/download/ns_20210520/dimension.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2NjY3MDIzMV5BMl5BanBnXkFtZTcwNzMzMjYyMQ@@._V1_UY268_CR5,0,182,268_AL_.jpg" group-title="Prime video",LA FAMILIA MONSTER
+https://archive.org/download/elch4v0/FAMMONS.m3u
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/la-familia-p-luche.jpg" group-title="Prime video",LA FAMILIA PELUCHE
+https://archive.org/download/elch4v0/peluc.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/shing089/Lordersvu.jpg" group-title="Prime video",LA LEY Y ORDEN UVE
+http://archive.org/download/BT09BT/BT.M3U
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS TRES CHIFLADOS.jpg" group-title="Prime video",LOS TRES CHIFLADOS
 http://archive.org/download/ns_20210520/TRECHI.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/NIP TUCK CORTES Y PUNTADAS.jpg" group-title="Prime video",NIP TUCK CORTES Y PUNTADAS
@@ -546,7 +539,14 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Hunters
 
 ----------DISNEY-------------
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/xnT8LA7DVnrJKaHX4LpgCLTTAvg.jpg" group-title="Disney+",Hawkeye
+https://archive.org/download/elch4v0/haw.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/HECHIZEROS DE WABERLY PLACE.jpg" group-title="Disney+",HECHIZEROS DE WABERLY PLACE
+http://archive.org/download/ns_20210520/hechizo.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkwOTE1ZDYtODQ3Yy00YTYwLTg0YWQtYmVkNmFjNGZlYmRiXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_FMjpg_UX1000_.jpg" group-title="Disney+",LOKI
+https://raw.githubusercontent.com/Imag7/Imagt/main/Lok
+#EXTINF:-1 tvg-logo="http://archive.org/download/shing089/7h3m4n.jpg" group-title="Disney+",LATINO MANDALORIAN
+http://archive.org/download/shing089/7H3M4ND4L0.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/MARVEL RUNAWAYS.jpg" group-title="Disney+",MARVEL RUNAWAYS
 http://archive.org/download/marvel_20200522/Marvel.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzdhODc3OTctODc2ZS00MjIxLWIxMzAtY2M0M2UwMjFiNzNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Disney+",SOCIOS Y SABUESOS
@@ -570,9 +570,12 @@ https://archive.org/download/elch4v0/what.m3u
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/moon-knight-1668956321.png" group-title="Disney+",Moon Knight
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Moon%20Knight
 
-
 -------STAR+----------------
 
+#EXTINF:-1 tvg-logo="http://archive.org/download/misportadashd567/resizer.jpg" group-title="Star+",Los Simpson
+https://archive.org/download/si2_20220111/si00.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS EXPEDIENTES SECRETOS X.jpg" group-title="Star+",LOS EXPEDIENTES SECRETOS X
+http://archive.org/download/ns_20210520/expedientes%20x.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS SIMULADORESMEXICO.jpg" group-title="Paramount+",LOS SIMULADORESMEXICO
 http://archive.org/download/ns_20210520/SIMU.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/MENTES CRIMINALES.jpg" group-title="Star+",MENTES CRIMINALES
@@ -600,6 +603,14 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Pancho%20Villa%3A
       
 -------- HBO+---------------
 
+
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LA CQ.jpg" group-title="HBO Max",LA CQ
+http://archive.org/download/ns_20210520/cq.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/JUEGO DE TRONOS.jpg" group-title="HBO Max",JUEGO DE TRONOS
+http://archive.org/download/g-4-m-30-ftr-0-n-0-m-3-u_202010/G4M30FTR0N0%24M3U.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LA TEORIA DEL BIN BANG.jpg" group-title="HBO Max",LA TEORIA DEL BIN BANG
+http://archive.org/download/peliculas_201903/La%20teoria%20del%20big%20bang.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/MI NIÑERA ES UN VAMPIRO .jpg" group-title="HBO Max",MI NIÑERA ES UN VAMPIRO 
 http://archive.org/download/acde288908f6856d326290398e8ea715-360p/acde288908f6856d326290398e8ea715-360p.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/RICK Y MORTY.jpg" group-title="HBO Max",RICK Y MORTY
@@ -648,6 +659,10 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/One%20Piece%3ALiv
 
  ---------PARAMOUNT--------
 
+#EXTINF:-1 tvg-logo="http://archive.org/download/gonzalez-narvaez/k3n4lyk3l.jpg" group-title="Paramount+",KENAL Y KEL
+http://archive.org/download/ANIME_20190528/KYK.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA5MmM4ZmYtMWE4My00OGUzLWE0ZDQtNGE5Mjc3ZWM0Y2Q1XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_FMjpg_UX1000_.jpg" group-title="Paramount+",LOS LOCOS ADDAMS
+https://archive.org/download/ns_20210520/adams.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SABRINA LA BRUJA ADOLESCENTE.jpg" group-title="Paramount+",SABRINA LA BRUJA ADOLESCENTE
 http://archive.org/download/sabrina-2/sabrinatemporada.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/STAR TREK PICARD.jpg" group-title="Paramount+",STAR TREK PICARD
@@ -665,7 +680,12 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Your%20honor
 
 -------APPLE TV-----------
 
-
+#EXTINF:-1 tvg-logo="http://archive.org/download/p0r74d45_202012/resizer.jpg" group-title="Apple tv+",GRIMM
+http://archive.org/download/ns_20210520/GRIMM.m3u
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/hechiceras-1598544399.jpg" group-title="Apple tv+",Hechiceras (1998)
+https://archive.org/download/elch4v0/h0.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ LE TEMES A LA OCURIDAD 2019.jpg" group-title="Apple tv+",LE TEMES A LA OCURIDAD 2019
+http://ia601509.us.archive.org/19/items/l-3-t-3-m-3-s-4-l-4-o-0-scurid-4-d/L3T3M3S4L4O0SCURID4D.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/MANUAL DE SUPERVIVENCIA ESCOLAR DE NED.jpg" group-title="Apple tv+",MANUAL DE SUPERVIVENCIA ESCOLAR DE NED
 http://archive.org/download/ns_20210520/NED.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/VIAJEROS EN EL TIEMPO QUANTUM LEAP.jpg" group-title="Apple tv+",VIAJEROS EN EL TIEMPO QUANTUM LEAP
