@@ -1,34 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/1jub9jqdl93rw2s/INFANTIL.jpg" group-title="",Novelas 
-https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Novela
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/1jub9jqdl93rw2s/INFANTIL.jpg" group-title="",Caricaturas 
-https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Caricatura
-#EXTINF:-1 tvg-logo="https://gray-wktb-prod.cdn.arcpublishing.com/resizer/_0q-L39o6VcGdFl2HeKBqu4jb2k=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/JYDNHDPW3ZDVRHIERWNZUG3OFA.jpg" group-title="Netflix", NETFLIX
-https://archive.org/download/tuj_20230714/Netflix.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/shu_20230715/P.png" group-title="Prime video", PRIME VIDEO
-https://archive.org/download/tuj_20230714/Primp.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/shu_20230715/Hb.png" group-title="HBO Max", HBO Max 
-https://archive.org/download/tuj_20230714/HBO.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/shu_20230715/D.jpeg" group-title="Disney+", DISNEY+
-https://archive.org/download/tuj_20230714/Disney.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/shu_20230715/St.jpeg" group-title="Star+", STAR+
-https://archive.org/download/tuj_20230714/Star.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/shu_20230715/P%2B.png" group-title="Paramount+", PARAMOUNT+
-https://archive.org/download/tuj_20230714/Paramount.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/shu_20230715/A.jpeg" group-title="Apple tv+", APPLE TV+
-https://archive.org/download/tuj_20230714/Tv.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/shu_20230715/H.png" group-title="Hulu", HULU
-https://archive.org/download/tuj_20230714/Huu.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/shu_20230715/Shu.jpeg" group-title="Shudder", SHUDDER
-https://archive.org/download/tuj_20230714/Shuder.mp4
-................Pegar Debajo De Esto..................
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cQXGPMD/Nueva-vida-a-mi-maquina-Poster.jpg"group-title="Netflix",nueva vida a mi maquina
-https://raw.githubusercontent.com/linkarg13/SERIES/main/Nuevavida%20a%20m%C3%AD%20maquina
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qjUn6GVZVDifLHB7bvVrgZsOfzE.jpg"group-title="",XINA
-https://dl.dropbox.com/s/qybhybywfjkupuq/xen4.m3u
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/5Yiep9EwcQgLolg013ETBVqHxuD.jpg"group-title="HBO Max",RICK Y MORTY
 https://bit.ly/3y81KkU
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg"group-title="Prime video",caballeros del zodiaco (1989)
@@ -41,22 +15,7 @@ https://raw.githubusercontent.com/linkarg13/PELICULAS/main/ELENCARGADO
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5MtCSHh/Evil-Serie-de-TV-731550198-large.jpg"group-title="Paramount+",evil
 https://raw.githubusercontent.com/linkarg13/SERIES/main/EVIL
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Netflix",Los Bridgerton (2024)
-https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Bridgestone
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-umbrella-academy.jpg"group-title="Netflix",The Umbrella Academy
-https://raw.githubusercontent.com/BrianRVP/Cuantas/main/The%20Umbrella%20Academy
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/u8sLAJUvY9yzWqtVfKRQz5yin3D.jpg"group-title="Netflix",dulce hogar
-https://raw.githubusercontent.com/linkarg13/SERIES/main/DULCEHOGAR
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/thkeCJlHhBj2LmxqR7kfHYzOsl9.jpg" group-title="Netflix",Los detectives difuntos latino
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Los%20detectives%20difuntos
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/qoFkjFwSb4NM6ZHpIZW9iKgXA4e.jpg"group-title="Netflix", CADAVERES
-https://raw.githubusercontent.com/linkarg13/SERIES/main/Criminales
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5uf6L2w2QRomahGMCniHskNOQWf.jpg"group-title="Netflix",OKUPAS
-https://raw.githubusercontent.com/linkarg13/SERIES/main/OKUPAS
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/3-1669726661.png"group-title="Netflix",3%
-https://raw.githubusercontent.com/linkarg13/SERIES/main/3%25
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/ulGaOy0dUXAm8V2XRmIrQ3xE8lt.jpg" group-title="Netflix",Avatar:La leyenda de aang latino
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Avatar
+
 #EXTINF:-1 tvg-logo="https://archive.org/download/images_20231204/images.jpeg"group-title=""Disney+",EL ZORRO
 https://raw.githubusercontent.com/linkarg13/ELZORRO/main/ELZORRO
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/eAp25k6jHPVroZ8XXvY7BDBpLgt.jpg"group-title="",EL CHAVO DEL 8
@@ -71,8 +30,6 @@ https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Mrpicle
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Gen%20V
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/img/1a/dd/1add5061b1c27ae10929a4d3fe3ac200.jpg" group-title="Prime video",Quien lo mato
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Quien%20lo%20mato
-#EXTINF:-1 tvg-logo="https://www.cuevana3.eu/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3Iw27VOUE9PGjrupjDAvPnlbGR9.jpg&w=640&q=75"group-title="Netflix", cuerpo en llamas
-https://raw.githubusercontent.com/linkarg13/Cuerpoenllamas/main/Cuerpo%20en%20llamas
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-otra-chica-negra-1694756501.png"group-title="Star+ ", la otra chica negra
 https://raw.githubusercontent.com/linkarg13/Laotrachicadenegro/main/La%20otra%20chica%20de%20negro
 #EXTINF:-1 tvg-logo="https://media.comicbook.com/wp-content/uploads/2013/01/FionnaCake_01_CV2ndPrint-197x300.jpg" group-title="HBO Max",Hora de aventura: Fionna y Cake (2023)
@@ -81,8 +38,7 @@ https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/Hora%20de%20aventur
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Ahsoka
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/reacher-2-1643968087.jpg" group-title="Prime video",Reacher (2022) AMAZON VIDEO
 https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/REACHER%20AMAZON%20(2022)
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-serie-de-cuphead.png" group-title="Netflix",CupHead Show! (2022) Latino
-https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/CupHead%20Show%20(2022)
+
 #EXTINF:-1 tvg-logo="https://www.pelisplus.lat/wp-content/uploads/2021/12/iF8ai2QLNiHV4anwY1TuSGZXqfN-200x300.jpg" group-title="Star+",Chucky 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Chucky
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="Star+",Chucky temporada 3 latino
@@ -127,30 +83,16 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20walking%20d
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20walking%20dead%20temporada%206%20a%20la%2011
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/from-2-1645539123.jpg" group-title="HBO Max",From
 https://raw.githubusercontent.com/Dragonjunior890/Ejemplo/main/From
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/yv57TccCkgdy3St7rspBPKROeRK.jpg" group-title="Netflix",Woo:Una abogada extraordinaria
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Woo%3AUna%20abogada%20extraordinaria
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-terror.jpg" group-title="Prime video",The terror/el terror
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/el%20terror
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/startup-1669428540.png" group-title="Netflix",Startup
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Startup
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-witcher-1578109844.jpg" group-title="Netflix",The witcher
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20witcher
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/6SJppowm7cdQgLkvoTlnTUSbjr9.jpg" group-title="HBO Max",Superman y lois
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Superman%20y%20lois
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cortar-por-la-linea-de-puntos-1689749846.png" group-title="Netflix",Cortar por la linea de puntos castellano
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Cortar%20la%20linea%20por%20los%20puntos
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/stranger-things.jpg" group-title="Netflix", stranger things
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Stranger%20things
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/american-gods.jpg" group-title="Prime video", American gods 
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/American%20gods
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/black-mirror.jpg" group-title="Netflix",Black Mirror temporada 6 latino
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Black%20mirror%20temporada%206
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/silicon-valley.jpg" group-title="HBO Max",silicon valley
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Silicon%20valley%20serie%20hbo%20max
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-last-of-us-2-1673841725.jpg" group-title="HBO Max",THE LAST OF US 
 https://bit.ly/40mir4A
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/madam-c-j-walker-una-mujer-hecha-a-si-misma-1587222033.jpg" group-title="Netflix",Madam C.J. Walker: Una Mujer Hecha a si Misma
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Madam%20C.J.%20Walker%3A%20Una%20mujer%20hecha%20a%20si%20misma
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/todo-el-mundo-odia-a-chris-1669602642.png" group-title="HBO Max",todos odian a Chris
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/todos%20odian%20a%20chris
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/3Zr9qJXqHQwi9IyPBDwukgg1jcZ.jpg" group-title="Peacock",Twisted metal latino
@@ -179,8 +121,6 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Acolyte
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Power%20rangers%20fuerza%20del%20tiempo
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/power-rangers-dino-fury-1669337375.png" group-title="Prime video",Power rangers dino fury
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Power%20rangers%20dino%20fury
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/alice-in-borderland-2-1607758082.jpg" group-title="Netflix",Alice in borderlandd
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Series%20de%20netflix
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk1NjAwOTM1OV5BMl5BanBnXkFtZTgwMzUwODQ3NzM@._V1_FMjpg_UX1000_.jpg" group-title="HBO Max",ANIMAL KINGDOM
 https://archive.org/download/ns_20210520/AN1MAL.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWRhYjZjOTQtOGNiNC00MTQ0LWE2MTYtMTQxYzEwNDE3NjYyXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg" group-title="Disney+",ANOS MARAVILLOSOS
@@ -286,22 +226,8 @@ http://archive.org/download/elch4v0/elch4v0.m3u
 https://archive.org/download/elch4v0/calam.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ EL MANDALORIANO.jpg" group-title="Disney+",EL MANDALORIANO
 http://archive.org/download/m-4-nd-4-l-0-r-1-an-0-temp-01-m-3-u/M4ND4L0R1AN0TEMP01M3U.m3u
-#EXTINF:-1 tvg-logo="https://repro12.estrenosdoramas.us/Sisyphus.png" group-title="Netflix",EL MITO DE SISIFO
-https://archive.org/download/elch4v0/sisy.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/gonzalez-narvaez/b34ckm4.jpg" group-title="Netflix",EL MUNDO DE BEAKMAN {1992}
-http://archive.org/download/ns_20210520/BECMAN.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/zfwbbab1yfHAjFbbClh1jYoV8gi.jpg" group-title="Netflix",Parasyte:Los grises latino
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Parasyte%3ALos%20grises
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/EL MUNDO OCULTO DE SABRINA.jpg" group-title="Netflix",EL MUNDO OCULTO DE SABRINA
-http://archive.org/download/kuhlman_1/Series/series/El%20mundo%20oculto%20de%20sabrina%20opc%202.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/gonzalez-narvaez/3lpr1nc1p3.jpg" group-title="HBO Max",EL PRINCIPE DEL RAP
 http://archive.org/download/ns_20210520/prirap.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/EL ROBO DEL SIGLO.jpg" group-title="Netflix",EL ROBO DEL SIGLO
-http://archive.org/download/t-1erdsfugjxuv/T1erdsfugjxuv.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ELITE.jpg" group-title="Netflix",ELITE
-https://archive.org/download/elch4v0/Elite.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ESTA MIERDA ME SUPERA .jpg" group-title="Netflix",ESTA MIERDA ME SUPERA 
-http://archive.org/download/esta-mierda-me-supera/Esta%20mierda%20me%20supera.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODNiODVmYjItM2MyMC00ZWQyLTgyMGYtNzJjMmVmZTY2OTJjXkEyXkFqcGdeQXVyNzk3NDUzNTc@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Disney+",FALCON Y EL SOLDADO DE INVIERNO
 https://archive.org/download/a271dceb-e0bf-4c8a-b6b9-bc94b7866d88/FLAC.m3u
 
@@ -347,6 +273,60 @@ http://archive.org/download/ns_20210520/casa%20dib.m3u
 ---------NETFLIX--------
 
 
+
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/alice-in-borderland-2-1607758082.jpg" group-title="Netflix",Alice in borderlandd
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Series%20de%20netflix
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/madam-c-j-walker-una-mujer-hecha-a-si-misma-1587222033.jpg" group-title="Netflix",Madam C.J. Walker: Una Mujer Hecha a si Misma
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Madam%20C.J.%20Walker%3A%20Una%20mujer%20hecha%20a%20si%20misma
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/black-mirror.jpg" group-title="Netflix",Black Mirror temporada 6 latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Black%20mirror%20temporada%206
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cortar-por-la-linea-de-puntos-1689749846.png" group-title="Netflix",Cortar por la linea de puntos castellano
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Cortar%20la%20linea%20por%20los%20puntos
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/stranger-things.jpg" group-title="Netflix", stranger things
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Stranger%20things
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-witcher-1578109844.jpg" group-title="Netflix",The witcher
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20witcher
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/startup-1669428540.png" group-title="Netflix",Startup
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Startup
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/yv57TccCkgdy3St7rspBPKROeRK.jpg" group-title="Netflix",Woo:Una abogada extraordinaria
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Woo%3AUna%20abogada%20extraordinaria
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-serie-de-cuphead.png" group-title="Netflix",CupHead Show! (2022) Latino
+https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/CupHead%20Show%20(2022)
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qjUn6GVZVDifLHB7bvVrgZsOfzE.jpg"group-title="",XINA
+https://dl.dropbox.com/s/qybhybywfjkupuq/xen4.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Netflix",Los Bridgerton (2024)
+https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Bridgestone
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-umbrella-academy.jpg"group-title="Netflix",The Umbrella Academy
+https://raw.githubusercontent.com/BrianRVP/Cuantas/main/The%20Umbrella%20Academy
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/u8sLAJUvY9yzWqtVfKRQz5yin3D.jpg"group-title="Netflix",dulce hogar
+https://raw.githubusercontent.com/linkarg13/SERIES/main/DULCEHOGAR
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/thkeCJlHhBj2LmxqR7kfHYzOsl9.jpg" group-title="Netflix",Los detectives difuntos latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Los%20detectives%20difuntos
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/qoFkjFwSb4NM6ZHpIZW9iKgXA4e.jpg"group-title="Netflix", CADAVERES
+https://raw.githubusercontent.com/linkarg13/SERIES/main/Criminales
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5uf6L2w2QRomahGMCniHskNOQWf.jpg"group-title="Netflix",OKUPAS
+https://raw.githubusercontent.com/linkarg13/SERIES/main/OKUPAS
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/3-1669726661.png"group-title="Netflix",3%
+https://raw.githubusercontent.com/linkarg13/SERIES/main/3%25
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/ulGaOy0dUXAm8V2XRmIrQ3xE8lt.jpg" group-title="Netflix",Avatar:La leyenda de aang latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Avatar
+#EXTINF:-1 tvg-logo="https://www.cuevana3.eu/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3Iw27VOUE9PGjrupjDAvPnlbGR9.jpg&w=640&q=75"group-title="Netflix", cuerpo en llamas
+https://raw.githubusercontent.com/linkarg13/Cuerpoenllamas/main/Cuerpo%20en%20llamas
+#EXTINF:-1 tvg-logo="https://repro12.estrenosdoramas.us/Sisyphus.png" group-title="Netflix",EL MITO DE SISIFO
+https://archive.org/download/elch4v0/sisy.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/gonzalez-narvaez/b34ckm4.jpg" group-title="Netflix",EL MUNDO DE BEAKMAN {1992}
+http://archive.org/download/ns_20210520/BECMAN.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/zfwbbab1yfHAjFbbClh1jYoV8gi.jpg" group-title="Netflix",Parasyte:Los grises latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Parasyte%3ALos%20grises
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/EL MUNDO OCULTO DE SABRINA.jpg" group-title="Netflix",EL MUNDO OCULTO DE SABRINA
+http://archive.org/download/kuhlman_1/Series/series/El%20mundo%20oculto%20de%20sabrina%20opc%202.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/EL ROBO DEL SIGLO.jpg" group-title="Netflix",EL ROBO DEL SIGLO
+http://archive.org/download/t-1erdsfugjxuv/T1erdsfugjxuv.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ELITE.jpg" group-title="Netflix",ELITE
+https://archive.org/download/elch4v0/Elite.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ESTA MIERDA ME SUPERA .jpg" group-title="Netflix",ESTA MIERDA ME SUPERA 
+http://archive.org/download/esta-mierda-me-supera/Esta%20mierda%20me%20supera.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LEJOS.jpg" group-title="Netflix",LEJOS
 http://archive.org/download/t-1la/T1la.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOCKE AND KEY.jpg" group-title="Netflix",LOCKE AND KEY
