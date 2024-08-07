@@ -81,10 +81,6 @@ https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/Hora%20de%20aventur
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Ahsoka
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/reacher-2-1643968087.jpg" group-title="Prime video",Reacher (2022) AMAZON VIDEO
 https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/REACHER%20AMAZON%20(2022)
-#EXTINF:-1 tvg-logo="https://flxt.tmsimg.com/assets/p11213278_b_v13_aa.jpg" group-title="Netflix",Sonic Boom (2014) Latino
-https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/Sonic%20Boom%20(2014)
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/sonic_prime-145481181-mmed.jpg" group-title="Netflix",Sonic Prime 2022 Latino
-https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/Sonic%20Prime%202022%20(Netflix)
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-serie-de-cuphead.png" group-title="Netflix",CupHead Show! (2022) Latino
 https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/CupHead%20Show%20(2022)
 #EXTINF:-1 tvg-logo="https://www.pelisplus.lat/wp-content/uploads/2021/12/iF8ai2QLNiHV4anwY1TuSGZXqfN-200x300.jpg" group-title="Star+",Chucky 
@@ -345,18 +341,20 @@ http://archive.org/download/ns_20210520/casa%20dib.m3u
 
 
 
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LEJOS.jpg" group-title="Netflix",LEJOS
-http://archive.org/download/t-1la/T1la.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOCKE AND KEY.jpg" group-title="Netflix",LOCKE AND KEY
-http://archive.org/download/ns_20210520/lock.m3u
-
 
 
 
 ---------NETFLIX--------
 
 
-
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LEJOS.jpg" group-title="Netflix",LEJOS
+http://archive.org/download/t-1la/T1la.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOCKE AND KEY.jpg" group-title="Netflix",LOCKE AND KEY
+http://archive.org/download/ns_20210520/lock.m3u
+#EXTINF:-1 tvg-logo="https://flxt.tmsimg.com/assets/p11213278_b_v13_aa.jpg" group-title="Netflix",Sonic Boom (2014) Latino
+https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/Sonic%20Boom%20(2014)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/sonic_prime-145481181-mmed.jpg" group-title="Netflix",Sonic Prime 2022 Latino
+https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/Sonic%20Prime%202022%20(Netflix)
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/HIGH SCORE.jpg" group-title="Netflix",HIGH SCORE
 http://archive.org/download/ns_20210520/high%20score.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/FINAL SPACE.jpg" group-title="Netflix",FINAL SPACE
