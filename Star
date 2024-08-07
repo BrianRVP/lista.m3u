@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jk5wf0r/v-H0-Mghb0l-NJ5k7-Ep-Dw-I7i-JV7qa-O-1.jpg"group-title="Star+",LOS SIMPSON
+https://raw.githubusercontent.com/linkarg13/Los-Simpson-/main/Temp1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pJKdfqw/S3m-Qv-Ux-Ro-720x0-1.jpg"group-title="Star+", el encargado
+https://raw.githubusercontent.com/linkarg13/PELICULAS/main/ELENCARGADO
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-otra-chica-negra-1694756501.png"group-title="Star+ ", la otra chica negra
+https://raw.githubusercontent.com/linkarg13/Laotrachicadenegro/main/La%20otra%20chica%20de%20negro
+#EXTINF:-1 tvg-logo="https://www.pelisplus.lat/wp-content/uploads/2021/12/iF8ai2QLNiHV4anwY1TuSGZXqfN-200x300.jpg" group-title="Star+",Chucky 
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Chucky
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="Star+",Chucky temporada 3 latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Chucky
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA3NDk0NzM1MF5BMl5BanBnXkFtZTcwOTYxMTk3OQ@@._V1_FMjpg_UX1000_.jpg" group-title="Star+",BAJO EL DOMO
+https://archive.org/download/elch4v0/domi.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-walking-dead.jpg" group-title="Star+",the walking dead
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20walking%20dead%20temporada%201-5
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-walking-dead.jpg" group-title="Star+",The walking dead temporada 6 a la 11
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20walking%20dead%20temporada%206%20a%20la%2011
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/AMERICAN DAD.jpg" group-title="Star+",AMERICAN DAD
+http://archive.org/download/ladarius34b_k964n_mygeoweb_2/AD1.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/american-horror-story.jpg" group-title="Star+",AMERICAN HORROR HISTORY
+http://archive.org/download/ns_20210520/HOHIS.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BREAKING BAD.jpg" group-title="Star+",BREAKING BAD
+http://archive.org/download/ns_20210520/BB.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/FAMILY GUY PADRE DE FAMILIA.jpg" group-title="Star+",FAMILY GUY PADRE DE FAMILIA
+http://archive.org/download/ns_20210520/FG1.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CUMBIA NINJA.jpg" group-title="Star+",CUMBIA NINJA
+http://archive.org/download/kuhlman_1/Series/series/Cumbia Ninja.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/FUTURAMA.jpg" group-title="Star+",FUTURAMA
+http://archive.org/download/ns_20210520/FUTURAMA.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/HOW I MET YOUR MOTHER COMO CONOCI A TU MADRE.jpg" group-title="Star+",HOW I MET YOUR MOTHER COMO CONOCI A TU MADRE
+http://archive.org/download/ns_20210520/COMO%20CONOCI.m3u
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/misportadashd567/resizer.jpg" group-title="Star+",Los Simpson
+https://archive.org/download/si2_20220111/si00.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS EXPEDIENTES SECRETOS X.jpg" group-title="Star+",LOS EXPEDIENTES SECRETOS X
+http://archive.org/download/ns_20210520/expedientes%20x.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS SIMULADORESMEXICO.jpg" group-title="Paramount+",LOS SIMULADORESMEXICO
+http://archive.org/download/ns_20210520/SIMU.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/MENTES CRIMINALES.jpg" group-title="Star+",MENTES CRIMINALES
+http://archive.org/download/mc_20200903/MC.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOST PERDIDOS.jpg" group-title="Star+",LOST PERDIDOS
+http://archive.org/download/ns_20210520/LOST.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/MALCOLM EL DE EN MEDIO.jpg" group-title="Star+",MALCOLM EL DE EN MEDIO
+http://archive.org/download/uaufderharl_c922j_ymail4_Lis1/lis1.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/PRISON BREAK.jpg" group-title="Star+",PRISON BREAK
+http://archive.org/download/ns_20210520/PRISONBRAK.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEyODg2NzkwMDBeQTJeQWpwZ15BbWU4MDQwODI3MzIx._V1_FMjpg_UX1000_.jpg" group-title="Star+",Sons of Anarchy
+https://archive.org/download/elch4v0/ANARCH.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SOY TU FAN.jpg" group-title="Star+",SOY TU FAN
+http://archive.org/download/stf-2/STF.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE STRAIN.jpg" group-title="Star+",THE STRAIN
+http://archive.org/download/ns_20210520/THESTRAIN.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/shing089/walki.jpg" group-title="Star+",The Walking Dead
+http://archive.org/download/kkkkk_202101/7h3w4lk1nPR1NC1P4L.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/me-llamo-earl.jpg" group-title="Star+",Mi nombre es Earl
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Mi%20nombre%20es%20Earl
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/esposas-desesperadas.jpg" group-title="Star+",Esposas Desesperadas
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Esposas%20desesperadas
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pancho-villa-el-centauro-del-norte-1690425477.png" group-title="Star+",Pancho Villa: El centauro del norte
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Pancho%20Villa%3A%20El%20centauro%20del%20norte
+      
