@@ -18,7 +18,8 @@ http://archive.org/download/black-summer-serie/BLACK%20SUMMER%20%20SERIE.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ARROW.jpg" group-title="Netflix",ARROW
 http://archive.org/download/ns_20210520/arrow.m3u
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/bojack_horseman-687229611-mmed.jpg" group-title="Netflix",BOJACK HORSEMAN
-http://archive.org/download/ns_20210520/BOJA.m3u#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/stranger-things.jpg" group-title="Netflix",stranger things
+http://archive.org/download/ns_20210520/BOJA.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/stranger-things.jpg" group-title="Netflix",stranger things
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Stranger%20things
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CASA DE FLORES.jpg" group-title="Netflix",CASA DE FLORES
 http://archive.org/download/ns_20210520/casa%20de%20flores%20.m3u 
