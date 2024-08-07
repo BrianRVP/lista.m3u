@@ -3,7 +3,8 @@
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Neflix
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDI0ZDVhNTctOWI5Yy00NDE4LWI0MjctYTJiODU4ODA1YTJjXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg" group-title=",Prime Video
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Prime%20video
-
+#EXTINF:-1, BFlix®TV Disney+
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Disney
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/5Yiep9EwcQgLolg013ETBVqHxuD.jpg"group-title="HBO Max",RICK Y MORTY
 https://bit.ly/3y81KkU
 
