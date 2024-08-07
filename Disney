@@ -51,3 +51,10 @@ http://archive.org/download/ns_20210520/DINOSAURIOS.m3u
 http://archive.org/download/elch4v0/elch4v0.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODNiODVmYjItM2MyMC00ZWQyLTgyMGYtNzJjMmVmZTY2OTJjXkEyXkFqcGdeQXVyNzk3NDUzNTc@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Disney+",FALCON Y EL SOLDADO DE INVIERNO
 https://archive.org/download/a271dceb-e0bf-4c8a-b6b9-bc94b7866d88/FLAC.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWRhYjZjOTQtOGNiNC00MTQ0LWE2MTYtMTQxYzEwNDE3NjYyXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg" group-title="Disney+",ANOS MARAVILLOSOS
+http://archive.org/download/elch4v0/MARAVILLO.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DAREDEVIL.jpg" group-title="Disney+",DAREDEVIL
+http://archive.org/download/ns_20210520/Daredevil.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/BUFF.jpg" group-title="Disney+",Buffy la caza vampiros
+http://archive.org/download/ANIME_20190528/BUF.m3u
+
