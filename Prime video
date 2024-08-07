@@ -103,3 +103,16 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Paper%20girls
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Muy%20viejo%20para%20morir%20joven
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hunters-1585350037.jpg" group-title="Prime video",Hunters
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Hunters
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/HEROES.jpg" group-title="Prime video",HEROES
+http://archive.org/download/ns_20210520/heroes.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/FOREVER.jpg" group-title="Prime video",FOREVER
+http://archive.org/download/ns_20210520/FOREVER.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LA CASA DE LOS DIBUJOS.jpg" group-title="Prime video",LA CASA DE LOS DIBUJOS
+http://archive.org/download/ns_20210520/casa%20dib.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/power-rangers-fuerza-salvaje.jpg" group-title="Prime video",Power rangers,fuerza salvaje
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Power%20rangers%20fuerza%20salvaje
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/power-rangers-fuerza-del-tiempo.jpg" group-title="Prime video",Power rangers fuerza del tiempo
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Power%20rangers%20fuerza%20del%20tiempo
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/power-rangers-dino-fury-1669337375.png" group-title="Prime video",Power rangers dino fury
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Power%20rangers%20dino%20fury
+
