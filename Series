@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDI0ZDVhNTctOWI5Yy00NDE4LWI0MjctYTJiODU4ODA1YTJjXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg" group-title=", Netflix 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDI0ZDVhNTctOWI5Yy00NDE4LWI0MjctYTJiODU4ODA1YTJjXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg" group-title=",BFlix®TV Netflix 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Neflix
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDI0ZDVhNTctOWI5Yy00NDE4LWI0MjctYTJiODU4ODA1YTJjXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg" group-title=",Prime Video
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDI0ZDVhNTctOWI5Yy00NDE4LWI0MjctYTJiODU4ODA1YTJjXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg" group-title=",BFlix®TV Prime Video
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Prime%20video
 #EXTINF:-1, BFlix®TV Disney+
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Disney
