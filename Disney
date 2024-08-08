@@ -1,61 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/xnT8LA7DVnrJKaHX4LpgCLTTAvg.jpg" group-title="",Hawkeye
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/xnT8LA7DVnrJKaHX4LpgCLTTAvg.jpg" group-title="Disney+",Hawkeye
 https://archive.org/download/elch4v0/haw.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/HECHIZEROS DE WABERLY PLACE.jpg" group-title="",HECHIZEROS DE WABERLY PLACE
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/HECHIZEROS DE WABERLY PLACE.jpg" group-title="Disney+",HECHIZEROS DE WABERLY PLACE
 http://archive.org/download/ns_20210520/hechizo.m3u
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkwOTE1ZDYtODQ3Yy00YTYwLTg0YWQtYmVkNmFjNGZlYmRiXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_FMjpg_UX1000_.jpg" group-title="",LOKI
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkwOTE1ZDYtODQ3Yy00YTYwLTg0YWQtYmVkNmFjNGZlYmRiXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_FMjpg_UX1000_.jpg" group-title="Disney+",LOKI
 https://raw.githubusercontent.com/Imag7/Imagt/main/Lok
-#EXTINF:-1 tvg-logo="http://archive.org/download/shing089/7h3m4n.jpg" group-title="",LATINO MANDALORIAN
+#EXTINF:-1 tvg-logo="http://archive.org/download/shing089/7h3m4n.jpg" group-title="Disney+",LATINO MANDALORIAN
 http://archive.org/download/shing089/7H3M4ND4L0.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/MARVEL RUNAWAYS.jpg" group-title="",MARVEL RUNAWAYS
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/MARVEL RUNAWAYS.jpg" group-title="Disney+",MARVEL RUNAWAYS
 http://archive.org/download/marvel_20200522/Marvel.m3u
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzdhODc3OTctODc2ZS00MjIxLWIxMzAtY2M0M2UwMjFiNzNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="",SOCIOS Y SABUESOS
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzdhODc3OTctODc2ZS00MjIxLWIxMzAtY2M0M2UwMjFiNzNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Disney+",SOCIOS Y SABUESOS
 https://archive.org/download/elch4v0/sys.m3u
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-1N2pHNvkx8U/VSIF_aeog9I/AAAAAAABo0k/r-Vwe9UEzMs/s1600/Star%2BWars%2BLa%2BGuerra%2BDe%2BLos%2BClones%2B%2B.jpg" group-title="",Star Wars Guerra De Clones
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-1N2pHNvkx8U/VSIF_aeog9I/AAAAAAABo0k/r-Vwe9UEzMs/s1600/Star%2BWars%2BLa%2BGuerra%2BDe%2BLos%2BClones%2B%2B.jpg" group-title="Disney+",Star Wars Guerra De Clones
 https://archive.org/download/kkkkk_202101/574rW4r5L46u3rr4D305Cl0n35.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/STAR WARS LA GUERRA DE LOS CLONES.jpg" group-title="",STAR WARS LA GUERRA DE LOS CLONES
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/STAR WARS LA GUERRA DE LOS CLONES.jpg" group-title="Disney+",STAR WARS LA GUERRA DE LOS CLONES
 http://archive.org/download/ns_20210520/CLONE.m3u
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTVjNTVjMDMtNjUyMC00ZmM0LWE4OWMtMWZkNzY4NjM0NDMzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="",Star Wars The Bad Batch
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTVjNTVjMDMtNjUyMC00ZmM0LWE4OWMtMWZkNzY4NjM0NDMzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Disney+",Star Wars The Bad Batch
 https://archive.org/download/elch4v0/sTARWA.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE DEFENDERS.jpg" group-title="",THE DEFENDERS
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE DEFENDERS.jpg" group-title="Disney+",THE DEFENDERS
 http://archive.org/download/ns_20210520/DEFENDER.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/shing089/7h3m4n.jpg" group-title="",THE MANDALORIAN
+#EXTINF:-1 tvg-logo="http://archive.org/download/shing089/7h3m4n.jpg" group-title="Disney+",THE MANDALORIAN
 http://archive.org/download/m-4-nd-4-l-0-r-1-an-0-temp-01-m-3-u/M4ND4L0R1AN0TEMP01M3U.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE MANDALORIAN.jpg" group-title="",THE MANDALORIAN
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE MANDALORIAN.jpg" group-title="Disney+",THE MANDALORIAN
 http://archive.org/download/ns_20210520/THMDLRNO.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/wv-2_20210119/WV.jpg" group-title="",Wandavision
+#EXTINF:-1 tvg-logo="http://archive.org/download/wv-2_20210119/WV.jpg" group-title="Disney+",Wandavision
 https://archive.org/download/elch4v0/w.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/92bJ5Ja4oEoun9zFvAOMVtaNfrA.jpg" group-title="",WHAT IF?
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/92bJ5Ja4oEoun9zFvAOMVtaNfrA.jpg" group-title="Disney+",WHAT IF?
 https://archive.org/download/elch4v0/what.m3u
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/moon-knight-1668956321.png" group-title="",Moon Knight
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/moon-knight-1668956321.png" group-title="Disney+",Moon Knight
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Moon%20Knight
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/x-men-97.jpg" group-title="",X-men '97 latino
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/x-men-97.jpg" group-title="Disney+",X-men '97 latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/x%20men%2097
-#EXTINF:-1 tvg-logo="https://archive.org/download/images_20231204/images.jpeg"group-title=""",EL ZORRO
+#EXTINF:-1 tvg-logo="https://archive.org/download/images_20231204/images.jpeg"group-title=""Disney+",EL ZORRO
 https://raw.githubusercontent.com/linkarg13/ELZORRO/main/ELZORRO
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/ahsoka-1692780038.png"group-title="",Ahsoka
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/ahsoka-1692780038.png"group-title="Disney+",Ahsoka
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Ahsoka
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/invasion-secreta-1689220912.png" group-title="", Invasion Secreta
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/invasion-secreta-1689220912.png" group-title="Disney+", Invasion Secreta
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Invasion%20secreta
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/obi-wan-kenobi-2-1669011161.jpg" group-title="",Obi-wan kenobi
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/obi-wan-kenobi-2-1669011161.jpg" group-title="Disney+",Obi-wan kenobi
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Obi%20wan%20kenobi
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ANDY  Y  MACK.jpg" group-title="",ANDY  Y  MACK
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ANDY  Y  MACK.jpg" group-title="Disney+",ANDY  Y  MACK
 http://archive.org/download/ns_20210520/ANDMA.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/hVIvwh1wIzWYjG2Hzb5ztoBwEFl.jpg" group-title="",Acolyte
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/hVIvwh1wIzWYjG2Hzb5ztoBwEFl.jpg" group-title="Disney+",Acolyte
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Acolyte
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ EL MANDALORIANO.jpg" group-title="",EL MANDALORIANO
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ EL MANDALORIANO.jpg" group-title="Disney+",EL MANDALORIANO
 http://archive.org/download/m-4-nd-4-l-0-r-1-an-0-temp-01-m-3-u/M4ND4L0R1AN0TEMP01M3U.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/gonzalez-narvaez/dinurs01.jpg" group-title="",DINOSAURIOS
+#EXTINF:-1 tvg-logo="http://archive.org/download/gonzalez-narvaez/dinurs01.jpg" group-title="Disney+",DINOSAURIOS
 http://archive.org/download/ns_20210520/DINOSAURIOS.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/EL CHAVO DEL 8 ORIGINAL.jpg" group-title="",EL CHAVO DEL 8 ORIGINAL
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/EL CHAVO DEL 8 ORIGINAL.jpg" group-title="Disney+",EL CHAVO DEL 8 ORIGINAL
 http://archive.org/download/elch4v0/elch4v0.m3u
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODNiODVmYjItM2MyMC00ZWQyLTgyMGYtNzJjMmVmZTY2OTJjXkEyXkFqcGdeQXVyNzk3NDUzNTc@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="",FALCON Y EL SOLDADO DE INVIERNO
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODNiODVmYjItM2MyMC00ZWQyLTgyMGYtNzJjMmVmZTY2OTJjXkEyXkFqcGdeQXVyNzk3NDUzNTc@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Disney+",FALCON Y EL SOLDADO DE INVIERNO
 https://archive.org/download/a271dceb-e0bf-4c8a-b6b9-bc94b7866d88/FLAC.m3u
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWRhYjZjOTQtOGNiNC00MTQ0LWE2MTYtMTQxYzEwNDE3NjYyXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg" group-title="",ANOS MARAVILLOSOS
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWRhYjZjOTQtOGNiNC00MTQ0LWE2MTYtMTQxYzEwNDE3NjYyXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg" group-title="Disney+",ANOS MARAVILLOSOS
 http://archive.org/download/elch4v0/MARAVILLO.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DAREDEVIL.jpg" group-title="",DAREDEVIL
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DAREDEVIL.jpg" group-title="Disney+",DAREDEVIL
 http://archive.org/download/ns_20210520/Daredevil.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/BUFF.jpg" group-title="",Buffy la caza vampiros
+#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/BUFF.jpg" group-title="Disney+",Buffy la caza vampiros
 http://archive.org/download/ANIME_20190528/BUF.m3u
 
 
@@ -66,4 +66,4 @@ http://archive.org/download/ANIME_20190528/BUF.m3u
 
 
 
-...
+.
