@@ -5,8 +5,6 @@ https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 .................
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/gkmlFc6kE2djINsy2RWGVHlex73.jpg"group-title="Disney channel", pecezuelos
 https://raw.githubusercontent.com/HECTHINHOXD/Series-bflix/main/Pecezuelos
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/fkCGY56kZoGsElefYGl91fzsLTs.jpg" group-title="Cartoon Network", Escandalositos
-https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Ositos
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/6e/c9/b5/6ec9b5e39eee4c27125ecbf07d7633be.jpg"group-title="Caricaturas retro",Mazinger Z
 https://raw.githubusercontent.com/linkarg13/SERIES/main/Mazinger%20Z
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nvnUa6L5dTlmEU1F679undOJbny.jpg"group-title="Caricaturas retro",Gran Mazinger
@@ -46,32 +44,32 @@ https://raw.githubusercontent.com/AaronCoyu/Halcon2/main/Halcones%202
 https://raw.githubusercontent.com/AaronCoyu/HalconesG1/main/Halcones%20Galacticos
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fJLwSnPxQWDj6BFopbAg2qTMQPr.jpg"group-title="Caricaturas",Ulysse 31
 https://raw.githubusercontent.com/AaronCoyu/Ulysse31/main/Ulises31
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/n4KwrlUKO9S4GvOdZzmnz4zOxx7.jpg" group-title="Cartoon Network", Ben 10: Supremacia Alienigena 
-https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Ben%2010%3A%20Supremacia%20Alienigena
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/m8F4HDlKpJk3GoDtq20h2dyQWwA.jpg" group-title="Cartoon Network",Las aventuras de Jackie Chan
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Las%20aventuras%20de%20Jackie%20Chan
+
+
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/silver-surfer.jpg" group-title="Caricaturas retro",Silver surfer
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Silver%20surfer
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/jonny-quest-1669991680.png" group-title="Caricaturas retro",Jonny Quest cap 1
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Jonny%20quest
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/j70XnYdkUnssVZRiiH7ybDbh4pV.jpg" group-title="Cartoon Network", Pokemon 
-https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Pokemon
+
+
+
 #EXTINF:-1 tvg-logo="https://serieslan.com/tb/lpd.jpg" group-title="Caricaturas",Los peques picapiedras Latino
 https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/Los%20peques%20picapiedras%20Latino
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/AMPHIBIA.jpg" group-title="Disney channel",AMPHIBIA 
 https://archive.org/download/ns_20210520/Amphibia.m3u
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjRkNmE0NTYtN2IzNi00MzFiLTgzMDMtYjU0OTUyMzM4Njc2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Cartoon Network",AMOS DEL UNIVERSO REVELACION
-https://archive.org/download/elch4v0/hema.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/ANIMANIACS.jpg" group-title="Cartoon Network",ANIMANIACS
-http://archive.org/download/listasaqui_ymail4_Alf/ANIMANIACS.m3u
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-tren-infinito-1587571514.jpg" group-title="Cartoon Network",Infinity train
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Infinity%20train
+
+
+
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/AVATAR KORRA.jpg" group-title="Nickelodeon",AVATAR KORRA
 https://archive.org/download/ns_20210520/tempora.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/AVATAR LA LEYENDA DE AANG.jpg" group-title="Nickelodeon",AVATAR LA LEYENDA DE AANG
 https://archive.org/download/elch4v0/avatar.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/BATMAN LA SERIE ANIMADA.jpg" group-title="Cartoon Network",BATMAN LA SERIE ANIMADA
-https://archive.org/download/ns_20210520/BAT%20SER.m3u
+
+
+
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/kkkkk_202101/pqp.jpg" group-title="Discovery kids",BING Y BONG
 https://dl.dropbox.com/s/4nxgzlxp6zicki4/P3qu305Pl4n3745.m3u
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Bob_Esponja_Serie_de_TV-975163360-large.jpg" group-title="Nickelodeon",BOB ESPONJA
@@ -88,8 +86,8 @@ https://archive.org/download/ns_20210520/CANTIN.m3u
 http://archive.org/download/makafusu/5CH4RL13.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/COBRA PIRATA ESPACIAL.jpg" group-title="Caricaturas retro",COBRA PIRATA ESPACIAL
 https://archive.org/download/ns_20210520/cobra.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/CORAJE EL PERRO COBARDE.jpg" group-title="Cartoon Network",CORAJE EL PERRO COBARDE
-https://archive.org/download/ns_20210520/CORAJE.m3u
+
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/DANNY PHANTOM.jpg" group-title="Nickelodeon",DANNY PHANTOM
 http://archive.org/download/listasaqui_ymail4_Alf/danny%20phantom.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/p0r74d45_202012/1.jpg" group-title="Disney channel",Dave El Barbaro
@@ -98,12 +96,13 @@ http://archive.org/download/p0r74d45_202012/d4v33lb4rb4r14n.m3u
 http://archive.org/download/dkc_20200820/DonkeykongWX.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/DROOPY.jpg" group-title="Caricaturas retro",DROOPY
 http://archive.org/download/listasaqui_ymail4_Alf/DROOPY.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/EARTHWORM JIM.jpg" group-title="Cartoon Network",EARTHWORM JIM
-https://archive.org/download/ns_20210520/EARTHWORM%20JIM.m3u
+
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/EL CONDE PATULA.jpg" group-title="Caricaturas retro",EL CONDE PATULA
 https://archive.org/download/ns_20210520/patula.m3u
-#EXTINF:-1 tvg-logo="https://serieslan.com/tb/eha.jpg" group-title="Cartoon Network",EL ESPECTACULAR HOMBRE ARANA
-http://archive.org/download/spider_202008/spider.m3u
+
+
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/EL SHOW DE CHARLIE BROWN Y SNOOPY.jpg" group-title="Caricaturas retro",EL SHOW DE CHARLIE BROWN Y SNOOPY
 https://archive.org/download/ns_20210520/SNOOPY.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/3-lt-16-r-3/elposte.jpg" group-title="Nickelodeon",El Tigre: Las Aventuras De Many Rivera
@@ -116,58 +115,50 @@ http://archive.org/download/g470_20200814/g470.m3u
 http://archive.org/download/garfieldysusamigos_202007/garfieldysusamigos.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/GARGOLAS.jpg" group-title="Disney channel",GARGOLAS
 https://archive.org/download/ns_20210520/GARGOLAS.m3u
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/fL7S22SWWOjJTgHEkk68VZ4Z8RO.jpg" group-title="Cartoon Network",GENERADOR REX
-https://raw.githubusercontent.com/Imag7/Imagt/main/Generador
+
+
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/GRAVITY FALLS.jpg" group-title="Disney channel",GRAVITY FALLS
 http://archive.org/download/listasaqui_ymail4_Alf/Gravity%20Falls.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/GUMBALL.jpg" group-title="Cartoon Network",GUMBALL
-https://archive.org/download/ns_20210520/GUMBALL2.m3u
-#EXTINF:-1 tvg-logo="https://entrepeliculasyseries.io/Archivos/2020/04/harley-quinn-temporada-2.jpg" group-title="Cartoon Network",HARLEY QUINN
-https://archive.org/download/elch4v0/HQ.m3u
+
+
+
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/HE MAN Y LOS MASTERS DEL UNIVERSO .jpg" group-title="Caricaturas retro",HE MAN Y LOS MASTERS DEL UNIVERSO 
 https://archive.org/download/ns_20210520/heman.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/HEIDI LA SERIE CLASICA.jpg" group-title="Caricaturas retro",HEIDI LA SERIE CLASICA
 http://archive.org/download/heidi_202001/Heidi.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/HEY ARNOLD.jpg" group-title="Nickelodeon",HEY ARNOLD
 https://archive.org/download/ns_20210520/hey.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/SMNASposter/H1%20PUFF1%20AM1%207UM1.jpg" group-title="Cartoon Network",Hi Puffy Amy Yumy
-http://archive.org/download/SMNASposter/H1%20PUFF1%20AM1%207UM1.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/HORA DE AVENTURA .jpg" group-title="Cartoon Network",HORA DE AVENTURA 
-http://archive.org/download/3-d-kanojo/hdeaventura.m3u
+
+
+
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/losmejoreexitos/h0u53ofm0u53.jpg" group-title="Disney channel",house of mouse
 http://archive.org/download/housemous/HYHTEMPOS.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/INVASOR ZIM.jpg" group-title="Cartoon Network",INVASOR ZIM
-https://archive.org/download/ns_20210520/ZIM.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/JIMMY NEUTRON.jpg" group-title="Nickelodeon",JIMMY NEUTRON
 https://archive.org/download/ns_20210520/JimyNeutrontemp.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/KICK BUTTOWSKI (MEDIO DOBLE DE RIESGO).jpg" group-title="Disney channel",KICK BUTTOWSKI (MEDIO DOBLE DE RIESGO)
 https://archive.org/download/ns_20210520/KICK.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9oTedS82oVnrjHp3BHIpHefuBCG.jpg" group-title="Cartoon Network",KND LOS CHICOS DEL BARRIO
-https://raw.githubusercontent.com/Imag7/Imagt/main/los%20chicos%20del%20barrio
 #EXTINF:-1 tvg-logo="https://serieslan.com/tb/lgj.jpg" group-title="Nickelodeon",La Granja
 http://archive.org/download/kkkkk_202101/L46R4NJ473MP0.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LA JOVEN LIGA DE LA JUSTICIA.jpg" group-title="Cartoon Network",LA JOVEN LIGA DE LA JUSTICIA
-https://archive.org/download/ns_20210520/LA%20JOVEN%20LIGA.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LA MASCARA .jpg" group-title="Cartoon Network",LA MASCARA 
-https://archive.org/download/ns_20210520/la-mascara-serie-animada.m3u
+
+
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/uJF7qr1CiNkJcwj4Xqb1s0klI1F.jpg"group-title="Caricaturas retro", La pantera rosa
 https://raw.githubusercontent.com/HECTHINHOXD/La-pantera-rosa/main/README.md
 #EXTINF:-1 tvg-logo="" group-title="Cartoon Network",LA VACA Y EL POLLITO
 https://archive.org/download/ns_20210520/VACAPOLLO.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LADY BUG.jpg" group-title="Disney channel",LADY BUG
 https://archive.org/download/ns_20210520/LADYBUG.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LAS AVENTURAS DE SUPER MARIO BROS 3.jpg" group-title="Cartoon Network",LAS AVENTURAS DE SUPER MARIO BROS 3
-https://archive.org/download/ns_20210520/mario.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LOS CUENTOS DE LA CALLE BROCA.jpg" group-title="Once niños",LOS CUENTOS DE LA CALLE BROCA
 https://archive.org/download/ns_20210520/CALLE%20BROCA.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDgwOTg0NDUtMTgzNC00MGI3LThjMDktOGViYWRlMWI1NmI3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Caricaturas retro",Los halcones galacticos
 https://archive.org/download/elch4v0/halcon.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LOS JOVENES TITANES.jpg" group-title="Cartoon Network",LOS JOVENES TITANES
-https://archive.org/download/ns_20210520/JOVENES%20TITANES.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LOS JOVENES TITANES EN ACCION!.jpg" group-title="Cartoon Network",LOS JOVENES TITANES EN ACCION!
-http://archive.org/download/titans-1-5/TITANS1-5.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LOS PICA PIEDRAS.jpg" group-title="Cartoon Network",LOS PICA PIEDRAS
-http://archive.org/download/streamingFullHD/streamingFull.m3u
+
+
+aaca me quede ......
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LOS PINGÃœINOS DE MADAGASCAR.jpg" group-title="Nickelodeon",LOS PINGÃœINOS DE MADAGASCAR
 http://archive.org/download/lospinguinos/lospinguinos.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/MAD.jpg" group-title="Cartoon Network",MAD
@@ -258,3 +249,58 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Clarence
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Ed%20Edd%20y%20Eddy
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/las-sombrias-aventuras-de-billy-y-mandy-1605740732.jpg" group-title="Cartoon Network",Las sombrias aventuras de billy y mandy Latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Las%20sombrias%20aventuras%20de%20billy%20y%20mandy
+
+
+
+....carton.....
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/fkCGY56kZoGsElefYGl91fzsLTs.jpg" group-title="Cartoon Network", Escandalositos
+https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Ositos
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/n4KwrlUKO9S4GvOdZzmnz4zOxx7.jpg" group-title="Cartoon Network", Ben 10: Supremacia Alienigena 
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Ben%2010%3A%20Supremacia%20Alienigena
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/m8F4HDlKpJk3GoDtq20h2dyQWwA.jpg" group-title="Cartoon Network",Las aventuras de Jackie Chan
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Las%20aventuras%20de%20Jackie%20Chan
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/j70XnYdkUnssVZRiiH7ybDbh4pV.jpg" group-title="Cartoon Network", Pokemon 
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Pokemon
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjRkNmE0NTYtN2IzNi00MzFiLTgzMDMtYjU0OTUyMzM4Njc2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Cartoon Network",AMOS DEL UNIVERSO REVELACION
+https://archive.org/download/elch4v0/hema.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/ANIMANIACS.jpg" group-title="Cartoon Network",ANIMANIACS
+http://archive.org/download/listasaqui_ymail4_Alf/ANIMANIACS.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-tren-infinito-1587571514.jpg" group-title="Cartoon Network",Infinity train
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Infinity%20train
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/BATMAN LA SERIE ANIMADA.jpg" group-title="Cartoon Network",BATMAN LA SERIE ANIMADA
+https://archive.org/download/ns_20210520/BAT%20SER.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/CORAJE EL PERRO COBARDE.jpg" group-title="Cartoon Network",CORAJE EL PERRO COBARDE
+https://archive.org/download/ns_20210520/CORAJE.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/EARTHWORM JIM.jpg" group-title="Cartoon Network",EARTHWORM JIM
+https://archive.org/download/ns_20210520/EARTHWORM%20JIM.m3u
+#EXTINF:-1 tvg-logo="https://serieslan.com/tb/eha.jpg" group-title="Cartoon Network",EL ESPECTACULAR HOMBRE ARANA
+http://archive.org/download/spider_202008/spider.m3u
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/fL7S22SWWOjJTgHEkk68VZ4Z8RO.jpg" group-title="Cartoon Network",GENERADOR REX
+https://raw.githubusercontent.com/Imag7/Imagt/main/Generador
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/GUMBALL.jpg" group-title="Cartoon Network",GUMBALL
+https://archive.org/download/ns_20210520/GUMBALL2.m3u
+#EXTINF:-1 tvg-logo="https://entrepeliculasyseries.io/Archivos/2020/04/harley-quinn-temporada-2.jpg" group-title="Cartoon Network",HARLEY QUINN
+https://archive.org/download/elch4v0/HQ.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/SMNASposter/H1%20PUFF1%20AM1%207UM1.jpg" group-title="Cartoon Network",Hi Puffy Amy Yumy
+http://archive.org/download/SMNASposter/H1%20PUFF1%20AM1%207UM1.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/HORA DE AVENTURA .jpg" group-title="Cartoon Network",HORA DE AVENTURA 
+http://archive.org/download/3-d-kanojo/hdeaventura.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/INVASOR ZIM.jpg" group-title="Cartoon Network",INVASOR ZIM
+https://archive.org/download/ns_20210520/ZIM.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9oTedS82oVnrjHp3BHIpHefuBCG.jpg" group-title="Cartoon Network",KND LOS CHICOS DEL BARRIO
+https://raw.githubusercontent.com/Imag7/Imagt/main/los%20chicos%20del%20barrio
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LA JOVEN LIGA DE LA JUSTICIA.jpg" group-title="Cartoon Network",LA JOVEN LIGA DE LA JUSTICIA
+https://archive.org/download/ns_20210520/LA%20JOVEN%20LIGA.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LA MASCARA .jpg" group-title="Cartoon Network",LA MASCARA 
+https://archive.org/download/ns_20210520/la-mascara-serie-animada.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LAS AVENTURAS DE SUPER MARIO BROS 3.jpg" group-title="Cartoon Network",LAS AVENTURAS DE SUPER MARIO BROS 3
+https://archive.org/download/ns_20210520/mario.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LOS JOVENES TITANES.jpg" group-title="Cartoon Network",LOS JOVENES TITANES
+https://archive.org/download/ns_20210520/JOVENES%20TITANES.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LOS JOVENES TITANES EN ACCION!.jpg" group-title="Cartoon Network",LOS JOVENES TITANES EN ACCION!
+http://archive.org/download/titans-1-5/TITANS1-5.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LOS PICA PIEDRAS.jpg" group-title="Cartoon Network",LOS PICA PIEDRAS
+http://archive.org/download/streamingFullHD/streamingFull.m3u
+
+
