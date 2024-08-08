@@ -34,8 +34,6 @@ http://archive.org/download/ns_20210520/COMO%20CONOCI.m3u
 https://archive.org/download/si2_20220111/si00.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS EXPEDIENTES SECRETOS X.jpg" group-title="Star+",LOS EXPEDIENTES SECRETOS X
 http://archive.org/download/ns_20210520/expedientes%20x.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS SIMULADORESMEXICO.jpg" group-title="Paramount+",LOS SIMULADORESMEXICO
-http://archive.org/download/ns_20210520/SIMU.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/MENTES CRIMINALES.jpg" group-title="Star+",MENTES CRIMINALES
 http://archive.org/download/mc_20200903/MC.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOST PERDIDOS.jpg" group-title="Star+",LOST PERDIDOS
