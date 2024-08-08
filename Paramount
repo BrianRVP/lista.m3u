@@ -1,7 +1,8 @@
 #EXTM3U
 
  ---------PARAMOUNT--------
-
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS SIMULADORESMEXICO.jpg" group-title="Paramount+",LOS SIMULADORESMEXICO
+http://archive.org/download/ns_20210520/SIMU.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/gonzalez-narvaez/k3n4lyk3l.jpg" group-title="Paramount+",KENAL Y KEL
 http://archive.org/download/ANIME_20190528/KYK.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA5MmM4ZmYtMWE4My00OGUzLWE0ZDQtNGE5Mjc3ZWM0Y2Q1XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_FMjpg_UX1000_.jpg" group-title="Paramount+",LOS LOCOS ADDAMS
