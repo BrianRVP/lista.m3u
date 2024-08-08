@@ -1,0 +1,18 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/castle-rock.jpg" group-title="Hulu",Castle rock
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/castle%20rock
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/escalera-al-cielo-1669602183.png"group-title="Hulu",Escalera al cielo
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Escaleraalcielo
+#EXTINF:-1 tvg-logo="https://static.eldiario.es/clip/2e5dd4d5-8c3a-4778-aacf-18b173ae3fc3_16-9-discover-aspect-ratio_default_0.jpg" group-title="Hulu",Simuladores version argentina
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Simuladores%20argentina
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/eAp25k6jHPVroZ8XXvY7BDBpLgt.jpg"group-title="Hulu",EL CHAVO DEL 8
+https://raw.githubusercontent.com/linkarg13/SERIES/main/El%20chavo
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/domina-2-1621304884.jpg"group-title="Hulu", Domina
+https://raw.githubusercontent.com/Bvserver123/Mirepo/main/Domina
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/3Zr9qJXqHQwi9IyPBDwukgg1jcZ.jpg" group-title="Hulu",Twisted metal latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Twisted%20metal
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/cPn71YFDENH0JkWUezlsLyWmLfN.jpg" group-title="Hulu",Ted latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Ted
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/creepshow-1579040127.jpg" group-title="Hulu",Creepshow
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Creepshow
