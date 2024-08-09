@@ -2,7 +2,20 @@
 
 ....Retro....
 
-
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDgwOTg0NDUtMTgzNC00MGI3LThjMDktOGViYWRlMWI1NmI3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Caricaturas retro",Los halcones galacticos
+https://archive.org/download/elch4v0/halcon.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/DONKEY KONG COUNTRY.jpg" group-title="Caricaturas retro",DONKEY KONG COUNTRY
+http://archive.org/download/dkc_20200820/DonkeykongWX.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/FUERZA G.jpg" group-title="Caricaturas retro",FUERZA G
+https://archive.org/download/ns_20210520/FUERZG.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/GARFIELD.jpg" group-title="Caricaturas retro",GARFIELD
+http://archive.org/download/g470_20200814/g470.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/GARFIELD Y SUS AMIGOS.jpg" group-title="Caricaturas retro",GARFIELD Y SUS AMIGOS
+http://archive.org/download/garfieldysusamigos_202007/garfieldysusamigos.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/HE MAN Y LOS MASTERS DEL UNIVERSO .jpg" group-title="Caricaturas retro",HE MAN Y LOS MASTERS DEL UNIVERSO 
+https://archive.org/download/ns_20210520/heman.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/HEIDI LA SERIE CLASICA.jpg" group-title="Caricaturas retro",HEIDI LA SERIE CLASICA
+http://archive.org/download/heidi_202001/Heidi.m3u
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/6e/c9/b5/6ec9b5e39eee4c27125ecbf07d7633be.jpg"group-title="Caricaturas retro",Mazinger Z
 https://raw.githubusercontent.com/linkarg13/SERIES/main/Mazinger%20Z
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nvnUa6L5dTlmEU1F679undOJbny.jpg"group-title="Caricaturas retro",Gran Mazinger
