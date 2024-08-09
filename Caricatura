@@ -4,6 +4,9 @@
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Cartoon%20network
 #EXTINF:-1,BFlix®Tv Disney channel 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Disney%20Ch
+#EXTINF:-1,BFlix®Tv Retro
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Retro
+
 .................
 
 #EXTINF:-1 tvg-logo="https://ia600502.us.archive.org/6/items/la-primera-temporada-completa/La_Primera_Temporada_Completa.jpg"group-title="Nickelodeon", BOB ESOONJA TEMP 1
