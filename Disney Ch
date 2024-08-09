@@ -19,3 +19,11 @@ https://archive.org/download/ns_20210520/KICK.m3u
 https://archive.org/download/ns_20210520/LADYBUG.m3u
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Las_Nuevas_Aventuras_de_Winnie_the_Pooh_Serie_de_TV-718842113-large.jpg" group-title="Disney channel",WINNIE THE POOH
 http://archive.org/download/kkkkk_202101/W1NN13P0H.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI4OWE5MDgtMGNlYi00N2MwLWJlZmQtNGJlMjU4OGVkZjFmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Disney channel",MONSTRUOS A LA OBRA
+https://archive.org/download/elch4v0/m0ns.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/PHINEAS Y FERB.jpg" group-title="Disney channel",PHINEAS Y FERB
+http://archive.org/download/PHIFER/PHIFER.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/Star vs Las Fuerzas Del Mal.jpg" group-title="Disney channel",Star vs Las Fuerzas Del Mal
+http://archive.org/download/star_20201130/Star.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/d-01-d-5/D01D5.jpg" group-title="Disney channel",Star wars: Droides
+http://archive.org/download/d-01-d-5/DR01D5.m3u
