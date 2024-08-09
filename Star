@@ -1,8 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jk5wf0r/v-H0-Mghb0l-NJ5k7-Ep-Dw-I7i-JV7qa-O-1.jpg"group-title="Star+",LOS SIMPSON
 https://raw.githubusercontent.com/linkarg13/Los-Simpson-/main/Temp1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pJKdfqw/S3m-Qv-Ux-Ro-720x0-1.jpg"group-title="Star+", el encargado
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pJKdfqw/S3m-Qv-Ux-Ro-720x0-1.jpg"group-title="Star+", EL ENCARGADO
 https://raw.githubusercontent.com/linkarg13/PELICULAS/main/ELENCARGADO
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-otra-chica-negra-1694756501.png"group-title="Star+ ", la otra chica negra
 https://raw.githubusercontent.com/linkarg13/Laotrachicadenegro/main/La%20otra%20chica%20de%20negro
 #EXTINF:-1 tvg-logo="https://www.pelisplus.lat/wp-content/uploads/2021/12/iF8ai2QLNiHV4anwY1TuSGZXqfN-200x300.jpg" group-title="Star+",Chucky 
