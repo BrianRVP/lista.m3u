@@ -43,3 +43,10 @@ http://archive.org/download/rocket_202006/Rocket.m3u
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Ginger
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/WINX CLUB.jpg" group-title="Nickelodeon",WINX CLUB
 https://archive.org/download/ns_20210520/Winx.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/HEY ARNOLD.jpg" group-title="Nickelodeon",HEY ARNOLD
+https://archive.org/download/ns_20210520/hey.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/JIMMY NEUTRON.jpg" group-title="Nickelodeon",JIMMY NEUTRON
+https://archive.org/download/ns_20210520/JimyNeutrontemp.m3u
+#EXTINF:-1 tvg-logo="https://serieslan.com/tb/lgj.jpg" group-title="Nickelodeon",La Granja
+http://archive.org/download/kkkkk_202101/L46R4NJ473MP0.m3u
+
