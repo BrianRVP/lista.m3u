@@ -3,7 +3,6 @@
 https://raw.githubusercontent.com/linkarg13/Los-Simpson-/main/Temp1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pJKdfqw/S3m-Qv-Ux-Ro-720x0-1.jpg"group-title="Star+", EL ENCARGADO
 https://raw.githubusercontent.com/linkarg13/PELICULAS/main/ELENCARGADO
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-otra-chica-negra-1694756501.png"group-title="Star+ ", la otra chica negra
 https://raw.githubusercontent.com/linkarg13/Laotrachicadenegro/main/La%20otra%20chica%20de%20negro
 #EXTINF:-1 tvg-logo="https://www.pelisplus.lat/wp-content/uploads/2021/12/iF8ai2QLNiHV4anwY1TuSGZXqfN-200x300.jpg" group-title="Star+",Chucky 
