@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://github.com/linkarg13/Prueba-y-error/releases/download/Prueba/IMG_20240812_133257_928.jpg",El Novato del Año (1993)
+https://github.com/linkarg13/Prueba-y-error/releases/download/Prueba/1_4947402527961252416.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/ztpRiRGlPyaDd2vS5UjCpgcSoQX.jpg",the bros (2017)
 https://github.com/linkarg13/Prueba-y-error/releases/download/Prueba/The.Bros.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/l9slQ1zMnE9fDH4uF0Zk542IC3H.jpg"group-title="",Harold y el lápiz mágico (2024)
