@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/oCFFp4VBRz420FKGrQJFZqJDc1h.jpg"group-title="",CUENTOS DE LA CRYPTA
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/oCFFp4VBRz420FKGrQJFZqJDc1h.jpg"group-title="Hulu",CUENTOS DE LA CRYPTA
 https://archive.org/download/caballeros-del-zodiaco_202408/cuentos%20de%20lq%20crypta.m3u
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/castle-rock.jpg" group-title="Hulu",Castle rock
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/castle%20rock
