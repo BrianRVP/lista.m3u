@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/yIzTCHXJp5UKi4izt9DtlWksaBz.jpg",El juicio de los 7 de Chicago (2020)
+https://github.com/linkarg13/Pelis2/releases/download/Pelis/4.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/ooo4D4kyZyFee5aiNfwZ43oKOkc.jpg",Shirley (2024)
 https://github.com/linkarg13/Pelis2/releases/download/Pelis/3.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/fm1UBC4HGA3INXZvdkBSIUH6T6L.jpg",Nyad (2023)
