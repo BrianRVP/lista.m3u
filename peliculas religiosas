@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/7S7pYwksd1yeV9EIb5MtInya6am.jpg"group-title="", Si Dios fuera el sol
+https://github.com/HECTHINHOXD/BFLIX-PELIS/releases/download/Pelis-Bflix-tv/4_5927120860652506537.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/bYJhBhe6CPIHTl62kPfKfqicTaX.jpg"group-title="", El cielo es real
+https://github.com/HECTHINHOXD/BFLIX-PELIS/releases/download/Pelis-Bflix-tv/4_5927120860652506539.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/pktyl7FhmEQUApKT7SFnotcVB7g.jpg"group-title="", El poder del perdon
+https://github.com/HECTHINHOXD/BFLIX-PELIS/releases/download/Pelis-Bflix-tv/4_5927120860652506542.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/v9f9MMrq2nGQrN7cHnQRmEq9lSE.jpg"group-title="",La pasión de cristo
 https://dl.dropbox.com/scl/fi/3d9shkr7wlhm14gyda5ff/La-Pasion-de-Cristo-2004-720p-DUAL-865.23-MB.mkv?rlkey=c60zf58p8ca0iou7pi4ld5tpm&st=pbv0zq83&dl=0
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/hz9VF1TfaM0D04pYneSXUkNeOZv.jpg"group-title="",Los milagros del cielo
