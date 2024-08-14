@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/7scJ3fVmwdSpGG87wvxH3kk0RPc.jpg",Puñales por la espalda (2019)
+https://github.com/linkarg13/Ip-m4n3/releases/download/Pelis/1_5053287993092079764.mp4
 #EXTINF:-1 tvg-logo="https://github.com/linkarg13/Prueba-y-error/releases/download/Prueba/IMG_20240812_133257_928.jpg",El Novato del Año (1993)
 https://github.com/linkarg13/Prueba-y-error/releases/download/Prueba/1_4947402527961252416.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/ztpRiRGlPyaDd2vS5UjCpgcSoQX.jpg",the bros (2017)
