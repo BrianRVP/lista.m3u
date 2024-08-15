@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/hOyU0FuaVoWADcrh8dWs0Kw801O.jpg",Espíritu libre (2023)
+https://github.com/linkarg13/Pelis2/releases/download/Pelis/7.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/mPipNlgQ63KmDEmKzMtKgF9cgBw.jpg",La noche de 12 años (2018)
+https://github.com/linkarg13/Pelis2/releases/download/Pelis/8.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/6ylREjQcZQuW9TZDTGmcy3tMpqc.jpg",Marea negra (2016)
+https://github.com/linkarg13/Pelis2/releases/download/Pelis/9.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/movie/804150-cocaine-bear"group-title="",Oso vicioso (2023)
+https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.10.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/Af1vSPTbraVVqc6kB3Avm55gxcq.jpg",El estrangulador de Boston (2023)
 https://github.com/linkarg13/Pelis2/releases/download/Pelis/5.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/gH3Nd6A2CvonVRXZUKV58p5enQC.jpg",El fotógrafo y el cartero: El crimen de Cabezas (2022)
