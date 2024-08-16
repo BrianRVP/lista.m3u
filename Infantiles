@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY_PTD1.jpg", TOY STORY (1995)
+https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY1.mp4
+#EXTINF:-1 tvg-logo="https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY_PTD2.jpg", TOY STORY 2 (1999)
+https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY2.mp4
+#EXTINF:-1 tvg-logo="https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY_PTD3.jpg", TOY STORY 3 (2010)
+https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY3.mp4
+#EXTINF:-1 tvg-logo="https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY_PTD4.jpg", TOY STORY 4 (2019)
+https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY4.mkv
 #EXTINF:-1 tvg-logo="https://github.com/linkarg13/Prueba-y-error/releases/download/Prueba/IMG_20240812_124101_397.jpg",L RESCATE DE FONDO DE BIKINI (2024)
 https://github.com/linkarg13/Prueba-y-error/releases/download/Prueba/bob008530010051445943.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/eU9IBodwp3RnTgIJzwKjHow1LI3.jpg"group-title="",All hallows eve
