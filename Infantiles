@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/b5/Metegol1.jpg/revision/latest?cb=20130714222606&path-prefix=es", METEGOL (2013)
+https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/MTG2013AR.avi
 #EXTINF:-1 tvg-logo="https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY_PTD1.jpg", TOY STORY (1995)
 https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY1.mp4
 #EXTINF:-1 tvg-logo="https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY_PTD2.jpg", TOY STORY 2 (1999)
