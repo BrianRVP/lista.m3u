@@ -1,5 +1,8 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/zDWHsjfdsvZZkMWo1u1Ep7Y77FQ.jpg",Los instigadores (2024)
+https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.19.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eM0dIjnUmv4UFdy6vxTantBbXTW.jpg",mision cruzada (2024)
 https://github.com/linkarg13/Ip-m4n3/releases/download/Pelis/Misiones.Cruzadas.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/7scJ3fVmwdSpGG87wvxH3kk0RPc.jpg",Puñales por la espalda (2019)
