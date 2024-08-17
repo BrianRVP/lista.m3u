@@ -1,5 +1,21 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/rTDEDVP6g2H7dC216AbxohDPCX9.jpg",El informe Auschwitz (2021)
+https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.12.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/4ypRUscxdPXjF2o3BzsKsCUrkpK.jpg",Air (2023)
+https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.11.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/mxfLOWnHnSlbdraKfzRn5mqoqk7.jpg",El pianista (2002)
+https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.13.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/73GG8duH8gMn02ALsIgjaPPYhqP.jpg",Golda (2023)
+https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.14.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/sVWSciTJ0V3I0Ou98YkONVKKULI.jpg",La madre del blues (2020)
+https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.15.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/tWDZF3PuigBvYisM83ZPuWM4v89.jpg",Fly Me to the Moon (2024)
+https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.16.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/aZXHjmhSSGUshLEdgsNCTH9z7Ix.jpg",Los asesinos de la luna (2023)
+https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.17.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/ttaZHjuyiyBqH85sOBqgWxczqdJ.jpg",Relatos salvajes (2014)
+https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.18.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/hOyU0FuaVoWADcrh8dWs0Kw801O.jpg",Espíritu libre (2023)
 https://github.com/linkarg13/Pelis2/releases/download/Pelis/7.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/mPipNlgQ63KmDEmKzMtKgF9cgBw.jpg",La noche de 12 años (2018)
