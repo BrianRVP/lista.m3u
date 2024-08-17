@@ -2,7 +2,10 @@
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2EH42blLQzgqwDWxn39RXkTgb91.jpg", Romper el circulo
 https://github.com/Imag7/Imagt/releases/download/Cam/cam.mp4
-
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/bZlecCuBVvKuarNGvchBwaOsQ3c.jpg"group-title="", La joven y el mar
+https://github.com/HECTHINHOXD/BFLIX-PELIS/releases/download/JUEGOS-LOS-HAMbRE/La.joven.y.el.mar_1.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/7A4x0D1gNTpmMn9E9BW9hWiaOkv.jpg"group-title="", Skywalkers
+https://github.com/HECTHINHOXD/BFLIX-PELIS/releases/download/JUEGOS-LOS-HAMbRE/Skywalkers.Una.historia.de.amor.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qjQX2r8PLbGNFvBUa8kVHvLRkAG.jpg"group-title="",al borde del abismo (2024)
 https://archive.org/download/68388-al-borde-7434del-abismo/68388Al%20borde%207434del%20abismo.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5umEGkCrshN1JDywCbWZRvkdmry.jpg"group-title="",novia por contrato
