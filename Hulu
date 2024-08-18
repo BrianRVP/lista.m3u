@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/kZex1zkfMycwmYNJDoArq9ov6Dz.jpg",Los Magníficos (1983) 
+https://github.com/linkarg13/SERIES2/releases/download/Br1g4d4A5/0000000000000000.m3u
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/oCFFp4VBRz420FKGrQJFZqJDc1h.jpg"group-title="Hulu",CUENTOS DE LA CRYPTA
 https://github.com/linkarg13/SERIES2/releases/download/Cuentoscrypta/cuentos.de.lq.crypta.m3u
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/castle-rock.jpg" group-title="Hulu",Castle rock
