@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo=""group-title="https://media.themoviedb.org/t/p/w220_and_h330_face/b5UgrFjiOAphNNSYnUKbemgQ87t.jpg",La autopsia de Jane Doe (2016)
+https://github.com/linkarg13/SERIES2/releases/download/Loscuatro/50138672818t718t.mp4
+
 (EXPEDIENTE WARREN)
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/wVYREutTvI2tmxr6ujrHT704wGF.jpg"group-title="", El conjuro (2013)
