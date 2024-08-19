@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/vl9XwsuGGzvbAWlHLTNTFIWcgK6.jpg",habilidad física 100
+https://github.com/Ezequiel10579/habilidad-f-sica-100/releases/download/fitness/habilidad.fisica.100.m3u
 #EXTGRP:Netflix
 
 
