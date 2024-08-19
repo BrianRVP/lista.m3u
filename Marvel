@@ -1,12 +1,52 @@
 #EXTM3U
+
+-------doctor Strange---
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/9VZO30aIAhQoiiP3qsRd5jd7UvQ.jpg"group-title="",Doctor Strange en el multiverso de la locura (2022)
+https://dl.dropbox.com/scl/fi/rp0qfsb7972904nn77lpi/doc.mp4?rlkey=aw5nu60vzu02562ol3jglh8fk&dl=0
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/wJEZI3PWyMW7qcW6n9jyCh7Cclf.jpg"group-title="",doctor Strange (2016)
+https://cache006.peliscdn.online/newhls/b2c863c8d38ead576e75c31cbf387688/EP.0.1.v1.1708700279.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/7ygcpWXsWmEc83j7zE8P0lvC0Q.jpg"group-title="", Doctor Strange El Hechicero Supremo
+https://cache006.peliscdn.online/newhls/bc1d36e11596f5b9be3f8b5a63974bc0/EP.0.1.v0.1709514261.720.m3u8
+-------deadpool-------
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v0Q2uYARIqui1sEBF0bCLJaliDI.jpg"group-title="",Deadpool y wolverine server 2
+https://archive.org/download/128dead-seg-1-v-1-a-1/128dead-seg-1-v1-a1.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v0Q2uYARIqui1sEBF0bCLJaliDI.jpg"group-title="",deadpool y wolverine
+https://archive.org/download/128dead-seg-1-v-1-a-1_202408/128dead-seg-1-v1-a1.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vnBDJbSgM1oTsszdfQRWC5xu9Pr.jpg"group-title="",Deadpool 2 (2018)
+https://cache011.peliscdn.online/newhls/f69d91c66a772f0993c3bd5219cbd11d/EP.0.1.v0.1708936768.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iFD7sEyj7ePmFEwcgFPw668ymLh.jpg"group-title="",Deadpool 1 (2016)
+https://cache016.peliscdn.online/newhls/612e42c82aba80421f2e39e0d6c203bb/EP.0.1.v2.1708686226.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gbDZNDA5lek7Kx5aqRvh1aJjphk.jpg"group-title="",The Marvels (2023)
+https://cache010.peliscdn.online/newhls/ef6d31cb7e94896b8f73b03e97ccc4b7/EP.0.2.v0.1708680023.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/5qLP3JVg8NE3zdZd48lqhx7iN5Q.jpg"group-title="",Los 4 Fantasticos(2005)
+https://dl.dropbox.com/scl/fi/0t7i8utivu36sah674yl9/95314-1761fba1-3f1a-4680-8200-c0b5c9d52b3d-yzft-901096-doodstream.mp4?rlkey=fdstsxveajhp39s9ocn8mwtwz&dl=0
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/mFL0EzAhEj3vscyGUMk6sT7pfQg.jpg"group-title="",Marvel Rising: Battle Of The Band
+https://cache005.peliscdn.online/newhls/7321e386a6178faf0af28c9d8a2c52c3/EP.0.1.v0.1710149362.360.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/iCiaRZUwMddvUmQcUtbZwu808g.jpg"group-title="",Marvel Rising:Playing With Fir
+https://cache006.peliscdn.online/newhls/33ad5a0813816952f82beafb07e9e85d/EP.0.1.v0.1710090892.360.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/8bbspDJMKus6XSnw2F4gBuACylo.jpg"group-title="",Marvel Rising: Chasing Ghosts
+https://cache003.peliscdn.online/newhls/e846c58ea100de0ba299e3b4b6da6e1a/EP.0.1.v1.1709963324.360.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/4fcvluN98HWo6VB7C5ONRNOL4CY.jpg"group-title="",Marvel Rising: Operation Shuri
+https://cache008.peliscdn.online/newhls/cf87e4e689aba262e664e13d5aae486d/EP.0.1.v0.1710301822.360.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/kY1ufnbv2bTyoNcAtGF4BwapKi6.jpg"group-title="",Marvel Rising: Secret Warriors
+https://cache010.peliscdn.online/newhls/f3e3f6670599a2cf7d2b40902fff1a8a/EP.0.2.v1.1709546825.720.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/2StM8Vavf7ukvuj9mxg1o7nKxmi.jpg"group-title="",Marvel Super Hero Adventures: Frost Figh
+https://cache011.peliscdn.online/newhls/62eabd14417f3c974ec403417fae7683/EP.0.1.v0.1710325170.720.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/8BVM79SlfNzY73dTakZMvOgSRg0.jpg"group-title="",Marvelous and the Black Hole
+https://cache005.peliscdn.online/newhls/5eb60e0d02bcf45361f8b3c0fcd9b43d/EP.0.0.v0.1710241295.360.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/vpuuFM032yiX8tox4L84Wl9MGjG.jpg"group-title="",The Marvels
+https://dl.dropbox.com/scl/fi/zkb2zgur4skkr4z7alf9g/237581-e35ed9bb-cdb9-4754-afef-0f6cda6dcdca-BK-hjke-2013742-doodstream.mp4?rlkey=8hh2o6ph91986amuq04cstluc&dl=0
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/4tOusszxyHiqhVkhA0Ng19eZFtp.jpg"group-title="",Los Vengadores: Justicia y Venganza
+https://cache017.peliscdn.online/newhls/32ef865956de4ad6903c43122ce9e1a7/EP.0.1.v0.1709632274.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/spider-man-across-the-spider-se-2-1685731801.jpg" group-title="",Spider-Man: Cruzando el multiverso
-https://ia902702.us.archive.org/34/items/sp-2_20230603/SP2.mp4
+https://www.googleapis.com/drive/v3/files/1M3fvQvDoM5aDkMhba9h7WWcJo5cj0dOW?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/spider-man-un-nuevo-universo.jpg" group-title="",Spider-Man: Un Nuevo Universo
 https://pc-19.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/4e3c8b5937e907cbe552c79accd207a6/EP.0.2.v0.1676278642.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/spider-man-no-way-home-2-1639761997.jpg" group-title="",Spider-Man: Sin camino a casa
 https://pc-44.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/10e5ce061e8705eb0098f584f85c1858/EP.0.2.v3.1676311324.1080.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/spider-man-lejos-de-casa.jpg" group-title="",Spider-Man: Lejos de Casa
-https://pc-27.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/bd14cfbbd0358954e5d25b4b5dddebdd/EP.0.2.v2.1677390665.720.m3u8
+https://www.googleapis.com/drive/v3/files/1qq5CNxPy1_uiKW0_N_SPFBGgPiyaiEe1?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/spider-man-de-regreso-a-casa.jpg" group-title="",Spider-Man: De Regreso a Casa
 https://pc-13.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/9ebe9b2bc06e14b46a89cec185dba01f/EP.0.2.v1.1676339227.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-sorprendente-hombre-arana-2-la-amenaza-de.jpg" group-title="",El Sorprendente Hombre Araña 2: La Amenaza De Electro
@@ -19,13 +59,14 @@ https://pc-05.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxj
 https://pc-42.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/61e4f1ae56d67a4f9d8a86b6d8bb45ee/EP.0.1.v0.1677433375.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-hombre-arana.jpg" group-title="",El Hombre Araña
 https://pc-45.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/f84a3077ede531598e86c29270cd082c/EP.0.1.v1.1678680073.1080.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/black-panther-wakanda-forever-2-1669011604.jpg" group-title="",Black Panther: Wakanda Forever http://51.81.208.167/pelis2022/Black.Panther.Wakanda.Forever.2022.lati.mp4 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/black-panther-wakanda-forever-2-1669011604.jpg" group-title="",Black Panther: Wakanda Forever 
+http://51.81.208.167/pelis2022/Black.Panther.Wakanda.Forever.2022.lati.mp4 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/ant-man-y-la-avispa-quantumania-2-1678281003.jpg" group-title="",Ant-Man y la Avispa: Quantumanía 
-https://server21.pelispluscdn.info/newhls/eff980362cb854bc8e158aa98846329e/EP.0.2.v8.1681880268.720.m3u8
+https://pc-21.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/eff980362cb854bc8e158aa98846329e/EP.0.2.v11.1691909518.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/ant-man-el-hombre-hormiga.jpg" group-title="",Ant-Man: El hombre hormiga
 https://pc-38.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/70712a1e34a313459a209d21ce3d97cd/EP.0.2.v1.1676701666.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/guardians-of-the-galaxy-volume-3-2-1683243601.jpg" group-title="",Guardianes de la Galaxia vol.3
-https://pc-10.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ffb4eb5d68c081c51f64173d1c355fac/EP.0.2.v0.1683249814.m3u8
+https://www.googleapis.com/drive/v3/files/11Y6JZywCvgqHP4APu7S2mVj3GSK5Z6OO?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/guardianes-de-la-galaxia-vol-2.jpg" group-title="",Guardianes de la Galaxia vol.2
 https://pc-12.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/02f911aa0149f41432701b786c6cab19/EP.0.1.v2.1677457122.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/guardianes-de-la-galaxia.jpg" group-title="",Guardianes de la Galaxia
@@ -37,7 +78,7 @@ https://pc-25.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxj
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-avengers-3-la-guerra-del-infinito.jpg" group-title="",Avengers infinity war
 https://pc-04.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/1bdf97603440d6c4a51c37dc80abc186/EP.0.1.v2.1677564241.360.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/avengers-endgame.jpg" group-title="",Avengers end game
-https://pc-27.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/6857e3ae93ef5387b2ec050640a5c1c0/EP.0.1.v0.1678207955.360.m3u8
+https://www.googleapis.com/drive/v3/files/1qq5CNxPy1_uiKW0_N_SPFBGgPiyaiEe1?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/next-avengers-heroes-del-manana.jpg" group-title="",Next Avengers heroes of tomorrow
 https://pc-34.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/16aeda45f45ad24019bc1c065d25ba29/EP.0.1.v0.1677451495.360.m3u8
 

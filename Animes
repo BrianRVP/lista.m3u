@@ -1,17 +1,326 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/plunderer.jpg" group-title="", Plunderer 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s3clSZKSqJNILzmAEm5KaTUS5Z0.jpg"group-title="DBZ",DBKai
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/DBKai
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/c1T8UHwCaq6JeQYgt4U8ERPGoxN.jpg"group-title="Accion",Kaiju No. 8 (2024)
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Kaiju%20no%208
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/awcSoxNyCJg3OzH7acX6K6EISDZ.jpg"group-title="SuperCampeones",SUPER CAMPEONES
+https://raw.githubusercontent.com/linkarg13/SERIES/main/Supercampeones
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9RTWmNrzy7IfpdpMOynjT5KDfVP.jpg" group-title=“Caballeros del Zodiaco”,Saga Santuario
+https://raw.githubusercontent.com/AaronCoyu/CDZ1/main/Caballeros%2001
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zHgc9nTXiP77qoy14BO7WUFTwkp.jpg" group-title=“SuperCampeones”,Supercampeones Temporada 1
+https://raw.githubusercontent.com/AaronCoyu/CapitanTsubasa/main/Tsubasa
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zHgc9nTXiP77qoy14BO7WUFTwkp.jpg" group-title=“SuperCampeones”,SuperCampeones Temporada 2
+https://raw.githubusercontent.com/AaronCoyu/CapitanTsubasa2/main/CapitanTsubasa2
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zHgc9nTXiP77qoy14BO7WUFTwkp.jpg" group-title=“Accion”,Sentouin Hakenshimasu
+https://raw.githubusercontent.com/LuisKong123/Animes/main/Sentouin%20hakenshimasu
+
+#EXTINF:-1 tvg-logo="https://img.animeflv.ws/cover/kemono-jihen.jpg"group-title="Accion", Kemono Jihen 
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Kemono%20Jihen
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6438/f6ec57ac9c69a96d94ea4ca8303f055530be9b54_hq.jpg"group-title="ONE PIECE",TEMP 1
+https://raw.githubusercontent.com/linkarg13/ANIME/main/ONE%20PIECE%20TEMP%201
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6438/92eedb3d6606da09f1f5f3a056ed3018a1b39564_hq.jpg"group-title="ONE PIECE",TEMP 2
+https://raw.githubusercontent.com/linkarg13/ANIME/main/ONE%20PIECE%20TEMP%202
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6330/93028b80f8aa54e3f50d6c5a5aa86cb2bd9abae0_00.jpg"group-title="ONE PIECE",TEMP 3
+https://raw.githubusercontent.com/linkarg13/ANIME/main/ONE%20PIECE%20TEMP%203
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6438/d9fb31249a10e591b91c335c2b4b1c4ce8b44f76_hq.jpg"group-title="ONE PIECE",TEMP 4
+https://raw.githubusercontent.com/linkarg13/ANIME/main/ONE%20PIECE%20TEMP%204
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6438/a640d20e6ccd655563670ed404352dc3931253ba_hq.jpg"group-title="ONE PIECE",TEMP 5
+https://raw.githubusercontent.com/linkarg13/ANIME/main/ONE%20PIECE%20TEMP%205
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6438/bec791ef7c570cd6cc5b62d6ee145e1afc82c2b5_hq.jpg"group-title="ONE PIECE",TEMP 6
+https://raw.githubusercontent.com/linkarg13/ANIME/main/ONE%20PIECE%20TEMP%206
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6438/80f27fd90fbabdfddd5b73595f850f87a170b745_hq.jpg"group-title="ONE PIECE",TEMP 7
+https://raw.githubusercontent.com/linkarg13/ANIME/main/ONE%20PIECE%20TEMP%207
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6438/ff968750c364dc5d7e567a346eb367a1cb1fbe47_hq.jpg"group-title="ONE PIECE",TEMP 8
+https://raw.githubusercontent.com/linkarg13/ANIME/main/ONE%20PIECE%20TEMP%208
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6438/bfc0464d2e11cb9fd25ca264edb2cedc8167449b_hq.jpg"group-title="ONE PIECE",TEMP 9
+https://raw.githubusercontent.com/linkarg13/ANIME/main/ONE%20PIECE%20TEMP%209
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6887/eb7753cc5efb26b64d674c7b570a7f32337d997fr1-1432-2048v2_hq.jpg"group-title="ONE PIECE",TEMP 10
+https://raw.githubusercontent.com/linkarg13/ANIME/main/ONE%20PIECE%20TEMP%2010
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6228/d828b3332b0119a0f9f53fac4bde3e1a9b531282_hq.jpg"group-title="ONE PIECE",TEMP 11
+https://raw.githubusercontent.com/linkarg13/ANIME/main/ONE%20PIECE%20TEMP%2011
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/7955/cb2d1ec842312414098bf5fd840b9e8a41bad528r1-800-800v2_hq.jpg"group-title="ONE PIECE",TEMP 12
+https://raw.githubusercontent.com/linkarg13/ANIME/main/ONE%20PIECE%20TEMP%2012
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/7955/e9f167e0db0cc53b560a77a466ff995720a4ca59r1-800-800v2_hq.jpg"group-title="ONE PIECE",TEMP 13
+https://raw.githubusercontent.com/linkarg13/ANIME/main/ONE%20PIECE%20%20TEMP%2013
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/7955/ef6abfeaa5651156c26199afc64bd2c6cab5e828r1-800-800v2_hq.jpg"group-title="ONE PIECE",TEMP 14
+https://raw.githubusercontent.com/linkarg13/ANIME/main/ONE%20PIECE%20TEMPO%2014
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/7955/0cc293d2998c6863394c8308874a0c6896529ff3r1-800-800v2_hq.jpg"group-title="ONE PIECE",TEMP 15
+https://raw.githubusercontent.com/linkarg13/ANIME/main/ONE%20PIECE%20TEMP%2015
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/7955/ac443e765b16fdec5169cdd2681327c3feb81000r1-800-800v2_hq.jpg"group-title="ONE PIECE",TEMP 16
+https://raw.githubusercontent.com/linkarg13/ANIME/main/ONE%20PIECE%20TEMP%2016
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/7955/8effd53ddd5a287f0ab622aecf17ef8fe4dfdacer1-800-800v2_hq.jpg"group-title="ONE PIECE",TEMP 17
+https://raw.githubusercontent.com/linkarg13/ANIME/main/ONE%20PIECE%20TEMP%2017
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/7955/0fd05984a6196a315f1fcbd63b3f0ca51b79ae30r1-800-800v2_hq.jpg"group-title="ONE PIECE",TEMP 18
+https://raw.githubusercontent.com/linkarg13/ANIME/main/ONE%20PIECE%20TEMP%2018
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/7955/d6ecd9e8b2c990be751150bab901ed24d79d4577r1-800-800v2_hq.jpg"group-title="ONE PIECE",TEMP 19
+https://raw.githubusercontent.com/linkarg13/ANIME/main/ONE%20PIECE%20TEMP%2019
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/7955/a69c69de7b7e86067198b9c9d2d2ab03252683ear1-800-800v2_hq.jpg"group-title="ONE PIECE",TEMP 20
+https://raw.githubusercontent.com/linkarg13/ANIME/main/ONE%20PIECE%20TEMP%2020
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/7955/2f16da739c06999771028e19385f0244011945acr1-800-800v2_hq.jpg"group-title="ONE PIECE",TEMP 21
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/hZHNsGDRRguDj3Ry2cy6GAa806P.jpg"group-title="SLAM DUNK",SLAM DUNK
+https://raw.githubusercontent.com/linkarg13/SLAMDUNK/main/Temporada%201
+#EXTINF:-1 tvg-logo="https://www.normacomics.com/media/catalog/product/h/a/haikyu-01.jpg"group-title="HAIKYUU!!", HAIKYUU!! TEMP 1(SUB)
+https://raw.githubusercontent.com/linkarg13/HAIKYUU-/main/Temp%201
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/7210/2a414bd5a3d7ec3bd79325ae8ca398d0c9bf242ar1-822-1300v2_hq.jpg"group-title="HAIKYUU!!",HAIKYUU!!TEMP 2(SUB)
+https://raw.githubusercontent.com/linkarg13/HAIKYUU-/main/Temp%202
+#EXTINF:-1 tvg-logo="https://images.cdn1.buscalibre.com/fit-in/360x360/41/83/4183152eb17b7c5f425d4a9ff17eafc3.jpg"group-title="HAIKYUU!!",HAIKYUU!! TEMP 3(SUB)
+https://raw.githubusercontent.com/linkarg13/HAIKYUU-/main/Temp%203
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71HjWyR-86L._AC_UF1000,1000_QL80_FMwebp_.jpg"group-title="HAIKYUU!!",HAIKYUU!! TEMP 4(SUB)
+https://raw.githubusercontent.com/linkarg13/HAIKYUU-/main/Temp%204
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/roZZ5Ookau9nNOQQpPO3U06iRi8.jpg"group-title="HAIKYUU!!", HAIKYUU!! PELICULAS(SUB)
+https://raw.githubusercontent.com/linkarg13/HAIKYUU-/main/Peliculas
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7a295ezYFYw8fSYSBAFUex0romb.jpg"group-title="One Punch Man", One Punch Man temp 1
+https://raw.githubusercontent.com/linkarg13/Onepunchman/main/ONE%20PUNCH-MAN%201
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7a295ezYFYw8fSYSBAFUex0romb.jpg"group-title="One Punch Man", One Punch Man temp 2
+https://raw.githubusercontent.com/linkarg13/Onepunchman/main/ONE%20PUNCH%20MAN%202
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7a295ezYFYw8fSYSBAFUex0romb.jpg"group-title="One Punch Man", One Punch Man temp 3
+https://raw.githubusercontent.com/linkarg13/Onepunchman/main/ONE%20PUNCH%20MAN%203
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7a295ezYFYw8fSYSBAFUex0romb.jpg"group-title="One Punch Man",One Punch Man Specials
+https://raw.githubusercontent.com/linkarg13/Onepunchman/main/One%20Punch%20Man%20Specials!
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7a295ezYFYw8fSYSBAFUex0romb.jpg"group-title="One Punch Man",Saitama-v-Garou
+https://dl.dropbox.com/scl/fi/sws9tawri08ys1qtfrgjq/Saitama-v-Garou-_-One-Punch-Man-Manga-Animation-720P_HD.mp4?rlkey=ns1azp2owfxcfgqulyp322n6h&dl=0
+
+#EXTINF:-1 tvg-logo="https://www.cuevana3.eu/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F1azUShBxKqHUUJf61BIpnJTtAWO.jpg&w=640&q=75"group-title="",Toriko & One Piece & Dragon Ball Z
+https://dl.dropbox.com/scl/fi/a9j23mbdupuf6etdkc3ou/Toriko-One-Piece-Dragon-Ball-Z_.mp4?rlkey=v8sl6h53vd4yhpcvpta3js8m7&dl=0
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg" group-title="Naruto S",Naruto Shippuden 1
+https://raw.githubusercontent.com/AaronCoyu/NarutoShippuden/main/T1
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg" group-title=“Naruto S”,Naruto Shippuden 2
+https://raw.githubusercontent.com/AaronCoyu/NST2/main/NST2
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg" group-title=“Naruto S”,Naruto Shippuden 3 Relleno
+https://raw.githubusercontent.com/AaronCoyu/NST3/main/NST3
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg" group-title=“Naruto S”,Naruto Shippuden 4
+https://raw.githubusercontent.com/AaronCoyu/NST4/main/NST4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg" group-title=”Naruto S”,Naruto Shippuden 5 Relleno
+https://raw.githubusercontent.com/AaronCoyu/NST5/main/NST5
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg" group-title=“Naruto S”,Naruto Shippuden 6
+https://raw.githubusercontent.com/AaronCoyu/NST6/main/NST6
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg" group-title=“Naruto S”,Naruto Shippuden 7 Relleno
+https://raw.githubusercontent.com/AaronCoyu/NST7/main/NST7
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg" group-title=“Naruto S”,Naruto Shippuden 8
+https://raw.githubusercontent.com/AaronCoyu/NST8/main/NST8
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg" group-title=“Naruto S”,Naruto Shippuden 9 Relleno
+https://raw.githubusercontent.com/AaronCoyu/NST9/main/NST9
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg" group-title=“Naruto S”,Naruto Shippuden 10
+https://raw.githubusercontent.com/AaronCoyu/NST10/main/NST10
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg" group-title=“Naruto S”,Naruto Shippuden 11 Relleno
+https://raw.githubusercontent.com/AaronCoyu/NST11/main/NST11
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg" group-title=“Naruto S”,Naruto Shippuden 12
+https://raw.githubusercontent.com/AaronCoyu/NST12/main/NST12
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg" group-title=“Naruto S”,Naruto Shippuden 13 Relleno
+https://raw.githubusercontent.com/AaronCoyu/NST13/main/NST13
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg" group-title=“Naruto S”,Naruto Shippuden 14
+https://raw.githubusercontent.com/AaronCoyu/NST14/main/NST14
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg" group-title=“Naruto S”,Naruto Shippuden 15
+https://raw.githubusercontent.com/AaronCoyu/NST15/main/NST15
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg" group-title=“Naruto S”,Naruto Shippuden 16 Relleno
+https://raw.githubusercontent.com/AaronCoyu/NST16/main/NST16
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg" group-title=“Naruto S”,Naruto Shippuden 17
+https://raw.githubusercontent.com/AaronCoyu/NST17/main/NST17
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg" group-title=“Naruto S”,Naruto Shippuden 18
+https://raw.githubusercontent.com/AaronCoyu/NST18/main/NST18
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg" group-title=“Naruto S”,Naruto Shippuden 19 Relleno
+https://raw.githubusercontent.com/AaronCoyu/NST19/main/NST19
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg" group-title=“Naruto S”,Naruto Shippuden 20
+https://raw.githubusercontent.com/AaronCoyu/NST20/main/NST20
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg" group-title=“Naruto S”,Naruto Shippuden 21
+https://raw.githubusercontent.com/AaronCoyu/NST21/main/NST21
+
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/onCLyCOgszTIyyVs2XKYSkKPOPG.jpg" group-title="DBZ",DB 01 En busca de las Esferas del Dragon
+https://raw.githubusercontent.com/AaronCoyu/DB/main/01%20En%20busca%20de%20las%20Esferas%20del%20Dragon
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/dJlS1BsXxGEemIxs1uv4jqisJFQ.jpg" group-title=“DBZ”,DB 02 El Gran Torneo de las Artes Marciales
+https://raw.githubusercontent.com/AaronCoyu/DB2/main/02%20El%20Gran%20Torneo%20de%20las%20Artes%20Marciales
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9jZZ93gPdLWBgHZkwOe57vhgaFe.jpg" group-title=“DBZ”,DB 03 El Ejercito de la Patrulla Roja
+https://raw.githubusercontent.com/AaronCoyu/DB3/main/03%20El%20Eje%CC%81rcito%20de%20la%20Patrulla%20Roja
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fMOc3TiY1UgZ3MsCiVO84WPLFsl.jpg" group-title=“DBZ”,DB 04 El palacio de Uranai Baba
+https://raw.githubusercontent.com/AaronCoyu/DB4/main/04%20El%20palacio%20de%20Uranai%20Baba
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/28eMOQ6BY1JP7FT1ERzkcfIGrYM.jpg" group-title=“DBZ”,DB 05 El 22 Torneo de las Artes Marciales
+https://raw.githubusercontent.com/AaronCoyu/DB5/main/05%20El%2022%C2%B0%20Torneo%20de%20las%20Artes%20Marciales
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ffLmp4hRjjn3TP6DakL5ba2Kipl.jpg" group-title=“DBZ”,DB 06 La Llegada de PiccoloDaiMaKu
+https://raw.githubusercontent.com/AaronCoyu/DB6/main/06%20La%20Llegada%20de%20Piccolo%20Dai%20Ma%20Ku
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7QKKzAreFpYXRgeTXkwAee8XEnU.jpg" group-title=“DBZ”,DB 07 El 23 Torneo de las Artes Marciales
+https://raw.githubusercontent.com/AaronCoyu/DB7/main/07%20El%2023%20Torneo%20de%20las%20Artes%20Marciales
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6VKOfL6ihwTiB5Vibq6QTfzhxA6.jpg" group-title="DBZ",DBZ Saga Saiyan 
+https://raw.githubusercontent.com/AaronCoyu/SagaSaiyan/main/Saiyan
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/dBsDWUcdfbuZwglgyeeQ9ChRoS4.jpg" group-title="DBZ",DBZ Saga Frezzer
+https://raw.githubusercontent.com/AaronCoyu/Frezzer/main/Frezzer
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ywtyEDTM2YO7qod7USNNwhrAfvA.jpg" group-title="DBZ",DBZ Saga Garlick Jr 
+https://raw.githubusercontent.com/AaronCoyu/Garlick/main/Garlick%20Jr
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9j6Fgr7hn3EZpi5wMQMhwnpxYtb.jpg" group-title="DBZ",DBZ Saga Androides y Cell 
+https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Cell 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7tDoK1McXUcYiDvdecrdf061Znq.jpg" group-title="DBZ",Saga Majin Boo
+https://raw.githubusercontent.com/AaronCoyu/DBZ01/main/Majin%20Boo
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2u09FiAuyMdS6EzOi7FH0ULciys.jpg" group-title="DBZ",DBGT Saga 1
+https://raw.githubusercontent.com/AaronCoyu/GT/main/1%C2%B0%20Saga%20El%20Gran%20Viaje
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uZXeV19t7mR9w8S5PQeJ8ELYluK.jpg" group-title="DBZ",DBGT Saga Baby
+https://raw.githubusercontent.com/AaronCoyu/GT2/main/Saga%20Baby
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5fJabEofYlS7amaLY9ZQfxUBpgR.jpg" group-title="DBZ",DBGT Saga de Super N17
+https://raw.githubusercontent.com/AaronCoyu/GT3/main/Saga%20de%20Super%20N17
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/aenNvQvDhKalUoLQpj1IViQRx1v.jpg" group-title="DBZ",DBGT Saga Los Dragones Oscuros
+https://raw.githubusercontent.com/AaronCoyu/GT4/main/Saga%20Los%20Dragones%20Oscuros
+
+#EXTINF:-1 tvg-logo="https://img.animeflv.ws/cover/escaflowne.jpg" group-title="Fantasia Oscura",La Vision de Escaflowne (Latino)
+https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/Escaflowne
+#EXTINF:-1 tvg-logo="https://img.animeflv.ws/cover/goblin-slayer.jpg" group-title="Accion",Goblin Slayer
+https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/Goblin%20Slayer
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/qHSCYOXHV3EKXKkMxUvC9rGx4Av.jpg" group-title="Accion",NieR:Automata Ver 1.1a (2023) latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/NieR%3AAutomata%20LAtino
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/qHSCYOXHV3EKXKkMxUvC9rGx4Av.jpg" group-title="Accion",NieR:Automata Ver 1.1a (2023) subtitulado
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/NieR%3AAutomata%20subtitulado
+#EXTINF:-1 tvg-logo="https://img.animeflv.ws/cover/kangoku-gakuen.jpg" group-title="Comedia",Prison School
+https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/Prison%20School
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/plunderer.jpg" group-title="Accion", Plunderer 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Plunderer 
-#EXTINF:-1 tvg-logo="https://www1.animeonline.ninja/wp-content/uploads/2021/05/gFZ3K5tgFit6PHOXLvSRwzDWacG-185x278.jpg" group-title="",Kimetsu no Yaiba 
+#EXTINF:-1 tvg-logo="https://www1.animeonline.ninja/wp-content/uploads/2021/05/gFZ3K5tgFit6PHOXLvSRwzDWacG-185x278.jpg" group-title="Accion",Kimetsu no Yaiba 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Kimetsu%20no%20Yaiba 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cJx07RV/Dragon-Ball-Z-Serie-Androides-Cell.png" group-title="",Dragon Ball Z Serie Androides Cell 
-https://raw.githubusercontent.com/laureanoflix/SERIES/main/DBZ.m3u 
-#EXTINF:-1 tvg-logo="https://archive.org/download/t-1-04-boku-no-hero-latino/My%20Hero%20academia.jpg" group-title="",BOKU NO HERO ACADEMIA 
+#EXTINF:-1 tvg-logo="https://archive.org/download/t-1-04-boku-no-hero-latino/My%20Hero%20academia.jpg" group-title="Shonen",BOKU NO HERO ACADEMIA 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/My%20Hero%20Academia 
-#EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/TOKYO GHOUL.jpg" group-title="",TOKYO GHOUL 
+#EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/TOKYO GHOUL.jpg" group-title="Gore",TOKYO GHOUL 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Tokyo%20Ghoul 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fkfVqKJ/JUJUTSU-KAISEN-latino.png" group-title="",JUJUTSU KAISEN HD LATINO 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fkfVqKJ/JUJUTSU-KAISEN-latino.png" group-title="Fantasia Oscura",JUJUTSU KAISEN HD LATINO 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Jujutsu%20Kaisen 
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/jujutsu-kaisen-tv.jpg" group-title="",JUJUTSU KAISEN SD LATINO 
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/jujutsu-kaisen-tv.jpg" group-title="Fantasia Oscura",JUJUTSU KAISEN SD LATINO 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Jujutsu%20kaisen%20SD 
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/shingeki-no-kyojin.jpg" group-title="",Shingeki no Kyojin 
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/shingeki-no-kyojin.jpg" group-title="Accion",Shingeki no Kyojin 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Shingeki%20no%20Kyojin 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/devilman-crybaby.png" group-title="Accion",Devilman CryBaby latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Devilman%20crybaby%20latino
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/devilman-crybaby.png" group-title="Accion",Devilman CryBaby subtitulado
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Devilman%20crybaby%20subtitulado
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/woj562S4ezij0xne8tE1nfDucow.jpg" group-title="Terror",Housing complex c
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Housing%20complex%20c
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/ito-junji-collection.jpg" group-title="Terror",Junji ito: Relatos japoneses de lo macabro subtitulado
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/junji%20ito%20maniac%3A%20Relatos%20japoneses%20de%20lo%20macabro
+#EXTINF:-1 tvg-logo="https://img.animeflv.ws/cover/ito-junji-collection.jpg" group-title="Terror",Junji Ito Maniac: Relatos japoneses de lo macabro latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Junji%20ito%20maniac%20latino
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/tAECSui9V4CtOZBwKJAfQH4M2Di.jpg" group-title="Terror",Invasion en las alturas subtitulado
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Invasion%20en%20las%20alturas%20subtitulado
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/tAECSui9V4CtOZBwKJAfQH4M2Di.jpg" group-title="Terror",Invasion en las alturas latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Invasion%20en%20las%20alturas%20latino
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/saint-seiya-omega.jpg" group-title="Shonen",Saint seiya omega
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Saint%20seiya%20omega
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/terra-formers.jpg" group-title="Ciencia Ficcion",Terra formars
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Terra%20formars
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/made-in-abyss.jpg" group-title="Fantasia Oscura",Made in abyss
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Made%20in%20abyss
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/spy-x-family.jpg" group-title="Comedia",Spy x family
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Spy%20x%20family%20latino
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/spy-x-family.jpg" group-title="Comedia",Spy x family
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Spy%20x%20family%20subtitulado%20al%20espa%C3%B1ol
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/gantz.jpg" group-title="Seinen",Gantz
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Gantz
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/initial-d.png" group-title="Seinen",Initial D
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Initial%20D
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/jojos-bizarre-adventure.jpg" group-title="Accion",Jojo's bizarre adventure
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Jojo's%20bizarre%20adventure
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/kenyuu-densetsu-yaiba.jpg" group-title="Comedia",La leyenda del espadachín yaiba
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/La%20leyenda%20del%20espadachin%20yaiba
+#EXTINF:-1 tvg-logo=https://img.animeflv.cc/cover/jojo-no-kimyou-na-bouken-part-6-stone-ocean.jpg" group-title"Accion",Jojo's bizarre adventure stone ocean
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Jojo's%20bizarre%20adventure%20stone%20ocean
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/jojo-no-kimyou-na-bouken-diamond-wa-kudakenai.jpg" group-title="Accion",Jojo's no kimyou na bouken: Diamond wa kudakenai
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Jojo's%20no%20kimyou%20na%20bouken%20diamond%20wa%20kudakenai
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/jojos-bizarre-adventure-the-animation.jpg" group-title="Accion",Jojo's bizarre adventure the animation
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Jojo's%20bizarre%20adventure%20the%20animation
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/jojos-bizarre-adventure-stardust-crusaders.jpg" group-title="Accion",Jojo's bizarre adventure: Stardust Crusaders season 1
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Jojo's%20bizarre%20adventure%20stardust%20crusaders%20season%201
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/jojos-bizarre-adventure-stardust-crusaders-2.jpg" group-title="Accion",Jojo's bizarre adventure: Stardust crusaders season 2
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Jojo's%20bizarre%20adventure%20stardust%20crusaders%20season%202
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/jojo-no-kimyou-na-bouken-ougon-no-kaze.jpg" group-title="Accion",Jojo's no kimyou na bouken: Ougon no kaze
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Jojo's%20no%20kimyou%20na%20bouken%20ougon%20no%20kaza
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/dekiru-neko-wa-kyou-mo-yuuutsu.jpg" group-title="Recuentos de la vida",Dekiru Neko wa Kyou mo Yuuutsu
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Dekiru%20neko%20wa%20kyou%20mo%20yuuutsu
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/shuumatsu-no-walkure.jpg" group-title="Artes Marciales",Record of ragnarok Español latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Record%20of%20ragnarok%20espa%C3%B1ol%20latino
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/shuumatsu-no-walkure.jpg" group-title="Artes Marciales",Record of ragnarok subtitulado
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Record%20of%20ragnarok%20subtitulado
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/kami-nomi-zo-shiru-sekai.jpg" group-title="Comedia Romantica",Kami Nomi zo Shiru Sekai Completo
+https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/Kami%20Nomi%20zo%20Shiru%20Sekai%20Completo
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/kyochuu-rettou-movie.jpg" group-title="Terror",Kyochuu Rettou Movie
+https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/Kyochuu%20Rettou%20Movie
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/harmony.jpg" group-title="Ciencia Ficcion",Harmony
+https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/Harmony%20(Psicologico)
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/1996/10/w1280/cXvNMcxg6EH0NlZYigEE9ZB2zKk.jpg" group-title="Fantasia",Cazadores de Duendes Completo
+https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/Cazadores%20de%20Duendes%20Completa
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/baki-2018.jpg" group-title="Artes Marciales",Baki 2018 subtitulado
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Baki%202018
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/baki-dai-reitaisaihen.jpg" group-title="Artes Marciales",Baki:Dai reitaisai hen subtitulado
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Baki%20dai%20%20reitaisai%20hen
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/grappler-baki-saidai-tournament-hen.jpg" group-title="Artes Marciales",Grappler baki:Saidai tournament hen subtitulado
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Baki%20grappler%20%20saidai%20tournament
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/drappler-baki.jpg" group-title="Artes Marciales",Baki the grappler subtitulado
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Baki%20grappler%20y%20baki%20grappler%20ova
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/hanma-baki-son-of-ogre.jpg" group-title="Artes Marciales",Baki:Hijo de ogro subtitulado
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Baki%20hijo%20de%20ogro%20temporada%201%20y%202
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/to-be-hero.jpg" group-title="Comedia",To be hero subtitulado
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/To%20be%20hero
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/to-be-heroine.jpg" group-title="Comedia",To be heroine subtitulado
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/To%20be%20heroine
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/high-score-girl.jpg" group-title="Comedia",High Score Girl
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/High%20score%20girls
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/kengan_ashura-540534862-mmed.jpg" group-title="Artes Marciales",Kengan Ashura
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Kengan%20Ashura
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/little-witch-academia-tv.jpg" group-title="Fantasia",Little Witch Academia
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Little%20witch%20academia
+#EXTINF:-1 tvg-logo="https://img.animeflv.bz/cover/ansatsu-kyoushitsu-tv.jpg" group-title="Accion",Ansatsu Kyoushitsu
+https://raw.githubusercontent.com/Abarrera7/local/main/Ansatsu%20Kyoushitsu
+#EXTINF:-1 tvg-logo="https://img.animeflv.bz/cover/rurouni-kenshin-meiji-kenkaku-romantan-2023.jpg" group-title="Romance",Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
+https://raw.githubusercontent.com/Abarrera7/local/main/Rurouni%20Kenshin%202023
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/saint-seiya-the-lost-canvas.jpg" group-title="Shonen",Saint Seiya:The Lost Canvas latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Saint%20seiya%20the%20lost%20canvas
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/mashle.jpg" group-title="Comedia",Mashle subtitulado
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Mashle%20subtitulado
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/hell-girl.jpg" group-title="Terror",Hell Girl subtitulado
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Hell%20girl
+#EXTINF:-1 tvg-logo="https://img.animeflv.ws/cover/hell-girl.jpg" group-title="Terror",Hell Girl latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Hell%20girl%20latino
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/kakegurui.jpg" group-title="Suspenso",Kakegurui subtitulado
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Kakegurui
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/kanojo-okarishimasu.jpg" group-title="Comedia Romantica",Rent a girlfriend subtitulado
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Rent%20a%20girlfriend%20subtitulado
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/tonikaku-kawaii-2nd-season.jpg" group-title="Comedia Romantica",Tonikaku Kawaii temporada 2 subtitulado
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Tonikaku%20Kawaii%20subtitulado
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/rokka-no-yuusha.jpg" group-title="Fantasia",Rokka no Yuusha subtitulado
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Rokka%20no%20Yuusha%20subtitulado
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/horimiya-piece.jpg" group-title="Romance",Horimiya:Piece subtitulado
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Horimiya%20piece%20subtitulado
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/dorohedoro.jpg" group-title="Fantasia Oscura",Dorohedoro subtitulado
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Dorohedoro%20subtitulado
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/dorohedoro.jpg" group-title="Fantasia Oscura",Dorohedoro latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Dorohedoro%20latino
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/inuyashiki.jpg" group-title="Seinen",Inuyashiki
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Inuyashiki%20subtitulado
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/chainsaw-man.jpg" group-title="Shonen",Chainsaw Man subtitulado
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Chainsaw%20Man%20subtitulado
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/chainsaw-man.jpg" group-title="Shonen",Chainsaw Man latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Chainsaw%20man%20latino
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Housing_Complex_C_Visual.jpg" group-title="Terror",Housing Complex C 2022
+https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/Housing%20Complex%20C
+#EXTINF:-1 tvg-logo="https://serieslan.com/tb/lgm.jpg" group-title="Shojo",Las Guerreras Magicas + ovas Latino
+https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/Las%20Guerreras%20Magicas%20Latino

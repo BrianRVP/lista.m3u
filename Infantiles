@@ -1,80 +1,415 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/eU9IBodwp3RnTgIJzwKjHow1LI3.jpg"group-title="",All hallows eve
+https://cache010.peliscdn.online/newhls/f0f7f535ad43de0a9b51976ce458a3ad/EP.0.2.v0.1709689181.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ojsARUPhtbMAcA3dCR3UwcHW1wM.jpg"group-title="",paw Patrol la súper película 
+https://archive.org/download/p-4w-p-4tr-0l-l-4-superpelicula/P4w%20p4tr0l_%20L4%20superpel%C3%ADcula.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d0w1Zfd/F4248531.jpg"group-title="",Nickelodeon Kids' Choice Awards (2024)
+https://archive.org/download/nick-3l-0d-30n-k-1-choi-3-awards-2024/Nick3l0d30n%20K1Choi3%20Awards%202024.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/bdFsS0A2dCcVXUdaxcUfnvLOTqz.jpg"group-title="",Ted y tody
+http://192.168.1.53:30001/file/MMifaokz/video.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/kbeVZtX9HcsrkSyF0KrB4odkkiM.jpg"group-title="",trasto
+http://192.168.1.53:30001/file/ZoY5oOuL/video.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/6cpb2IP2c8gEbS2E2VfLKfx04cP.jpg"group-title="",Orión y la oscuridad (2024)
+https://archive.org/download/orion-y-la-oscuridad_20240721/Ori%C3%B3n%20y%20la%20oscuridad.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/joOEYpfltqoqkaiQio24TUTntGM.jpg"group-title="",unicorn ward
+https://archive.org/download/unicorn-wars-22/Unicorn%20Wars22.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/hZPHo3miiG0Xc8VyGvzGkkC6mkh.jpg"group-title="",snoopy y los viejos tiempos (2021)
+https://archive.org/download/1280x-640-snoopy-presenta-por-los-viejos-tiempos/1280x640-Snoopy%20presenta%20Por%20los%20viejos%20tiempos.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/2vh5QyyFgWCVNipA6C70BT3cRt0.jpg"group-title="",Carlitos y snoopy (2015)
+https://archive.org/download/carlitos-y-snoopy-la-pelicula-de-peanuts/Carlitos%20y%20Snoopy%20La%20pel%C3%ADcula%20de%20Peanuts.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/dyHNyqc9UBhfLZpFM8GTQ9z8AvV.jpg"group-title="",el príncipe de Egipto
+https://archive.org/download/vid-20240720-205041-368/VID_20240720_205041_368.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/1IWAjgqhcW6dqTen7eUCtyzYlwJ.jpg"group-title="",Una Chihuahua de Beverly 2
+https://archive.org/download/1-4904692887838523837-1/1_4904692887838523837%20%281%29.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/d2bIGAs9BI46UPyF6o1hrsBMEl8.jpg"group-title="",Una Chihuahua de Beverly 1
+https://archive.org/download/1-4904692887838523832/1_4904692887838523832.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/gmuqhcmSerMih7kfg2O13jNCYyr.jpg"group-title="",Scooby-Doo monstruo de México 
+https://dl.dropbox.com/scl/fi/pzdsvnuthvnha7rjd1hr3/Scooby-Doo-y-el-monstruo-de-M-xico.mp4?rlkey=xzj90c04n3lzolhmaifqi7ne4&dl=0
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/svCwqsP9UDr14fYDLawJfDgEsSD.jpg"group-title="", Zathura
+https://dl.dropbox.com/scl/fi/bjxf0md9g0vn3cotix6zj/Zathura_-una-aventura-espacial-2005-espa-ol-latino-SD.mp4?rlkey=22zm5geke8tse713yq6im2pt9&st=5c0jvq97&dl=0
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/xbUoWCdb3v0bAak7XQTc1dmTXtM.jpg"group-title="", Marte nesecita mamas
+https://dl.dropbox.com/scl/fi/21x5p1vfeugivaqc91d9p/MARTE-NECESITA-MAM-S-2011-_CINEFILOS_-SD.mp4?rlkey=u7yd0tsjbnfr57q518pnrevfk&st=4rbro0nc&dl=0
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/xNF8AxJc966FWk4SYqXxGHaZLHZ.jpg"group-title="",hotel Transilvania transformania (2022)
+https://dl.dropbox.com/scl/fi/xadndqiox20zimsxtg274/1920x1040-Hotel-Transilvania-Transforman-a.mp4?rlkey=e0y1jck8633bi5wko1kzi4u3g&dl=0
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/9iIDsw7RJHYU94z7k4mbYP5IlYT.jpg"group-title="",sing 2
+https://archive.org/download/sing-2_202407/sing%202.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZwPCp8/Miraculous-Shanghai-poster.jpg"group-title="",El Mundo Miraculous Shanghai (2023)
+https://archive.org/download/el-mundo-miraculous-shanghai-720p-dual-1-53-gb/El%20Mundo%20Miraculous%20Shanghai%20720p%20DUAL%201%2C53%20GB.mkv
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/isb2Qow76GpqYmsSyfdMfsYAjts.jpg"group-title="",El cadaver de la novia
+https://dl.dropbox.com/scl/fi/7ex4trqmnuh4stzndwpqw/226687-5acc7786-e492-411f-89b5-6ac9748d1fd2-fmcj-1897933-doodstream.mp4?rlkey=ok4h2rojhmeqt6jr4tfjdfgch&dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8sS9bWZ/w-D4ccm-FDo-REmq-AHmzw-Oj-Nu-Ysylv.jpg"group-title="",mi primera cita
+https://archive.org/download/intensamente-primera-cita-de-riley-2015-1080p-dual-83.87-mb/Intensamente%20Primera%20cita%20de%20Riley%20%282015%29%201080p%20DUAL%2083.87%20MB.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/vBiqoYfDIWKKzZTiQScqgCO09UD.jpg"group-title="",La leyenda de la llorona
+https://dl.dropbox.com/scl/fi/oolhk49sd4tmrh1e0zydj/92211-768f1c32-1ecc-4700-849a-6d6d805a9761-utbx-867401-doodstream.mp4?rlkey=g0ty5wrd3ucayi0igh6ztotp7&dl=0
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qGLnbmNnOAI1IgjtWdfVWnJkGku.jpg"group-title="",un gato con suerte
+https://dl.dropbox.com/scl/fi/0kr1cozc0jsd2c66j8l8g/Un-Gato-Con-Suerte-2024-720p-DUAL-1.3-GB.mkv?rlkey=wj5zkzyq70ci7cy1bfu3glxlt&dl=0
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/9mOEVJCKUWMxTABooY1U0FSwfi6.jpg"group-title="",una familia de barrio (2024)
+https://dl.dropbox.com/scl/fi/irfctff98dzh5189j3aif/La-Familia-del-Barrio-La-Pel-cula-2024-1080p-LAT-1.98-GB.mp4?rlkey=4h1q0c33epwlkdu4hys39yhnr&dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nbVyKsn/1000173580.jpg"group-title="",MI VILLANO FAVORITO 4 (2024)
+https://www.dropbox.com/scl/fi/29r2d21czdrjjf1myo3z0/22222.mp4?rlkey=ri90ypu3o2xlygxnb3yazgpu1&dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0hctGtG/IMG-20240625-232809-474.jpg"group-title="",No Hay Tiempo Para Espiarme: Una Película De Loud House(2024)
+https://dl.dropbox.com/scl/fi/tquzckji9bn2jsqhtt1kc/PS3MOVIE-..mp4?rlkey=aw04cv2vm5127b3d9jqyni2h3&dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WzYJx/IMG-20240626-020927-836.jpg"group-title="",Thelma the Unicorn Telma, la unicornio (2024)
+https://dl.dropbox.com/scl/fi/ncu7331o3y9jxlvkxbbuz/PS3MOVIE-..mp4?rlkey=tpusrhqxmvre4vc6w9554clha&dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88sPTCL/IMG-20240625-233133-938.jpg"group-title="", IF (2024)
+https://dl.dropbox.com/scl/fi/u04myu19d2bwuvc19wlxu/PS3MOVIE-..mp4?rlkey=pqp4k0a9mgr3jffcx8ti3k5tf&dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bKMn3hY/IMG-20240626-111835-410.jpg"group-title="",el arca de noé (2024)
+https://dl.dropbox.com/scl/fi/o884no39ex9uhhiduf8zm/PS3MOVIE-..mp4?rlkey=w27h2wgacuzqzwmy3dwpety5e&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/22rqNtep5jWkJzB4YYYpXPxqcPH.jpg"group-title="", Intensamente 2(CAM)
+https://dl.dropbox.com/scl/fi/3vp9optgyzw2w1wgkxy9v/in2.mp4?rlkey=ymjh76t8am55qt1ps7wmvksoz&dl=0
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/garfield-fuera-de-casa.jpg"group-title="", Garfield Fuera De Casa
+https://www.googleapis.com/drive/v3/files/12RjrlNhrmKSx9kg3-JJCSf6uJJWlZs-W?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/4gDNAsYbCOP3z4xyM0IhbPl5Rq3.jpg"group-title="",El inicio del mundo de creek
+https://dl.dropbox.com/scl/fi/97g4iy165oapgfif62i4m/236553-64dd6e0c-ad31-4023-80da-59b9642e59a9-ezja-2003579-streamwish.mp4?rlkey=41fflfbff0z1f4jq0yftxxtm7&dl=0
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/kung-fu-panda-4.jpg" group-title="",Kun fu panda 4 
+https://dl.dropboxusercontent.com/scl/fi/9t1ssgrlcnx8ir70ku4px/K6yn7f7u-p3ta5nd6a.mp4?rlkey=fht4c7krhd1ri66rueomazzzl&st=px3ll9ip
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/patos.jpg"group-title="",PATOS!
+https://dl.dropbox.com/scl/fi/ogxyvc2w3h8jrkbo7c8ep/34itemsver.mp4?rlkey=q1zww2543f6j9jrp7lnlnh63m&dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FKgRPqt/IMG-20240627-025852-608.jpg"group-title="",aprendiz de tigre (2024)
+https://dl.dropbox.com/scl/fi/1fgmg3lsuviis7zx0r4a2/PS3MOVIE.mp4?rlkey=8roq4v9k64uh0he1wk03h1vx3&st=edvgt5tt&dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FnRpXhf/IMG-20240626-235729-001.jpg"group-title="",La Casagrande (2024)
+https://dl.dropbox.com/scl/fi/uj24cvleix04dts5q72nx/PS3MOVIE-..mp4?rlkey=h6tyjf41xj1ndmmjqv4o2xh55&st=c5c80ygj&dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WfJzSLJ/IMG-20240626-232907-140.jpg"group-title="",Ultraman: El Ascenso (2024)
+https://dl.dropbox.com/scl/fi/2pi0ydfrszyul2ldnrv1d/PS3MOVIE-..mp4?rlkey=uj5nuq1jwjcqqdio95cp3lev6&dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm1Kyhh/IMG-20240626-192700-371.jpg",Megamente Vs. El sindicato de la perdicion (2024)
+https://dl.dropbox.com/scl/fi/8uu2kldarmr0i5lgmbe85/Megamind2.mkv?rlkey=fni3k2hwdm9qouve5zgu7ku95
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LgnTTgP/IMG-20240626-163903-950.jpg",Krakens y sirenas: Conoce a los Gillman
+https://archive.org/download/the-king-of-fighters-2002-magic-plus-ll/Krakens%20y%20Sirenas%20Conoce%20a%20los%20Gillman%20.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j4K31Vw/IMG-20240626-163625-979.jpg",La Sirenita (2023)
+https://dl.dropbox.com/s/z3yo7vzm3vzm0g1/S1R3N1T4.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f2xQwmn/IMG-20240626-230145-589.jpg"group-title="",Baby Shark: La Gran Película (2023)
+https://dl.dropboxusercontent.com/scl/fi/i8syz2z6l841i9dyn2v7y/PS3MOVIE-..mp4?rlkey=4tld51tlc2io33jo848magw5q&dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qsRw5jV/rbd.jpg",Sueño de robot (2023)
+https://dl.dropbox.com/scl/fi/j6zz8asik2juc8xq3oguq/RBD.mp4?rlkey=jjwls5sfsk8lwstiz38je7o60
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NntWkVS/IMG-20240626-163139-901.jpg",NIMONA (2023)
+https://archive.org/download/ott-navigator-v-1.6.2.8-premium-arm-8-64-bit/Nimona.2023.720p-Dual-Lat.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5Fjhgp/nacidoparaserrey.png",Nacido para ser Rey
+http://archive.org/download/ceccvas2/5ub1d0_p4ra_str3am1ng_A852/12.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P5B2G7Z/IMG-20240626-193115-648.jpg",Mario Bross (2023)
+https://dl.dropbox.com/s/h74kmjrld88f96u/M4R10FULL.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R6LNT6v/IMG-20240626-200736-468.jpg",Vivo (2021)
+https://archive.org/download/manguera_20210808/V1v0.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vJt5B87/242395.jpg"group-title="",Home hogar dulce hogar
+https://dl.dropbox.com/scl/fi/szusdmt6frha284le87iw/PS3MOVIE.mp4?rlkey=gay76fxxp684wqwkbzxc197tj&dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7R8ddMK/MV5-BODNl-NDE2-Yj-Et-MDky-YS00-Yj-Mz-LThi-ODQt-Zj-Zm-YWJh-Yjc0-ODJl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTIw-Mj-Y0.jpg"group-title="",princess remix
+https://dl.dropbox.com/scl/fi/5pjwp9zdomr56nk2mjt1h/PS3MOVIE.2.mp4?rlkey=dp70py4y81831c66j59oq20a3&dl=0
+#EXTINF:-1 tvg-logo="https://archive.org/download/1000175421/1000175421.jpg"group-title="",LEGO Disney Princess: Misión castillo. (2023)
+https://dl.dropbox.com/scl/fi/szusdmt6frha284le87iw/PS3MOVIE.mp4?rlkey=gay76fxxp684wqwkbzxc197tj&dl=0
+
+
+-------------cortos-------
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svcFXHG/IMG-20240627-035914-975.jpg"group-title="",ciao alberto (2021)
+https://dl.dropbox.com/scl/fi/zfnjhkwhhon7p391p8b71/PS3MOVIE.mp4?rlkey=ovtbl13nrbn1lvyv9tn7eo01t&dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S546f9k/los-simpson-que-el-dia-de-la-madre-te-acompane.jpg"group-title="",que el dia de la madre te acompañe SUB
+https://dl.dropbox.com/scl/fi/eqicacji6bp74bxfooh9r/PS3MOVIE1.mp4?rlkey=26ytzj30d9y6nvucutpym7gji&dl=0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PM0RG9s/IMG-20240626-165127-084.jpg",Maggie Simpson en El Despertar de la Siesta
+https://dl.dropboxusercontent.com/scl/fi/ohgbqdhlzah5o2mdqr8ch/M5.mp4?rlkey=0ojmcl11385bbm01qguepx0ik&st=cmgqpi9m&dl=0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fCR10n2/IMG-20240626-164512-579.jpg",Jugando con el destino los (2020)
+https://dl.dropbox.com/s/t2c4vz9t1dl2x88/Jugando%20Con%20El%20Destino.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rZ3s4sL/Los-Simpson-Bienvenida-al-club-C-430159108-large.jpg"group-title="",Bienvenida al club
+https://dl.dropbox.com/scl/fi/ds991chmsvp1jeelofy7b/Los-Simpsons-Bienvenidos-Al-Club-PS3MOVIE.mp4?rlkey=jp8y1tl350fpf6ksn8gsubhh3&dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XbF4cgx/IMG-20240627-073038.jpg"group-title="",Simpson en Plusniversario
+https://dl.dropbox.com/scl/fi/n0pbjeq4kid0o350bopkf/PS3MOVIE1.mp4?rlkey=xueehnnp280xi1f0lskgf3lc3&dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K5XR3BQ/301375290-288-k585810.jpg"group-title="",el bueno,el malo y loki
+https://dl.dropbox.com/scl/fi/j135z7dj5ie0jktf4x5dn/Los-Simpson-El-Bueno-El-Bart-y-El-Loki.mp4?rlkey=8c13tawg1rqql9pwbvr3q4cil&dl=0
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1QtTYxR/IMG-20240626-200223-925.jpg",Space Jam 2 Nueva Era (2021)
+https://archive.org/download/manguera_20210716_1602/Nu3v4%203r4.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z5BmKcL/IMG-20240626-200015-426.jpg",Space Jam el juego del siglo 
+https://dl.dropbox.com/s/p1l2cs9njbqbawk/space%20jam.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tHXXXpb/20426344.jpg"group-title="",epic el mundo secreto (2021)
+https://dl.dropbox.com/scl/fi/eq08nz2zbcx2rwghzcnuu/PS3MOVIE.mp4?rlkey=y4gruq92iteug2vmlzp1v4udr&dl=0
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/alicia-en-el-pais-de-las-maravillas-animada.jpg"group-title="",Alicia en el País de las Maravillas (1951) 360p latino
+https://cache017.peliscdn.online/newhls/8d4676295bb2abb2fc2e1972874c9199/EP.0.1.v0.1709097010.360.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/3BFR30kh0O3NKR1Sfea3HXCG6hw.jpg" group-title="",La Navidad embrujada de Casper (2000) 720p latino
+https://cache012.peliscdn.online/newhls/111255e0555e7fbfe691575df4815596/EP.0.2.v0.1709602517.720.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/zYJWQvee9CN6nc9En2KUWewHGHr.jpg" group-title="",Casper y la mágica Wendy (1998) 720p latino
+https://cache011.peliscdn.online/newhls/7c090c98f9d90f93129c83fd2777d49f/EP.0.2.v0.1709729710.720.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/48TGK0jFTjL74qnXMPoYRrv4mr0.jpg"group-title="",La escuela del terror de Casper (2006) 720p latino
+https://cache016.peliscdn.online/newhls/d854454d7702eb4e91b2ed12497c3db5/EP.0.2.v0.1709422943.720.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/hSBIk1EQrt2DJHQHjYqQCHQeHRt.jpg"group-title="",Urkel Saves Santa: The Movie! (2023) 720p latino
+https://cache002.peliscdn.online/newhls/3c89fe773057eb2c664acd1c4c41360b/EP.0.2.v0.1709773057.720.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg"group-title="",Leo
+https://pc-11.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/90df094599713cd277a0b1137db05f34/EP.0.2.v0.1700658653.720.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w188_and_h282_bestv2/1YjtY8k7T17tgDdWLUPV7Hbc18B.jpg"group-title="",La hora poderosa de Jimmy y Timmy parte 1 (2004) 360p latino
+https://cache012.peliscdn.online/newhls/b6dee1cdb74390b5163cceb93cf7cffd/EP.0.2.v0.1709491257.360.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/bS8yOrOZ8DMxW4DfrBJxvlAtkVx.jpg"group-title="",R.A.D.A.R.: The Adventures of the Bionic Dog (2023) 720p latino
+https://cache009.peliscdn.online/newhls/e0f7a39203d254d827cbeaac5b164c99/EP.0.2.v0.1709304877.720.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/yco6dWR1W3iANUEKxGT0vQRWrJn.jpg"group-title="",Trolls 3: Se armó la banda (2023) 720p latino
+https://cache008.peliscdn.online/newhls/445615197a5f3fe3faddca5819602301/EP.0.2.v0.1708646350.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-goonies-1697466734.png"group-title="",Los Goonies
+https://pc-10.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/1c9fac053bce2765e0e39ac8bb42df0a/EP.0.2.v0.1697467849.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/scarygirl-1697384360.png"group-title="",Scarygirl (2023) 720p latino
+https://cache014.peliscdn.online/newhls/579f8fbcf0e60fd725fac013483d90ad/EP.0.2.v0.1709013286.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/chef-jack-o-cozinheiro-aventureiro-1696836735.png"group-title="",Chef Jack: O Cozinheiro Aventureiro
+https://archive.org/download/chef-jack-el-cocinero-aventurero-2023.-1080p.dual-lat.cinecalidad.com.mx_202310/Chef%20Jack%20-%20El%20cocinero%20Aventurero%20%282023%29.1080p.dual-lat.cinecalidad.com.mx.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-super-descendientes-1696691007.png"group-title="",Los Súper Descendientes
+https://pc-10.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/931cf8096876f613776426de668edcc2/EP.0.1.v0.1696697508.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/we-bare-bears-the-movie-1604960406.jpg"group-title="",Escandalosos: La Película (2020) 360p latino
+https://cache008.peliscdn.online/newhls/a069bded433ffae9531da32a52c01fc0/EP.0.1.v1.1708877272.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/dos-canguros-muy-maduros-1606251009.jpg"group-title="",Papás a la Fuerza (2009) 360p latino
+https://cache004.peliscdn.online/newhls/8d37c6e5e3c850015be1c13f499d25c5/EP.0.1.v1.1708991159.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-cocodrilos-1602342917.jpg"group-title="",los cocodrilos
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-cocodrilos-atacan-de-nuevo-1602342917.jpg"group-title="",Los Cocodrilos 2: Atacan de Nuevo
+https://pc-23.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/08ef33c2b8311a3e29b3c4eb41024cc4/EP.0.2.v0.1681954535.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-cocodrilos-3-todos-para-uno-1602342917.jpg"group-title="",Los Cocodrilos 3: Todos Para Uno
+https://pc-24.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/5915f34953e6053f9424d826ce0495ee/EP.0.2.v0.1679344828.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/tuyos-mios-nuestros-1600198809.jpg"group-title="",Los Tuyos, Los Míos, Los Nuestros
+https://pc-18.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/5627e62f758481f3a0f0b050bdac0142/EP.0.2.v0.1676209219.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/todos-los-perros-van-al-cielo-1593208810.jpg"group-title="",Todos los Perros Van al Cielo (1989) 360p latino
+https://cache002.peliscdn.online/newhls/371d296718711983229f35eedade8c2a/EP.0.1.v0.1709406979.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/todos-los-perros-van-al-cielo-2-1593209111.jpg"group-title="",Todos los Perros Van al Cielo 2 (1996) 360p latino
+https://cache003.peliscdn.online/newhls/0d7ad0290fbdce20dca63b5e253251c2/EP.0.1.v0.1709794467.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/nuestra-pandilla-1585611605.jpg"group-title="",Nuestra Pandilla (1993) 360p latino
+https://cache013.peliscdn.online/newhls/54d598b956ae43521d61f45fa556ee4a/EP.0.1.v0.1708856348.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/fievel-el-misterio-del-monstruo-nocturno-1583271305.jpg"group-title="",Fievel, El Misterio del Monstruo Nocturno (1999) 360p latino
+https://cache017.peliscdn.online/newhls/84f1651528c19b14218a58575f522663/EP.0.1.v0.1710303154.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/un-cuento-americano.jpg"group-title="",Un Cuento Americano (1986) 720p latino
+https://cache004.peliscdn.online/newhls/86bcebf37aa26356dac65a52929ff655/EP.0.1.v0.1709369186.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/un-cuento-americano-2-fievel-va-al-oeste-1583273104.jpg"group-title="",Un Cuento Americano 2: Fievel va al Oeste (1991) 360p latino
+https://cache020.peliscdn.online/newhls/ebdee6b52ceec14fface7978149b67ac/EP.0.1.v0.1709750494.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cuento-americano-3-el-tesoro-de-la-isla-de-1583271904.jpg"group-title="",Cuento Americano 3: El Tesoro de la Isla de Manhattan
+https://pc-42.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/11e7c8f908c9a26e26f68a29eed4e0c5/EP.0.1.v0.1676979884.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cuento-americano-4-el-misterio-del-monstruo-de-la-1583272805.jpg"group-title="",Un Cuento Americano 4: El Misterio del Monstruo de la Noche
+https://pc-43.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/a3e20ee98c6e44fb1a2be471d033fda8/EP.0.1.v0.1676960159.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/paw-patrol-mighty-pups-2-1575216963.jpg"group-title="",Paw patrol:Mighty pups (2019) 360p latino
+https://cache015.peliscdn.online/newhls/61868b3b4cd31a0a65e8bfe765c485bc/EP.0.1.v0.1708871203.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/paw-patrol-the-movie-2-1629602166.jpg"group-title="",Paw patrol:La película (2021) 720p latino
+https://cache013.peliscdn.online/newhls/f88786a9d2b39411808e791ecf087a2c/EP.0.2.v2.1708621363.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/paw-patrol-la-super-pelicula-1696688868.png"group-title="",PAW Patrol: La súper película (2023) 720p latino
+https://cache014.peliscdn.online/newhls/86cd445872b6890c42baf303ec23a7fb/EP.0.2.v0.1708702304.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/bob-esponja-un-heroe-fuera-del-agua.jpg"group-title="",Bob Esponja: Un héroe fuera del agua (2015) 720p latino
+https://cache018.peliscdn.online/newhls/5500784b716df9ad3267e33b6583a0bf/EP.0.1.v0.1709050678.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/bob-esponja-la-pelicula.jpg"group-title="",Bob Esponja: La Película (2004) 720p latino
+https://cache006.peliscdn.online/newhls/f10e15273131793a1b8fe8713af9003b/EP.0.1.v0.1709297169.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/bob-esponja-historia-marina-1579647304.jpg"group-title="",Bob Esponja: Historia Marina
+https://pc-29.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/0207637806362c479dab187816ab5c45/EP.0.1.v0.1676821707.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/bob-esponja-un-heroe-al-rescate-1604598604.jpg"group-title="",Bob Esponja: Al Rescate (2020) 720p latino
+https://cache007.peliscdn.online/newhls/7e1c9c3e3f06af3a3d890e3dec215bda/EP.0.1.v1.1708841802.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/bob-esponja-presenta-la-marea-desconocida-1693841699.png"group-title="",Bob Esponja Presenta: La Marea Desconocida (2023) 720p latino
+https://cache019.peliscdn.online/newhls/59edb86502708ce3824bf816940b1245/EP.0.2.v2.1708867901.720.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/cm0x47F6HsLYDuVzhna81ZGtASU.jpg"group-title="",GUARDIANES DEL MUSEO (2023) 720p latino
+https://cache020.peliscdn.online/newhls/14d9f9080710ee8e82a406088f97da73/EP.0.2.v0.1709242106.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/scooby-doo-and-krypto-too-1695875550.png"group-title="",¡Scooby Doo! ¡Y Krypto al rescate! (2023) 720p latino
+https://cache010.peliscdn.online/newhls/0b5373c7d7aa507ee8290b81de2aea61/EP.0.2.v1.1709276120.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-cita-de-carl-1694698519.png"group-title="",La cita de Carl
+https://pc-11.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/5414c2c76239daeb1d58080e4f802cfb/EP.0.2.v0.1694700429.720.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/AaGG41JN1mfQXUXFPxDINFDIJQ9.jpg",Animal Crossing La pelicula
+https://archive.org/download/videotime-cine-latino/Animal%20Crossing%20La%20pelicula.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/2902985.jpg",Un jefe en pañales (2017) 720p latino
+https://cache004.peliscdn.online/newhls/8e4f4a6ccfeaabc4f2f553494148827b/EP.0.1.v0.1708776750.720.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/image_20231006/image.jpg"group-title="",Un jefe en pañales 2 - Negocios de familia
+http://archive.org/download/tt6932874_202107/tt6932874.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/bob-esponja-presenta-la-marea-desconocida-1693841699.png"group-title="",Bob Esponja Presenta: La Marea Desconocida
+https://pc-25.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/59edb86502708ce3824bf816940b1245/EP.0.2.v2.1693906328.720.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-AEjJ_oOkoMw/UOQh80_qyiI/AAAAAAAAHw0/eAn0Ma7gx7A/s1600/Barbie_La_Princesa_y_La_Estrella_Pop.jpg"group-title="",Barbie: La princesa y la estrella Pop (2012)
+https://ia600509.us.archive.org/8/items/barbie-la-princesa-y-la-estrella-de-pop-2012-cinelatino-1/%EF%BC%82Barbie%20La%20Princesa%20Y%20La%20Estrella%20De%20Pop%EF%BC%82%20%282012%29%20-%20Cinelatino%20%281%29.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pequenos-guerreros-1586370904.jpg" group-title="",Pequenos guerreros (1998) 360p latino
+https://cache011.peliscdn.online/newhls/682b76f9a1230d36c9130010792467d3/EP.0.1.v0.1708914256.360.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ueO9MYIOHO7M1PiMUeX74uf8fB9.jpg"group-title="",Tortugas Ninja: Caos mutante
+https://archive.org/download/teenage.-mutant.-ninja.-turtles.-mutant.-mayhem.-2023.1080p.-amzn.-web-dl.-dd-2.0.-h.-264-lmhd/Teenage.Mutant.Ninja.Turtles.Mutant.Mayhem.2023.1080p.AMZN.WEB-DL.DD2.0.H.264-LMHD.mkv
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/tortugas-ninja-caos-mutante-1691747366.png"group-title="",Tortugas Ninja: Caos mutante
+https://pc-22.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/4f5a65cb683a0468a25bdd7b1c0af3cc/EP.0.2.v1.1691940187.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/miraculous-las-aventuras-de-ladybug-la-pelicula-1690627639.png" group-title="",Miraculous: Las aventuras de Ladybug - La Película (2023) 720p latino
+https://cache008.peliscdn.online/newhls/9039ba12d7af02134c8127e1e5dec155/EP.0.2.v2.1708658560.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/atlantis-el-imperio-perdido.jpg" group-title="",Atlantis: El Imperio Perdido (2001) 720p latino
+https://cache011.peliscdn.online/newhls/733db9cc592543f5c805c3dbbe19bec5/EP.0.1.v0.1708825546.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/las-locuras-de-kronk.jpg" group-title="",Las locuras de kronk (2005) 360p latino
+https://cache001.peliscdn.online/newhls/d281482b1a6e3d1e3e40cac9b1ede918/EP.0.1.v0.1708895487.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/lego-disney-princess-the-castle-quest-1692434609.png"group-title="",LEGO Disney Princess: The Castle Quest (2023) 720p latino
+https://cache007.peliscdn.online/newhls/169f373b3a010565ba4b1ad1d6cdd604/EP.0.2.v1.1709535178.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/las-locuras-del-emperador.jpg" group-title="", Las Locuras Del Emperador (2000) 720p latino
+https://cache010.peliscdn.online/newhls/309d0ee16f5275f9d83aa969938f403b/EP.0.1.v0.1708748447.720.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/lSNqVycC40mujo0tiRZvp6Ef5qQ.jpg" group-title="", La Princesa y el Sapo (2012) 720p latino
+https://cache008.peliscdn.online/newhls/2f6f63653e33fa67fa84524bc52f5eb4/EP.0.1.v0.1708697037.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/ole-el-viaje-de-ferdinand.jpg" group-title="", Olé: El Viaje de Ferdinand (2017) 720p latino
+https://cache015.peliscdn.online/newhls/9ff17b9a1a734b1cd7840954046321bc/EP.0.1.v0.1708868178.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/moana-un-mar-de-aventuras.jpg" group-title="",Moana:Un Mar de Aventuras (2016) 720p latino
+https://cache008.peliscdn.online/newhls/b67f46f5866da5c6284c4ca85be4b395/EP.0.1.v1.1708687728.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-leyenda-de-los-chaneques-1689736972.png" group-title="", La Leyenda de los Chaneques
+https://pc-09.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ca8a4e9b0ef547dbdd0f8881785d8da2/EP.0.2.v0.1689741429.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/ruby-gillman-teenage-kraken-1689741549.png" group-title="", Krakens y sirenas: Conoce a los Gillman
+https://pc-21.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c110e8693807d1fb90ea79924e6801c8/EP.0.2.v1.1689748440.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/leroy-y-stitch-1582994104.jpg" group-title="", Leroy y Stitch(2006) 360p latino
+https://cache010.peliscdn.online/newhls/0eb61c9ca0c626715b29f9f94b757282/EP.0.1.v0.1708947968.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/guillermo-del-toros-pinocchio-2-1670688603.jpg" group-title="", Pinocho de Guillermo del Toro(2022)
+https://pc-02.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/690d1bc4c4939f5361467b3d2c4bdd03/EP.0.1.v5.1675940901.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/elemental-2-1687423806.jpg" group-title="",Elemental
+https://pc-26.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/db934cb0776724aa7e120f5f9c89b36f/EP.0.2.v2.1691819339.720.m3u8
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/84/28/96/19734482.jpg" group-title="",Rock a Doodle
+https://seed-us1.gloria.tv/4xeC19PyKNuaBXe3vxFhAQsmN/ya4mrk1eotv8od9hmi5z31lg8r999v2mtt03ygw.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/zootopia-el-zoo-del-trabajando.jpg" group-title="",Zootopia
+http://www.konectar1.com/yesi/Zootopia_2016.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/bailarina.jpg" group-title="",Bailarina (2026) 720p latino
+https://cache018.peliscdn.online/newhls/fc684a7c7344febefa422f9bdf31f468/EP.0.1.v1.1708926206.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/intensa-mente.jpg" group-title="", Intensa-Mente (2015) 720p latino
+https://cache001.peliscdn.online/newhls/9752adcd5be2193b0d0599f96cb839da/EP.0.1.v1.1708726230.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/raya-and-the-last-dragon-2-1615088522.jpg" group-title="",Raya y el último dragón (2021) 720p latino
+https://cache019.peliscdn.online/newhls/381a062dac02671836510c22ee91ae96/EP.0.2.v0.1708596477.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/peter-pan-and-wendy-2-1682818802.jpg" group-title="",Peter Pan & Wendy
 https://pc-26.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/f513951b9214b70f42ac7feead1e68fe/EP.0.2.v0.1682824674.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-little-mermaid-2-2-1685139725.jpg" group-title="",La sirenita (2023)
-https://pc-21.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/98c1affac61b3b573391290126940b50/EP.0.2.v0.1685143493.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-little-mermaid-2-2-1685139725.jpg" group-title="",La sirenita (2023) 720p latino
+https://cache015.peliscdn.online/newhls/98c1affac61b3b573391290126940b50/EP.0.2.v5.1708620557.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/unidos-1583928603.jpg" group-title="",Unidos (Onward) 
 https://server39.pelispluscdn.info/newhls/9f339f0c550cd8c47d3a2908288ff017/EP.0.1.v2.1676879968.720.m3u8 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/grandes-heroes.jpg" group-title="",Grandes Héroes 
-https://server39.pelispluscdn.info/newhls/07f7bc807f14b32a7b060b86fe971c44/EP.0.1.v1.1677375866.720.m3u8 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/my-little-pony-la-pelicula.jpg" group-title="",My Little Pony: La Película 
-https://server14.pelispluscdn.info/newhls/7eefa9a2174a5a167da940b29cd79b38/EP.0.1.v0.1677551336.720.m3u8 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/grandes-heroes.jpg" group-title="",Grandes Héroes (2014) 720p latino
+https://cache018.peliscdn.online/newhls/07f7bc807f14b32a7b060b86fe971c44/EP.0.1.v1.1708765099.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/my-little-pony-la-pelicula.jpg" group-title="",My Little Pony: La Película (2017) 720p latino
+https://cache016.peliscdn.online/newhls/7eefa9a2174a5a167da940b29cd79b38/EP.0.1.v0.1709027107.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/buscando-a-dory.jpg" group-title="",Buscando a Dory 
 https://pc-27.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/bcef4b5651c1c02098b7d57713187861/EP.0.2.v0.1677426345.m3u8 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/buscando-a-nemo.jpg" group-title="",Buscando a Nemo 
-https://pc-26.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/d1944b6e28e53565171d030dc7944b73/EP.0.1.v0.1678047686.m3u8 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/buscando-a-nemo.jpg" group-title="",Buscando a Nemo (2003) 720p latino
+https://cache004.peliscdn.online/newhls/d1944b6e28e53565171d030dc7944b73/EP.0.1.v0.1708746505.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cars.jpg" group-title="",Cars 
 https://pc-45.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/24b477933deeb8a5550e31f835aa06b1/EP.0.1.v4.1678456619.360.m3u8 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cars-2-una-nueva-aventura-sobre-ruedas.jpg" group-title="",Cars 2: Una Nueva Aventura Sobre Ruedas 
-https://pc-37.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/f3054b6761e2b0d9d3b40be3cc295948/EP.0.1.v0.1677265469.720.m3u8 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cars-3.jpg" group-title="",Cars 3 
-https://pc-47.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/14b55aab58e624f13172477a87fcaf95/EP.0.2.v2.1676673240.720.m3u8 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/enredados.jpg" group-title="",Enredados 
-https://pc-05.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/27c95580ad71a5103055a6b857c8f7fd/EP.0.1.v0.1677768654.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/frozen-una-aventura-congelada.jpg" group-title="",Frozen: Una Aventura Congelada 
-https://pc-24.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/fee40eca3564b92730b7653c5506811d/EP.0.2.v1.1679374999.720.m3u8 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cars-2-una-nueva-aventura-sobre-ruedas.jpg" group-title="",Cars 2: Una Nueva Aventura Sobre Ruedas (2011) 720p latino 
+https://cache005.peliscdn.online/newhls/f3054b6761e2b0d9d3b40be3cc295948/EP.0.1.v0.1708738340.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cars-3.jpg" group-title="",Cars 3 (2017) 360p latino
+https://cache008.peliscdn.online/newhls/14b55aab58e624f13172477a87fcaf95/EP.0.1.v2.1708715432.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/enredados.jpg" group-title="",Enredados (2010) 720p latino
+https://cache006.peliscdn.online/newhls/27c95580ad71a5103055a6b857c8f7fd/EP.0.1.v0.1708693409.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/frozen-una-aventura-congelada.jpg" group-title="",Frozen: Una Aventura Congelada (2013) 720p latino
+https://cache018.peliscdn.online/newhls/fee40eca3564b92730b7653c5506811d/EP.0.1.v1.1708718884.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/frozen-2-2-1574439004.jpg" group-title="",Frozen 2 
 http://ia601506.us.archive.org/27/items/0_20200218_20200218/301.mp4 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/space-jam.jpg" group-title="",Space Jam: El Juego del Siglo
-https://pc-11.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/7942e6db1b14e23e65a5bb14b4e6a4de/EP.0.1.v0.1677253430.m3u8 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/un-gallo-con-muchos-huevos-1578414304.jpg" group-title="",Un Gallo con Muchos Huevos 
-https://pc-30.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/752d3456b186395b1bacaf9d6423d77b/EP.0.1.v0.1677076577.360.m3u8 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/space-jam.jpg" group-title="",Space Jam: El Juego del Siglo (1996) 720p latino
+https://cache007.peliscdn.online/newhls/6d28493feedcb3c4c2a7ed9dcf90320d/EP.0.2.v0.1709907385.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/un-gallo-con-muchos-huevos-1578414304.jpg" group-title="",Un Gallo con Muchos Huevos (2015) 360p latino 
+https://cache014.peliscdn.online/newhls/752d3456b186395b1bacaf9d6423d77b/EP.0.1.v0.1708982791.360.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-rey-leon-2019.jpg" group-title="",El Rey León (2019) 
 https://pc-28.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c9b951235b4152aad981bd643c51a20a/EP.0.2.v5.1676488399.720.m3u8 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/coco.jpg" group-title="",Coco
-https://pc-15.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/6dc7ac72797cdb6504ef330e6dbb54b3/EP.0.1.v0.1677392443.720.m3u8 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/coco.jpg" group-title="",Coco (2017) 720p latino
+https://cache015.peliscdn.online/newhls/6dc7ac72797cdb6504ef330e6dbb54b3/EP.0.1.v0.1708710140.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/turning-red-2-1668774852.jpg" group-title="",Turning Red 
 https://pc-38.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ad74c354ce4cb33c0aec4e455f73a566/EP.0.2.v0.1675994257.720.m3u8 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/my-little-pony-equestria-girls-la-leyenda-de.jpg" group-title="",My Little Pony Equestria Girls: La Leyenda de Everfree 
-https://pc-02.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/68a483d07ee7fcaea3eac29902597fea/EP.0.1.v0.1677380552.720.m3u8 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mi-villano-favorito.jpg" group-title="",Mi villano favorito 
-https://pc-11.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/81a953a848cebde16dd69e46152a12bb/EP.0.1.v0.1677297750.720.m3u8 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mi-villano-favorito-2.jpg" group-title="",Mi villano favorito 2 
-https://pc-36.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/637aff38f980b89a1f87a72479f660c7/EP.0.1.v0.1677158404.720.m3u8 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mi-villano-favorito-3.jpg" group-title="",Mi villano favorito 3 
-https://pc-25.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/d657a6c908b627d2366b6e0921209ffc/EP.0.2.v1.1676522202.360.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-minions.jpg" group-title="",Los Minions 
-https://pc-16.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/8b3580547ba919687962ea3b1e411305/EP.0.2.v1.1677329965.720.m3u8 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/my-little-pony-equestria-girls-la-leyenda-de.jpg" group-title="",My Little Pony Equestria Girls: La Leyenda de Everfree (2016) 720p latino
+https://cache005.peliscdn.online/newhls/68a483d07ee7fcaea3eac29902597fea/EP.0.1.v0.1709429962.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mi-villano-favorito.jpg" group-title="",Mi villano favorito (2010) 720p latino
+https://cache005.peliscdn.online/newhls/81a953a848cebde16dd69e46152a12bb/EP.0.1.v0.1708825688.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mi-villano-favorito-2.jpg" group-title="",Mi villano favorito 2 (2013) 720p latino
+https://cache005.peliscdn.online/newhls/637aff38f980b89a1f87a72479f660c7/EP.0.1.v0.1708813002.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mi-villano-favorito-3.jpg" group-title="",Mi villano favorito 3 (2017) 720p latino
+https://cache016.peliscdn.online/newhls/d657a6c908b627d2366b6e0921209ffc/EP.0.1.v1.1708712729.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-minions.jpg" group-title="",Los Minions (2015) 360p latino
+https://cache011.peliscdn.online/newhls/8b3580547ba919687962ea3b1e411305/EP.0.1.v1.1708787430.360.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/minions-el-origen-de-gru.png" group-title="",Los Minions 2:El origen de Gru 
 https://pc-45.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/afbd74f0e41d7e60b045056844361672/EP.0.2.v0.1676054432.360.m3u8 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-minions-y-sus-amigos-volumen-1.png" group-title="",Los Minions y sus amigos Volumen 1 
 https://pc-06.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c4df436a2a30cfd226f0a73e5f2428e8/EP.0.2.v1.1676027158.720.m3u8 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/minions-y-sus-amigos-volumen-2.png" group-title="",Los Minions y sus amigos Volumen 2 
 https://pc-28.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/aa5ff4214da0ebcaf84ed398369b41ec/EP.0.2.v1.1675994302.720.m3u8 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/luca-2-1624062482.jpg" group-title="",Luca 
-https://server18.pelispluscdn.info/newhls/1590d19f914c2ecf9b13865e32780294/EP.0.2.v0.1676126634.720.m3u8 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/luca-2-1624062482.jpg" group-title="",Luca (2021) 720p latino
+https://cache009.peliscdn.online/newhls/1590d19f914c2ecf9b13865e32780294/EP.0.2.v0.1708593252.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/barbie-skipper-and-the-big-babysitting-adventure-2-1678552325.jpg" group-title="",Barbie: Skipper y su gran aventura como canguro 
 https://server22.pelispluscdn.info/newhls/1a3e2b5455a419d23ae1aff90051f201/EP.0.2.v0.1678555630.720.m3u8 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/puss-in-boots-the-last-wish-2-1670905204.jpg" group-title="",El gato con botas: El último deseo 
-https://server14.pelispluscdn.info/newhls/903f2e45085950d6d0f6d2b5ec8d0109/EP.0.2.v12.1679241577.720.m3u8 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/night-at-the-museum-kahmunrah-rises-again-2-1670689202.jpg" group-title="",Noche en el museo: El retorno de Kahmunrah 
-https://server41.pelispluscdn.info/newhls/7d3531861370fb9ab70c2d75bbf9df89/EP.0.2.v0.1675949103.720.m3u8 
+https://pc-14.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/903f2e45085950d6d0f6d2b5ec8d0109/EP.0.2.v12.1679241577.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/night-at-the-museum-kahmunrah-rises-again-2-1670689202.jpg" group-title="",Noche en el museo: El retorno de Kahmunrah (2014) 720p latino
+https://cache010.peliscdn.online/newhls/09e9cd9194378bd3ef542f67f7599cb8/EP.0.1.v0.1709274731.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/encanto-2-1670326478.jpg" group-title="",Encanto 
 https://server06.pelispluscdn.info/newhls/56410947b4bd0d03a9d33fabff015f7c/EP.0.2.v1.1675951886.720.m3u8 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/phineas-and-ferb-the-movie-candace-against-the-universe-2-1670325608.jpg" group-title="",Phineas y Ferb, la película: Candace contra el Universo 
 https://server18.pelispluscdn.info/newhls/57dfa6ff80f15976d04a4378edc81c93/EP.0.2.v0.1675939343.720.m3u8 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mummies-2-1678255203.jpg" group-title="",Momia
-https://server35.pelispluscdn.info/newhls/6c6c51206dc6e2b0f7292b7670136008/EP.0.1.v1.1678340080.360.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/chip-n-dale-rescue-rangers-2-1669166406.jpg" group-title="",Chip y Chop: Los guardianes rescatadores https://pc-40.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/1f17a39ca71d0333f20b396aa2cddedd/EP.0.1.v1.1676056912.720.m3u8 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/monsters-university.jpg" group-title="",Monsters University https://server40.pelispluscdn.info/newhls/1e852f4b1b9570d01615351060dd807b/EP.0.1.v1.1677212589.720.m3u8 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-croods-2-una-nueva-era-1608300603.jpg" group-title="",Los Croods 2: Una Nueva Era https://server35.pelispluscdn.info/newhls/46b677f27c1fb92fc059e197919fd417/EP.0.1.v0.1676625106.720.m3u8 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/strange-world-2-1671810135.jpg" group-title="",Mundo extraño https://server03.pelispluscdn.info/newhls/5858ec26bea39e511c081100712032a3/EP.0.2.v0.1675954377.720.m3u8 
+https://pc-10.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c5ac860a05f916c0f2b3b198909dcc80/EP.0.2.v0.1684125647.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/chip-n-dale-rescue-rangers-2-1669166406.jpg" group-title="",Chip y Chop: Los guardianes rescatadores 
+https://pc-40.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/1f17a39ca71d0333f20b396aa2cddedd/EP.0.1.v1.1676056912.720.m3u8 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/monsters-university.jpg" group-title="",Monsters University
+https://server40.pelispluscdn.info/newhls/1e852f4b1b9570d01615351060dd807b/EP.0.1.v1.1677212589.720.m3u8 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-croods-2-una-nueva-era-1608300603.jpg" group-title="",Los Croods 2: Una Nueva Era (2020) 720p latino
+https://cache013.peliscdn.online/newhls/46b677f27c1fb92fc059e197919fd417/EP.0.2.v0.1708614602.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/strange-world-2-1671810135.jpg" group-title="",Mundo extraño 
+https://server03.pelispluscdn.info/newhls/5858ec26bea39e511c081100712032a3/EP.0.2.v0.1675954377.720.m3u8 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mighty-morphin-power-rangers-once-always-2-1681929602.jpg" group-title="",Mighty Morphin Power Rangers: Ayer, hoy y siempre 
 https://server16.pelispluscdn.info/newhls/f219c71113b4509652a95a1a75007926/EP.0.2.v0.1681932927.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/super-mario-bros-la-pelicula-2-1680808202.jpg" group-title="",Super Mario Bros La Película
-https://server14.pelispluscdn.info/newhls/b9f3f5e072aa9be99699e94bdf0924d6/EP.0.2.v0.1681634275.360.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pokemon-2-el-poder-de-uno-1601415008.jpg" group-title="",Pokémon 2: El Poder de Uno 
-https://pc-14.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/2f98aa03ae17226e739b6dff83cdeb08/EP.0.1.v0.1677145749.360.m3u8 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/super-mario-bros-la-pelicula-2-1680808202.jpg" group-title="",Super Mario Bros La Película (2023) 720p latino
+https://cache008.peliscdn.online/newhls/b9f3f5e072aa9be99699e94bdf0924d6/EP.0.2.v2.1708592190.720.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/2ht32v5Y6YInjdPoj7cDbQjrLP2.jpg"group-title="",El Pájaro Loco se va de campamento (2024) 720p latino
+https://dl.dropboxusercontent.com/scl/fi/ip7x6k8z776yiah0n1rsr/4LR3EL-P5A4JA5R1O-L5O5C675O-S4-V41A-D52E-C1A54MP5AM5EN53TO.mp4?rlkey=p89vpo8yz07cfm0pwqqrxm82k&st=181wjcsw
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/6QR2FOCQr41gSduN70WulRIhJb7.jpg" group-title="",Garfield:Fuera de casa (CAM) (2024) 720p latino
+https://dl.dropboxusercontent.com/scl/fi/pvfpw2l62z55fo0ufgq6g/G4R1F41I2EL1D.mp4?rlkey=0tt4fzj7beg5a6nl8beaj4ykl&st=q3a33fqi
+#Pokemon
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pokemon-la-pelicula-mewtwo-vs-mew.jpg" group-title="",Pokémon 1
+https://cache009.peliscdn.online/newhls/b42bffee51a695c128b7432bf684839c/EP.0.1.v1.1709053006.1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pokemon-2-el-poder-de-uno-1601415008.jpg" group-title="",Pokémon 2
+https://cache013.peliscdn.online/newhls/2f98aa03ae17226e739b6dff83cdeb08/EP.0.1.v0.1708953189.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pokemon-3-el-hechizo-de-los-unown-1601415610.jpg" group-title="",Pokémon 3
+https://cache014.peliscdn.online/newhls/a01033a04261b088c06a3ea11f7e2484/EP.0.1.v0.1708986760.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pokemon-4ever-1601415610.jpg" group-title="", Pokemon 4 
+https://cache015.peliscdn.online/newhls/7900ca660654e9ab8c44018b74dd3669/EP.0.1.v0.1709444057.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pokemon-5-heroes-pokemon-latios-y-latias-1601415610.jpg" group-title="",Pokémon 5
+https://cache016.peliscdn.online/newhls/97304a87621db089faf5999df42c5496/EP.0.1.v0.1709333216.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pokemon-6-jirachi-y-los-deseos-1601416210.jpg" group-title="", Pokemon 6
+https://cache017.peliscdn.online/newhls/7ab69dfab798166a4c4b13b567930225/EP.0.1.v0.1709680153.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pokemon-7-destino-deoxys-1601416211.jpg" group-title="",Pokémon 7
+https://cache018.peliscdn.online/newhls/6fe9211107e0a02b00ff93098799444e/EP.0.1.v0.1709489838.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pokemon-8-lucario-y-el-misterio-de-mew-1601416812.jpg" group-title="", Pokemon 8
+https://cache002.peliscdn.online/newhls/d93b13c076c6835d47565085455a1556/EP.0.1.v0.1708943548.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pokemon-9-pokemon-ranger-y-el-templo-del-mar-1601417109.jpg" group-title="",Pokémon 9
+https://cache003.peliscdn.online/newhls/a074aee6434bbf29729e3b8938eaf60e/EP.0.1.v0.1709629562.360.m3u8
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pokemon-10-el-desafio-de-darkrai-1601417109.jpg" group-title="", Pokemon 10 
-https://pc-25.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/cbc1ed7787e056b089d4bdabdfc43f9c/EP.0.1.v0.1676720346.360.m3u8
+https://cache004.peliscdn.online/newhls/cbc1ed7787e056b089d4bdabdfc43f9c/EP.0.1.v0.1708993160.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pokemon-giratina-y-el-defensor-de-los-cielos-1601418010.jpg" group-title="", Pokemon 11
+https://cache005.peliscdn.online/newhls/99e764716dd013626dc4d9fb0c140256/EP.0.1.v0.1709531678.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pokemon-12-arceus-y-la-joya-de-la-vida-1601418010.jpg" group-title="",Pokémon 12
+https://cache006.peliscdn.online/newhls/e2a79b234ea2003262eac77e7a7d11bb/EP.0.1.v0.1708987104.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pokemon-13-el-fantasma-gobernante-zoroark-1601418609.jpg" group-title="", Pokemon 13
+https://cache007.peliscdn.online/newhls/a696413c85113383cca2d42e8434373c/EP.0.1.v0.1709441060.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-pelicula-pokemon-blanco-victini-y-zekrom-1601418610.jpg" group-title="",Pokémon 14
+https://cache008.peliscdn.online/newhls/d7f01ff8c2942af7daa1558573cfa1ce/EP.0.1.v0.1709349687.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-pelicula-pokemon-negro-victini-y-reshiram-1574176807.jpg" group-title="", Pokemon 15
+https://cache002.peliscdn.online/newhls/61855645d14aafe9fc3ee26ecfc93e53/EP.0.1.v0.1709443841.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-pelicula-pokemon-kyurem-vs-el-espadachin-1574173506.jpg" group-title="",Pokémon16
+https://cache016.peliscdn.online/newhls/5ae87b24c8a83a318e3ea02baa887678/EP.0.1.v0.1709396511.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pokemon-genesect-y-el-despertar-de-una-leyenda-1601420410.jpg" group-title="", Pokemon 17
+https://cache011.peliscdn.online/newhls/4d94cb32103bddb6d37b4889ef8050fb/EP.0.1.v0.1709479555.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pokemon-diancie-y-la-crisalida-de-la-destruccion-1601420410.jpg" group-title="",Pokémon 18
+https://cache010.peliscdn.online/newhls/38fc0f5c36ed093530876527ba67fdbb/EP.0.1.v0.1709383829.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-pelicula-pokemon-hoopa-y-un-duelo-historico-1601420410.jpg" group-title="", Pokemon 19
+https://cache009.peliscdn.online/newhls/68b60c3802636c6223d4124e0faa1b7d/EP.0.1.v0.1708954218.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pokemon-volcanion-y-la-maravilla-mecanica.jpg" group-title="",Pokémon 20 
+https://cache019.peliscdn.online/newhls/53e63443585b33688b4485f03527f84d/EP.0.1.v0.1709359722.1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pokemon-yo-te-elijo.jpg" group-title="", Pokemon 21
+https://pc-35.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/37b9f0816c35ab0812e2e52b5e4e8087/EP.0.1.v0.1677278278.720.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pokemon-el-poder-de-todos.jpg" group-title="",Pokémon 22
+https://cache003.peliscdn.online/newhls/90d4526b91ecc4e5e48c92862c791464/EP.0.1.v0.1709538151.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/gekijouban-poketto-monsuta-koko-2-1633769165.jpg" group-title="",Pokémon 23
+https://cache007.peliscdn.online/newhls/e4d33fc2f3de7127254505e1ad96f89d/EP.0.2.v0.1708720489.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pokemon-mewtwo-contraataca-evolucion-1585763704.jpg" group-title="",Pokémon 24
+https://cache010.peliscdn.online/newhls/197b73eed25184205b0bf10d4822bdd4/EP.0.1.v0.1709514131.360.m3u8

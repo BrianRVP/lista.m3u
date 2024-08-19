@@ -1,19 +1,63 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo=""group-title="infantiles",hv
-http://s32.bitdl.ir/Series/Stranger.Things/S04/Stranger.Things.S04E09.720p.HEVC.x265-MeGusta.Bia2HD.mkv
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210820025220&path-prefix=es"group-title="infantiles",cartoon network
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-360p.m3u8
- 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210820025220&path-prefix=es" group-title="infantiles",cartoon network (opc2)
-https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210820025220&path-prefix=es" group-title="",IPTV BFlix PREMIUM 
+https://ultrapremium.cloud:8080/get.php?username=96109895&password=2473ph&type=m3u_plus
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lnb9HZQ/40919552-bot-n-redondo-con-la-bandera-y-el-texto-calidad-premium.jpg"group-title="", PREMIUM
+https://bit.ly/4dqhb78
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NVLN8hp/images.jpg"group-title="",BFlix TV
+https://raw.githubusercontent.com/linkarg13/DEPORTE/main/Bflix%20tv
+
+#EXTINF:-1 tvg-logo="https://ia600406.us.archive.org/1/items/images_20240621/images.jpeg"group-title="",COPA EURO Y AMERICA
+https://raw.githubusercontent.com/linkarg13/DEPORTE/main/BICS
+
+#EXTINF:-1 tvg-logo="https://ia600406.us.archive.org/1/items/images_20240621/images.jpeg"group-title="",DEPORTE
+https://raw.githubusercontent.com/linkarg13/DEPORTE/main/FUTBOL
+
+#EXTINF:-1 tvg-logo="https://ia600406.us.archive.org/1/items/images_20240621/images.jpeg"group-title="",FUTBOL VIVO
+https://raw.githubusercontent.com/linkarg13/DEPORTE/main/PREMIUM
+
+#EXTINF:-1 tvg-logo=""group-title="",listas IptV
+https://raw.githubusercontent.com/linkarg13/DEPORTE/main/Listas
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDs30bS/IMG-20240703-030446.jpg"group-title="pruebas",SR.REGIO
+https://unlimplay.com/embed/?VUtDMkJ3S1N3OFQ3K00xdE5rYTBvZVpvM2NhQzA5UWdlQWVGNWRQdi9DUDNUS0xjZFRQMUUvdi9XU3pqclAyN1UwTWhtbXRJb1FYZ2htT29LTDBuZjlVT1pXbjd5SmU2Um1Dc2JHUVFPNnpwTHVsallWSmNXZU9SZzlrWklxMXBTTUdybGRXcVJsNEszOURhWmtWamN5Y3FaY1pNZXd4dGovRFRqMlo3NmRTM2JsUm53ZGh2OVhvU1RiaWdkWVAzRmQ1VzBkdjBRTUErZjBKc3BVbmJ6Y0ZPdzdkTmt3TFUvTnluNTBETUQzd2RvYzAwQ2p4K1MvcWhNSGlRZUVlUlRBU2RZVXNFZ1E4eW1qWVJmVVB2OXdNYmQ4cnl3U3hhb2s0WVRMT01zOFU9
+
+#EXTINF:-1 tvg-logo=""group-title="pruebas",serve1
+ https://dood.li/d/xqbdfre8eeah
+
+#EXTINF:-1 tvg-logo=""group-title="pruebas",prueb2
+https://archive.org/download/cuentos-de-la-cripta-s-01-e-01-el-hombre-que-era-la-muerte-audio-latino/Cuentos%20de%20la%20cripta%20%23%20S01E01%20%23%20El%20hombre%20que%20era%20la%20muerte%20%28AUDIO%20LATINO%29.mp4
+
+
+
+
+--------------
+
+#EXTINF:-1 tvg-logo=""group-title="Plutotv + canales",Canales
+https://telechancho.github.io/telechancho-iptv/telechancho-infinity.m3u
+#EXTINF:-1 tvg-logo=""group-title="pruebas",c
+https://ssmalxtwk.sw-cdnstreamwish.com/hls2/01/04176/2fa1dzq1m2u5_n/master.m3u8?t=RPmItaNJxE1NBxN5sHP37b-i-LmCbWyRYuf1bWT6P-A&s=1719148146&e=129600&f=20882136&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=271991
+#EXTINF:-1 tvg-logo=""group-title="pruebas",c1
+https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/INFANTIL.m3u
+#EXTINF:-1 tvg-logo=""group-title="pruebas",c2
+https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Djjdk
+#EXTINF:-1 tvg-logo=""group-title="Vip", Deportes
+https://raw.githubusercontent.com/Zickari0619/DEPORTES/main/DEPORTESCHILE.m3u
+#EXTINF:-1 tvg-logo=""group-title="Vip", Canales 24/7
+https://raw.githubusercontent.com/Zickari0619/24-7/main/247.m3u
+
+#EXTINF:-1 tvg-logo="https://cdn.conmebol.com/wp-content/uploads/2021/11/libertadores-generico_1-1024x751.jpg"group-title="Deportes", Libertadores 
+http://ultrapremium.cloud:8080/get.php?username=96109895&password=2473ph&type=m3u_plus
 #EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv/1604400204_458039_1604400248_noticia_normal_recorte2.jpg" group-title="",PLUTO TV
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Pluto%20tv
 
 
-#EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv/1604400204_458039_1604400248_noticia_normal_recorte2.jpg" group-title="IPTV ACTUALIZABLES", TELECLUB
-http://tv.teleclub.xyz/lista/club.m3u
-
-#EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv/1604400204_458039_1604400248_noticia_normal_recorte2.jpg" group-title="IPTV ACTUALIZABLES",IPTV ADULT
+#EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv/1604400204_458039_1604400248_noticia_normal_recorte2.jpg" group-title="", TELECLUB
+http://tv.teleclub.xyz/lista/canales.m3u
+#EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv/1604400204_458039_1604400248_noticia_normal_recorte2.jpg" group-title="", ADULT
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Pelis%20y%20series%20HD%20full%204
+
+#EXTINF:-1 tvg-logo="https://pelotalibre.org/wp-content/uploads/2022/12/DirecTV_Sports.png" group-title="",BOCA JUNIORS 
+https://unlimplay.com/embed/?Tjk0OTE2a0ZwdUZvZk9ZVllKSlMrWmlGRVJLNDROdDIyQnJPK3plYnNqcEl3TWp5TXI3dkF6V3ZSejk5amJIV3gwbi94UHphdUpLS2o4OXNlS0Y1RkdlMlV0b01vc3h5SFVpSUdPNTNQVEZRM2hVQ2UwN3crd1RXanFtdWdiZ3lINFBJMDVjQjE2M09vaERZa1JvNHduSUErcTJqTnN4dzFnaHFwZnZ3ZklKbmtCKzV2UytaZnd4UTlhUXV3cENWWm9KNGdxZk1WRU5nT3lpQlZ5KysvcnN0NkRZWEFuNURiOFczWHJkUmU0RkN2UU51eGVQZnRIeXZTWWk2TDM2YmYwOEk2YVZFdlhGN0dtWDVIYWRuRExVNFlDVzRySGFEanJoSDkyN3FsbmZpZzA4eTJZN3FST0c4OWpzM0NTVkhSVTlxbkNydXpSV2QyL3N5dXRUQWE0Sk5hWHJNSkYvYTNLZGhuYmpVV201OUdxbzBLWitMb2JJMWlITGZNV1hWWFI1d0kyTmkzcXE4VmFBM0JmdDY3Mlk5TWJEUXVpc2FKU3c4S25pRHRzV0ZYazdRL0tkZElnNC9OZ2FEOUhqR0Foc2lGcXgzcXI1UU13Wk5mYlVEM3dNekJwcmxHalFyZFZyMkd6WW9aa0dBakxjUk9KYk9jK1c2YXVmZy9sb2xPM2pUVkRsS3FaU1dvT0pHQnF2dTZiblBIWmpzVit3d3o3QWlGUVdlRGpuYk14WjY2Ym4vRE9XRTlNUitBeHFEdFZTKzZVOFRrV0JPUnJuUTU0alY5YzM1OVFoN1p5U2Qvd2JOcTErVHV5VEgrMDhqUG4rVk1wQkFPRUJ3WWMrRWtrbVg4NE9ZdVF2ZU9zMCttUk9POW1zdGxPdFJCRlNuci9kbE84NjFYWkU9
+
