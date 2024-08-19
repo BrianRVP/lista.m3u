@@ -27,8 +27,12 @@ https://archive.org/download/el-mundo-secreto-de-arriety/El%20mundo%20secreto%20
 https://archive.org/download/peliculas-studio-ghibli-latino/El%20recuerdo%20de%20Marnie.mp4
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Haru_en_el_reino_de_los_gatos-963174131-large.jpg",El regreso del gato
 https://archive.org/download/peliculas-studio-ghibli-latino/El%20regreso%20del%20gato.mp4
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_viaje_de_Chihiro-405533198-large.jpg",El viaje de Chihiro
-https://archive.org/download/peliculas-studio-ghibli-latino/El%20viaje%20de%20Chihiro.mp4
+
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_viaje_de_Chihiro-405533198-large.jpg",El viaje de Chihiro (1080p)
+https://archive.org/download/13.-el-viaje-de-chihiro/El.Viaje.de.Chihiro.1080p.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_viaje_de_Chihiro-405533198-large.jpg",720p
+https://archive.org/download/13.-el-viaje-de-chihiro/13.%20El%20viaje%20de%20chihiro.ia.mp4
+
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Kiki_Entregas_a_domicilio-859043662-large.jpg",Kiki - Entregas a domicilio
 https://archive.org/download/peliculas-studio-ghibli-latino/Kiki%20-%20Entregas%20a%20domicilio.mp4
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/La_colina_de_las_amapolas-708774988-large.jpg",La colina de las Amapolas
@@ -51,8 +55,9 @@ https://archive.org/download/peliculas-studio-ghibli-latino/Ponyo%20en%20el%20ac
 https://archive.org/download/peliculas-studio-ghibli-latino/Porco%20Rosso.mp4
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Puedo_escuchar_el_mar_TV-208114751-large.jpg",Puedo oir el mar
 https://archive.org/download/peliculas-studio-ghibli-latino/Puedo%20oir%20el%20mar.mp4
+
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Recuerdos_del_ayer-615376082-large.jpg",Recuerdos del Ayer
-https://archive.org/download/peliculas-studio-ghibli-latino/Recuerdos%20del%20Ayer.mp4
+https://archive.org/download/6.-recuerdos-del-ayer/6.%20Recuerdos%20del%20ayer.mp4
 
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Se_levanta_el_viento-819618076-large.jpg",Se levanta el viento
 https://archive.org/download/20.-se-levanta-el-viento/20.%20Se%20levanta%20el%20viento.mp4
