@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTGRP:Netflix
+
+
 #EXTINF:-1 tvg-logo="https://latanime.org/thumbs/imagen/la-maestra-de-las-bromas-takagi-san-live-action-1712043712.jpg?v=1.5", takagi san experta en bromas pesadas
 https://github.com/Ezequiel10579/takagi-san-experta-en-bromas-pesadas/releases/download/untagged-669e2180cc22ae117e4d/Estructura1.m3u
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/vHtNgRLWdMk7wIV2WbqkOzU7HHI.jpg"group-title="Netflix",SUPACELL
