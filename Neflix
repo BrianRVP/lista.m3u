@@ -8,6 +8,8 @@ https://github.com/linkarg13/Pelis3/releases/download/Pelis3/ezze.m3u
 https://github.com/linkarg13/SERIES2/releases/download/Sup4c3ll/0000000000000.m3u
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-umbrella-academy.jpg"group-title="Netflix",The Umbrella Academy
 https://raw.githubusercontent.com/BrianRVP/Cuantas/main/The%20Umbrella%20Academy
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/sex-education.jpg" group-title="Netflix",Sex education (2023) latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/sex%20education%20temporada%203%20y%204
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ohGz4HDYGTite1GmRhRuBMVAn03.jpg" group-title="Netflix",Arcane (2021)
 https://archive.org/download/si2_20220111/arck.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDI0ZDVhNTctOWI5Yy00NDE4LWI0MjctYTJiODU4ODA1YTJjXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg" group-title="Netflix",EL JUEGO DEL CALAMAR
