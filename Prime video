@@ -1,8 +1,11 @@
 #EXTM3U
+#EXTGRP:Prime video
+
+
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/oqGj6senMxX7mBhmCMa7nKWDZRW.jpg"group-title="Prime video", Los morales 
 https://raw.githubusercontent.com/HECTHINHOXD/Series-bflix/main/Los%20Morales
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3rs80Tqc1QJbSjBmAQzxUPyu5pY.jpg"group-title="Netflix",BETTY la fea (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3rs80Tqc1QJbSjBmAQzxUPyu5pY.jpg"group-title="",BETTY la fea (2024)
 https://github.com/linkarg13/SERIES2/releases/download/BETTY2/0000000000000p0.m3u
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/dLndpV6k1AcDRmFlLCxuWtt3wja.jpg"group-title="Prime video",fiesta de la salchicha (2024)
 https://github.com/linkarg13/SERIES2/releases/download/Fiestadesalchichas/0000000000000000.m3u
