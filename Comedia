@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTGRP:Comedia
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/rWvr31yNd9VZ1VVk6sd3iWw8mua.jpg",movie 43
 https://github.com/linkarg13/Prueba-y-error/releases/download/Prueba/Movie.43.2013.mp4
