@@ -1,5 +1,8 @@
 #EXTM3U
+#GRP:Romance
 
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/sH5NeRCos8QHw6YbVk0baPBQC5m.jpg",te puede pasar a ti (1994)
+https://github.com/linkarg13/Prueba-y-error/releases/download/Prueba/Ver.Te.puede.pasar.a.ti.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2EH42blLQzgqwDWxn39RXkTgb91.jpg", Romper el circulo
 https://github.com/Imag7/Imagt/releases/download/Cam/cam.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/bZlecCuBVvKuarNGvchBwaOsQ3c.jpg"group-title="", La joven y el mar
