@@ -1,10 +1,30 @@
 #EXTM3U
 #EXTGRP:Animacion
 
-
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/pWDz3nZEp09xewwW5PaiQZt8RTt.jpg",El samurái sin nombre (Sword of the Stranger) (2007)
+https://github.com/linkarg13/Pelis3/releases/download/Pelis3/10.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/kM1NG2m3nn1e0PBYGhvRV1FSLX6.jpg",burbuja (2022)
+https://github.com/linkarg13/Pelis3/releases/download/Pelis3/11.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/18lF2eTWAO0tloyBW39fob5ALAW.jpg",El tiempo contigo (2019)
+https://github.com/linkarg13/Pelis3/releases/download/Pelis3/12.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1rgR2oMVFuk4ltx6tYXYskPaA6Y.jpg",Kimi no Suizou.wo.Tabetai(018)
+https://github.com/linkarg13/Pelis3/releases/download/Pelis3/13.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/i91H1zLEh22NDdlEydXE96BA6i.jpg",Mary y la flor de la Bruja (2017)
+https://github.com/linkarg13/Pelis3/releases/download/Pelis3/14.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/vWtvRhnenl2g8qypSlOOlDIPLgP.jpg",Odd Taxi: In the Woods (2022)
+https://github.com/linkarg13/Pelis3/releases/download/Pelis3/15.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/cCVRivpiVUJ4Wn6gHm8pLXppXla.jpg",Promare (2019)
+https://github.com/linkarg13/Pelis3/releases/download/Pelis3/16.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/yUkH0y9OsY7J08Dvfzi1P0di559.jpg",redline(2010)
+https://github.com/linkarg13/Pelis3/releases/download/Pelis3/17.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/wIN7wlxyZTxqkstDodMUS9ABel8.jpg",A Silent Voice (2016)
+https://github.com/linkarg13/Pelis3/releases/download/Pelis3/18.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/uboCDV8S5qOfV1PLyKXb9Wc4EL0.jpg",Belle (2021)
+https://github.com/linkarg13/Pelis3/releases/download/Pelis3/19.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/wUdmMRnux7WkoK7DgffCa87HeUS.jpg",Millennium Actress (2002)
+https://github.com/linkarg13/Pelis3/releases/download/Pelis3/20.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/aLv87NgRJUPkQ6sVLP72IisDdt4.jpg",La leyenda de Hei (2019)
 https://archive.org/download/la-leyenda-de-hei-peli-cula-completa-hd-buena-espan-ol-1080-p-hd/LA%20LEYENDA%20DE%20HEI%20PEL%C3%8DCULA%20COMPLETA-%20HD-%20BUENA%20%28ESPA%C3%91OL%29%281080P_HD%29.ia.mp4
-
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/a3Hxt3UhpiyvX8qcO4vJpu0WThc.jpg"group-title="",el imaginario (2023)
 https://dl.dropbox.com/scl/fi/h3ck0tg5z9n0pguaknagh/Elimaginario.mp4?rlkey=ag0tc5v451fxduxxzjcdp6rde&dl=0
 #EXTINF:-1 tvg-logo="https://archive.org/download/img-20240704-075427-354/IMG_20240704_075427_354.jpg"group-title="",el chico y la garza(2023)
