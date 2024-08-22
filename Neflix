@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTGRP:Netflix
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/edh5PHfHz68xtonkUz9uwnpWf2m.jpg",V2
+https://github.com/linkarg13/SERIES2/releases/download/untagged-df3e4e0226a8b625767b/9.habilidad.fisica.m3u
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/vl9XwsuGGzvbAWlHLTNTFIWcgK6.jpg",habilidad física 
 https://github.com/Ezequiel10579/habilidad-f-sica-100/releases/download/fitness/Habilidad.FISICA.100.m3u
 #EXTINF:-1 tvg-logo="https://latanime.org/thumbs/imagen/la-maestra-de-las-bromas-takagi-san-live-action-1712043712.jpg?v=1.5", takagi san experta en bromas pesadas
