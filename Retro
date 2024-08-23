@@ -2,6 +2,9 @@
 
 ....Retro....
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iezWQQ7XGsLEGjN2pbcmJscNoz3.jpg"group-title="Caricaturas retro",Dragones Y Mazmorras
+https://archive.org/download/6.los-magnificos/11.dragones%20y%20mazmorras.m3u
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDgwOTg0NDUtMTgzNC00MGI3LThjMDktOGViYWRlMWI1NmI3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Caricaturas retro",Los halcones galacticos
 https://archive.org/download/elch4v0/halcon.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/DONKEY KONG COUNTRY.jpg" group-title="Caricaturas retro",DONKEY KONG COUNTRY
