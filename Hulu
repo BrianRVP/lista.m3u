@@ -1,14 +1,13 @@
 #EXTM3U
 #EXTGRP:Hulu
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/oCFFp4VBRz420FKGrQJFZqJDc1h.jpg",cuento de la crypta
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gvz0m4MJ8sAj6yMcQdwN07bNjRY.jpg",Those About To Die
+https://github.com/linkarg13/SERIES2/releases/download/Those4boutoDi3/15.Those.About.To.Die.m3u
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/oCFFp4VBRz420FKGrQJFZqJDc1h.jpg",cuentos de la crypta
 https://archive.org/download/6.los-magnificos/crypta%20tomos.m3u
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/7PjIzzCh43hNU77C8oKLdL7XXge.jpg",La isla de Gilligan (1964)
 https://github.com/linkarg13/Prueba-y-error/releases/download/Prueba/L4.isl4.d3.Gillig4n.m3u
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/kZex1zkfMycwmYNJDoArq9ov6Dz.jpg",Los Magníficos (1983) 
-https://archive.org/download/6.los-magnificos/6.los%20magnificos.m3u
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/oCFFp4VBRz420FKGrQJFZqJDc1h.jpg"group-title="Hulu",CUENTOS DE LA CRYPTA
-https://github.com/linkarg13/SERIES2/releases/download/Cuentoscrypta/cuentos.de.lq.crypta.m3u
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/castle-rock.jpg" group-title="Hulu",Castle rock
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/castle%20rock
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/escalera-al-cielo-1669602183.png"group-title="Hulu",Escalera al cielo
