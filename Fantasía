@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-cuervo-957452.jpg",el cuervo CAM
+https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.20.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QPNYz9R/images-1.jpg"group-title="",los descendientes el ascenso de red
 http://192.168.1.53:30001/file/5W2WMQpG/video.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/1OtIhamt5JU1f8OajkJX3KMRqgQ.jpg"group-title="",los descendientes 3
