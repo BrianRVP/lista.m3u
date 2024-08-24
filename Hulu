@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTGRP:Hulu
 
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/oCFFp4VBRz420FKGrQJFZqJDc1h.jpg",cuento de la crypta
+https://archive.org/download/6.los-magnificos/crypta%20tomos.m3u
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/7PjIzzCh43hNU77C8oKLdL7XXge.jpg",La isla de Gilligan (1964)
 https://github.com/linkarg13/Prueba-y-error/releases/download/Prueba/L4.isl4.d3.Gillig4n.m3u
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/kZex1zkfMycwmYNJDoArq9ov6Dz.jpg",Los Magníficos (1983) 
