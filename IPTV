@@ -20,10 +20,10 @@ https://archive.org/download/cuentos-de-la-cripta-s-01-e-01-el-hombre-que-era-la
 
 #EXTINF:-1 tvg-logo=""group-title="",leo deportes y mas..
 
-#EXTINF:-1 tvg-logo=""group-title="",boca vs cruzeiro
-https://42506e0129c8.us-west-2.playback.live-video.net/api/video/v1/us-west-2.396608808119.channel.ziFaqQbbraE9.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/yj3sVi1fJFKJPSPPCJC94yvEDQy.jpg"group-title="",aqui no ahi quien viva
+https://cdn5.lqsa.es/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="",flamrnco vs bolivar
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+.m3u8
 
 --------------
 
