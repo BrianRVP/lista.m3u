@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/m0IjeN2jZg64Ff1H5e4Ba59CKW8.jpg",Palabras que burbujean como un refresco (2021)
+https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.25.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/pWDz3nZEp09xewwW5PaiQZt8RTt.jpg",El samurái sin nombre (Sword of the Stranger) (2007)
 https://github.com/linkarg13/Pelis3/releases/download/Pelis3/10.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/kM1NG2m3nn1e0PBYGhvRV1FSLX6.jpg",burbuja (2022)
