@@ -1,6 +1,9 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4MgRn1YPf3EkjfxbkWCMgeXY21I.jpg",Niebla sin fronteras (2024)
+https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.34.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/d2Fk#EXTINF:-1 tvg-logo="",w6AMX7f0USFk2IuaRNIIp0p.jpg",Exhuma (2024)
+https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.35.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/b5UgrFjiOAphNNSYnUKbemgQ87t.jpg",La autopsia de Jane Doe (2016)
 https://github.com/linkarg13/SERIES2/releases/download/Loscuatro/50138672818t718t.mp4
 --------UN LUGAR EN DILRNCIO------
