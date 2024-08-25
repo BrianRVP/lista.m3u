@@ -37,6 +37,8 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Stranger%20things
 http://archive.org/download/ns_20210520/casa%20de%20flores%20.m3u 
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CASTLEVANIA.jpg" group-title="Netflix",CASTLEVANIA
 http://archive.org/download/ns_20210520/CASTEL.m3u 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/fsQ2KHbZk12z3h3dba2ActMEudj.jpg" group-title="Netflix",One Piece:Live Action latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/One%20Piece%3ALive%20Action
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CLUB DE CUERVOS.jpg" group-title="Netflix",CLUB DE CUERVOS
 http://archive.org/download/ns_20210520/CLUBCUERVOS.m3u 
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/COBRA KAI.jpg" group-title="Netflix",COBRA KAI
