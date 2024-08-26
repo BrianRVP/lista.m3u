@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/r8tQZcpO7oCXROExP1xkItvMio1.jpg",Mi padre (2022)
+https://archive.org/download/rodm4n/Mi%20padre.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/etE1CtyVneDf9kDTJvtWG0Iol90.jpg",El Abuelo y Kid (2024)
 https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.32.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/csGb0Dnt25hhf9BkjlAIjAoTYBb.jpg",Parpadea dos veces (2024)
