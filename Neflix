@@ -4,8 +4,10 @@
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4mHu5HpQJ0zPbZG5KF6sJP2dDN2.jpg",el aprendis de sumo
 https://github.com/Ezequiel10579/peli/releases/download/pel/aprendis.m3u
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/vl9XwsuGGzvbAWlHLTNTFIWcgK6.jpg",habilidad física 
 https://github.com/Ezequiel10579/habilidad-f-sica-100/releases/download/fitness/Habilidad.FISICA.100.m3u
+
 #EXTINF:-1 tvg-logo="https://latanime.org/thumbs/imagen/la-maestra-de-las-bromas-takagi-san-live-action-1712043712.jpg?v=1.5", takagi san experta en bromas pesadas
 https://github.com/linkarg13/Pelis3/releases/download/Pelis3/ezze.m3u
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/vHtNgRLWdMk7wIV2WbqkOzU7HHI.jpg"group-title="Netflix",SUPACELL
