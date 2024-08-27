@@ -26,6 +26,9 @@ https://cdn5.lqsa.es/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="",flamrnco vs bolivar
 .m3u8
 
+#EXTINF:-1 tvg-logo="",boca 
+http://172.105.109.43:8081/app/c13/playlist.m3u8
+
 --------------
 
 #EXTINF:-1 tvg-logo=""group-title="Plutotv + canales",Canales
