@@ -1,18 +1,14 @@
 #EXTM3U
 #EXTGRP: Clasic
-#EXTGRP: Clasic
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/HLrCGIEoMADl3wD8gcB77iSz3D.jpg",Los Locos Addams (1964) latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Los%20locos%20addams%201964
-#EXTGRP: Clasic
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/HLrCGIEoMADl3wD8gcB77iSz3D.jpg",El avispon verde (1966) latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/El%20avispon%20verde%201966
-#EXTGRP: Clasic
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o1YcVSDIp8nDslpDe4J4D0GvUL1.jpg",Los magnificos (1983) latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Los%20magnificos
-#EXTGRP: Clasic
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/e1cq0tRwzd8ONdso8hKLQdi0Y34.jpg",Cuentos asombrosos (1985) latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/cuentos%20asombrosos%201985
-#EXTGRP: CLasic
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w130_and_h195_bestv2/7SS7FQYeNcBpp9rKqcp1J0CMdNc.jpg",Automan (1983) latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Automan%201983
 
