@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/djNDmVuOLoJllc5IK9Z1dXz8Tgs.jpg",Te llevo en el alma (2024)
+https://github.com/linkarg13/Pelis3/releases/download/Peliss/08.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/a51x5NWJqdzWbFA58dwRgwfgQDj.jpg",Before Dawn (2024)
 https://github.com/linkarg13/Pelis3/releases/download/Peliss/4.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q8SXr3SCtHESHkmO2mFqzqlJ09L.jpg",Baltimore (2024)
