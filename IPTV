@@ -10,10 +10,10 @@ https://github.com/k-lamar09/cds/releases/download/C4t3g0r14s/P4cK.FUtB0L.m3u
 https://raw.githubusercontent.com/linkarg13/DEPORTE/main/Listas
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDs30bS/IMG-20240703-030446.jpg"group-title="pruebas",SR.REGIO
-https://archive.org/download/ns_20210520/ranma.m3u
+
 
 #EXTINF:-1 tvg-logo=""group-title="pruebas",serve1
- https://archive.org/download/ns_20210520/ns_20210520_archive.torrent
+ 
 
 #EXTINF:-1 tvg-logo=""group-title="pruebas",prueb2
 https://archive.org/download/cuentos-de-la-cripta-s-01-e-01-el-hombre-que-era-la-muerte-audio-latino/Cuentos%20de%20la%20cripta%20%23%20S01E01%20%23%20El%20hombre%20que%20era%20la%20muerte%20%28AUDIO%20LATINO%29.mp4
@@ -23,11 +23,11 @@ https://archive.org/download/11-amigos/11-amigos_vbr.m3u
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/yj3sVi1fJFKJPSPPCJC94yvEDQy.jpg"group-title="",aqui no ahi quien viva
 https://cdn5.lqsa.es/hls/0/stream.m3u8
-#EXTINF:-1 tvg-logo="",flamrnco vs bolivar
-.m3u8
+#EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="",boca 
-http://172.105.109.43:8081/app/c13/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="",
+
 
 --------------
 
@@ -59,7 +59,6 @@ https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Pelis%20y%20series%20H
 https://raw.githubusercontent.com/Imag7/Imagt/main/movies.txt
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/sex-education.jpg" group-title="Netflix",Sex education
 https://github.com/BrianRVP/lista.m3u/releases/download/PrubeaREMAKEEEEEEEEEEEEEEEEEEEEE/S4E13X.E1AD1UCA1RTI1ON.1.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o1YcVSDIp8nDslpDe4J4D0GvUL1.jpg" group-title="Apple Tv",Los magnificos
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Los%20magnificos
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/b5/Metegol1.jpg/revision/latest?cb=20130714222606&path-prefix=es" group-title="",EVENTOS PRUEBA
 https://raw.githubusercontent.com/ValentinoProM123/MDMP4/main/eventsARPECLECBOBRCH
