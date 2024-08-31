@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTGRP: Netflix 
+
+
+#EXTINF:-1 tvg-logo="",terror
+https://github.com/linkarg13/SERIES2/releases/download/M3u/martes3.m3u
 #EXTINF:-1 tvg-logo="",martes de terror extremo
 https://github.com/linkarg13/SERIES2/releases/download/M3u/17.martesdeterror.m3u
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/v4sbn6IsJGAIZNHjdB4CprvS7zo.jpg", Terminator zero
