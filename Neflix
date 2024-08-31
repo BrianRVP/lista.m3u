@@ -2,7 +2,7 @@
 #EXTGRP: Netflix 
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/v4sbn6IsJGAIZNHjdB4CprvS7zo.jpg", Terminator zero
-https://github.com/Ezequiel10579/anime/releases/download/anime/terminator.zero.m3u
+https://github.com/Ezequiel10579/anime/releases/download/zombi/terminator.zero.m3u
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/vl9XwsuGGzvbAWlHLTNTFIWcgK6.jpg"group-title="Netflix",habilidad fisica 
 https://github.com/Ezequiel10579/habilidad-f-sica-100/releases/download/fitness/Habilidad.FISICA.100.m3u
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4mHu5HpQJ0zPbZG5KF6sJP2dDN2.jpg"group-title="Netflix",el aprendis de sumo
