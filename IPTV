@@ -26,9 +26,22 @@ https://cdn5.lqsa.es/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="",
 
 
-#EXTINF:-1 tvg-logo="",BOCA
+#EXTINF:-1 tvg-logo="",sala 1
+https://5dfd3e4fd1b9.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.954976306456.channel.okNMG9uwdT7I.m3u8
+#EXTINF:-1 tvg-logo="",sala 2
+https://f677bd6cc0f5.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.954976306456.channel.QBHcDhHiyl2v.m3u8
+#EXTINF:-1 tvg-logo="",sala 3
+https://83007a712346.us-west-2.playback.live-video.net/api/video/v1/us-west-2.954976306456.channel.ZXFpMuDyjDZY.m3u8
+#EXTINF:-1 tvg-logo="",sala 4
+https://015660064cd7.us-east-1.playback.live-video.net/api/video/v1/us-east-1.954976306456.channel.Vmq2EY8RKS3g.m3u8
+#EXTINF:-1 tvg-logo="",sala 5
+https://5dfd3e4fd1b9.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.954976306456.channel.Y9L3iks2vVrJ.m3u8
+#EXTINF:-1 tvg-logo="",sala 6
+https://015660064cd7.us-east-1.playback.live-video.net/api/video/v1/us-east-1.954976306456.channel.Oz25l1tMoI8B.m3u8
+#EXTINF:-1 tvg-logo="",sala 7
 https://5dfd3e4fd1b9.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.954976306456.channel.9nbjeXbLzD0o.m3u8
-
+#EXTINF:-1 tvg-logo="",sala 8
+https://5dfd3e4fd1b9.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.954976306456.channel.9nbjeXbLzD0o.m3u8
 --------------
 
 #EXTINF:-1 tvg-logo=""group-title="Plutotv + canales",Canales
