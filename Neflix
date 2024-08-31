@@ -1,13 +1,10 @@
 #EXTM3U
 #EXTGRP: Netflix 
 
-#EXTINF:-1 tvg-logo="",ttt
-https://github.com/Ezeboca109/PELI/releases/download/PELI2/martes.de.terror.extremo.m3u
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/v4sbn6IsJGAIZNHjdB4CprvS7zo.jpg",Terminator Zero
+https://github.com/Ezeboca109/SERIE/releases/download/SERI3/terminator.zero.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jIXIgNFwecGhdfk0axFGgWxfR9Q.jpg",martes de terror extremo
 https://github.com/linkarg13/SERIES2/releases/download/M3u/17.martesdeterror.m3u
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/v4sbn6IsJGAIZNHjdB4CprvS7zo.jpg", Terminator zero
-https://github.com/Ezequiel10579/anime/releases/download/zomb1/terminator.zero.m3u
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/vl9XwsuGGzvbAWlHLTNTFIWcgK6.jpg"group-title="Netflix",habilidad fisica 
 https://github.com/Ezequiel10579/habilidad-f-sica-100/releases/download/fitness/Habilidad.FISICA.100.m3u
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4mHu5HpQJ0zPbZG5KF6sJP2dDN2.jpg"group-title="Netflix",el aprendis de sumo
