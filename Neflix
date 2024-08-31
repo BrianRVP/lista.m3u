@@ -2,9 +2,8 @@
 #EXTGRP: Netflix 
 
 
-#EXTINF:-1 tvg-logo="",prueba
-https://github.com/Ezequiel10579/PELIS/releases/download/PELIS1/martes.de.terror.extremo.m3u
-#EXTINF:-1 tvg-logo="",martes de terror extremo
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jIXIgNFwecGhdfk0axFGgWxfR9Q.jpg",martes de terror extremo
 https://github.com/linkarg13/SERIES2/releases/download/M3u/17.martesdeterror.m3u
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/v4sbn6IsJGAIZNHjdB4CprvS7zo.jpg", Terminator zero
 https://github.com/Ezequiel10579/anime/releases/download/zomb1/terminator.zero.m3u
