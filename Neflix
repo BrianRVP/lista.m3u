@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTGRP: Netflix 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/v4sbn6IsJGAIZNHjdB4CprvS7zo.jpg",Terminator zero
+https://github.com/Ezeboca109/SERIE33/releases/download/SER44/Terminator.zero.m3u
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jIXIgNFwecGhdfk0axFGgWxfR9Q.jpg",martes de terror extremo
 https://github.com/linkarg13/SERIES2/releases/download/M3u/17.martesdeterror.m3u
