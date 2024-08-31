@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1V34tiUPo3memMuCFlGhpA7ODbj.jpg"group-tile="",La Familia del Futuro (2007) 720p latino
+https://github.com/linkarg13/SERIES2/releases/download/Theumbrescademy3/fam1lyd3lfutur0.mp4
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/b5/Metegol1.jpg/revision/latest?cb=20130714222606&path-prefix=es", METEGOL (2013)
 https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/MTG2013AR.avi
 #EXTINF:-1 tvg-logo="https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY_PTD1.jpg", TOY STORY (1995)
@@ -20,8 +21,6 @@ https://archive.org/download/p-4w-p-4tr-0l-l-4-superpelicula/P4w%20p4tr0l_%20L4%
 https://archive.org/download/nick-3l-0d-30n-k-1-choi-3-awards-2024/Nick3l0d30n%20K1Choi3%20Awards%202024.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/bdFsS0A2dCcVXUdaxcUfnvLOTqz.jpg"group-title="",Ted y tody
 http://192.168.1.53:30001/file/MMifaokz/video.mp4
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-familia-del-futuro.jpg"group-tile="",La Familia del Futuro (2007) 720p latino
-https://github.com/linkarg13/SERIES2/releases/download/Theumbrescademy3/fam1lyd3lfutur0.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/kbeVZtX9HcsrkSyF0KrB4odkkiM.jpg"group-title="",trasto
 http://192.168.1.53:30001/file/ZoY5oOuL/video.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/6cpb2IP2c8gEbS2E2VfLKfx04cP.jpg"group-title="",Orión y la oscuridad (2024)
