@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTGRP: Netflix 
-
+#EXTINF:-1 tvg-logo="",martes de terror extremo
+https://github.com/Ezequiel10579/Bflix/releases/download/Bfl1x/martes.de.terror.extremo.m3u
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/v4sbn6IsJGAIZNHjdB4CprvS7zo.jpg", Terminator zero
 https://github.com/Ezequiel10579/anime/releases/download/zomb1/terminator.zero.m3u
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/vl9XwsuGGzvbAWlHLTNTFIWcgK6.jpg"group-title="Netflix",habilidad fisica 
