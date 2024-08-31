@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uBEIVq31JEuw2mrdupPxUNGbY5e.jpg",Sailor Moon Cosmos: La Película - Parte 1 (2023)
+https://github.com/linkarg13/Pelis3/releases/download/Peliss/05.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/17dqFvDJyIr6S4QXuEYx6UxUeFO.jpg",Sailor Moon Cosmos: La Película - Parte 2 (2023)
+https://github.com/linkarg13/Pelis3/releases/download/Peliss/06.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wLNPoAHTtrQT1hEVRixtTD4k6Qm.jpg",Spy x Family Código: Blanco (2023)
+https://github.com/linkarg13/Pelis3/releases/download/Peliss/07.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jm2BckEhy1upr4iPpOZ6WTx1tWw.jpg",Black Clover: La espada del rey mago (2023)
 https://github.com/linkarg13/Pelis3/releases/download/Peliss/6.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6F8FlbaCtLPXQsnH0bihDGKCUq0.jpg",Dead Space: Perdición (2008)
