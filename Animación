@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kiqBpoBjAH96n3paq9T0AlZifvD.jpg",Las cuatro almas del coyote (2023)
+https://github.com/linkarg13/Pelis3/releases/download/Peliss/001.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/61DL5lwBWVuPbH7Mb7wAcvoYpXm.jpg",Violet Evergarden: Recuerdos (2021)
+https://github.com/linkarg13/Pelis3/releases/download/Peliss/002.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uBEIVq31JEuw2mrdupPxUNGbY5e.jpg",Sailor Moon Cosmos: La Película - Parte 1 (2023)
 https://github.com/linkarg13/Pelis3/releases/download/Peliss/05.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/17dqFvDJyIr6S4QXuEYx6UxUeFO.jpg",Sailor Moon Cosmos: La Película - Parte 2 (2023)
