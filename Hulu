@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTGRP:Hulu
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1efZPo4B65PZkwOUHhVee8BSqpo.jpg",Por siempre Joan Sebastián (2016)
+https://github.com/linkarg13/SERIES2/releases/download/M3u/14.joansebastian.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2JBWfFZaH4E46nQuXMhp2BsAYAD.jpg",archivo negro (224)
 https://github.com/linkarg13/SERIES2/releases/download/M3u/18.archivo.negro.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iKmLCDudQXXOZr16bB7ApT7jXo3.jpg",TED
