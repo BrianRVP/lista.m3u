@@ -1,7 +1,11 @@
 #EXTM3U
 #EXTGRP:Hulu
-
-
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/videos/video:mcp:4306517/04c48d26c31600e0e8de38dfb7f32c19?tr=w-352,ar-2-3,q-80&w=1024",Cenizas de la gloria (2022)
+https://github.com/linkarg13/SERIES2/releases/download/M3u/Cenizas.de.la.Gloria.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ehDFHcBjOuiX4XJRJK8J9WvRMFP.jpg",His Name Was Pedro Infante (2023)
+https://github.com/linkarg13/SERIES2/releases/download/M3u/pedro.infante.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gtP4LEZFMKNvenmTk1o7tYHq92z.jpg",Nunca tuvo miedo (2023)
+https://github.com/linkarg13/SERIES2/releases/download/M3u/Nunca.tuvo.miedo.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1efZPo4B65PZkwOUHhVee8BSqpo.jpg",Por siempre Joan Sebastián (2016)
 https://github.com/linkarg13/SERIES2/releases/download/M3u/14.joansebastian.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2JBWfFZaH4E46nQuXMhp2BsAYAD.jpg",archivo negro (224)
