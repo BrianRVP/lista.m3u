@@ -47,25 +47,29 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/ash%20vs%20evil%2
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/El%20chavo%20del%20ocho
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/preacher.jpg" group-title="Prime video",preacher 
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Preacher
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DAWSONS CREEK.jpg" group-title="Prime video",DAWSONS CREEK
+
+#EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/original/9KZSX0rIgMhNbA7reH3NU1qk3bJ.jpg" group-title="Prime video",DAWSONS CREEK
 http://archive.org/download/ns_20210520/DAWSONSCRE.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DE VIAJE CON LOS DERVEZ.jpg" group-title="Prime video",DE VIAJE CON LOS DERVEZ
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sbmiHPvhCi10oYzCPhbbROORb2B.jpg" group-title="Prime video",DE VIAJE CON LOS DERVEZ
 http://archive.org/download/ns_20210520/DEVIAJECONLOSDER.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQyZGRmMjMtN2Q5OC00Mjc4LWIwOTUtMTBjYzhiMDExNDY4XkEyXkFqcGdeQXVyMTI5NDA0OTQ3._V1_FMjpg_UX1000_.jpg" group-title="Prime video",HARINA 2022
 https://archive.org/download/si2_20220111/hari.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/GOTHAM.jpg" group-title="Prime video",GOTHAM
 http://archive.org/download/ns_20210520/GOTHAM.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/EL JOVEN SHELDON.jpg" group-title="Prime video",EL JOVEN SHELDON
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/Jxl5Z1JBWnd2JWJUgYsm8FIzG4.jpg" group-title="Prime video",EL JOVEN SHELDON
 http://archive.org/download/ns_20210520/JOVESH.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/EL JUEGO DE LAS LLAVES.jpg" group-title="Prime video",EL JUEGO DE LAS LLAVES
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/78n5sw1f6qimGDY08n90GE18RyV.jpg" group-title="Prime video",EL JUEGO DE LAS LLAVES
 http://archive.org/download/ns_20210520/LLAVE.m3u
+
+
 #EXTINF:-1 tvg-logo="https://www.pelisplus.lat/wp-content/uploads/2022/04/j00juJOffNdhkpkIaayQjcgvK2n-200x300.jpg" group-title="Prime video",Fear the Walking Dead
 https://archive.org/download/si2_20220111/WF.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/IN TO BADLANDS.jpg" group-title="Prime video",IN TO BADLANDS
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/INTOBADLANDS.jpg" group-title="Prime video",IN TO BADLANDS
 http://archive.org/download/ns_20210520/INTOBADLANDS.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/JACK RYAN.jpg" group-title="Prime video",JACK RYAN
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/JACKRYAN.jpg" group-title="Prime video",JACK RYAN
 http://archive.org/download/ns_20210520/jack%20ryan.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LE TEMES A LA OBSCURIDAD.jpg" group-title="Prime video",LE TEMES A LA OBSCURIDAD
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LETEMESALAOBSCURIDAD.jpg" group-title="Prime video",LE TEMES A LA OBSCURIDAD
 http://archive.org/download/ns_20210520/TEMESOB.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS DUKES DE HAZZARD.jpg" group-title="Prime video",LOS DUKES DE HAZZARD
 http://archive.org/download/ns_20210520/dukes.m3u
