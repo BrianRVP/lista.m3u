@@ -1,5 +1,20 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/aVN4j2Kp8k91qe0DmJp8RheBDSx.jpg",King Arthur (2004)
+https://github.com/linkarg13/SERIES2/releases/download/S3%C3%B10rd3l0san1ll0s/1111.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/3L1iVZBtzFUavfVG9LGfFjfsYvC.jpg",Immortals (2011)
+https://github.com/linkarg13/SERIES2/releases/download/S3%C3%B10rd3l0san1ll0s/2222.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/rthioP0Xgfl818DJeHcyiHxWHPN.jpg",troya (2004)
+https://github.com/linkarg13/SERIES2/releases/download/S3%C3%B10rd3l0san1ll0s/4444.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/90QFOG5zSN4cbrIVs4DL4ePAuA5.jpg",gradiador(2000)
+https://github.com/linkarg13/SERIES2/releases/download/S3%C3%B10rd3l0san1ll0s/3333.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg",300 (2007)
+https://github.com/linkarg13/SERIES2/releases/download/S3%C3%B10rd3l0san1ll0s/5555.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/cbt5wY4rCe63JBmNYnJytJpFhnm.jpg",300 el origen de un imperio (2014)
+https://github.com/linkarg13/SERIES2/releases/download/S3%C3%B10rd3l0san1ll0s/6666.mp4
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/lA7mNjRUZ9FLDKwqdmifU8UmAuZ.jpg"group-title="", mine:Sobreviviendo en el desierto
 https://github.com/HECTHINHOXD/BFLIX-PELIS/releases/download/PEL%C3%8DCULAS-SPIDER/1280x720-Mine.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/g1g6hCYtuRuf9ZJISDmCKjXffSs.jpg"group-title="",12 horas para el fin del mundo
