@@ -23,7 +23,8 @@ https://archive.org/download/11-amigos/11-amigos_vbr.m3u
 
 #EXTINF:-1 tvg-logo=""group-title="",aqui no ahi quien viva
 https://cdn5.lqsa.es/hls/0/stream.m3u8
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",locomotion 
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="",sala 1
