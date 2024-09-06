@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTGRP:Disney+
 
-#EXTINF:-1 tvg-logo=""group-title="https://image.tmdb.org/t/p/original/gWTd0ustqZ8Wp4EpuAM1pmCvG4b.jpg",churco (2023)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gWTd0ustqZ8Wp4EpuAM1pmCvG4b.jpg",churco (2023)
 https://github.com/linkarg13/SERIES2/releases/download/M3u/24.chueco.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ok4Nuvd0Sl11uxQoDQ3FbsUW0tM.jpg",la voz ausente (2024)
 https://github.com/linkarg13/SERIES2/releases/download/M3u/la.voz.ausente.m3u
