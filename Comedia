@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jlJZXF5tYFB7b0oTYUK58OMpaHW.jpg",Sirenas (2024)
+https://github.com/linkarg13/Pelis3/releases/download/Peliss/0003.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rEUBskXY35Vs3Nv50N8uKyPtIEq.jpg",Las hermanas fantásticas (2024)
 https://github.com/linkarg13/Pelis3/releases/download/Peliss/007.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8bNLrZt9lrmnt6LsaGG8GfDfgYR.jpg",El peor vecino del mundo (2022)
