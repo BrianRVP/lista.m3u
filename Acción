@@ -1,7 +1,8 @@
 #EXTM3U
 
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uMILqn3ArGkfDSteAlqsL2WiINT.jpg",Presa (2024)
+https://github.com/linkarg13/Pelis3/releases/download/Peliss/0002.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/aVN4j2Kp8k91qe0DmJp8RheBDSx.jpg",King Arthur (2004)
 https://github.com/linkarg13/SERIES2/releases/download/S3%C3%B10rd3l0san1ll0s/1111.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/3L1iVZBtzFUavfVG9LGfFjfsYvC.jpg",Immortals (2011)
@@ -14,7 +15,6 @@ https://github.com/linkarg13/SERIES2/releases/download/S3%C3%B10rd3l0san1ll0s/33
 https://github.com/linkarg13/SERIES2/releases/download/S3%C3%B10rd3l0san1ll0s/5555.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/cbt5wY4rCe63JBmNYnJytJpFhnm.jpg",300 el origen de un imperio (2014)
 https://github.com/linkarg13/SERIES2/releases/download/S3%C3%B10rd3l0san1ll0s/6666.mp4
-
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/lA7mNjRUZ9FLDKwqdmifU8UmAuZ.jpg"group-title="", mine:Sobreviviendo en el desierto
 https://github.com/HECTHINHOXD/BFLIX-PELIS/releases/download/PEL%C3%8DCULAS-SPIDER/1280x720-Mine.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/g1g6hCYtuRuf9ZJISDmCKjXffSs.jpg"group-title="",12 horas para el fin del mundo
