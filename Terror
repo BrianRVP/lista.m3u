@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oY9SRUcRqdrjyINFoGewobSP7FB.jpg",La trampa (2024)
+https://github.com/linkarg13/Pelis3/releases/download/Peliss/006.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/urxfB5bYVG50wveanuaVhncpkUC.jpg",La liberación (2024)
+https://github.com/linkarg13/Pelis3/releases/download/Peliss/008.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/KPrZ8lbgbMD7gr1pkMKoNbtcCK.jpg", Gonjiam: hospital maldito
 https://github.com/HECTHINHOXD/BFLIX-PELIS/releases/download/Pelis-6/Gonjiam.hospital.maldito.720p.1.51.GB.mkv
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/ew4MFhQR6NiTdJiiFFGHo8z1qiT.jpg",La Niña Del Mar (2024)
