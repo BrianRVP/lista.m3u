@@ -72,7 +72,8 @@ https://cache006.peliscdn.online/newhls/6b24db649f9309355bdd326d93bb3556/EP.0.0.
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/yw8NQyvbeNXoZO6v4SEXrgQ27Ll.jpg"group-title="",Terrifier2
 https://cache016.peliscdn.online/newhls/187f801820b4053025e08bc2d578817f/EP.0.1.v0.1709638269.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/i1hRa8hwGp4g20ZAWNIxrQmAk7R.jpg", Holocausto canibal
+https://github.com/HECTHINHOXD/BFLIX-PELIS/releases/download/Pelis-6/Holocausto.Canibal.HD.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/yT2SUMGuI4inUmBsiFjHqGp2axZ.jpg"group-title="",elevador gamer (2023)
 https://archive.org/download/3l-3vator-g-4m-3e/3l3vator%20g4m3e.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tskjJSuOk1U8moEkCOPtetGTpFe.jpg"group-title="",la primera profecía (2024)
