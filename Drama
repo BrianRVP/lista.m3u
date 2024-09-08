@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fqUakfM8wH4IWULIkhRyZqNZveD.jpg",Príncipes salvajes (2024)
+https://github.com/linkarg13/Pelis3/releases/download/Peliss/0001.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/yV7YWPKH2OWboyAlkZ46gp75Y4j.jpg",Tokunbo (2024)
 https://github.com/linkarg13/Pelis3/releases/download/Peliss/101.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/r8tQZcpO7oCXROExP1xkItvMio1.jpg",Mi padre (2022)
