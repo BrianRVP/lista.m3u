@@ -1,6 +1,13 @@
 #EXTM3U
 
 
+----------fuerza bruta-----
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cB607Cz7Mpdwepnz6RncXOW9gDD.jpg",Fuerza Bruta: Sin salida (2023)
+https://github.com/linkarg13/Pelis3/releases/download/Peliss/005.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qxPeTHMeby7hgVdagL6RUAT8s4J.jpg",Fuerza bruta (2022)
+https://github.com/linkarg13/Pelis3/releases/download/Peliss/004.mp4
+
+
 --------2024-----------
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/hwGQKZUvbLsJevsUOHuNezIQBK0.jpg",Echoes of the Thunder (2024)
