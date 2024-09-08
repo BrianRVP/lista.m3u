@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Imag7/Imagt/main/IMG-20240905-WA0053.jpg", Argentina vs Chile
-https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/master.m3u8?hdnea=st=1725577345~exp=1725753745~acl=/hls/live/2040462/canal8cordoba/TOK/*~hmac=c431e23d4cec724cfa4b84387c12efb791048fc28e3fcde718f44743f131c81f
-#EXTINF:-1 tvg-logo="https://ia600406.us.archive.org/1/items/images_20240621/images.jpeg"group-title="",DEPORTES
-https://github.com/k-lamar09/cds/releases/download/C4t3g0r14s/D3P0RT3S.m3u
+#EXTINF:-1 tvg-logo="", Boca juniors vs talleres cordoba
+https://380946ef755a.us-west-2.playback.live-video.net/api/video/v1/us-west-2.941377134641.channel.EGwr8kYNVSl1.m3u8
 
 #EXTINF:-1 tvg-logo="https://ia600406.us.archive.org/1/items/images_20240621/images.jpeg"group-title="",FUTBOL VIVO
 https://github.com/k-lamar09/cds/releases/download/C4t3g0r14s/P4cK.FUtB0L.m3u
