@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6wOJufVBsgUjVCK4MZ3TK1y3JGH.jpg",El verano de Coo (2007)
+https://github.com/linkarg13/Pelis3/releases/download/Peliss/BFLIX.linkarg.01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kiqBpoBjAH96n3paq9T0AlZifvD.jpg",Las cuatro almas del coyote (2023)
 https://github.com/linkarg13/Pelis3/releases/download/Peliss/001.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/nocturna_una_aventura_magica-486724829-mmed.jpg",Nocturna (2007) castellano
