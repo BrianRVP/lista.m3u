@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTGRP: Netflix 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dDBTUSl3tRsOeKC1jZugBSFHy9I.jpg",KAOS (2024)
+https://github.com/linkarg13/SERIES2/releases/download/M3u/BFLIX.kaos.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9ubWe8mVHu2gi9BLDxU2p9nCs7f.jpg",Accidente (2024)
 https://github.com/linkarg13/SERIES2/releases/download/M3u/accident.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/v4sbn6IsJGAIZNHjdB4CprvS7zo.jpg",Terminator zero
