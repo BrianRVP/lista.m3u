@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/e0B6i48kxdRkMcK4tR4YNfXGWOc.jpg",Boruto: Naruto Next Generations (2017)
+https://github.com/linkarg13/SERIES2/releases/download/M3u/BFLIX.LINKARG.BORUTO.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sTzvJnfiOSZDxXoVNNwzTNETnuj.jpg"group-title="Accion",DEMON SLAYER
 https://raw.githubusercontent.com/Imag7/Imagt/main/Demon
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s3clSZKSqJNILzmAEm5KaTUS5Z0.jpg"group-title="DBZ",DBKai
