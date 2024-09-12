@@ -1,4 +1,27 @@
 #EXTM3U
+
+
+------chucky-----
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/on2Q5qroYiJ8MxhuZmdBd7rYNOa.jpg",El culto de Chucky (2017)
+https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/chu07.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5aFQZyjKYDnP5notOhoQs9GzJny.jpg",La maldición de Chucky (2013)
+https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/chu06.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5KFnfRzXmn0QNzMZGNWMoW4iSKD.jpg",El hijo de Chucky (2004)
+https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Chu05.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sHWzPfi9aTA82aFiRi9aC5dh2Gq.jpg",La novia de Chucky (1998)
+https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Chu04.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mE9C6flLpg6L85uekKKMFOdRlxE.jpg",Muñeco diabólico 3 (1991)
+https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Chu03.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rUdnnVcmo1AOcfanEbU4b2f2QFP.jpg",Chucky: el muñeco diabólico 2 (1990)
+https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/chu02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7GfrMFZuxqq1FdSZRtKflPOwoAv.jpg",Muñeco diabólico (1988)
+https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Chu01.mp4
+
 #EXTINF:-1 tvg-logo="https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FbEN0YnUefVD7AR4I0leT4Ep9tSm.jpg&w=640&q=75", Maleficio
 https://github.com/HECTHINHOXD/BFLIX-PELIS/releases/download/Pelis-6/Maleficio.720p.DUAL.1.12.GB.mkv
 #EXTINF:-1 tvg-logo="https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3844qY8VUocGwrit02J7PhYkHcx.jpg&w=640&q=75",El legado del diablo
