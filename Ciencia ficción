@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo=""group-title="https://image.tmdb.org/t/p/original/abNsPyjwSYwOVsx2m0mWrq22xGk.jpg",Los feos (2024)
+https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Feo01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wuyGQyvg970P3gZ3Ox4NsesR4ds.jpg",Alien: Romulus (2024)
 https://github.com/linkarg13/Pelis2/releases/download/Pelis/VID_20240816_105959_759.mp4.mkv
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/oaSLd5Y79JiF10qKG5OyCXdH7nV.jpg.jpg"group-title="",fenómeno
