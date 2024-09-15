@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://media.cnn.com/api/v1/images/stellar/prod/cnne-1751189-gettyimages-2165612554.jpg?q=w_680,c_fill/f_webp", Canelo vs Berlanga
+http://cdn88.cdnfree.online:2052/live-2/244/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDI0IDM6MzY6MDMgQU0maGFzaF92YWx1ZT1JTWwrSlNuek1ncFdia2J2bTR6V1ZnPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==&1___http://cdn88.cdnfree.online:2052/live-2/244/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDI0IDM6MzY6MDMgQU0maGFzaF92YWx1ZT12Qjljdk80WDNHU1NMTnA2TXdveFlnPT0mdmFsaWRtaW51dGVzPTMmc3RybV9sZW49MTAmaWQ9MTkxMTU2MjI3NzM=&2
 #EXTINF:-1 tvg-logo="", Boca juniors vs talleres cordoba
 https://380946ef755a.us-west-2.playback.live-video.net/api/video/v1/us-west-2.941377134641.channel.EGwr8kYNVSl1.m3u8
 
