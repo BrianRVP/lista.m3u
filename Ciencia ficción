@@ -1,5 +1,5 @@
 #EXTM3U
-
+#EXTGRP:Ciencia ficción
 #EXTINF:-1 tvg-logo=""group-title="https://image.tmdb.org/t/p/original/abNsPyjwSYwOVsx2m0mWrq22xGk.jpg",Los feos (2024)
 https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Feo01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wuyGQyvg970P3gZ3Ox4NsesR4ds.jpg",Alien: Romulus (2024)
