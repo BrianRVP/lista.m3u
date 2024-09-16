@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ylo2jRmsVCYAXcL1qX2U9GvxpZ7.jpg",Sailor Moon (1992)
+https://github.com/linkarg13/SERIES2/releases/download/M3u/BFLIX.SAILORMOON.m3u
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/e0B6i48kxdRkMcK4tR4YNfXGWOc.jpg",Boruto: Naruto Next Generations (2017)
 https://github.com/linkarg13/SERIES2/releases/download/M3u/BFLIX.LINKARG.BORUTO.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sTzvJnfiOSZDxXoVNNwzTNETnuj.jpg"group-title="Accion",DEMON SLAYER
