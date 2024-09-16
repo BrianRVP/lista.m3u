@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7M8gZDAQsJP3BjibSt1kZ1tBvXl.jpg",Tipos de gentileza (2024)
+https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Tipos01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eVF4hqkBD1maZueHDEhhe02kNhj.jpg",Bandida: La número uno (2024)
 https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Bandida01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fqUakfM8wH4IWULIkhRyZqNZveD.jpg",Príncipes salvajes (2024)
