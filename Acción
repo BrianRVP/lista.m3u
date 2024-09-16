@@ -1,6 +1,9 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ymTgBQ8rCouE27oHpAUfgKEgRAj.jpg",Rebel Ridge (2024)
+https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Rebel01.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8U1BBNPAlu5Jy7eC0BM6d18ZHJV.jpg",The Killer (2024)
+https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Killer01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uMILqn3ArGkfDSteAlqsL2WiINT.jpg",Presa (2024)
 https://github.com/linkarg13/Pelis3/releases/download/Peliss/0002.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/aVN4j2Kp8k91qe0DmJp8RheBDSx.jpg",King Arthur (2004)
