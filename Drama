@@ -1,5 +1,8 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sn9pXNT0ODNQ7kHV0dteOWtHIVy.jpg",Descubriendo A Mi Hijo (2024)
+https://github.com/linkarg13/SERIES2/releases/download/Loscuatro/hijo02.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/pbVcZmmcfqk35Q9hNxRoR7JPiVp.jpg",Sector 36 (2024)
 https://github.com/linkarg13/SERIES2/releases/download/Loscuatro/Sec01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o98ATOqRX1LBgL7a9trTosD0ttF.jpg",El Rey de La Habana (2015)
