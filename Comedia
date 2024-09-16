@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ur1asYaaZFrMVxkV69gQHP5Kmjo.jpg",Mejor viuda que mal acompañada (2024)
+https://github.com/linkarg13/SERIES2/releases/download/Loscuatro/Ciudad01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ukpk3ZFeDOmznIBFbSpdXb6o1pt.jpg",Inexpertos (2024)
 https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Inexpe01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AkxCTNZZmcirQ1kYP2dKFx04nV5.jpg",Las chicas de Niza (2024)
