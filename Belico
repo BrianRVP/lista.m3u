@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/beLbZExOZ64LzbqJbbbjhlqbezi.jpg",Disco, Ibiza, Locomía (2024)
+https://github.com/linkarg13/SERIES2/releases/download/Loscuatro/Loco02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/h11pzG8yK70Ly5MkNHvhPH9m84n.jpg",Mi padre (2022)
 https://archive.org/download/rodm4n/Mi%20padre.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/djNDmVuOLoJllc5IK9Z1dXz8Tgs.jpg",Te llevo en el alma (2024)
