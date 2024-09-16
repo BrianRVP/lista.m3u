@@ -1,11 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iHPIBzrjJHbXeY9y7VVbEVNt7LW.jpg",Transformers One (2024)CAM
+https://github.com/linkarg13/SERIES2/releases/download/Loscuatro/1_5132298709685503463.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/abNsPyjwSYwOVsx2m0mWrq22xGk.jpg"group-title="",Los feos (2024)
 https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Feo01.mp4
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wuyGQyvg970P3gZ3Ox4NsesR4ds.jpg",Alien: Romulus (2024)
 https://github.com/linkarg13/Pelis2/releases/download/Pelis/VID_20240816_105959_759.mp4.mkv
-
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/oaSLd5Y79JiF10qKG5OyCXdH7nV.jpg.jpg"group-title="",fenómeno
 https://github.com/linkarg13/Ip-m4n3/releases/download/Pelis/Fenomeno.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Imag7/Imgjk/main/20240811_185238_0000.png"group-title="",TOMO 2
