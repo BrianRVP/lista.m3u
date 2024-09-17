@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",Dragon Ball Super (2015)
+https://github.com/linkarg13/SERIES2/releases/download/M3u/BFLIX.DRAGONBALLSUPER.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ylo2jRmsVCYAXcL1qX2U9GvxpZ7.jpg",Sailor Moon (1992)
 https://github.com/linkarg13/SERIES2/releases/download/M3u/BFLIX.SAILORMOON.m3u
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/e0B6i48kxdRkMcK4tR4YNfXGWOc.jpg",Boruto: Naruto Next Generations (2017)
