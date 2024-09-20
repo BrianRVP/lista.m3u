@@ -1,5 +1,21 @@
 #EXTM3U
 
+------camino hacia el terror--------
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/91hV6argiWLRJeHXIo4BankllR9.jpg",camino hacia el terror 7 (2021)
+https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Terror.7.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/camino-hacia-el-terror-6-herencia-de-muerte.jpg" group-title="",Camino hacia el terror 6 (2014) 720p latino
+https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Terror.6.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/camino-hacia-el-terror-5-el-linaje-canibal.jpg" group-title="",Camino hacia el terror 5 (2012) 720p latino
+https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Terror.5.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/camino-hacia-el-terror-4.jpg" group-title="",Camino hacia el terror 4
+https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Terror.4.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/camino-hacia-el-terror-3-dalos-por-muertos.jpg" group-title="",Camino hacia el terror 3
+https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Terror.3.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/camino-hacia-el-terror-2-final-mortal.jpg" group-title="",Camino hacia el terror 2
+https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Terror.2.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/camino-hacia-el-terror.jpg" group-title="",Camino hacia el terror (2003) 720p latino
+https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/terror.1.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zo9TBFQmmbTl8vLkSwhDcC3QLMu.jpg",13 pecados (2014)
 https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/1301.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uUXRqplQ9TWmKzDkFmWN1NuPsmb.jpg",Longlegs (2024)
