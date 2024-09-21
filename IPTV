@@ -24,8 +24,7 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="",sala 1
-https://c3bvcnrz.la10tv.com/lb/espn/index.m3u8?token=b0ecf7d28bffe1afac3cfce359567e0573d99a40-e472e347140dc0c30db8756eccd33d1a-1726980405-1726944405&remote=201.180.92.121
-#EXTINF:-1 tvg-logo="",sala 2
+https://bgfuzq.la10tv.com/lb/espn/index.m3u8?token=e2f4a9d5b77bbd75e18b7de4093306f4a737de99-fff008ca0b5bc196ceff77d2c0890ac2-1726981206-1726945206&remote=201.180.92.121
 https://c3bvcnrz.la10tv.com/lb/espnpremium/index.m3u8?token=74fe6cdfbc55193a98da4749ad509a69dd128046-42929fd1539f4ee44bf3a500f612c612-1726980510-1726944510&remote=201.180.92.121
 #EXTINF:-1 tvg-logo="",sala 3
 https://ag9wzq.la10tv.com:443/espn/tracks-v1a1/mono.m3u8?remote=201.180.92.121&token=e2f4a9d5b77bbd75e18b7de4093306f4a737de99-fff008ca0b5bc196ceff77d2c0890ac2-1726981206-1726945206
