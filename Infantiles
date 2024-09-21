@@ -1,5 +1,13 @@
 #EXTM3U
 
+-----cars-------
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cars.jpg" group-title="",Cars 
+ https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Ca.2006.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cars-2-una-nueva-aventura-sobre-ruedas.jpg" group-title="",Cars 2: Una Nueva Aventura Sobre Ruedas (2011) 720p latino 
+https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Ca.2.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cars-3.jpg" group-title="",Cars 3 (2017) 360p latino
+https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Ca.3.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5StLiGv2QMxzzrGcCFsT4Wd64Nq.jpg",200%wolf(2024)
 https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4uyDEzcIn5NDPDsjQVjLHFKCI9L.jpg",100% wolf (2020)
@@ -288,12 +296,6 @@ https://cache016.peliscdn.online/newhls/7eefa9a2174a5a167da940b29cd79b38/EP.0.1.
 https://pc-27.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/bcef4b5651c1c02098b7d57713187861/EP.0.2.v0.1677426345.m3u8 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/buscando-a-nemo.jpg" group-title="",Buscando a Nemo (2003) 720p latino
 https://cache004.peliscdn.online/newhls/d1944b6e28e53565171d030dc7944b73/EP.0.1.v0.1708746505.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cars.jpg" group-title="",Cars 
-https://pc-45.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/24b477933deeb8a5550e31f835aa06b1/EP.0.1.v4.1678456619.360.m3u8 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cars-2-una-nueva-aventura-sobre-ruedas.jpg" group-title="",Cars 2: Una Nueva Aventura Sobre Ruedas (2011) 720p latino 
-https://cache005.peliscdn.online/newhls/f3054b6761e2b0d9d3b40be3cc295948/EP.0.1.v0.1708738340.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cars-3.jpg" group-title="",Cars 3 (2017) 360p latino
-https://cache008.peliscdn.online/newhls/14b55aab58e624f13172477a87fcaf95/EP.0.1.v2.1708715432.360.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/enredados.jpg" group-title="",Enredados (2010) 720p latino
 https://cache006.peliscdn.online/newhls/27c95580ad71a5103055a6b857c8f7fd/EP.0.1.v0.1708693409.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/frozen-una-aventura-congelada.jpg" group-title="",Frozen: Una Aventura Congelada (2013) 720p latino
