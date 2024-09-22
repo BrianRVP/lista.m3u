@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/e3S0nN9jhxWBuWdRXQupZJchJiX.jpg",Deep Sea. Viaje a las profundidades (2023)
+https://github.com/linkarg13/Pelis3/releases/download/63ry743/01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/868RBJcliGTI3vNjtc7bCqVFhvz.jpg",Kimetsu no Yaiba -To the Hashira Training- (2024)
 https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/kimetsu04.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iTmJwZxGHYAk5EiVc68UvZTMSuP.jpg",Demon Slayer: Kimetsu no Yaiba the Hashira Meeting Arc (2021)
