@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9NcwZYTErGSS7jzRDYPTjQOCQe3.jpg",La sociedad americana de negros mágicos (2024)
+https://github.com/linkarg13/Pelis3/releases/download/63ry743/03.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iHPIBzrjJHbXeY9y7VVbEVNt7LW.jpg",Transformers One (2024)CAM
 https://github.com/linkarg13/SERIES2/releases/download/Loscuatro/1_5132298709685503463.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/abNsPyjwSYwOVsx2m0mWrq22xGk.jpg"group-title="",Los feos (2024)
