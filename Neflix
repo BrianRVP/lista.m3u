@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTGRP: Netflix 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",Envidiosa (2024)
+https://github.com/linkarg13/SERIES2/releases/download/M3u/BFLIX.envidiosa.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/r0SIujs19jJcWTq5IQO1oyB25XX.jpg",Nicky Jam: El Ganador(2018)
 https://github.com/linkarg13/SERIES2/releases/download/M3u/BFLIX.nicky.y.jam.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vpgwAh24u1VLl2snUoziK2BclZZ.jpg",¿Y ahora qué? El futuro según Bill Gates (2024)
