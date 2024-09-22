@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/23zwte7xCAPHFPZGoUsZ8WxybR4.jpg",As Neves (2024)
+https://github.com/linkarg13/Pelis3/releases/download/63ry743/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/y89kFMNYXNKMdlZjR2yg7nQtcQH.jpg",Sound of Metal (2020)
 https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Metal01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sn9pXNT0ODNQ7kHV0dteOWtHIVy.jpg",Descubriendo A Mi Hijo (2024)
