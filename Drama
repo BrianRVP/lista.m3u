@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5wDA5KPDSzAaFesRR9lgihKopnS.jpg",Victima imperfecta (2023)
+https://github.com/linkarg13/Pelis3/releases/download/63ry743/04.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iCuQOTy1nnyPtbRn3xImcu9hvpi.jpg",The Wasp (2024)
+https://github.com/linkarg13/Pelis3/releases/download/63ry743/05.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/23zwte7xCAPHFPZGoUsZ8WxybR4.jpg",As Neves (2024)
 https://github.com/linkarg13/Pelis3/releases/download/63ry743/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/y89kFMNYXNKMdlZjR2yg7nQtcQH.jpg",Sound of Metal (2020)
