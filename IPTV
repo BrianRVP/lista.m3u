@@ -28,7 +28,7 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="",sala 1
-https://bgfuzq.la10tv.com/lb/espn/index.m3u8?token=e2f4a9d5b77bbd75e18b7de4093306f4a737de99-fff008ca0b5bc196ceff77d2c0890ac2-1726981206-1726945206&remote=201.180.92.121
+https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/master.m3u8?hdnea=st=1727391580~exp=1727567980~acl=/hls/live/2040462/canal8cordoba/TOK/*~hmac=aae72e05a178954a85377e278e4c4305844ff5a3776fd1af28e312ad246b60b5
 #EXTINF:-1 tvg-logo="",sala 3
 https://ag9wzq.la10tv.com:443/espn/tracks-v1a1/mono.m3u8?remote=201.180.92.121&token=e2f4a9d5b77bbd75e18b7de4093306f4a737de99-fff008ca0b5bc196ceff77d2c0890ac2-1726981206-1726945206
 #EXTINF:-1 tvg-logo="",sala 4
