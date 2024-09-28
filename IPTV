@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo=""group-title="", Inter de Miami vs charlotte fc
+http://cdn88.cdnfree.online:2052/live-obs/evento3/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="", boca juniors vs belgrano 2
 http://cdn88.cdnfree.online:2052/live-2/297/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI0IDExOjAzOjQzIFBNJmhhc2hfdmFsdWU9MzdxU2NUb1BVaXJHVDQxVFNGNUF3QT09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
 #EXTINF:-1 tvg-logo=""group-title="", boca juniors vs belgrano 
