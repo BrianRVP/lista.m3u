@@ -1,10 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo=""group-title="", Barcelona vs Osasuna
-https://dd513fb3228a.us-east-1.playback.live-video.net/api/video/v1/us-east-1.216989094934.channel.eWWtrudWtACh.m3u8
-#EXTINF:-1 tvg-logo="", Boca juniors vs river plate
-http://cdn88.cdnfree.online:2052/live-obs/evento2/playlist.m3u8
-#EXTINF:-1 tvg-logo="", Inter de Miami vs New York City
-https://05c7554a3a77.us-east-1.playback.live-video.net/api/video/v1/us-east-1.864899871764.channel.b1KvmXFGTh8q.m3u8
+
 #EXTINF:-1 tvg-logo="https://ia600406.us.archive.org/1/items/images_20240621/images.jpeg"group-title="",FUTBOL VIVO
 https://github.com/k-lamar09/cds/releases/download/C4t3g0r14s/P4cK.FUtB0L.m3u
 
