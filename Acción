@@ -1,5 +1,8 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fks0SX3SAOjjV6Rd9sJhXPyI5ai.jpg",Perros de guerra (2024)
+https://github.com/linkarg13/Pelis3/releases/download/2884848ed9/4.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ymTgBQ8rCouE27oHpAUfgKEgRAj.jpg",Rebel Ridge (2024)
 https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Rebel01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8U1BBNPAlu5Jy7eC0BM6d18ZHJV.jpg",The Killer (2024)
