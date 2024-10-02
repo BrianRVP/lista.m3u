@@ -1,6 +1,11 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo=""group-title="https://image.tmdb.org/t/p/original/sqS28Bpb8NTOsdLVOHDmIHU9nNY.jpg",sed de venganza 2 (2024)
+https://github.com/linkarg13/Pelis3/releases/download/2884848ed9/02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4Gaq1xOwSzcBs3IbdMRmiOXiJX4.jpg",sed de venganza (2017)
+https://github.com/linkarg13/Pelis3/releases/download/2884848ed9/01.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mH9a9BPisVQ2MHk9bcg7w24SqSI.jpg",Sed de venganza (2010)
+https://github.com/linkarg13/Pelis3/releases/download/2884848ed9/03.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fks0SX3SAOjjV6Rd9sJhXPyI5ai.jpg",Perros de guerra (2024)
 https://github.com/linkarg13/Pelis3/releases/download/2884848ed9/4.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ymTgBQ8rCouE27oHpAUfgKEgRAj.jpg",Rebel Ridge (2024)
