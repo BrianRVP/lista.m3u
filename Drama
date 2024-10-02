@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uvkLYn18A9ZfjSzJuaqA8hiRWyX.jpg",Las tres hijas (2024)
+https://github.com/linkarg13/Pelis3/releases/download/2884848ed9/5.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5wDA5KPDSzAaFesRR9lgihKopnS.jpg",Victima imperfecta (2023)
 https://github.com/linkarg13/Pelis3/releases/download/63ry743/04.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iCuQOTy1nnyPtbRn3xImcu9hvpi.jpg",The Wasp (2024)
