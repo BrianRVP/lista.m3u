@@ -1,12 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo=""group-title="", Inter de Miami vs charlotte 2
-https://cbbfa1ab1c65.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.216989094934.channel.8kdMzhP2xTpd.m3u8
-#EXTINF:-1 tvg-logo=""group-title="", Inter de Miami vs charlotte fc
+#EXTINF:-1 
+#EXTINF:-1 tvg-logo=""group-title="", Inter de Miami vs Columbus Crew
 http://cdn88.cdnfree.online:2052/live-obs/evento3/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="", boca juniors vs belgrano 2
-http://cdn88.cdnfree.online:2052/live-2/297/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI0IDExOjAzOjQzIFBNJmhhc2hfdmFsdWU9MzdxU2NUb1BVaXJHVDQxVFNGNUF3QT09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
-#EXTINF:-1 tvg-logo=""group-title="", boca juniors vs belgrano 
-https://cff2913b2342.us-west-2.playback.live-video.net/api/video/v1/us-west-2.216989094934.channel.zHO5WVORKAjr.m3u8
+#EXTINF:-1 tvg-logo=""group-title="", Inter de Miami vs Columbus Crew 2
+https://f75a9cb74fa6.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.699475930879.channel.kATLpjJqog0a.m3u8
 #EXTINF:-1 tvg-logo="https://ia600406.us.archive.org/1/items/images_20240621/images.jpeg"group-title="",FUTBOL VIVO
 https://github.com/k-lamar09/cds/releases/download/C4t3g0r14s/P4cK.FUtB0L.m3u
 
