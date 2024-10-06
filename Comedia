@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fC3OWjpmTwZOpb2KXN3LOFfS2Ny.jpg",Ctrl (2009)
+https://github.com/linkarg13/Pelis3/releases/download/2884848ed9/001.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3f93YAzZRc2vtOQyRqrakD0YS3O.jpg",Culpa cero (2024)
 https://github.com/linkarg13/Pelis3/releases/download/2884848ed9/09.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1tGnyrfjveMFe7CwXnLTZuDtO1A.jpg",Problemas... (2024)
