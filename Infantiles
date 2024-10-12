@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg"group-title="",Wall-e
+https://github.com/HECTHINHOXD/BFLIX-PELIS/releases/download/Pelis-6/wall-e.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sDoXpaKZmrzCSJH63zZvQQ9A7VK.jpg",Robot salvaje (2024)
 https://github.com/linkarg13/Pelis3/releases/download/2884848ed9/3.mp4
