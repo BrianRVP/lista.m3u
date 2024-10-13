@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/INTM2.jpg", Intensamente 2 (2024)
+https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/INMT2.mp4
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg"group-title="",Wall-e
 https://github.com/HECTHINHOXD/BFLIX-PELIS/releases/download/Pelis-6/wall-e.mp4
 
