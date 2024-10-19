@@ -1,18 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo=""group-title="",Argentina vs Bolivia
-http://cdn88.cdnfree.online:2052/live-2/299/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyNCAxOjA0OjE2IEFNJmhhc2hfdmFsdWU9SHlraFc2KzBveHE3SC9jUUtPaWUzZz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
-#EXTINF:-1 tvg-logo=""group-title="", Venezuela vs Argentina 2
-https://741dd8b0b917.us-west-2.playback.live-video.net/api/video/v1/us-west-2.727646500698.channel.6WAXllsDndWa.m3u8
-#EXTINF:-1 tvg-logo=""group-title="", Venezuela vs Argentina
-https://741dd8b0b917.us-west-2.playback.live-video.net/api/video/v1/us-west-2.727646500698.channel.6WAXllsDndWa.m3u8
-#EXTINF:-1 tvg-logo=""group-title="", Inter de Miami vs Toronto
-http://cdn88.cdnfree.online:2052/live-obs/evento2/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="", Inter de Miami vs Toronto 2
-https://dacbfe4b666e.us-east-1.playback.live-video.net/api/video/v1/us-east-1.242201287746.channel.loZ3NZ3i3mPR.m3u8
-#EXTINF:-1 tvg-logo=""group-title="", Inter de Miami vs Columbus Crew
+#EXTINF:-1 tvg-logo=""group-title="",Inter de Miami vs New england
 http://cdn88.cdnfree.online:2052/live-obs/evento3/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="", Inter de Miami vs Columbus Crew 2
-https://f75a9cb74fa6.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.699475930879.channel.kATLpjJqog0a.m3u8
 #EXTINF:-1 tvg-logo="https://ia600406.us.archive.org/1/items/images_20240621/images.jpeg"group-title="",FUTBOL VIVO
 https://github.com/k-lamar09/cds/releases/download/C4t3g0r14s/P4cK.FUtB0L.m3u
 
