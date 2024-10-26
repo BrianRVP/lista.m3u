@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jk5wf0r/v-H0-Mghb0l-NJ5k7-Ep-Dw-I7i-JV7qa-O-1.jpg"group-title="Star+",LOS SIMPSON
+https://raw.githubusercontent.com/tokio14-dot/p3l122/refs/heads/main/L0221mps0ns
 
 #EXTINF:-1 tvg-logo="https://www.infobae.com/new-resizer/u3h5_znTjY0Bz_U0hIzXMYD8RuM=/arc-anglerfish-arc2-prod-infobae/public/ZXNM27XQFNHVFPJJYABP6Z22NA.jpg"group-title="Star+",Shogun
 https://github.com/Ezequiel10579/serie-japonesa/releases/download/samurai/shogun.m3u
