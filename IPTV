@@ -24,21 +24,32 @@ https://cdn5.lqsa.es/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="",locomotion 
 http://51.222.85.85:81/hls/loco/index.m3u8
 
+-----------
+#EXTINF:-1 tvg-logo=""group-title="",01
+https://raw.githubusercontent.com/rb1223/masterapp/main/tv24tv1.m3u
+#EXTINF:-1 tvg-logo=""group-title="",02
+https://raw.githubusercontent.com/rb1223/masterapp/main/tv24tv2.m3u
+#EXTINF:-1 tvg-logo=""group-title="",03
+https://raw.githubusercontent.com/rb1223/masterapp/main/tv24tv3.m3u
+#EXTINF:-1 tvg-logo=""group-title="",04
+https://raw.githubusercontent.com/rb1223/masterapp/main/tv24tv4.m3u
+#EXTINF:-1 tvg-logo=""group-title="",05
+https://raw.githubusercontent.com/rb1223/masterapp/main/tv24tv6.m3u
+#EXTINF:-1 tvg-logo=""group-title="",06
+https://raw.githubusercontent.com/rb1223/masterapp/main/tv24tv6.m3u
+#EXTINF:-1 tvg-logo=""group-title="",07
+https://raw.githubusercontent.com/rb1223/masterapp/main/tv24tv7.m3u
+#EXTINF:-1 tvg-logo=""group-title="",08
+https://raw.githubusercontent.com/rb1223/masterapp/main/tv24tv8.m3u
+#EXTINF:-1 tvg-logo=""group-title="",09
+https://raw.githubusercontent.com/rb1223/masterapp/main/tv24tv9.m3u
+#EXTINF:-1 tvg-logo=""group-title="",10
+https://raw.githubusercontent.com/rb1223/masterapp/main/tv24tv10.m3u
+#EXTINF:-1 tvg-logo=""group-title="",lista 2024
+https://raw.githubusercontent.com/rb1223/masterapp/main/tv24mpls2024.m3u
+#EXTINF:-1 tvg-logo=""group-title="",lista plus
+https://raw.githubusercontent.com/rb1223/masterapp/main/tv24mpls90.m3u
 
-#EXTINF:-1 tvg-logo="",sala 1
-https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/master.m3u8?hdnea=st=1727391580~exp=1727567980~acl=/hls/live/2040462/canal8cordoba/TOK/*~hmac=aae72e05a178954a85377e278e4c4305844ff5a3776fd1af28e312ad246b60b5
-#EXTINF:-1 tvg-logo="",sala 3
-https://ag9wzq.la10tv.com:443/espn/tracks-v1a1/mono.m3u8?remote=201.180.92.121&token=e2f4a9d5b77bbd75e18b7de4093306f4a737de99-fff008ca0b5bc196ceff77d2c0890ac2-1726981206-1726945206
-#EXTINF:-1 tvg-logo="",sala 4
-https://c6amu47fxvnbej39ryp5zw.cdnstrength.net:8443/hls/tjw6jpt8n95.m3u8?s=4AZ3_YWXjhpEk8EWa3jokw&e=1726967440
-#EXTINF:-1 tvg-logo="",sala 5
-
-#EXTINF:-1 tvg-logo="",sala 6
-
-#EXTINF:-1 tvg-logo="",sala 7
-
-#EXTINF:-1 tvg-logo="",sala 8
-https://05c7554a3a77.us-east-1.playback.live-video.net/api/video/v1/us-east-1.864899871764.channel.bGUHwMrFEgKi.m3u8
 --------------
 
 #EXTINF:-1 tvg-logo=""group-title="Plutotv + canales",Canales
