@@ -13,9 +13,7 @@ https://mametchikitty.github.io/Listas-IPTV/studio-ghibli-latino.m3u
 https://raw.githubusercontent.com/rb1223/masterapp/main/tv24mpls2024.m3u
 #EXTINF:-1 tvg-logo=""group-title="tokio",lista plus
 https://raw.githubusercontent.com/rb1223/masterapp/main/tv24mpls90.m3u
-#EXTINF:-1 tvg-logo=""group-title="",srregio flix
-http://srregio.net/24on/regioflix.m3u
-#EXTINF:-1 tvg-logo=""group-title="",cnales vavoo
+#EXTINF:-1 tvg-logo=""group-title="tokio",cnales vavoo
 https://raw.githubusercontent.com/joaquinito2070/VAVOO-IPTV/refs/heads/main/index_Spain.m3u
 --------------
 
