@@ -1,33 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://ia600406.us.archive.org/1/items/images_20240621/images.jpeg"group-title="",FUTBOL VIVO
+-----------TOKIO.......
+#EXTINF:-1 tvg-logo="https://ia600406.us.archive.org/1/items/images_20240621/images.jpeg"group-title="tokio",FUTBOL VIVO
 https://github.com/k-lamar09/cds/releases/download/C4t3g0r14s/P4cK.FUtB0L.m3u
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDs30bS/IMG-20240703-030446.jpg"group-title="pruebas",SR.REGIO
-https://github.com/linkarg13/SERIES2/releases/download/M3u/senor.m3u
-
-#EXTINF:-1 tvg-logo=""group-title="pruebas",serve1
-http://live.budtvlight.com:25461/get.php?username=bud-4002278&password=95fd274a18&type=m3u
-
-#EXTINF:-1 tvg-logo=""group-title="pruebas",prueb2
-http://ktv.im:8080/get.php?username=0567616054&password=0567616054&type=m3u
-
-#EXTINF:-1 tvg-logo="https://cdns-images.dzcdn.net/images/cover/a8c43ec5dcb58cf51220ba02bf58b93b/500x500.jpg",01 -mat
-https://archive.org/download/11-amigos/11-amigos_vbr.m3u
-
-#EXTINF:-1 tvg-logo=""group-title="",aqui no ahi quien viva
+#EXTINF:-1 tvg-logo=""group-title="tokio",aqui no ahi quien viva
 https://cdn5.lqsa.es/hls/0/stream.m3u8
-
------------
-
-#EXTINF:-1 tvg-logo=""group-title="",Dibujos animados
+#EXTINF:-1 tvg-logo=""group-title="tokio",Dibujos animados
 https://mametchikitty.github.io/Listas-IPTV/dibujos-animados.m3u
-#EXTINF:-1 tvg-logo=""group-title="",Estudio Ghibli Latino
+#EXTINF:-1 tvg-logo=""group-title="tokio",Estudio Ghibli Latino
 https://mametchikitty.github.io/Listas-IPTV/studio-ghibli-latino.m3u
-#EXTINF:-1 tvg-logo=""group-title="",lista 2024
+#EXTINF:-1 tvg-logo=""group-title="tokio",lista 2024
 https://raw.githubusercontent.com/rb1223/masterapp/main/tv24mpls2024.m3u
-#EXTINF:-1 tvg-logo=""group-title="",lista plus
+#EXTINF:-1 tvg-logo=""group-title="tokio",lista plus
 https://raw.githubusercontent.com/rb1223/masterapp/main/tv24mpls90.m3u
 
 --------------
@@ -49,15 +33,11 @@ https://raw.githubusercontent.com/Zickari0619/24-7/main/247.m3u
 http://ultrapremium.cloud:8080/get.php?username=96109895&password=2473ph&type=m3u_plus
 #EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv/1604400204_458039_1604400248_noticia_normal_recorte2.jpg" group-title="",PLUTO TV
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Pluto%20tv
-
-
 #EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv/1604400204_458039_1604400248_noticia_normal_recorte2.jpg" group-title="", TELECLUB
 http://tv.teleclub.xyz/lista/canales.m3u
 
-#EXTINF:-1 tvg-logo="https://pelotalibre.org/wp-content/uploads/2022/12/DirecTV_Sports.png" group-title="",BOCA JUNIORS 
-https://raw.githubusercontent.com/Imag7/Imagt/main/movies.txt
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/sex-education.jpg" group-title="Netflix",Sex education
-https://github.com/BrianRVP/lista.m3u/releases/download/PrubeaREMAKEEEEEEEEEEEEEEEEEEEEE/S4E13X.E1AD1UCA1RTI1ON.1.mp4
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/b5/Metegol1.jpg/revision/latest?cb=20130714222606&path-prefix=es" group-title="",EVENTOS PRUEBA
-https://raw.githubusercontent.com/ValentinoProM123/MDMP4/main/eventsARPECLECBOBRCH
+
+
+
+......
