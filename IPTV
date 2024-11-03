@@ -1,11 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo=""group-title="",Inter de Miami vs New england
-http://cdn88.cdnfree.online:2052/live-obs/evento3/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://ia600406.us.archive.org/1/items/images_20240621/images.jpeg"group-title="",FUTBOL VIVO
 https://github.com/k-lamar09/cds/releases/download/C4t3g0r14s/P4cK.FUtB0L.m3u
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cYZkcyJ/360-F-58743874-4-FYn-XPIQRc-Fo8i-GTfq-Ja8o-Nm-Gqoa9-QE4.jpg"group-title="",listas IptV
-https://raw.githubusercontent.com/linkarg13/DEPORTE/main/Listas
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDs30bS/IMG-20240703-030446.jpg"group-title="pruebas",SR.REGIO
 https://github.com/linkarg13/SERIES2/releases/download/M3u/senor.m3u
@@ -21,8 +18,6 @@ https://archive.org/download/11-amigos/11-amigos_vbr.m3u
 
 #EXTINF:-1 tvg-logo=""group-title="",aqui no ahi quien viva
 https://cdn5.lqsa.es/hls/0/stream.m3u8
-#EXTINF:-1 tvg-logo="",locomotion 
-http://51.222.85.85:81/hls/loco/index.m3u8
 
 -----------
 
