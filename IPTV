@@ -13,7 +13,8 @@ https://mametchikitty.github.io/Listas-IPTV/studio-ghibli-latino.m3u
 https://raw.githubusercontent.com/rb1223/masterapp/main/tv24mpls2024.m3u
 #EXTINF:-1 tvg-logo=""group-title="tokio",lista plus
 https://raw.githubusercontent.com/rb1223/masterapp/main/tv24mpls90.m3u
-
+#EXTINF:-1 tvg-logo=""group-title="",srregio flox
+http://srregio.net/24on/regioflix.m3u
 --------------
 
 #EXTINF:-1 tvg-logo=""group-title="Plutotv + canales",Canales
