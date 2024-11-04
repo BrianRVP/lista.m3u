@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8rdB1wkheEMMqcY8qLAKjCMPcnZ.jpg",My Hero Academia: You're Next (2024)
+https://github.com/tokio14-dot/Q.5825/releases/download/Q.563737/373679421567.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/aLv87NgRJUPkQ6sVLP72IisDdt4.jpg",La leyenda de Hei (2019)
 https://archive.org/download/la-leyenda-de-hei-peli-cula-completa-hd-buena-espan-ol-1080-p-hd/LA%20LEYENDA%20DE%20HEI%20PEL%C3%8DCULA%20COMPLETA-%20HD-%20BUENA%20%28ESPA%C3%91OL%29%281080P_HD%29.ia.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/a3Hxt3UhpiyvX8qcO4vJpu0WThc.jpg"group-title="",el imaginario (2023)
