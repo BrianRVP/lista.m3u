@@ -1,31 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sqS28Bpb8NTOsdLVOHDmIHU9nNY.jpg"group-title="",sed de venganza 2 (2024)
-https://github.com/linkarg13/Pelis3/releases/download/2884848ed9/02.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4Gaq1xOwSzcBs3IbdMRmiOXiJX4.jpg",sed de venganza (2017)
-https://github.com/linkarg13/Pelis3/releases/download/2884848ed9/01.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mH9a9BPisVQ2MHk9bcg7w24SqSI.jpg",Sed de venganza (2010)
-https://github.com/linkarg13/Pelis3/releases/download/2884848ed9/03.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fks0SX3SAOjjV6Rd9sJhXPyI5ai.jpg",Perros de guerra (2024)
-https://github.com/linkarg13/Pelis3/releases/download/2884848ed9/4.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ymTgBQ8rCouE27oHpAUfgKEgRAj.jpg",Rebel Ridge (2024)
-https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Rebel01.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8U1BBNPAlu5Jy7eC0BM6d18ZHJV.jpg",The Killer (2024)
-https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Killer01.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uMILqn3ArGkfDSteAlqsL2WiINT.jpg",Presa (2024)
-https://github.com/linkarg13/Pelis3/releases/download/Peliss/0002.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/aVN4j2Kp8k91qe0DmJp8RheBDSx.jpg",King Arthur (2004)
-https://github.com/linkarg13/SERIES2/releases/download/S3%C3%B10rd3l0san1ll0s/1111.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/3L1iVZBtzFUavfVG9LGfFjfsYvC.jpg",Immortals (2011)
-https://github.com/linkarg13/SERIES2/releases/download/S3%C3%B10rd3l0san1ll0s/2222.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/rthioP0Xgfl818DJeHcyiHxWHPN.jpg",troya (2004)
-https://github.com/linkarg13/SERIES2/releases/download/S3%C3%B10rd3l0san1ll0s/4444.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/90QFOG5zSN4cbrIVs4DL4ePAuA5.jpg",gradiador(2000)
-https://github.com/linkarg13/SERIES2/releases/download/S3%C3%B10rd3l0san1ll0s/3333.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg",300 (2007)
-https://github.com/linkarg13/SERIES2/releases/download/S3%C3%B10rd3l0san1ll0s/5555.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/cbt5wY4rCe63JBmNYnJytJpFhnm.jpg",300 el origen de un imperio (2014)
-https://github.com/linkarg13/SERIES2/releases/download/S3%C3%B10rd3l0san1ll0s/6666.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/lA7mNjRUZ9FLDKwqdmifU8UmAuZ.jpg"group-title="", mine:Sobreviviendo en el desierto
 https://github.com/HECTHINHOXD/BFLIX-PELIS/releases/download/PEL%C3%8DCULAS-SPIDER/1280x720-Mine.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/g1g6hCYtuRuf9ZJISDmCKjXffSs.jpg"group-title="",12 horas para el fin del mundo
@@ -40,6 +14,7 @@ https://github.com/HECTHINHOXD/BFLIX-PELIS/releases/download/JUEGOS-LOS-HAMbRE/s
 https://github.com/HECTHINHOXD/BFLIX-PELIS/releases/download/JUEGOS-LOS-HAMbRE/sinsajo.parte.2.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/eaiUgabhNozGGmBb1wlUybWoBoQ.jpg"group-title="", los juegos del hambre 4: balada de pájaros
 https://github.com/HECTHINHOXD/BFLIX-PELIS/releases/download/JUEGOS-LOS-HAMbRE/balada.de.pajaros.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JvQ6Nfj/IMG-20240810-213854-858.jpg"group-title="",A fondo | One Fast Move 2024)
 https://dl.dropbox.com/scl/fi/yqo0i251nlb2etml8cagu/1_5021690666019718356.mp4?rlkey=hrg2wati8wpm4jlub7sa78ge0&st=5rgb06ea&dl=0
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/bQ2aNqcIGopI2AsTREc8sQlz6CN.jpg"group-title="",A descubierto (2021)
