@@ -1,32 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sDoXpaKZmrzCSJH63zZvQQ9A7VK.jpg",Robot salvaje (2024)
+https://github.com/tokio14-dot/Q.5825/releases/download/Q.563737/614790245467.mp4
 #EXTINF:-1 tvg-logo="https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/INTM2.jpg", Intensamente 2 (2024)
 https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/INMT2.mp4
-
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg"group-title="",Wall-e
 https://github.com/HECTHINHOXD/BFLIX-PELIS/releases/download/Pelis-6/wall-e.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sDoXpaKZmrzCSJH63zZvQQ9A7VK.jpg",Robot salvaje (2024)
-https://github.com/linkarg13/Pelis3/releases/download/2884848ed9/3.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dwDektd9XzJpD0vM4TU7Gy8Wm0P.jpg",Buffalo Kids (2024)
-https://github.com/linkarg13/Pelis3/releases/download/2884848ed9/7.mp4
-
------cars-------
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cars.jpg" group-title="",Cars 
- https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Ca.2006.mp4
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cars-2-una-nueva-aventura-sobre-ruedas.jpg" group-title="",Cars 2: Una Nueva Aventura Sobre Ruedas (2011) 720p latino 
-https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Ca.2.mp4
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cars-3.jpg" group-title="",Cars 3 (2017) 360p latino
-https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/Ca.3.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5StLiGv2QMxzzrGcCFsT4Wd64Nq.jpg",200%wolf(2024)
-https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/01.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4uyDEzcIn5NDPDsjQVjLHFKCI9L.jpg",100% wolf (2020)
-https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/02.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ldqUcd5tpgtiBob6fyNXLhDT7uR.jpg",Comidalia (2018)
-https://github.com/linkarg13/Pelis3/releases/download/P3l1cul4/03.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1V34tiUPo3memMuCFlGhpA7ODbj.jpg"group-tile="",La Familia del Futuro (2007) 720p latino
-https://github.com/linkarg13/SERIES2/releases/download/Theumbrescademy3/fam1lyd3lfutur0.mp4
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/b5/Metegol1.jpg/revision/latest?cb=20130714222606&path-prefix=es", METEGOL (2013)
 https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/MTG2013AR.avi
 #EXTINF:-1 tvg-logo="https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY_PTD1.jpg", TOY STORY (1995)
@@ -37,8 +16,6 @@ https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY2.mp4
 https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY3.mp4
 #EXTINF:-1 tvg-logo="https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY_PTD4.jpg", TOY STORY 4 (2019)
 https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY4.mkv
-#EXTINF:-1 tvg-logo="https://github.com/linkarg13/Prueba-y-error/releases/download/Prueba/IMG_20240812_124101_397.jpg",L RESCATE DE FONDO DE BIKINI (2024)
-https://github.com/linkarg13/Prueba-y-error/releases/download/Prueba/bob008530010051445943.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/eU9IBodwp3RnTgIJzwKjHow1LI3.jpg"group-title="",All hallows eve
 https://cache010.peliscdn.online/newhls/f0f7f535ad43de0a9b51976ce458a3ad/EP.0.2.v0.1709689181.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ojsARUPhtbMAcA3dCR3UwcHW1wM.jpg"group-title="",paw Patrol la súper película 
