@@ -1,6 +1,9 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cmLD1G3r0Pj2zzylzlmwCGF4Qj4.jpg",El secuestro de 1993 (2024)
+https://github.com/tokio14-dot/p3l122/releases/download/q.y52899/53678811.mp4
+#EXTINF:-1 tvg-logo="",La puerta del sotano(2024)
+https://github.com/tokio14-dot/p3l122/releases/download/q.y52899/3566222.mp4
 -------joker-----
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tMMYwxrPwVPrxz3DqXs8DnVIOx0.jpg",Joker: Folie à Deux (2024)
 https://github.com/tokio14-dot/p3l12/releases/download/Q.951716/j53722168888.mp4
