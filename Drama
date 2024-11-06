@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5zlbRu9X2FCSkDxV4ZhrPrJDgg8.jpg",La cueva azul (2024)
+https://github.com/tokio14-dot/p3l122/releases/download/q.y52899/395965848333.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cmLD1G3r0Pj2zzylzlmwCGF4Qj4.jpg",El secuestro de 1993 (2024)
 https://github.com/tokio14-dot/p3l122/releases/download/q.y52899/53678811.mp4
 #EXTINF:-1 tvg-logo="",La puerta del sotano(2024)
