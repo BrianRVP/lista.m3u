@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="",Cómplice en fuga(2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yD2aWiFgOO2Dzh6K6URImCG3wYp.jpg",Cómplice en fuga(2024)
 https://github.com/tokio14-dot/pel2/releases/download/Q.6948/Q.853478.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8csZdgUBVTDZ8XOIjoRVngwOvOq.jpg",Una jirafa en el balcón (2024)
 https://github.com/tokio14-dot/pel2/releases/download/Q.6948/62346899te2.mp4
