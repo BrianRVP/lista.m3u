@@ -36,7 +36,8 @@ https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Djjdk
 #EXTINF:-1 tvg-logo="",https://hugh.cdn.rumble.cloud/video/fw/s8/2/R/w/S/4/RwS4r.caa.mp4?u=0&b=0
 #EXTINF:-1 tvg-logo="",c4
 https://github.com/tokio14-dot/pel2/releases/download/Q.6948/ggg.m3u
-
+#EXTINF:-1 tvg-logo="",c5
+https://github.com/tokio14-dot/pel2/releases/download/Q.6948/ppp.m3u
 
 #EXTINF:-1 tvg-logo=""group-title="Plutotv + canales",Canales
 https://telechancho.github.io/telechancho-iptv/telechancho-infinity.m3u
