@@ -1,7 +1,7 @@
 #EXTM3U
 
 -----------TOKIO.......
-#EXTINF:-1 tvg-logo=""group-title="",infantiles 24/7
+#EXTINF:-1 tvg-logo=""group-title="tokio",infantiles 24/7
 https://github.com/k-lamar09/cds/releases/download/C4t3g0r14s/1nf4nt1l3s_24_7.m3u
 #EXTINF:-1 tvg-logo="https://ia600406.us.archive.org/1/items/images_20240621/images.jpeg"group-title="tokio",FUTBOL VIVO
 https://github.com/k-lamar09/cds/releases/download/C4t3g0r14s/P4cK.FUtB0L.m3u
@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/rb1223/masterapp/main/tv24mpls2024.m3u
 https://raw.githubusercontent.com/rb1223/masterapp/main/tv24mpls90.m3u
 #EXTINF:-1 tvg-logo=""group-title="tokio",cnales vavoo
 https://raw.githubusercontent.com/joaquinito2070/VAVOO-IPTV/refs/heads/main/index_Spain.m3u
-#EXTINF:-1 tvg-logo=""group-title="",prueba tokio
+#EXTINF:-1 tvg-logo=""group-title="tokio",prueba tokio
 http://bolgenco.xyz:2082/get.php?username=Jesus2707&password=tKhpsNptj3gE&type=m3u_plus
 #EXTINF:-1 tvg-logo=""group-title="tokio",prueba
 http://claymoir.chocoplus.xyz:8080/get.php?username=57kure39ze38fa65&password=47wuma84duwe57&type=m3u_plus&output=m3u8
@@ -27,7 +27,7 @@ https://m3u.cl/lista/total.m3u
 https://github.com/tokio14-dot/tv/releases/download/q.521/FUNCIONAL.X.m3u
 
 --------PRUEBA------
-#EXTINF:-1 tvg-logo=""group-title="pruebas",c1
+#EXTINF:-1 tvg-logo="https://grantorrent.mov/wp-content/uploads/2024/11/El-fantasma-de-Canterville83-(poster).jpg"group-title="pruebas",El fantasma de Canterville (2023)
 https://abra--d407d36b.api.brilliant-bittern.buzz/e1bbc2ff4e847ee4570c2d83b87144a0cee511a1/The%20Canterville%20Ghost%20%28Mi%20amigo%20el%20fantasma%29%20%282023%29%20cast.mp4~vod/hls/1e2dbdd407aba087345dc2cf4157501788b068d2/index.m3u8?api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzIzOTY1NjksInJhdGUiOiIxME0iLCJyb2xlIjoiZnJlZSIsInNlc3Npb25JRCI6Ik1UY3pNVGM1TVRjeU1YeE9kM2RCVGtaR1NsRlZOVTFPVm5CV1RqRk9VMVZyV2xKVlJrcElUVEJ3UlUwd1RreFNSV1JFVkd4Q1JsTlVZekZXTURRd1YxUmFTMDFyY3pOVVZXaGhVMVZ2ZVZFeFRrZFJNRVU5Zklwd3RoRzc3ajdTd1JZZVltMnQzckpkRW9Pa0NtUy1zTDY2YUJ4d2hxOGkiLCJkb21haW4iOiJ3ZWJ0b3IuaW8iLCJhZ2VudCI6Ik1vemlsbGEvNS4wIChYMTE7IExpbnV4IHg4Nl82NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNC4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVtb3RlQWRkcmVzcyI6IjIwMS4xODAuOTIuMTY3In0.ErPJYmahrs1VEk5AEodrQbOx9D3p2bvjcFeSiLVVNNs
 #EXTINF:-1 tvg-logo=""group-title="pruebas",c2
 https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/INFANTIL.m3u
