@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://github.com/tokio14-dot/youtubem/releases/download/W.24577/images.png",colombia vs ecuador
+https://3da5cf23851b.us-west-2.playback.live-video.net/api/video/v1/us-west-2.588738590850.channel.j9NjipVgHiIz.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tokio14-dot/youtubem/releases/download/W.24577/images.png",vip2
+
+#EXTINF:-1 tvg-logo="https://github.com/tokio14-dot/youtubem/releases/download/W.24577/images.png",vip3
+
+#EXTINF:-1 tvg-logo="https://github.com/tokio14-dot/youtubem/releases/download/W.24577/images.png",vip4
+
+
+
 -----------TOKIO.......
 #EXTINF:-1 tvg-logo=""group-title="tokio",infantiles 24/7
 https://github.com/k-lamar09/cds/releases/download/C4t3g0r14s/1nf4nt1l3s_24_7.m3u
