@@ -2,18 +2,8 @@
 #EXTGRP: Clasic
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w9bMK4TmRtRzSIlvBkWPH6bUSjr.jpg",Shaka Zulu (1986)
-https://github.com/linkarg13/SERIES2/releases/download/M3u/Shaka.Zulu.1986.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lO1cMlhrs5NqKXU4n3vUTTqpAL6.jpg",MacGyver (1985) 
-https://github.com/linkarg13/SERIES2/releases/download/M3u/mcgyver.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4PAN7zPqmR9b73een97WkxqCTQN.jpg",LOBO DE AIRE (1984) latino
-https://github.com/linkarg13/SERIES2/releases/download/M3Useries/lobodeaire.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eJ1sr4grhYaDz3mYwcan3HI9Blx.jpg",BOMANZAS (1959) latino
-https://github.com/linkarg13/SERIES2/releases/download/M3Useries/bonanzas.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w5HvVZRFnZfzVtsNyQAVAzaNccX.jpg",PLANETA DE LOS SIMIOS serie (1985)  latino
-https://github.com/linkarg13/SERIES2/releases/download/M3Useries/planeta.de.los.simios.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/keZqyr8EQLCjHejuZ3U4HAopxrY.jpg",THE HAUNTING HOUR (2010) latino
-https://github.com/linkarg13/SERIES2/releases/download/M3Useries/The.Haunting.Hour.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qghY5Oj1ND5iYJpf8ViuiTbwSNm.jpg",Zeke y Luther (2009)
+https://github.com/tokio14-dot/pi-pelis/releases/download/P.4.42/Zeke.y.Luther.m3u
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-locos-addams-1669466290.png",Los Locos Addams (1964) latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Los%20locos%20addams%201964
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/HLrCGIEoMADl3wD8gcB77iSz3D.jpg",El avispon verde (1966) latino
