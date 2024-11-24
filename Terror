@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sOZc3U9acAqlItsI7amSGKUdd7k.jpg",La cosa (The Thing) (2011)
+https://github.com/tokio14-dot/pi-pelis/releases/download/P.4.42/L.1.85.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/a2N5St0TCmyJy2F8IwPlo2lEbiJ.jpg",La pirámide (2014)
+https://github.com/tokio14-dot/pi-pelis/releases/download/P.4.42/P.4.42.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6GcWY38P2VisUbS7nK9Z1xOWU.jpg",El Boliche del Terror (2024)
 https://github.com/tokio14-dot/youtubem/releases/download/W.24577/Q.22222222.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oRtmSBegijsysFcA5Kwn2WmMdL4.jpg",Ahí afuera (2024)
