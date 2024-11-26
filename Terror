@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zjZOZ0Oe7HLT8su1OvCkjaWkjHg.jpg",Hereje (2024)CAM SUB
+https://github.com/tokio14-dot/te-rror/releases/download/A.5.76/S.4.56.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sOZc3U9acAqlItsI7amSGKUdd7k.jpg",La cosa (The Thing) (2011)
 https://github.com/tokio14-dot/pi-pelis/releases/download/P.4.42/L.1.85.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/a2N5St0TCmyJy2F8IwPlo2lEbiJ.jpg",La pirámide (2014)
