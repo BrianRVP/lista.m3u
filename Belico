@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zZFgu08NbAdf1GdyIcewwcpBznU.jpg",Los niños perdidos (2024)
+https://github.com/tokio14-dot/pi-pelis/releases/download/P.4.42/L.7.45.mp4
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7v1b4wC4UpjDp7XGsW7Q3UoeJ0R.jpg",Effie Gray (2014)
 https://github.com/linkarg13/Pelis3/releases/download/2884848ed9/8.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/beLbZExOZ64LzbqJbbbjhlqbezi.jpg",Disco, Ibiza, Locomía (2024)
