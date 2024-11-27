@@ -2,7 +2,10 @@
 
 
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oRuW3TzBqNsHnfx8P7Jla1AJgBJ.jpg",Cambio de bebés 2 (2024)
+https://github.com/tokio14-dot/pe-la/releases/download/A.1.0.1/cambio.2.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kdq4Xl7m33BTDY4IDaIgcEn8Jnq.jpg",Cambio de bebés 1 (2023)
+https://github.com/tokio14-dot/pe-la/releases/download/A.1.0.1/cambio.1.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/j47MMp6SVAZUmXRKMKA57Cgx0Yq.jpg"group-title="",Jackass presenta: Bad Grandpa (2013)
 https://github.com/tokio14-dot/pel2/releases/download/Q.6948/Q39581959.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6vzr24dRwBOO1AlCIcbJgj46L28.jpg"group-title="",Jackass presenta: Bad Grandpa .5 (2014)
