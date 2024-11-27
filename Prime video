@@ -2,18 +2,10 @@
 #EXTGRP:Prime video
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mRdRe2Zq9W6THoIryqseKZ7EEzh.jpg",The Wheel of Time (2021)
-https://github.com/linkarg13/SERIES2/releases/download/M3u/BFLIX.LA.RUEDA.DEL.TIEMP.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pWBCwK0lp5RLCyG89JzrhEVny47.jpg",Joe Pickett (2021)
-https://github.com/linkarg13/SERIES2/releases/download/M3u/BFLIX.linkarg.Joe.Pickett.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uyXaXijMRPYvfsK6OOLYGEEpNck.jpg",El Senor de los Anillos Los Anillos de Poder (2022)
-https://github.com/linkarg13/SERIES2/releases/download/M3u/BFLIX.senordelosanillos.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sHwGSijlzGtv8dM2FIlxG41XG8b.jpg",Cromañón: La noche del incendio (2024)
+https://github.com/tokio14-dot/te-rror/releases/download/A.5.76/cromanon.m3u
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/oqGj6senMxX7mBhmCMa7nKWDZRW.jpg"group-title="Prime video", Los morales 
 https://raw.githubusercontent.com/HECTHINHOXD/Series-bflix/main/Los%20Morales
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3rs80Tqc1QJbSjBmAQzxUPyu5pY.jpg"group-title="Prime video",BETTY la fea (2024)
-https://github.com/linkarg13/SERIES2/releases/download/BETTY2/00000000000000000000000000000000000000000000000.m3u
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/dLndpV6k1AcDRmFlLCxuWtt3wja.jpg"group-title="Prime video",fiesta de la salchicha (2024)
-https://github.com/linkarg13/SERIES2/releases/download/Fiestadesalchichas/0000000000000000.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t5FVNwDq0oQ1PvVd6EA9hrY3YFV.jpg" group-title="Prime video",TWD :Daryl Dixon
 https://raw.githubusercontent.com/Imag7/Imagt/main/Daryl
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg"group-title="Prime video",caballeros del zodiaco (1989)
