@@ -1,16 +1,11 @@
 #EXTM3U
 #EXTGRP:HBO Max
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg", Margarita (2024)
-https://github.com/linkarg13/SERIES2/releases/download/M3u/BFLIX.margarita.m3u
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg", Margarita 
 https://raw.githubusercontent.com/HECTHINHOXD/Series/main/README.md
 #EXTINF:-1 tvg-logo="https://github.com/linkarg13/SERIES2/releases/download/Ciud4dd3d10s/bROpzy08O9nSyfDgBUlgUoMp9nw.jpeg",ciudad de dios (2024)
-https://github.com/linkarg13/SERIES2/releases/download/Ciud4dd3d10s/13.ciudad.de.dios.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xGhCnhnv7FqvumkKUQ1Fqp287u0.jpg",Amor y muerte (2023)
-https://github.com/linkarg13/Pelis3/releases/download/Am0rymy3rt3/10.love.y.death.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/f1VtZt7Dh1yDBTGTKtlIHbxmMZ4.jpg",la materia hoscura(2019)
-https://github.com/linkarg13/SERIES2/releases/download/Lam4t3ri4oscura/9.16125689311425525977099699.m3u
+https://github.com/tokio14-dot/ciudad-dios2/releases/download/A.1.0.0/ciudad.m3u
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/5Yiep9EwcQgLolg013ETBVqHxuD.jpg"group-title="HBO Max",RICK Y MORTY
 https://bit.ly/3y81KkU
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-pinguino.jpg" group-title="HBO Max",El pinguino (2024) latino
