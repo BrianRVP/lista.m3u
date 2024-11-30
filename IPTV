@@ -1,19 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="",river vs independiende 
-http://ao.iones.monster:8081/app/s1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tokio14-dot/youtubem/releases/download/W.24577/images.png",colombia vs ecuador
-
-#EXTINF:-1 tvg-logo="https://github.com/tokio14-dot/youtubem/releases/download/W.24577/images.png",river vs independiente rivadavia
-
-#EXTINF:-1 tvg-logo="https://github.com/tokio14-dot/youtubem/releases/download/W.24577/images.png",chile vs venezuela
-
-#EXTINF:-1 tvg-logo="https://github.com/tokio14-dot/youtubem/releases/download/W.24577/images.png",brasil vs
-
-#EXTINF:-1 tvg-logo="https://github.com/tokio14-dot/youtubem/releases/download/W.24577/images.png",brasil vs uruguay
-
-
-
 
 -----------TOKIO.......
 #EXTINF:-1 tvg-logo=""group-title="tokio",infantiles 24/7
@@ -52,7 +38,7 @@ https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Djjdk
 #EXTINF:-1 tvg-logo="",c4
 https://github.com/tokio14-dot/pel2/releases/download/Q.6948/ggg.m3u
 #EXTINF:-1 tvg-logo="",c5
-https://github.com/tokio14-dot/pel2/releases/download/Q.6948/ppp.m3u
+https://github.com/tokio14-dot/dear-431/releases/download/peleo/prueba.m3u
 
 #EXTINF:-1 tvg-logo=""group-title="Plutotv + canales",Canales
 https://telechancho.github.io/telechancho-iptv/telechancho-infinity.m3u
