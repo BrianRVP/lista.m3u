@@ -28,7 +28,7 @@ https://m3u.cl/lista/total.m3u
 https://github.com/tokio14-dot/tv/releases/download/q.521/FUNCIONAL.X.m3u
 
 --------PRUEBA------
-#EXTINF:-1 tvg-logo=""group-title="pruebas",El fantasma de Canterville (2023)
+#EXTINF:-1 tvg-logo=""group-title="pruebas",c1
 http://127.0.0.1:46581/ace/m/a7b2e797c1f3b1945de53bf8af19f99387124397/f0313b53446bebe7e07a752f7700acc6.m3u8
 #EXTINF:-1 tvg-logo=""group-title="pruebas",c2
 https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/INFANTIL.m3u
