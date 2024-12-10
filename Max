@@ -1,8 +1,7 @@
 #EXTM3U
 #EXTGRP:HBO Max
 
-#EXTINF:-1 tvg-logo="",Mas alla del jardín (2014)
-https://github.com/tokio14-dot/from-2/releases/download/A.0.1.43/M4s4ll4d3lj4rdln.m3u
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg", Margarita 
 https://raw.githubusercontent.com/HECTHINHOXD/Series/main/README.md
 #EXTINF:-1 tvg-logo="https://github.com/linkarg13/SERIES2/releases/download/Ciud4dd3d10s/bROpzy08O9nSyfDgBUlgUoMp9nw.jpeg",ciudad de dios (2024)
