@@ -1,8 +1,9 @@
 #EXTM3U
 #EXTGRP:Prime video
 
-#EXTINF:-1 tvg-logo="",Mas alla del jardín (2014)
-https://github.com/tokio14-dot/from-2/releases/download/A.0.1.43/M4s4ll4d3lj4rdln.m3u
+
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wYsOR5dq7IzCnyIxi43WctC5Ria.jpg",Maradona Sueno bendito (2021)
 https://github.com/tokio14-dot/dear-431/releases/download/peleo/marad.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sHwGSijlzGtv8dM2FIlxG41XG8b.jpg",Cromanon La noche del incendio (2024)
