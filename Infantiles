@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/helDsRlGxRli0ha6H64afk7zrdp.jpg",Hechizados (2024)
+https://github.com/tokio14-dot/cobra-43/releases/download/descargadf/54656y.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mLAGAFUrRw9pphjnbnhtG1hASSN.jpg",moana 2 (2024)CAM
 https://github.com/tokio14-dot/pe-la/releases/download/A.1.0.1/moa2.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hw4FlDdufQuLIsYiqBYIL0Bxn26.jpg",moana
