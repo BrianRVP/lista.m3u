@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jpCIjeyiy5MGDTQEcmtwet68urF.jpg"group-title="Cartoon Network",Aventuras de una mosca (2000)
+https://github.com/tokio14-dot/from-3/releases/download/V.1.0.9/fly.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vWhzjxoHLrvl7JUKNDoXUfNqF2x.jpg" group-title="Cartoon Network",LA VACA Y EL POLLITO
 https://archive.org/download/ns_20210520/VACAPOLLO.m3u
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/fkCGY56kZoGsElefYGl91fzsLTs.jpg" group-title="Cartoon Network", Escandalositos
