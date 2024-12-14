@@ -1,9 +1,6 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://github.com/tokio14-dot/cobra-43/releases/download/descargadf/descarga.1.jpeg",Newell's Old Boys vs Boca Juniors
-http://96.126.115.89:8081/app/sala4/playlist.m3u8
---------TODO CINE---
+--------SIDE BY SIDE---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qeeQ7rfTAXNYh4EqqdolFLkNwKM.jpg",SIDE BY SIDE
 https://github.com/tokio14-dot/from-3/releases/download/V.1.0.9/1mati.m3u
 
