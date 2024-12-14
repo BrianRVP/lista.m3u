@@ -4,9 +4,6 @@
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qeeQ7rfTAXNYh4EqqdolFLkNwKM.jpg",SIDE BY SIDE
 https://github.com/tokio14-dot/from-3/releases/download/V.1.0.9/1mati.m3u
 
-
-
-
 -----------TOKIO.......
 #EXTINF:-1 tvg-logo=""group-title="tokio",infantiles 24/7
 https://github.com/k-lamar09/cds/releases/download/C4t3g0r14s/1nf4nt1l3s_24_7.m3u
@@ -44,7 +41,7 @@ https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Djjdk
 #EXTINF:-1 tvg-logo="",c4
 https://raw.githubusercontent.com/yuanxin69/m3u/refs/heads/master/124.m3u
 #EXTINF:-1 tvg-logo="",c5
-
+https://raw.githubusercontent.com/Pibyto/pibytotv.m3u/refs/heads/main/ClaudioTV01
 
 #EXTINF:-1 tvg-logo=""group-title="Plutotv + canales",Canales
 https://telechancho.github.io/telechancho-iptv/telechancho-infinity.m3u
