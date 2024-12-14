@@ -3,6 +3,9 @@
 --------SIDE BY SIDE---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qeeQ7rfTAXNYh4EqqdolFLkNwKM.jpg",SIDE BY SIDE
 https://github.com/tokio14-dot/from-3/releases/download/V.1.0.9/1mati.m3u
+#EXTINF:-1 tvg-logo=""group-title="SIDE BY SIDE",pibitotv
+https://raw.githubusercontent.com/Pibyto/pibytotv.m3u/refs/heads/main/Pel%C3%ADculas
+
 
 -----------TOKIO.......
 #EXTINF:-1 tvg-logo=""group-title="tokio",infantiles 24/7
