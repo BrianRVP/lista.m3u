@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKqcU7vRI_Zn6sI4kOCr994wBuMACbD_m9qA&usqp=CAU"group-title="MOVIE",REDADA ASESINA
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uT3jb2exALtaWrlhi8AMcBwvYph.jpg",gradiador 2
 https://github.com/tokio14-dot/tete/releases/download/D.563/gl4d1ad0r2.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jaBToJ1DZcwn5wOsQeLOXFVlBLn.jpg",Apocalipsis Z: el principio del fin (2024)
