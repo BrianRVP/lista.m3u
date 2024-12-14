@@ -3,6 +3,18 @@
 
 #EXTINF:-1 tvg-logo="https://github.com/tokio14-dot/cobra-43/releases/download/descargadf/descarga.1.jpeg",Newell's Old Boys vs Boca Juniors
 http://96.126.115.89:8081/app/sala4/playlist.m3u8
+--------TODO CINE------
+#EXTINF:-1 tvg-logo="TODO CINE",MOVIE
+https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Movies.m3u
+#EXTINF:-1 tvg-logo="TODO CINE",4K cimax
+https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/4k.m3u
+#EXTINF:-1 tvg-logo="TODO CINE",FULL SERIES
+https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Series.m3u
+#EXTINF:-1 tvg-logo="TODO CINE",INFANTIL
+https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Infantiles.m3u
+#EXTINF:-1 tvg-logo="TODO CINE",ANIME
+https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Animes.m3u
+
 -----------TOKIO.......
 #EXTINF:-1 tvg-logo=""group-title="tokio",infantiles 24/7
 https://github.com/k-lamar09/cds/releases/download/C4t3g0r14s/1nf4nt1l3s_24_7.m3u
@@ -38,7 +50,7 @@ https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/INFANTIL.m3u
 https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Djjdk
 #EXTINF:-1 tvg-logo="",https://hugh.cdn.rumble.cloud/video/fw/s8/2/R/w/S/4/RwS4r.caa.mp4?u=0&b=1
 #EXTINF:-1 tvg-logo="",c4
-https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Movies.m3u
+
 #EXTINF:-1 tvg-logo="",c5
 
 
