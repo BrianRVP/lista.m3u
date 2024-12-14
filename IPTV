@@ -4,16 +4,9 @@
 #EXTINF:-1 tvg-logo="https://github.com/tokio14-dot/cobra-43/releases/download/descargadf/descarga.1.jpeg",Newell's Old Boys vs Boca Juniors
 http://96.126.115.89:8081/app/sala4/playlist.m3u8
 --------TODO CINE------
-#EXTINF:-1 tvg-logo="TODO CINE",MOVIE
-https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Movies.m3u
-#EXTINF:-1 tvg-logo="TODO CINE",4K cimax
-https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/4k.m3u
-#EXTINF:-1 tvg-logo="TODO CINE",FULL SERIES
-https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Series.m3u
-#EXTINF:-1 tvg-logo="TODO CINE",INFANTIL
-https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Infantiles.m3u
-#EXTINF:-1 tvg-logo="TODO CINE",ANIME
-https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Animes.m3u
+
+#EXTINF:-1 tvg-logo="",TODO CINE
+https://github.com/tokio14-dot/from-3/releases/download/V.1.0.9/1mati.m3u
 
 -----------TOKIO.......
 #EXTINF:-1 tvg-logo=""group-title="tokio",infantiles 24/7
