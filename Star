@@ -60,6 +60,6 @@ http://archive.org/download/kkkkk_202101/7h3w4lk1nPR1NC1P4L.m3u
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Mi%20nombre%20es%20Earl
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/esposas-desesperadas.jpg" group-title="Star+",Esposas Desesperadas
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Esposas%20desesperadas
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pancho-villa-el-centauro-del-norte-1690425477.png" group-title="Star+",Pancho Villa: El centauro del norte
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Pancho%20Villa%3A%20El%20centauro%20del%20norte
-      
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/pancho-villa-el-centauro-del-norte-1690425477.png" group-title="Star+",Pancho Villa: El centauro del norte (2023) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Pancho%20Villa%20el%20centauro%20del%20norte
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/i6sJI3O1874FBdDtM0jn6fpPE0x.jpg" group-title="Star+",The Bear (2022) latino
