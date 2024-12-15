@@ -2,7 +2,7 @@
 #EXTGRP:HBO Max
 
 
-#EXTINF:-1 tvg-logo="",Mas alla del jardín (2014)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9YwTAvpjCj0daiIjcwI7Hhml4yJ.jpg",Mas alla del jardín (2014)
 https://github.com/tokio14-dot/from-3/releases/download/V.1.0.9/masallasdeljardin.m3u
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg", Margarita 
