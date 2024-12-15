@@ -59,8 +59,8 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Stranger%20things
 http://archive.org/download/ns_20210520/casa%20de%20flores%20.m3u 
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CASTLEVANIA.jpg" group-title="Netflix",CASTLEVANIA
 http://archive.org/download/ns_20210520/CASTEL.m3u 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/fsQ2KHbZk12z3h3dba2ActMEudj.jpg" group-title="Netflix",One Piece:Live Action latino
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/One%20Piece%3ALive%20Action
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/fsQ2KHbZk12z3h3dba2ActMEudj.jpg" group-title="Netflix",One Piece:Live Action (2023) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/One%20piece%20live%20action
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CLUB DE CUERVOS.jpg" group-title="Netflix",CLUB DE CUERVOS
 http://archive.org/download/ns_20210520/CLUBCUERVOS.m3u 
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/COBRA KAI.jpg" group-title="Netflix",COBRA KAI
@@ -101,16 +101,16 @@ https://raw.githubusercontent.com/linkarg13/SERIES/main/Criminales
 https://raw.githubusercontent.com/linkarg13/SERIES/main/OKUPAS
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/3-1669726661.png"group-title="Netflix",3%
 https://raw.githubusercontent.com/linkarg13/SERIES/main/3%25
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/ulGaOy0dUXAm8V2XRmIrQ3xE8lt.jpg" group-title="Netflix",Avatar:La leyenda de aang latino
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Avatar
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/ulGaOy0dUXAm8V2XRmIrQ3xE8lt.jpg" group-title="Netflix",Avatar:La leyenda de aang live action (2024) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Avatar%20live%20action
 #EXTINF:-1 tvg-logo="https://www.cuevana3.eu/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3Iw27VOUE9PGjrupjDAvPnlbGR9.jpg&w=640&q=75"group-title="Netflix", cuerpo en llamas
 https://raw.githubusercontent.com/linkarg13/Cuerpoenllamas/main/Cuerpo%20en%20llamas
 #EXTINF:-1 tvg-logo="https://repro12.estrenosdoramas.us/Sisyphus.png" group-title="Netflix",EL MITO DE SISIFO
 https://archive.org/download/elch4v0/sisy.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/gonzalez-narvaez/b34ckm4.jpg" group-title="Netflix",EL MUNDO DE BEAKMAN {1992}
 http://archive.org/download/ns_20210520/BECMAN.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/zfwbbab1yfHAjFbbClh1jYoV8gi.jpg" group-title="Netflix",Parasyte:Los grises latino
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Parasyte%3ALos%20grises
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/zfwbbab1yfHAjFbbClh1jYoV8gi.jpg" group-title="Netflix",Parasyte:Los grises (2024) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Parasyte%20los%20grises
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/EL MUNDO OCULTO DE SABRINA.jpg" group-title="Netflix",EL MUNDO OCULTO DE SABRINA
 http://archive.org/download/kuhlman_1/Series/series/El%20mundo%20oculto%20de%20sabrina%20opc%202.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/EL ROBO DEL SIGLO.jpg" group-title="Netflix",EL ROBO DEL SIGLO
@@ -211,8 +211,8 @@ http://archive.org/download/ns_20210520/trollhunter.m3u
 http://archive.org/download/113y-3s/VK.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/VIZ A VIZ.jpg" group-title="Netflix",VIZ A VIZ
 http://archive.org/download/t-5vavfufjfkxksu/T5vavfufjfkxksu.m3u
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/archive-81-2-1642252803.jpg" group-title="Netflix",Archivo 81
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Archivo%2081
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/archive-81-2-1642252803.jpg" group-title="Netflix",Archivo 81 (2022) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Archivo%2081
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-oa.jpg" group-title="Netflix",The OA
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20OA
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/rumbo-al-infierno-1669344118.png" group-title="Netflix",Rumbo al infierno (2021) latino
