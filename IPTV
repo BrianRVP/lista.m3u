@@ -5,16 +5,12 @@
 https://archive.org/download/masallasdeljardin/1mati.m3u
 
 -----------TOKIO.......
-#EXTINF:-1 tvg-logo=""group-title="tokio",infantiles 24/7
-https://github.com/k-lamar09/cds/releases/download/C4t3g0r14s/1nf4nt1l3s_24_7.m3u
-#EXTINF:-1 tvg-logo="https://ia600406.us.archive.org/1/items/images_20240621/images.jpeg"group-title="tokio",FUTBOL VIVO
-https://github.com/k-lamar09/cds/releases/download/C4t3g0r14s/P4cK.FUtB0L.m3u
+
+
 #EXTINF:-1 tvg-logo=""group-title="tokio",aqui no ahi quien viva
 https://cdn5.lqsa.es/hls/0/stream.m3u8
-#EXTINF:-1 tvg-logo=""group-title="tokio",Dibujos animados
-https://mametchikitty.github.io/Listas-IPTV/dibujos-animados.m3u
-#EXTINF:-1 tvg-logo=""group-title="tokio",Estudio Ghibli Latino
-https://mametchikitty.github.io/Listas-IPTV/studio-ghibli-latino.m3u
+
+
 #EXTINF:-1 tvg-logo=""group-title="tokio",lista 2024
 https://raw.githubusercontent.com/rb1223/masterapp/main/tv24mpls2024.m3u
 #EXTINF:-1 tvg-logo=""group-title="tokio",lista plus
@@ -23,12 +19,10 @@ https://raw.githubusercontent.com/rb1223/masterapp/main/tv24mpls90.m3u
 https://raw.githubusercontent.com/joaquinito2070/VAVOO-IPTV/refs/heads/main/index_Spain.m3u
 #EXTINF:-1 tvg-logo=""group-title="tokio",prueba tokio
 http://bolgenco.xyz:2082/get.php?username=Jesus2707&password=tKhpsNptj3gE&type=m3u_plus
+
 #EXTINF:-1 tvg-logo=""group-title="tokio",prueba
 http://claymoir.chocoplus.xyz:8080/get.php?username=57kure39ze38fa65&password=47wuma84duwe57&type=m3u_plus&output=m3u8
-#EXTINF:-1 tvg-logo=""group-title="tokio",m3u CL
-https://m3u.cl/lista/total.m3u
-#EXTINF:-1 tvg-logo=""group-title="tokio", funcional X
-https://github.com/tokio14-dot/tv/releases/download/q.521/FUNCIONAL.X.m3u
+
 
 --------PRUEBA------
 #EXTINF:-1 tvg-logo=""group-title="pruebas",c1
