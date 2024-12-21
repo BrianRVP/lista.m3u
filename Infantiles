@@ -1,7 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yOivfBs1vLrPRVw2Ci4AlGkl1G3.jpg",Mufasa: El rey león (2024)
+https://github.com/tokio14-dot/m-s-alla/releases/download/134434/1_5125353962316235986.1.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zYrdQFESYc4FU2MM1O4RwL2Km2N.jpg",Mufasa: El rey león (2024)
-
+https://dl.dropbox.com/scl/fi/ix2dm7a7czsbsoszfrl28/1_5125353962316235986-1.mp4?rlkey=ukzg8ok46g31hc9787a7pkh4b&st=5tvhl8vp&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q4nny4lnjnLYzN10EvBBRsJComp.jpg",Los Simpson: Santa Homero (2024)
 https://dl.dropbox.com/scl/fi/lrtrxtxz7eaq611zxzcd4/1111111.mp4?rlkey=xotue882t3j6210axdt54nhpl&st=nd4oovew&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/helDsRlGxRli0ha6H64afk7zrdp.jpg",Hechizados (2024)
