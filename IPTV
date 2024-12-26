@@ -17,7 +17,7 @@ https://cdn5.lqsa.es/hls/0/stream.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="tokio",lista 2024
-https://raw.githubusercontent.com/rb1223/masterapp/main/tv24mpls2024.m3u
+https://gist.githubusercontent.com/tokio14-dot/d8d7407dbacd75b85def51ef67c7ce34/raw/b6a945cb07f5e71c1f92a38d051669191a059305/bajo%2520instinto
 #EXTINF:-1 tvg-logo=""group-title="tokio",lista plus
 https://raw.githubusercontent.com/rb1223/masterapp/main/tv24mpls90.m3u
 #EXTINF:-1 tvg-logo=""group-title="tokio",cnales vavoo
