@@ -16,9 +16,13 @@ https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/pelis%20del%
 https://cdn5.lqsa.es/hls/0/stream.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="tokio",lista 2024
 
-#EXTINF:-1 tvg-logo=""group-title="tokio",lista plus
+#EXTINF:-1 tvg-logo=""group-title="tokio",VOX PLAYER
+https://raw.githubusercontent.com/BBAsThet/TELEVISION/c76a031489280d4f7fa8f048adaeeac41a01acc0/VOX%20PLAYER.M3U
+#EXTINF:-1 tvg-logo=""group-title="tokio",collecion listas m3u
+https://raw.githubusercontent.com/BBAsThet/TELEVISION/c76a031489280d4f7fa8f048adaeeac41a01acc0/LISTAS%20M3U.M3U
+#EXTINF:-1 tvg-logo=""group-title="tokio",BLACKGHSOT
+https://raw.githubusercontent.com/BBAsThet/TELEVISION/c76a031489280d4f7fa8f048adaeeac41a01acc0/BLACKGHSOT%20TV.M3U
 https://raw.githubusercontent.com/rb1223/masterapp/main/tv24mpls90.m3u
 #EXTINF:-1 tvg-logo=""group-title="tokio",cnales vavoo
 https://raw.githubusercontent.com/joaquinito2070/VAVOO-IPTV/refs/heads/main/index_Spain.m3u
