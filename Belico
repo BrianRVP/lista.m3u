@@ -1,10 +1,35 @@
 #EXTM3U
 
 
+
+﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81oL9qggLSL._SY445_.jpg",AFRICA EXTREMA
+http://archive.org/download/009_20200823/001.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZlNDcwMjQtYTg0Yy00YWYxLWExMTgtMGRhNjQ4MWE2ZTc5XkEyXkFqcGdeQXVyMjE3MTA1Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg",AGUAS INVISIBLES
+https://archive.org/download/el-eslabn-extraterrestre-outer-space-connection-1975-in-spanish/El%20Eslabn%20Extraterrestre%20%20Outer%20Space%20Connection%201975%20in%20Spanish.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWM4NmZhN2UtMDVlZC00MGVmLWFhMDgtNjk3NjEzZmI2NmU4XkEyXkFqcGdeQXVyNzIxNjgzNDg@._V1_UX182_CR0,0,182,268_AL_.jpg",AGUAS INVISIBLES
+http://archive.org/download/009_20200823/002.mp4
+#EXTINF:-1 tvg-logo="http://archive.org/download/shing089/474R1.jpeg",ATARI GAME OVER
+https://archive.org/download/4t-4ri-g-4m-3-0v-3r/4t4ri%20g4m3%200v3r.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRiMDAwZDctNDg3Yy00MzQ2LWFlYzYtOTk2ZmM0ZDJiODU2XkEyXkFqcGdeQXVyMjM0MDc0MzA@._V1_UX182_CR0,0,182,268_AL_.jpg",EL SR MIYAGUI DE KARATE KID
+https://archive.org/download/miyagi-story-2021/Miyagi%20Story%20%282021%29.mp4
+#EXTINF:-1 tvg-logo="http://archive.org/download/shing089/1n53rc01n.jpeg",Insert Coin
+http://archive.org/download/midw-4y-ins-3rt-c-0in/midw4y%20ins3rt%20c0in.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTI5MTQ3NTc0MF5BMl5BanBnXkFtZTgwMjE2NDI0ODE@._V1_UX182_CR0,0,182,268_AL_.jpg",LOS OCHENTA: LA MUSICA
+https://archive.org/download/documentales_202012/Los%20ochenta%203.%20La%20musica.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmUyYTlmZjMtZTM1Ni00NzM5LWFiMzAtMmU4ODUxZjE3ZjNlXkEyXkFqcGdeQXVyMjIzMTQ5NjE@._V1_UX182_CR0,0,182,268_AL_.jpg",Michael Jackson: The Life of an Icon 2011
+https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011/Michael%20Jackson%20La%20vida%20de%20un%20%C3%ADdolo%20%282011%29.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmUwNTJlMTQtODIxMC00MGQ0LThhNjgtMTEwZDRmY2FmNGM1XkEyXkFqcGdeQXVyNjMzNTg0MjQ@._V1_UY268_CR3,0,182,268_AL_.jpg",Steve Jobs: Billion Dollar Hippy 2011
+https://archive.org/download/documentales_202012/Steve%20jobs%20el%20hippie%20millonario.mp4.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjgwZmE1NDAtN2JhNy00ZGQ4LWFhMjEtZDVmZDExNzQwNDgwXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_UY268_CR10,0,182,268_AL_.jpg",The Beatles Anthology
+https://archive.org/download/thebeatlesantologia_202012/THEBEATLESANTOLOGIA.mp4
+#EXTINF: -1 tvg-logo = " https://pics.filmaffinity.com/alabama_snake-615804591-large.jpg", La Serpiente De Alabama
+https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Alabama%20Snake%20%282020%29.mp4 
+
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zZFgu08NbAdf1GdyIcewwcpBznU.jpg",Los niños perdidos (2024)
 https://github.com/tokio14-dot/pi-pelis/releases/download/P.4.42/L.7.45.mp4
-
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7v1b4wC4UpjDp7XGsW7Q3UoeJ0R.jpg",Effie Gray (2014)
 https://github.com/linkarg13/Pelis3/releases/download/2884848ed9/8.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/beLbZExOZ64LzbqJbbbjhlqbezi.jpg",Disco, Ibiza, Locomía (2024)
