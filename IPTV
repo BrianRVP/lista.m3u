@@ -19,8 +19,8 @@ https://cdn5.lqsa.es/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="tokio",VOX PLAYER
 http://op.web24.live:8080/get.php?username=9734103703&password=B3Sqz0&type=m3u
-#EXTINF:-1 tvg-logo=""group-title="tokio",collecion listas m3u
-
+#EXTINF:-1 tvg-logo=""group-title="tokio",collecion lista m3u
+https://raw.githubusercontent.com/devtv9/rokuapp/refs/heads/main/LISTA02.m3u8
 #EXTINF:-1 tvg-logo=""group-title="tokio",BLACKGHSOT
 http://cord-cutter.net:8080/get.php?username=pdSQU2&password=612384&type=m3u
 #EXTINF:-1 tvg-logo=""group-title="tokio",canales vavoo
