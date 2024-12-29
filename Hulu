@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTGRP:Hulu
+.
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ftRkgMhF1CofVSLMeonh9Hjz7a4.jpg",KENA Y KRL
+http://archive.org/download/ANIME_20190528/KYK.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uvffsGxLjYsQ3Ya3VfuN45GVNOy.jpg",ALF
 http://archive.org/download/listasaqui_ymail4_Alf/alf.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/BUFF.jpg",Buffy la caza vampiros
