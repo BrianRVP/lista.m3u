@@ -26,7 +26,6 @@ http://cord-cutter.net:8080/get.php?username=pdSQU2&password=612384&type=m3u
 #EXTINF:-1 tvg-logo=""group-title="tokio",canales vavoo
 https://raw.githubusercontent.com/joaquinito2070/VAVOO-IPTV/refs/heads/main/index_Spain.m3u
 #EXTINF:-1 tvg-logo=""group-title="tokio",prueba tokio
-http://archive.org/download/read-me_202304/CSI%20Las%20Vegas%20Complete%20Seasons%201-13/Season%204/CSI%20417%20XX.avi
 
 #EXTINF:-1 tvg-logo=""group-title="tokio",prueba
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
