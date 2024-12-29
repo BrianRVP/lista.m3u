@@ -15,8 +15,6 @@ https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/pelis%20del%
 #EXTINF:-1 tvg-logo=""group-title="tokio",aqui no ahi quien viva
 https://cdn5.lqsa.es/hls/0/stream.m3u8
 
-
-
 #EXTINF:-1 tvg-logo=""group-title="tokio",VOX PLAYER
 http://op.web24.live:8080/get.php?username=9734103703&password=B3Sqz0&type=m3u
 #EXTINF:-1 tvg-logo=""group-title="tokio",collecion lista m3u
@@ -28,7 +26,7 @@ https://raw.githubusercontent.com/joaquinito2070/VAVOO-IPTV/refs/heads/main/inde
 #EXTINF:-1 tvg-logo=""group-title="tokio",prueba tokio
 
 #EXTINF:-1 tvg-logo=""group-title="tokio",prueba
-https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
+
 
 
 --------PRUEBA------
