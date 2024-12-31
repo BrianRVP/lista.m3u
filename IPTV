@@ -21,7 +21,7 @@ http://op.web24.live:8080/get.php?username=9734103703&password=B3Sqz0&type=m3u
 #EXTINF:-1 tvg-logo=""group-title="tokio",collecion lista m3u
 
 #EXTINF:-1 tvg-logo=""group-title="tokio",BLACKGHSOT
-
+https://raw.githubusercontent.com/Iptv-cnls/Convertidor-embed/refs/heads/main/anime.m3u
 #EXTINF:-1 tvg-logo=""group-title="tokio",canales vavoo
 https://raw.githubusercontent.com/joaquinito2070/VAVOO-IPTV/refs/heads/main/index_Spain.m3u
 #EXTINF:-1 tvg-logo=""group-title="tokio",prueba tokio
