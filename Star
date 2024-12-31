@@ -1,5 +1,8 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pBYSSxbs2vllON4DemdnG5AODJt.jpg",The Middle (2009)
+https://raw.githubusercontent.com/antonio7129/The-Midle/refs/heads/main/The%20Middle.M3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jk5wf0r/v-H0-Mghb0l-NJ5k7-Ep-Dw-I7i-JV7qa-O-1.jpg"group-title="Star+",LOS SIMPSON
 https://raw.githubusercontent.com/tokio14-dot/p3l122/refs/heads/main/L0221mps0ns
 
