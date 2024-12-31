@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTGRP:HBO Max
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9YwTAvpjCj0daiIjcwI7Hhml4yJ.jpg",Mas alla del jardín (2014)
-https://archive.org/download/masallasdeljardin/masalla2222.m3u
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9YwTAvpjCj0daiIjcwI7Hhml4yJ.jpg",Mas alla del jardín (2014)
 https://archive.org/download/masallasdeljardin/masallasdeljardin.m3u
@@ -15,6 +13,9 @@ https://raw.githubusercontent.com/HECTHINHOXD/Series/main/README.md
 https://github.com/tokio14-dot/ciudad-dios2/releases/download/A.1.0.0/ciudad.m3u
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/5Yiep9EwcQgLolg013ETBVqHxuD.jpg"group-title="HBO Max",RICK Y MORTY
 https://bit.ly/3y81KkU
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/akIwmUSaiYlbswfJhaDTH8ysVB4.jpg",El pinguino (2024)
+https://github.com/a13xr0j45/Peliculas/blob/main/Pastes/The%20Penguin%20(2024).m3u
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-pinguino.jpg" group-title="HBO Max",El pinguino (2024) latino
 https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/El%20pinguino
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mr-pickles-1578934520.jpg"group-title="HBO Max",Mr. Pickles
