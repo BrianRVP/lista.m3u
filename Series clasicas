@@ -1,7 +1,12 @@
 #EXTM3U
 #EXTGRP: Clasic
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sUjsvpfWQ0OuKWPpbsfFHZhLGiK.jpg",EL DE EN MEDIO.jpg",MALCOLM EL DE EN MEDIO
+http://archive.org/download/uaufderharl_c922j_ymail4_Lis1/lis1.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uvffsGxLjYsQ3Ya3VfuN45GVNOy.jpg",ALF
+http://archive.org/download/listasaqui_ymail4_Alf/alf.m3u
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/7PjIzzCh43hNU77C8oKLdL7XXge.jpg",La isla de Gilligan (1964)
+https://github.com/tokio14-dot/dan-dadan/releases/download/V.0.1.0/La.isla.de.Gilligan.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/b6SJZ41I8VejKLHskKatNuHmCWx.jpg",El Cuentacuentos: Mitos griegos (1991)
 https://dl.dropbox.com/s/qjknsourhmviz5p/3LNARRADORD3CUENTOS.M3U
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cHTj9R311yylFlszfpQ0tk7Gpkh.jpg",Esta es mi banda (2009)
