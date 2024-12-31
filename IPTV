@@ -9,12 +9,6 @@ https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/sagas
 #EXTINF:-1 tvg-logo="",pelis del recuerdo
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/pelis%20del%20recuerdo
 
------------TOKIO.......
-
-#EXTINF:-1 tvg-logo="",qq
-https://iptv-org.github.io/iptv/categories/series.m3u
-#EXTINF:-1 tvg-logo=""group-title="tokio",aqui no ahi quien viva
-https://cdn5.lqsa.es/hls/0/stream.m3u8
 
 --------PRUEBA------
 #EXTINF:-1 tvg-logo=""group-title="pruebas",c1
