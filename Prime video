@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTGRP:Prime video
 
-
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1bwF1daWnsEYYjbHXiEMdS587fR.jpg",Bones (2005)
+https://raw.githubusercontent.com/antonio7129/Bones/refs/heads/main/Bones.M3U
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hgFSL55qTiaTVeSiFdYmmEKTHIi.jpg",(FHD)Cada minuto cuenta (2024)
 https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Pastes/Cada%20minuto%20cuenta%20(2024).m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wYsOR5dq7IzCnyIxi43WctC5Ria.jpg",Maradona Sueno bendito (2021)
