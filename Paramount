@@ -1,6 +1,9 @@
 #EXTM3U
 
  ---------PARAMOUNT--------
+
+#EXTINF:-1 tvg-logo="",NCIS: temp 1-19
+https://raw.githubusercontent.com/antonio7129/NCIS-temp.1-al-19/refs/heads/main/NCIS%20.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS SIMULADORESMEXICO.jpg" group-title="Paramount+",LOS SIMULADORESMEXICO
 http://archive.org/download/ns_20210520/SIMU.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/gonzalez-narvaez/k3n4lyk3l.jpg" group-title="Paramount+",KENAL Y KEL
