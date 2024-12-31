@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTGRP: Apple tv+
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vzWE1vT95FNUnwv1bgl5dJWVZUL.jpg",Disclaimer (2024)
+https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Pastes/Disclaimer%20(2024).m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ndnP3sgZxLuKambEhk8YWwxM0Vy.jpg",El Mundial de Messi: el surgimiento de una leyenda (2024)
 https://github.com/linkarg13/SERIES2/releases/download/M3u/bflix.elmundialdemessi.m3u
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/lKDIhc9FQibDiBQ57n3ELfZCyZg.jpg" group-title="Apple tv+",See (2019)
