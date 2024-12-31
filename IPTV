@@ -1,4 +1,4 @@
-#EXTM3U
+1#EXTM3U
 
 --------SIDE BY SIDE---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qeeQ7rfTAXNYh4EqqdolFLkNwKM.jpg",SIDE BY SIDE
@@ -10,25 +10,9 @@ https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/sagas
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/pelis%20del%20recuerdo
 
 -----------TOKIO.......
-#EXTINF:-1 tvg-logo=""group-title="tokio",jiji
-https://raw.githubusercontent.com/david2803/Iptv/eb6b86a32db95d5421f49fee548f460c99f58465/streamingT0rr3ns.m3u
 
 #EXTINF:-1 tvg-logo=""group-title="tokio",aqui no ahi quien viva
 https://cdn5.lqsa.es/hls/0/stream.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="tokio",VOX PLAYER
-http://op.web24.live:8080/get.php?username=9734103703&password=B3Sqz0&type=m3u
-#EXTINF:-1 tvg-logo=""group-title="tokio",collecion lista m3u
-
-#EXTINF:-1 tvg-logo=""group-title="tokio",BLACKGHSOT
-https://raw.githubusercontent.com/Iptv-cnls/Convertidor-embed/refs/heads/main/anime.m3u
-#EXTINF:-1 tvg-logo=""group-title="tokio",canales vavoo
-https://raw.githubusercontent.com/joaquinito2070/VAVOO-IPTV/refs/heads/main/index_Spain.m3u
-#EXTINF:-1 tvg-logo=""group-title="tokio",prueba tokio
-
-#EXTINF:-1 tvg-logo=""group-title="tokio",prueba
-
-
 
 --------PRUEBA------
 #EXTINF:-1 tvg-logo=""group-title="pruebas",c1
