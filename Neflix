@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTGRP: Netflix 
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9OvSVH1KJQRlLzOVLEGHta9pwfX.jpg",Devilman Crybaby (2018)
+https://archive.org/download/spartacus_202412/DEVILMAN.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/agxlRm9l50czjWPNW5Q1esUMdOb.jpg"group-title="Netflix",El juego del calamar: Temporada 2 (2024)
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/calammar%201
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/COBRA KAI.jpg" group-title="Netflix",COBRA KAI TEMPORADA 6 LATINO
