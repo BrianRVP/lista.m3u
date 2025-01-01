@@ -20,3 +20,8 @@ https://archive.org/download/spartacus_202412/a%C3%B10sm4ravi770s0s.m3u
 https://archive.org/download/spartacus_202412/cuentoscrypta.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1zEdxchngKLIoHK2dEUXO8BgonA.jpg",la niñera (1993)
 https://archive.org/download/la-ninera-4/la%20ni%C3%B1erabflix.m3u
+
+#EXTINF:-1 tvg-logo="",la niñera prueba
+https://archive.org/download/la-ninera-4/la%20ni%C3%B1eraprueba.ts
+
+
