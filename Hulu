@@ -2,7 +2,8 @@
 #EXTGRP:Hulu
 
 son clasicos tienen que ir despues a series clasicas 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2D11vhVBLC4jP0vVqKdQm97Z3qb.jpg",Los Magníficos (1983)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2D11vhVBLC4jP0vVqKdQm97Z3qb.jpg", The A-Team (1983)
 https://archive.org/download/spartacus_202412/los%20magnificos.m3u 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sUjsvpfWQ0OuKWPpbsfFHZhLGiK.jpg",EL DE EN MEDIO.jpg",MALCOLM EL DE EN MEDIO
 http://archive.org/download/uaufderharl_c922j_ymail4_Lis1/lis1.m3u
