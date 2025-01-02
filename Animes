@@ -9,7 +9,8 @@ https://archive.org/download/spartacus_202412/Dr4g0nb4llD41M5.m3u
 https://github.com/tokio14-dot/seri-31/releases/download/teh.536.6/solo.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mh21p6mA8IwqJnRKyaW8SvVeoJL.jpg"group-title="ONE PIECE",ONE PIECE: Gyojin Tou-hen (2024)
 https://raw.githubusercontent.com/tokio14-dot/0nep13c3/refs/heads/main/one%20piece
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oLy4bn5BUsG1dN0tCIY64cF5pBI.jpg"group-title="ONE PIECE",ESPECIALES
+https://raw.githubusercontent.com/tokio14-dot/0nep13c3/refs/heads/main/one%20especiales
 
 
 
