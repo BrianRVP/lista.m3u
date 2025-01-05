@@ -15,4 +15,5 @@ https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Paramount
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Hulu
 #EXTINF:-1, BFlix®TV AppleTv
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Apple
-
+#EXTINF:-1 tvg-logo="",BFlix®TV SERIES CLASICAS
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/refs/heads/main/Series%20clasicas
