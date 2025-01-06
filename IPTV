@@ -22,7 +22,8 @@ https://raw.githubusercontent.com/osxvalt/Peliculas-M3u8-/refs/heads/master/Peli
 https://raw.githubusercontent.com/yuanxin69/m3u/refs/heads/master/124.m3u
 #EXTINF:-1 tvg-logo="",c5
 https://raw.githubusercontent.com/Pibyto/pibytotv.m3u/refs/heads/main/ClaudioTV01
-
+#EXTINF:-1 tvg-logo="",c6
+https://1drv.ms/v/s!AjsSEP_S7vIfjDRj9udbCfpsGaL9
 
 #EXTINF:-1 tvg-logo=""group-title="Plutotv + canales",Canales
 https://telechancho.github.io/telechancho-iptv/telechancho-infinity.m3u
