@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTGRP: Netflix 
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bCUcNIUvwtceuF3WdvlFfGll7Eo.jpg",Family by Choice (2024)
+https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/family
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lEKsuLjivwkgNb9Y6Upj86aabdK.jpg",Misterios sin Resolver (1988)
 https://archive.org/download/la-ninera-4/misteriosinr3s0lv3r1.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9OvSVH1KJQRlLzOVLEGHta9pwfX.jpg",Devilman Crybaby (2018)
