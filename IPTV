@@ -2,8 +2,8 @@
 
 
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sDhYAer1GroZla48vVNWfXnrBku.jpg",raw 1
+https://d4.jisdeshmaiganga.com:999/hls/canal2222.m3u8?md5=B3lnRfyNiyhnz5DqsvTJ7w&expires=1736219434
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z14GjBNXQw5kfHjSnrBSJ9HdvHm.jpg",raw
 https://296138417.cdnembox.net:8443/hls/xynvcvv.m3u8?s=rXQRHH8s0nRRHVNVdjuMRQ&e=1736233585
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2bZ5c9sHbzApWVIsUoWztg43EgB.jpg",raw
