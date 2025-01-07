@@ -1,5 +1,15 @@
 1#EXTM3U
 
+
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z14GjBNXQw5kfHjSnrBSJ9HdvHm.jpg",raw
+https://296138417.cdnembox.net:8443/hls/xynvcvv.m3u8?s=rXQRHH8s0nRRHVNVdjuMRQ&e=1736233585
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2bZ5c9sHbzApWVIsUoWztg43EgB.jpg",raw
+https://d6.jisdeshmaiganga.com:999/hls/canal2222.m3u8?md5=xX_h93cVXKEPBCNomHJXcA&expires=1736219144
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wq6uV8YRdWNEyI9TY5k80yWENg.jpg",raw
+https://d2.jisdeshmaiganga.com:999/hls/canal1111.m3u8?md5=DgKhiJBiLfaulTEpDfiGdw&expires=1736218977
 --------SIDE BY SIDE---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qeeQ7rfTAXNYh4EqqdolFLkNwKM.jpg",SIDE BY SIDE
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/SIDE%20BY%20SIDE
