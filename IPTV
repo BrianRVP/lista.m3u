@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sDhYAer1GroZla48vVNWfXnrBku.jpg",raw 1
-https://d4.jisdeshmaiganga.com:999/hls/canal2222.m3u8?md5=B3lnRfyNiyhnz5DqsvTJ7w&expires=1736219434
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z14GjBNXQw5kfHjSnrBSJ9HdvHm.jpg",raw 2
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2bZ5c9sHbzApWVIsUoWztg43EgB.jpg",raw 3
@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/pelis%20del%
 
 --------PRUEBA------
 #EXTINF:-1 tvg-logo=""group-title="pruebas",c1
-https://www.yourupload.com/watch/KYw2q6Iq3pqU
+https://tokio15.s3.us-east-1.amazonaws.com/1x1.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIA2CUNLZXD4WRDJWTN%2F20250108%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250108T011226Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIHX0xvZez6eskJ45xn97uNate3GdUy5A4OHFtj2A5045AiEAnJTh5mBvw2yQTYf2oGxvcaGwIEEYsEt%2B%2FIUaZFrSauEq6AIIahAAGgw2OTI4NTk5NDg0ODciDC2hJvtNBz5sSo1ZXirFAn17rLTGtkS1OhqV7jA7hEymw%2FVOV3KTvcb7OQjyxb8JdFGr5M%2BibpSETRYmcaBnVom0AXNAOaKXuvahebGNDEcxzBLwV5P5pxDJqih9ouXvvqIbhP3ewu9IUbhLq8DFII%2FyqSBqRK9mSJAe3YBwvGAZ22Xi%2Fhf7pyYut5gPRWFa036ulnj4IlEm61bYe6DAG7jY%2Fq1Lehx6kjSIdlLRwIRdvMeN5o4fJ7TcjUDa2bbiSUAhRBhZGvxaqyH09qKSx7QbzwUEYHQexpe0NEsajZ738Ccslcmz%2Fzw%2Fl9F4oyzN%2BV80axJ2xj9vEw4UrdgCrZVR9XvhjENuoLsgDr3Tu6RSCFfgQZHUoZLtEjKV0mzG3HS7CrELLKP1Y9EXVHB3ecShLHQojbotvGIg%2BZ4%2FmhBVctG6OeyQSPlNvwqtTmQsnbv%2Foz4w%2BI33uwY6swJb82nh5HJW6y9JZRhyA0vZdCLwLwSFv8whwOcHHdDPvTC%2BOe4cNqpr4uf0dbL7ij4v0WDJt3tE2uG0HioTeZqhJJs67Rdl0al54z%2FTxneO%2BRZwMHwluQIOuExHt2jjsAxN7LaHHJmj%2FpAYFJzxHrwvE9FW7bK4sXcVYIpoBclODu3jXO9TmgxHVobVzW2hX0vRpaixGhKAL6bIjP8I9aSft%2FkLPGFTAGgLbRzK2zqQWn5zwYtkhpSEHoeM8jjLwzxTVAbyPFeBV3e%2BL2j%2FoLE%2BYh1jxv7CkqCcYPsxuevxd58PtluMI6IG93cxXzKgRgQTBdxF%2BnPjCpC%2FPiI4AjuAAV8qNxtwXP6p71jH5rFM4tTj0uqtXVspdKIsY%2B79EjKStQ4Gl0h2qrVnaZRnvwJH7OYA&X-Amz-Signature=973a69d6b4aa3ea798ef8eb3297e0c0d115741aa212044c42872f7d5ffbae190&X-Amz-SignedHeaders=host&response-content-disposition=inline
 #EXTINF:-1 tvg-logo=""group-title="pruebas",c2
 https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/INFANTIL.m3u
 #EXTINF:-1 tvg-logo=""group-title="pruebas",c3
