@@ -1,7 +1,8 @@
 #EXTM3U
 
 (MARVEL CRONOLOGIA)
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gabWTSVhzltlKkmcqPoJmjKJxyb.jpg",Kraven el cazador (2024)
+https://dl.dropbox.com/scl/fi/hg46qbk58gl72u9gqtrj3/K.BFLOX2024.mp4?rlkey=wbu5u3eqlt8tdj9s8p4p1k73d&st=2e6v18xd&dl=0
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/i5eSA5DK5iAv53SB4yv57bN56o6.jpg"group-title="", Capitan américa: Primer vengador
 https://dl.dropbox.com/scl/fi/v2usezfj93kp0pqajqo69/Capit-n-Am-rica-el-primer-vengador.mp4?rlkey=iv8j1bumvv75dgjkbniccf69r&st=v03t5wy3&dl=0
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/5SPa7dZ85p54xa7E9tHRmfKq5ce.jpg"group-title="", Capitana marvel
