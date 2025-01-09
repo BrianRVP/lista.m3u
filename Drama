@@ -1,5 +1,15 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yA4UTLrCEQ68WIc78KYcgWnb1cF.jpg",El viaje (2024)
+https://archive.org/download/ver-el-viaje-2024/Ver%20El%20viaje%20%282024%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/b7Vf9doQIZavdJS16969KfO0Lsa.jpg",El club de los vándalos (2024)
 https://archive.org/download/ver-el-club-de-los-vandalos/Ver%20El%20club%20de%20los%20v%C3%A1ndalos.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hdqOqkFlig9uUTdxQKZLVQJg5Mr.jpg",Descansar en paz (2024)
