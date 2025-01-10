@@ -4,8 +4,8 @@
 
 #EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8tDMglrYBcSUxM3aEoagPOUuJty.jpg",Socias (2008)
+https://archive.org/download/la-ninera-4/socias.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kG9NiZwWJrKWTviOn5G4ljrAbpW.jpg",Sandro de America   (2018)
 https://archive.org/download/la-ninera-4/sandroenamerica.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tZunu6nQsf3DaQERlFaQ1yih6Nh.jpg",El Paraiso (2011)
