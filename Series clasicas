@@ -2,8 +2,8 @@
 #EXTGRP: Clasic
 
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2s0mOdJMfIgzgn8Q9HvWHptgCKi.jpg",los 3 chiflados
+https://archive.org/download/la-ninera-4/los3chiflados.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8tDMglrYBcSUxM3aEoagPOUuJty.jpg",Socias (2008)
 https://archive.org/download/la-ninera-4/socias.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kG9NiZwWJrKWTviOn5G4ljrAbpW.jpg",Sandro de America   (2018)
