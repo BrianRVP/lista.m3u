@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTGRP: Clasic
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hpB5jvpDo2imeF5BFfdmEmXdu7I.jpg",Cosmos: Una odisea en el espacio-tiempo (2014)
+https://archive.org/download/la-ninera-4/cosmos.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2s0mOdJMfIgzgn8Q9HvWHptgCKi.jpg",los 3 chiflados
 https://archive.org/download/la-ninera-4/los3chiflados.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8tDMglrYBcSUxM3aEoagPOUuJty.jpg",Socias (2008)
