@@ -1,5 +1,15 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6FKym4sm5LcqUC80HNpn2ejVoro.jpg",Donnie Darko (2001)
+https://archive.org/download/donnie-darko-2001-full-movie-the-directors-cut/Donnie%20Darko%282001%29_Full%20Movie%20-%20The%20Director%27s%20Cut.mp4
 ------CHUCKY-----
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mRTnim0xPxYiH0LWi2O59Lqk2Gd.jpg",CHUCKY EL MUNECO DIABOLICO (TERROR)
 
