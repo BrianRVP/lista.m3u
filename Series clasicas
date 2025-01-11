@@ -26,6 +26,15 @@ http://archive.org/download/listasaqui_ymail4_Alf/alf.m3u
 https://github.com/tokio14-dot/dan-dadan/releases/download/V.0.1.0/La.isla.de.Gilligan.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/b6SJZ41I8VejKLHskKatNuHmCWx.jpg",El Cuentacuentos: Mitos griegos (1991)
 https://dl.dropbox.com/s/qjknsourhmviz5p/3LNARRADORD3CUENTOS.M3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aBZynbuxspjz01mxrWpP5ZyDIyq.jpg",The Addams Family (1964)
+https://archive.org/download/la-ninera-4/los%20locos%20adam.m3u
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cHTj9R311yylFlszfpQ0tk7Gpkh.jpg",Esta es mi banda (2009)
 https://github.com/tokio14-dot/pi-pelis/releases/download/P.4.42/estoy.en.la.banda.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qghY5Oj1ND5iYJpf8ViuiTbwSNm.jpg",Zeke y Luther (2009)
@@ -34,6 +43,16 @@ https://github.com/tokio14-dot/pi-pelis/releases/download/P.4.42/Zeke.y.Luther.m
 https://archive.org/download/spartacus_202412/a%C3%B10sm4ravi770s0s.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/42NwhF2myOPvO4xn0qaXlI6sIIR.jpg",historias de la Cripta (1989)
 https://archive.org/download/spartacus_202412/cuentoscrypta.m3u
+
+
+
+
+
+
+
+
+
+______
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1zEdxchngKLIoHK2dEUXO8BgonA.jpg",la ninera (1993)
 https://archive.org/download/la-ninera-4/la%20ni%C3%B1era.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o0RThaslpWsqYESO9TSZQI1qb3g.jpg",the nanny (opcion 2)
