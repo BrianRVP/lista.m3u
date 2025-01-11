@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTGRP: Netflix 
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mGf8q8QZ2Q0oL6zlyjTjsPD830u.jpg",El Secreto del Doctor Grinberg (2022)
+https://archive.org/download/the-secrets-of-jacobo-grenberg-1/The%20Secrets%20Of%20Jacobo%20Grenberg%20%281%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bCUcNIUvwtceuF3WdvlFfGll7Eo.jpg",Family by Choice (2024)
 https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/family
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lEKsuLjivwkgNb9Y6Upj86aabdK.jpg",Misterios sin Resolver (1988)
