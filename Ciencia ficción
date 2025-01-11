@@ -1,6 +1,14 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/spWV1eRzlDxvai8LbxwAWR0Vst4.jpg",Arcadian (2024)
+https://archive.org/download/el-increible-genio.mkv/UNA%20DISTOP%C3%8DA%20FANT%C3%81STICA%20SOBRE%20EL%20FUTURO%20ROBADO%20%EF%BD%9C%20ARCADIA.%20FICCI%C3%93N.%20SUSPENSE%20%EF%BD%9C%20PELICULA%20EN%20ESPANOL.mkv.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/luZCTrKqb4w5woBmgQMVZLmrvrw.jpg",Oxígeno (2021)
 https://archive.org/download/yummy_202105/Ox%C3%ADgeno.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3fZL08QUOAA05H13xrZMkkQbJHP.jpg",Arena Wars (2024)
