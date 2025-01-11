@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u3Mr30XEHUwAWlJuUvZIdBfKjNF.jpg",Guía del autoestopista galáctico (2005)
+https://archive.org/download/0guia0del0autoestopista0galactico0/0guia0del0autoestopista0galactico0.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kVUZfXbq473EIyJKpUkG3TfU8tC.jpg",La pantera rosa 2 (2009)
 https://archive.org/download/la-pantera-rosa-2/la%20pantera%20rosa%202.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wCXd5tpUSc12LVPd2oN9OKU1EVQ.jpg",Snack Shack (2024)
