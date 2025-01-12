@@ -1,34 +1,12 @@
 #EXTM3U
 #EXTGRP:Hulu
 
-son clasicos tienen que ir despues a series clasicas 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2D11vhVBLC4jP0vVqKdQm97Z3qb.jpg", The A-Team (1983)
-https://archive.org/download/spartacus_202412/los%20magnificos.m3u 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sUjsvpfWQ0OuKWPpbsfFHZhLGiK.jpg",EL DE EN MEDIO.jpg",MALCOLM EL DE EN MEDIO
-http://archive.org/download/uaufderharl_c922j_ymail4_Lis1/lis1.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uvffsGxLjYsQ3Ya3VfuN45GVNOy.jpg",ALF
-http://archive.org/download/listasaqui_ymail4_Alf/alf.m3u
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/7PjIzzCh43hNU77C8oKLdL7XXge.jpg",La isla de Gilligan (1964)
-https://github.com/tokio14-dot/dan-dadan/releases/download/V.0.1.0/La.isla.de.Gilligan.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/b6SJZ41I8VejKLHskKatNuHmCWx.jpg",El Cuentacuentos: Mitos griegos (1991)
-https://dl.dropbox.com/s/qjknsourhmviz5p/3LNARRADORD3CUENTOS.M3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cHTj9R311yylFlszfpQ0tk7Gpkh.jpg",Esta es mi banda (2009)
-https://github.com/tokio14-dot/pi-pelis/releases/download/P.4.42/estoy.en.la.banda.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qghY5Oj1ND5iYJpf8ViuiTbwSNm.jpg",Zeke y Luther (2009)
-https://github.com/tokio14-dot/pi-pelis/releases/download/P.4.42/Zeke.y.Luther.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vyFCIKuZp2RbUZNJUugOBIz3xin.jpg",Aquellos maravillosos a (1988)
-https://archive.org/download/spartacus_202412/a%C3%B10sm4ravi770s0s.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/42NwhF2myOPvO4xn0qaXlI6sIIR.jpg",historias de la Cripta (1989)
-https://archive.org/download/spartacus_202412/cuentoscrypta.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1zEdxchngKLIoHK2dEUXO8BgonA.jpg",la ninera (1993)
-https://archive.org/download/la-ninera-4/la%20ni%C3%B1era.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o0RThaslpWsqYESO9TSZQI1qb3g.jpg",the nanny (opcion 2)
-https://archive.org/download/la-ninera-4/la%20ni%C3%B1erabflix.m3u
 
 
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w6jMWCQzqTon07TZGN576hqHa0V.jpg",SANGRE FRIA (2004)
+https://archive.org/download/la-ninera-4/sangrefria.m3u
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kAUI0oOWZbGAQMmv7WM6scvoE34.jpg",Spartacus
 https://archive.org/download/spartacus_202412/SPARTACUS4.m3u
