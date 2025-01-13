@@ -2,20 +2,9 @@
 #EXTGRP:Hulu
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yOe9CHCvYmgi56mz4KnUTF9aLpZ.jpg",LA NINERA (2004)
-https://archive.org/download/la-ninera-4/lani%C3%B1eraarg.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kAUI0oOWZbGAQMmv7WM6scvoE34.jpg",Spartacus
-https://archive.org/download/spartacus_202412/SPARTACUS4.m3u
-
-
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/castle-rock.jpg" group-title="Hulu",Castle rock
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/castle%20rock
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/escalera-al-cielo-1669602183.png"group-title="Hulu",Escalera al cielo
-https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Escaleraalcielo
+
 #EXTINF:-1 tvg-logo="https://static.eldiario.es/clip/2e5dd4d5-8c3a-4778-aacf-18b173ae3fc3_16-9-discover-aspect-ratio_default_0.jpg" group-title="Hulu",Simuladores version argentina
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Simuladores%20argentina
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/eAp25k6jHPVroZ8XXvY7BDBpLgt.jpg"group-title="Hulu",EL CHAVO DEL 8
