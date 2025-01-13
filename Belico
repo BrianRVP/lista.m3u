@@ -5,6 +5,20 @@
 
 #EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fpBMnvPNHqd6BonpWJKMxMCGGuL.jpg",Diego Maradona (2019)
+https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Diego%20Maradona%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/za9ANBaT0JAamJl0JjGXz5P1Gkq.jpg",Los secretos de la tumba de Saqqara (2020)
+https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Los%20secretos%20de%20la%20tumba%20de%20Saqqara%20%282020%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z2MFDKcgTI7vqYNIT3lEbNsdLAM.jpg",Michael Jackson La vida de un ídolo (2011)
+https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Michael%20Jackson%20La%20vida%20de%20un%20i%CC%81dolo%20%282011%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9tFCPi4cfrY91ZpWvhc18BIZN80.jpg",Policías y ladrones (2020)
+https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Polici%CC%81as%20y%20ladrones%20%28C%29%20%282020%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/orCYMvCvVzZo4M3WfKNXnoRsMAY.jpg",Mucho mucho amor La leyenda de Walter Mercado (2020)
+https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Mucho%20mucho%20amor%20La%20leyenda%20de%20Walter%20Mercado%20%282020%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gx6DUx7EugLPM3NuY8PSJMuHR7J.jpg",Todos con Roona (2020)
+https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Todos%20con%20Roona%20%282020%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bz2H6nmznsOAuFtwJAMjAApvR8M.jpg",Los niños de Hollywood (2020)
+https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Los%20nin%CC%83os%20de%20Hollywood%20%282020%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mGf8q8QZ2Q0oL6zlyjTjsPD830u.jpg",El Secreto del Doctor Grinberg (2022)
 https://archive.org/download/the-secrets-of-jacobo-grenberg-1/The%20Secrets%20Of%20Jacobo%20Grenberg%20%281%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yoDuHuI0DkNe82EJwVqvUjOLc8X.jpg",Amando a Maradona (2005)
@@ -33,85 +47,18 @@ https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011/Michael%20
 https://archive.org/download/documentales_202012/Steve%20jobs%20el%20hippie%20millonario.mp4.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjgwZmE1NDAtN2JhNy00ZGQ4LWFhMjEtZDVmZDExNzQwNDgwXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_UY268_CR10,0,182,268_AL_.jpg",The Beatles Anthology
 https://archive.org/download/thebeatlesantologia_202012/THEBEATLESANTOLOGIA.mp4
-#EXTINF: -1 tvg-logo = " https://pics.filmaffinity.com/alabama_snake-615804591-large.jpg", La Serpiente De Alabama
+#EXTINF: -1 tvg-logo = "https://image.tmdb.org/t/p/original/iu4OcNTb35DcRlKLUIiUDpuejHD.jpg", La Serpiente De Alabama
 https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Alabama%20Snake%20%282020%29.mp4 
-
-
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zZFgu08NbAdf1GdyIcewwcpBznU.jpg",Los niños perdidos (2024)
 https://github.com/tokio14-dot/pi-pelis/releases/download/P.4.42/L.7.45.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7v1b4wC4UpjDp7XGsW7Q3UoeJ0R.jpg",Effie Gray (2014)
-https://github.com/linkarg13/Pelis3/releases/download/2884848ed9/8.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/beLbZExOZ64LzbqJbbbjhlqbezi.jpg",Disco, Ibiza, Locomía (2024)
-https://github.com/linkarg13/SERIES2/releases/download/Loscuatro/Loco02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/h11pzG8yK70Ly5MkNHvhPH9m84n.jpg",Mi padre (2022)
 https://archive.org/download/rodm4n/Mi%20padre.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/djNDmVuOLoJllc5IK9Z1dXz8Tgs.jpg",Te llevo en el alma (2024)
-https://github.com/linkarg13/Pelis3/releases/download/Peliss/08.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/a51x5NWJqdzWbFA58dwRgwfgQDj.jpg",Before Dawn (2024)
-https://github.com/linkarg13/Pelis3/releases/download/Peliss/4.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q8SXr3SCtHESHkmO2mFqzqlJ09L.jpg",Baltimore (2024)
-https://github.com/linkarg13/Pelis3/releases/download/Peliss/5.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xE5HOGG0q4ssR1NebW1dh4rBnPp.jpg",Antwone fisher el triunfo del espiritu(2022)
-https://github.com/linkarg13/Pelis3/releases/download/Peliss/3.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yfExW9uPK4idbUDjRGBlXLbMxRR.jpg",salvando al soldado ryan (1998)
-https://github.com/linkarg13/Pelis3/releases/download/Peliss/2.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v9px6FMFEzFAglB13osyrGvHtr2.jpg",Rodman: For Better or Worse (2019)
 https://archive.org/download/rodm4n/rodm4n.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dBwAaSpLJ2m5UhD0ob2mDqlM7RE.jpg",El triunfo del espíritu (2016)
-https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.31.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/16jBZwqsEB1AEO5RdMaeCwXfMPy.jpg",Triunfo: luchar para vencer (2021)
-https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.30.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/zmgsaKFWbmZ1Grz4SO0PLNxilv3.jpg",2 pac all eyez on me
 https://github.com/Ezequiel10579/peliculas/releases/download/musica/2PAC.All.Eyez.On.Me.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/v0guO0krvyz8IfKGxEje04LVM9d.jpg"group-title="",Tesla (2020)
 https://archive.org/download/tesla_202408/Tesla.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/rTDEDVP6g2H7dC216AbxohDPCX9.jpg",El informe Auschwitz (2021)
-https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.12.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/4ypRUscxdPXjF2o3BzsKsCUrkpK.jpg",Air (2023)
-https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.11.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/mxfLOWnHnSlbdraKfzRn5mqoqk7.jpg",El pianista (2002)
-https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.13.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/73GG8duH8gMn02ALsIgjaPPYhqP.jpg",Golda (2023)
-https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.14.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/sVWSciTJ0V3I0Ou98YkONVKKULI.jpg",La madre del blues (2020)
-https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.15.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/tWDZF3PuigBvYisM83ZPuWM4v89.jpg",Fly Me to the Moon (2024)
-https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.17.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/aZXHjmhSSGUshLEdgsNCTH9z7Ix.jpg",Los asesinos de la luna (2023)
-https://github.com/linkarg13/Pelis3/releases/download/Pelis3/05.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/ttaZHjuyiyBqH85sOBqgWxczqdJ.jpg",Relatos salvajes (2014)
-https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.18.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/hOyU0FuaVoWADcrh8dWs0Kw801O.jpg",Espíritu libre (2023)
-https://github.com/linkarg13/Pelis2/releases/download/Pelis/7.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/mPipNlgQ63KmDEmKzMtKgF9cgBw.jpg",La noche de 12 años (2018)
-https://github.com/linkarg13/Pelis2/releases/download/Pelis/8.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/6ylREjQcZQuW9TZDTGmcy3tMpqc.jpg",Marea negra (2016)
-https://github.com/linkarg13/Pelis2/releases/download/Pelis/9.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/yGCpehozPDlaczL4Fas1d01mfAH.jpg",Oso vicioso (2023)
-https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.10.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/Af1vSPTbraVVqc6kB3Avm55gxcq.jpg",El estrangulador de Boston (2023)
-https://github.com/linkarg13/Pelis2/releases/download/Pelis/5.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/gH3Nd6A2CvonVRXZUKV58p5enQC.jpg",El fotógrafo y el cartero: El crimen de Cabezas (2022)
-https://github.com/linkarg13/Pelis2/releases/download/Pelis/6.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/yIzTCHXJp5UKi4izt9DtlWksaBz.jpg",El juicio de los 7 de Chicago (2020)
-https://github.com/linkarg13/Pelis2/releases/download/Pelis/4.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/ooo4D4kyZyFee5aiNfwZ43oKOkc.jpg",Shirley (2024)
-https://github.com/linkarg13/Pelis2/releases/download/Pelis/3.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/fm1UBC4HGA3INXZvdkBSIUH6T6L.jpg",Nyad (2023)
-https://github.com/linkarg13/Pelis2/releases/download/Pelis/2.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1D23OdoDbLGuurEw2X3mJ2PmsG9.jpg",Aguas oscuras (2019)
-https://github.com/linkarg13/Pelis2/releases/download/Pelis/1.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1HZM8JUobjPF8ZWOyMt7OeMTUnm.jpg",El correo (2024)
-https://github.com/linkarg13/Ip-m4n3/releases/download/Pelis/383correo477448.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/2hRAvXdpCMDm9WDOMFksY7nZAhl.jpg",Ser padre (2021)
-https://github.com/linkarg13/Ip-m4n3/releases/download/Pelis/Paterni499685818181811d.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/3CNysXaPpIrVHlkovJ0inoKFkX2.jpg",A millones de kilómetros (2023)
-https://github.com/linkarg13/Ip-m4n3/releases/download/Pelis/A.millone3849585849191.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/gHghpc8mhVi7P5YilodDt7NLEtU.jpg"group-title="",Flamin' Hot: El sabor que cambió la historia (2023)
-https://github.com/linkarg13/Ip-m4n3/releases/download/Pelis/1144x480-FlaminHot.El.sabor.que.cambio.la.historia.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6rZe4mwfcszrILNIbQrWb1NvLyi.jpg"group-title="", Talentos Ocultos 
-https://github.com/linkarg13/Prueba-y-error/releases/download/Prueba/Ver.Talentos.ocultos.online.-.Cuevana2.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/axdhbcZeOsfX3ZpwtgdgPIjc06l.jpg"group-title="",1917
 https://archive.org/download/1917_20240801/1917.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/lpnRQzopVI4rPRE0aiXG3lOwjqq.jpg"group-title="", La sociedad de la nieve
@@ -132,20 +79,7 @@ https://dl.dropbox.com/scl/fi/q3ew1ajtsqv701obih8h8/The-Ministry-of-Ungentlemanl
 https://dl.dropbox.com/scl/fi/nrex427oaniej52s3myld/1_5087231428870014090.mp4?rlkey=mi1hhymslibfrfqiyabyseauv&dl=0
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/eLbDSu14EZ2VldIgDDGrt5pJkoL.jpg"group-title="",elijo creer (2023)
 https://dl.dropbox.com/scl/fi/h6pfux88dv65czpfisucw/237278-d01ea80a-114d-4c41-9771-2dba248e3ea6-ahgz-2010800-streamwish.mp4?rlkey=tayfw2g1xp937rz98fssmb3cs&dl=0
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/sBfuq7lkQR5tXmYe2l3LLfxmniv.jpg"group-title="",1945: tres mujeres(2022)
-https://cache014.peliscdn.online/newhls/70e863c2a21dd15a98a5b949aa051550/EP.0.1.v0.1709557885.m3u8
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/zhkOVfhnVTIl9dRfBhJfxaeomTS.jpg"group-title="",My Friend Dahmer(2017)
-https://cache013.peliscdn.online/newhls/c6c0509a9689cf3eea41bd71ad81ff7e/EP.0.1.v0.1708827602.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ca9V6iA0sk6Zc9aTvcgFidyVwDG.jpg"group-title="",Hambre de Poder (2017)
-https://cache014.peliscdn.online/newhls/7b62d1f3bafbf4751c41ddd0c4d995a9/EP.0.1.v0.1708888597.m3u8
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/kSAdNmbIcmjtZrf9qtFwgHhZxl3.jpg"group-title="",El Francotirador (2014)
-https://cache002.peliscdn.online/newhls/fd38e44ddb384a8572010ee9c0417640/EP.0.1.v0.1708741674.m3u8
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/h4gbnZvtN4qAkgR28cOn845EIN9.jpg"group-title="",jobs (2013)
-https://cache008.peliscdn.online/newhls/1c7847d25cd156d00f7a40c426b26cbd/EP.0.1.v1.1708983174.m3u8
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/gGnHGVJuNXG3HJk4TJ5EYkm2o7s.jpg"group-title="",Sacrificio de Leyenda(2006)
-https://cache010.peliscdn.online/newhls/983dc443551629485dabae8d7017d21b/EP.0.1.v0.1709391724.m3u8
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/62NsZPgueSiE8y7dqtU3FSLFwYw.jpg"group-title="",Notorious (2009)
-https://cache014.peliscdn.online/newhls/a42e4c4a3480f39374c675aa5a7e9d2d/EP.0.1.v0.1708877990.m3u8
+
 
 
 
