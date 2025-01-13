@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTGRP: Clasic
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yOe9CHCvYmgi56mz4KnUTF9aLpZ.jpg",LA NINERA ARG (2004)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yOe9CHCvYmgi56mz4KnUTF9aLpZ.jpg",LA NINERA (2004)
 https://archive.org/download/la-ninera-4/lani%C3%B1eraarg.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3jC2V0b7G7JjenibzurolALsQKr.jpg",NINI (2009)
 https://archive.org/download/la-ninera-4/nini.m3u
