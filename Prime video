@@ -2,7 +2,8 @@
 #EXTGRP:Prime video
 
 
-
+EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kAUI0oOWZbGAQMmv7WM6scvoE34.jpg",Spartacus
+https://archive.org/download/spartacus_202412/SPARTACUS4.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hgFSL55qTiaTVeSiFdYmmEKTHIi.jpg",(FHD)Cada minuto cuenta (2024)
 https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Pastes/Cada%20minuto%20cuenta%20(2024).m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wYsOR5dq7IzCnyIxi43WctC5Ria.jpg",Maradona Sueno bendito (2021)
