@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTGRP: Clasic
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dtH2Rn6MqZ8pstFzvEC2XGROKpt.jpg"group-title="CASADOS CON HIJOS",TEMPORADA 1
+https://archive.org/download/la-ninera-4/temp1.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yOe9CHCvYmgi56mz4KnUTF9aLpZ.jpg",LA NINERA (2004)
 https://archive.org/download/la-ninera-4/lani%C3%B1eraarg.m3u
 
