@@ -47,8 +47,10 @@ https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011/Michael%20
 https://archive.org/download/documentales_202012/Steve%20jobs%20el%20hippie%20millonario.mp4.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjgwZmE1NDAtN2JhNy00ZGQ4LWFhMjEtZDVmZDExNzQwNDgwXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_UY268_CR10,0,182,268_AL_.jpg",The Beatles Anthology
 https://archive.org/download/thebeatlesantologia_202012/THEBEATLESANTOLOGIA.mp4
-#EXTINF: -1 tvg-logo = "https://image.tmdb.org/t/p/original/iu4OcNTb35DcRlKLUIiUDpuejHD.jpg", La Serpiente De Alabama
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iu4OcNTb35DcRlKLUIiUDpuejHD.jpg",La Serpiente De Alabama
 https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Alabama%20Snake%20%282020%29.mp4 
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zZFgu08NbAdf1GdyIcewwcpBznU.jpg",Los niños perdidos (2024)
 https://github.com/tokio14-dot/pi-pelis/releases/download/P.4.42/L.7.45.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/h11pzG8yK70Ly5MkNHvhPH9m84n.jpg",Mi padre (2022)
