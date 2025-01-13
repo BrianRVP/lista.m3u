@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bjvniqHUiWP0WqsYeTnybNvKQ8c.jpg",Brijes (2010)
+https://archive.org/download/brijes-2010-pelicula-completa/Brijes%20%282010%29%20Pelicula%20Completa.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hsOIbxeBdoSC3BrpIqbukHMQx6A.jpg",El Angel En El Reloj ( 2018)
 https://archive.org/download/el-angel-en-el-reloj-2017/El%20Angel%20en%20el%20Reloj%20%282017%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yv2T3RlZuq3ZI0oVkZqjamKzgmk.jpg",Un disfraz para Nicolás (2021)
