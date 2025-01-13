@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTGRP: Netflix 
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yZ0HCHe4rMFBWMEqmt1gGyjU7ZK.jpg",100 AN.DE SOLEDAD (2024)
+https://archive.org/download/la-ninera-4/cienanods0l3dad.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1WynayCqKRzrl4cFZR8NOfiDwd6.jpg",desencanto(2018)
 https://archive.org/download/la-ninera-4/desencanto.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bCUcNIUvwtceuF3WdvlFfGll7Eo.jpg",Family by Choice (2024)
