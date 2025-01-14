@@ -46,7 +46,7 @@ https://archive.org/download/la-ninera-4/los%20locos%20adam.m3u
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2D11vhVBLC4jP0vVqKdQm97Z3qb.jpg",LOS MAGNIFICOS
 https://archive.org/download/la-ninera-4/losmagn1f1cos.m3u
-#EXTINF:-1 tvg-logo="https://archive.org/download/spartacus_202412/vuelta.jpg",Alrededor del Mundo en 80 Días (1989)
+#EXTINF:-1 tvg-logo="https://archive.org/download/spartacus_202412/vuelta.jpg",VUELTA AL MUNDO 80 DIAS MINISERIE (1989)
 1https://archive.org/download/spartacus_202412/vuektaalmundo.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cHTj9R311yylFlszfpQ0tk7Gpkh.jpg",Esta es mi banda (2009)
 https://github.com/tokio14-dot/pi-pelis/releases/download/P.4.42/estoy.en.la.banda.m3u
