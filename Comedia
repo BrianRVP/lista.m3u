@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8FBYoWaPQJwqMmnFc1qJeaH6uDX.jpg",Un cuento chino (2011)
+https://archive.org/download/un-cuento-chino/Un%20cuento%20chino.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/13J24dV8FcQFlC6mntj6J5XJfvF.jpg",Pablo Diablo La película (2011)
 https://archive.org/download/10113-horrid-henry-the-movie-2011-720p-d-s-spa-eng-por-fre-v_202404/10113-Horrid%20Henry%20The%20Movie%20%282011%29%20720p%20D%20S%20spa%20eng%20por%20fre%20v.mkv
 #EXTINF:-1 tvg-logo="https://archive.org/download/yummy_202105/-%20Los%20fantasmas%20de%20mis%20exnovias.jpg", Los fantasmas de mis exnovias(2009)
