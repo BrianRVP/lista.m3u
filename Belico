@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kXIduTwdLYUwflQ8rw1sZMp86FW.jpg",los jovenes muertos(2010)
+https://archive.org/download/los-jovenes-muertos/Los%20Jovenes%20Muertos.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hhOtApHWPE197cTGOkRcCdSMxy.jpg",Mi mejor enemigo (2005)
 https://archive.org/download/mi-mejor-enemigo/Mi%20mejor%20enemigo.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fpBMnvPNHqd6BonpWJKMxMCGGuL.jpg",Diego Maradona (2019)
