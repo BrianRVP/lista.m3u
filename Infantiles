@@ -1,5 +1,8 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jQe9osyXqA6lNitLlB7nWOmppOs.jpg",En busca del Rey del Sol (1991)
+https://archive.org/download/en-busca-del-rey-sol-rock-a-doodle/En%20Busca%20del%20Rey%20Sol%20-%20Rock%20a%20Doodle.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dLJvlkB3S25vxosfEIHlewJXBxt.jpg",Goofy La Pelicula (1995)
 https://archive.org/download/2074-goofy-la-pelicula-1995-d-s-spa-eng-v_20240418/2074-Goofy%20La%20Pelicula%20%281995%29%20D%20S%20spa%20eng%20v.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bjvniqHUiWP0WqsYeTnybNvKQ8c.jpg",Brijes (2010)
