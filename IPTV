@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sDhYAer1GroZla48vVNWfXnrBku.jpg",boca
+#EXTINF:-1 tvg-logo="",boca
 https://98ca.pricesaskeloadsc.com/global/starplus14/index.m3u8?token=3bb309118deef865eef297d0923e93c2148ce7e8-ec-1737017543-1736981543
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z14GjBNXQw5kfHjSnrBSJ9HdvHm.jpg",raw 2
 
