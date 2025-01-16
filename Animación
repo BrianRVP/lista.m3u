@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/17dqFvDJyIr6S4QXuEYx6UxUeFO.jpg",Sailor Moon Cosmos: La Película - Parte 2 (2023)
+https://archive.org/download/pretty-guardian-sailor-moon-cosmos-la-pelicula-parte-2/Pretty%20Guardian%20Sailor%20Moon%20Cosmos%20La%20pel%C3%ADcula%20Parte%202.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uBEIVq31JEuw2mrdupPxUNGbY5e.jpg",Sailor Moon Cosmos: La Película - Parte 1 (2023)
+https://archive.org/download/pretty-guardian-sailor-moon-cosmos-la-pelicula-parte-2/Pretty%20Guardian%20Sailor%20Moon%20Cosmos%20La%20pel%C3%ADcula%20Parte%201.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wCds1E0y9dNWPYFl1CN0UuFX05V.jpg",Ne Zha (2019)
 https://archive.org/download/yummy_202105/Ne%20Zha%20%282019%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mDw0xJoiicuGn4UBcvAI1lx5h5h.jpg",juguetes y mascotas (2017)
