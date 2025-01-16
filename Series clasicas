@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTGRP: Clasic
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2D11vhVBLC4jP0vVqKdQm97Z3qb.jpg",LOS MAGNIFICOS esta en hulu
+https://archive.org/download/la-ninera-4/losmagn1f1cos.m3u
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5gMWaPWsVkgDtCnlYi98GqaKBE8.jpg",CIUDAD CRUEL (2019)
 https://archive.org/download/spartacus_202412/ciudadcruel.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dtH2Rn6MqZ8pstFzvEC2XGROKpt.jpg",CASADOS CON HIJOS(2005)
