@@ -1,19 +1,15 @@
 #EXTM3U
+#EXTGRP: Clasic
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pFTR60i4aRwQfmElPaSP59dL7YH.jpg",MAC-GYVER
+https://archive.org/download/la-ninera-4/mac-gyver.m3u
+
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2D11vhVBLC4jP0vVqKdQm97Z3qb.jpg",esta en hulu tamb
 https://archive.org/download/la-ninera-4/losmagn1f1cos.m3u
-
-_______MACGYVER_____
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pFTR60i4aRwQfmElPaSP59dL7YH.jpg"group-title="",TEMPORADA 1
-https://archive.org/download/la-ninera-4/mac-gyver1.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pFTR60i4aRwQfmElPaSP59dL7YH.jpg"group-title="",TEMPORADA 2
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pFTR60i4aRwQfmElPaSP59dL7YH.jpg"group-title="",TEMPORADA 3
-
-
-
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5gMWaPWsVkgDtCnlYi98GqaKBE8.jpg",CIUDAD CRUEL (2019)
 https://archive.org/download/spartacus_202412/ciudadcruel.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dtH2Rn6MqZ8pstFzvEC2XGROKpt.jpg",CASADOS CON HIJOS(2005)
