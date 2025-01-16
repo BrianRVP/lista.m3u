@@ -31,6 +31,9 @@ https://archive.org/download/la-ninera-4/vulnerables1999.m3u
 https://archive.org/download/la-ninera-4/hermanos%20y%20dectetives.m3u
 #EXTINF:-1 tvg-logo="https://ia600301.us.archive.org/31/items/la-ninera-4/__ia_thumb.jpg",cuentos asombrosos (1985)
 https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/cuentosasom
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q2QsZaG8ucaAZXvpQ6c4wTGqvkB.jpg",escalofrios (1995)
+https://archive.org/download/la-ninera-4/escalofrios.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2D11vhVBLC4jP0vVqKdQm97Z3qb.jpg",Los Magníficos (1983)
  https://raw.githubusercontent.com/tokio14-dot/losmagn/refs/heads/main/losmag
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sUjsvpfWQ0OuKWPpbsfFHZhLGiK.jpg",EL DE EN MEDIO.jpg",MALCOLM EL DE EN MEDIO
