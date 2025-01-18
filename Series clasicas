@@ -2,6 +2,8 @@
 #EXTGRP: Clasic
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uOdCQN4Jdjo88i8oyvxIPeAe4RT.jpg",doctor who
+https://archive.org/download/bflix_202501/doctorwho.m3u
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pFTR60i4aRwQfmElPaSP59dL7YH.jpg",MAC-GYVER
 https://archive.org/download/la-ninera-4/mac-gyver.m3u
