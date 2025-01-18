@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1OoCd3fmjPHt9iCR4QxNGGrDyI0.jpg",12 Años un Esclavo (2013)
+https://archive.org/download/1240S/12%204%C3%910S.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dZeiD0WVM1IHzRAOSldsY0jh1CR.jpg",El Niño en los Pijamas Rayados (2008)
 https://archive.org/download/pack-5_202008/El%20ni%C3%B1o%20con%20el%20pijama%20de%20rayas.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7VqUPN0oRHfYV9hdZcal1ZzffmV.jpg",No Mueras: El Hombre que Quiere Vivir Para Siempre (2025)
