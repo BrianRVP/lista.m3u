@@ -1,8 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="",boca
-https://98ca.pricesaskeloadsc.com/global/starplus14/index.m3u8?token=3bb309118deef865eef297d0923e93c2148ce7e8-ec-1737017543-1736981543
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z14GjBNXQw5kfHjSnrBSJ9HdvHm.jpg",raw 2
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2bZ5c9sHbzApWVIsUoWztg43EgB.jpg",raw 3
@@ -32,7 +31,7 @@ https://raw.githubusercontent.com/angel200881/chann/refs/heads/main/series.m3u8
 #EXTINF:-1 tvg-logo="",c5
 https://raw.githubusercontent.com/werty76/famaseries/main/Blue.Dragon.Tenkai.No.Shichi.Ryuu
 #EXTINF:-1 tvg-logo="",c7
-
+https://raw.githubusercontent.com/willdevs/kksjnsasdkasjkmsalksksammxz/refs/heads/main/Peliculas43.m3u
 
 #EXTINF:-1 tvg-logo=""group-title="Plutotv + canales",Canales
 https://telechancho.github.io/telechancho-iptv/telechancho-infinity.m3u
