@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTGRP: Clasic
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ePIoXpCYo3vbmlKfyghAiL1RjYW.jpg",Stargate SG-1 (1997)
+https://archive.org/download/bflix_202501/storageSG-1.m3u
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uOdCQN4Jdjo88i8oyvxIPeAe4RT.jpg",doctor who
 https://archive.org/download/bflix_202501/doctorwho.m3u
