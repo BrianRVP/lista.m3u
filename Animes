@@ -1,8 +1,8 @@
 #EXTM3U
 
 ----online-----
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/drX1N080c08fn0xencilweSzW97.jpg"group-title="DAN DA DAN",DAN DA DAN (2024)
-https://archive.org/download/masallasdeljardin/D4nd4d4n.m3u
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/brd9Bp1MlH8oK2nzR6VV9imY46k.jpg"group-title="DBZ",Dragon Ball Daima (2024)
 https://raw.githubusercontent.com/tokio14-dot/daima/refs/heads/main/daim
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lheS6E8JKFLdan3qU8xRQvutCQj.jpg"group-title="SOLO LEVELING",Solo Leveling (2024)
@@ -12,13 +12,35 @@ https://raw.githubusercontent.com/tokio14-dot/0nep13c3/refs/heads/main/one%20pie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oLy4bn5BUsG1dN0tCIY64cF5pBI.jpg"group-title="ONE PIECE",ESPECIALES
 https://raw.githubusercontent.com/tokio14-dot/0nep13c3/refs/heads/main/one%20especiales
 
+________boku no hero____________
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xTlc93PezcZHMcvmAtPL3cyX0yE.jpg"group-title="BOKU NO HERO",BOKU NO HERO
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dmbJPaYV4nxJCORlmGkNEyGvHBW.jpg"group-title="BOKU NO HERO",PELICULAS
+https://archive.org/download/boku-no-hero-4/peliculas.m3u
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/phuYuzqWW9ru8EA3HVjE9W2Rr3M.jpg"group-title="BOKU NO HERO",Season 1 (2016)
+https://archive.org/download/boku-no-hero-4/boku%20no%20hero1.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bLggKZhdEHhvax9jeT95MDxM6CA.jpg"group-title="BOKU NO HERO",Season 2 (2017)
+https://archive.org/download/boku-no-hero-4/boku%20no%20hero2.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1VVJgXpSDI2uMHnlzI9Eg0zF7pw.jpg"group-title="BOKU NO HERO",Season 3 (2018)
+https://archive.org/download/boku-no-hero-4/boku%20no%20hero3.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/YCI5ADVr0JBboX0V3C3apAOtNH.jpg"group-title="BOKU NO HERO",Season 4 (2019)
+https://archive.org/download/boku-no-hero-4/boku%20no%20hero4.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cyT5yDhFJWcdf3IFEkMicKmDNMe.jpg"group-title="BOKU NO HERO",Season 5 (2021)
+https://archive.org/download/boku-no-hero-4/boku%20no%20hero5.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wSrSvGVxlYaTylTulqueeNQJyvR.jpg"group-title="BOKU NO HERO",Season 6 (2022)
+https://archive.org/download/boku-no-hero-4/boku%20no%20hero6.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/l9S2fG7sBUFCTZGkkDNh50bWEEh.jpg"group-title="BOKU NO HERO",Season 7 (2024)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/myxWINN4lV2YRtb3DcCi7UFn6C5.jpg"group-title="BOKU NO HERO",Final Season
+_________________________________
 
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/drX1N080c08fn0xencilweSzW97.jpg"group-title="DAN DA DAN",DAN DA DAN (2024)
+https://archive.org/download/masallasdeljardin/D4nd4d4n.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sTzvJnfiOSZDxXoVNNwzTNETnuj.jpg"group-title="Accion",Demon Slayer 
 https://raw.githubusercontent.com/BrianRVP/Cuantas/refs/heads/main/Demon
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s3clSZKSqJNILzmAEm5KaTUS5Z0.jpg"group-title="DBZ",DBKai
-https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/DBKai
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/c1T8UHwCaq6JeQYgt4U8ERPGoxN.jpg"group-title="Accion",Kaiju No. 8 (2024)
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Kaiju%20no%208
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/awcSoxNyCJg3OzH7acX6K6EISDZ.jpg"group-title="SuperCampeones",SUPER CAMPEONES
@@ -80,7 +102,7 @@ https://raw.githubusercontent.com/AaronCoyu/NST20/main/NST20
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg" group-title=“Naruto S”,Naruto Shippuden 21
 https://raw.githubusercontent.com/AaronCoyu/NST21/main/NST21
 
-
+___________DRAGON BALL_________
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/onCLyCOgszTIyyVs2XKYSkKPOPG.jpg" group-title="DBZ",DB 01 En busca de las Esferas del Dragon
 https://raw.githubusercontent.com/AaronCoyu/DB/main/01%20En%20busca%20de%20las%20Esferas%20del%20Dragon
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/dJlS1BsXxGEemIxs1uv4jqisJFQ.jpg" group-title=“DBZ”,DB 02 El Gran Torneo de las Artes Marciales
@@ -113,6 +135,9 @@ https://raw.githubusercontent.com/AaronCoyu/GT2/main/Saga%20Baby
 https://raw.githubusercontent.com/AaronCoyu/GT3/main/Saga%20de%20Super%20N17
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/aenNvQvDhKalUoLQpj1IViQRx1v.jpg" group-title="DBZ",DBGT Saga Los Dragones Oscuros
 https://raw.githubusercontent.com/AaronCoyu/GT4/main/Saga%20Los%20Dragones%20Oscuros
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s3clSZKSqJNILzmAEm5KaTUS5Z0.jpg"group-title="DBZ",DBKai
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/DBKai
+
 
 #EXTINF:-1 tvg-logo="https://img.animeflv.ws/cover/escaflowne.jpg" group-title="Fantasia Oscura",La Vision de Escaflowne (Latino)
 https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/Escaflowne
