@@ -5,13 +5,19 @@
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/brd9Bp1MlH8oK2nzR6VV9imY46k.jpg"group-title="DBZ",Dragon Ball Daima (2024)
 https://raw.githubusercontent.com/tokio14-dot/daima/refs/heads/main/daim
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lheS6E8JKFLdan3qU8xRQvutCQj.jpg"group-title="SOLO LEVELING",Solo Leveling (2024)
-https://archive.org/download/boku-no-hero-4/1solo%20leving1.m3u
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mh21p6mA8IwqJnRKyaW8SvVeoJL.jpg"group-title="ONE PIECE",ONE PIECE: Gyojin Tou-hen (2024)
 https://raw.githubusercontent.com/tokio14-dot/0nep13c3/refs/heads/main/one%20piece
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oLy4bn5BUsG1dN0tCIY64cF5pBI.jpg"group-title="ONE PIECE",ESPECIALES
 https://raw.githubusercontent.com/tokio14-dot/0nep13c3/refs/heads/main/one%20especiales
 
+________solo leving________
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/foO8OjRQhqfDc5NY8vqOxb0TnEy.jpg"group-title="SOLO LEVELING",Solo Leveling (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lheS6E8JKFLdan3qU8xRQvutCQj.jpg"group-title="SOLO LEVELING",TEMPORADA 1 (2024)
+https://archive.org/download/boku-no-hero-4/1solo%20leving1.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/a7i9OdTUo9jZ1XoraCRIQNJ6ACX.jpg"group-title="SOLO LEVELING",TEMPORADA 2 (2025)
+https://raw.githubusercontent.com/tokio14-dot/solo/refs/heads/main/solo2
 ________boku no hero____________
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xTlc93PezcZHMcvmAtPL3cyX0yE.jpg"group-title="BOKU NO HERO",BOKU NO HERO
