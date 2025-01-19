@@ -2,24 +2,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fHLTsVtN8Xq1DwNqu1YiAAtu9tU.jpg",Bitelchús Bitelchús (2024)
-https://github.com/linkarg13/Pelis3/releases/download/Peliss/0004.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/A13wcMrSw6m87i51rkSRsl5QgfH.jpg",Bitelchús (1988)
-https://github.com/linkarg13/Pelis3/releases/download/Peliss/0005.mp4
--------EL CUERVO------
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-cuervo-957452.jpg",el cuervo CAM
-https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.20.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6cdZit68cexIjiGg86DUDbEXkgw.jpg",el enegma del cuervo (2012)
-https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.24.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iEkF5fdgHeyXJbbsCmzb1fm7bFW.jpg",El Cuervo 4 La Plegaria Maldita (2005)
-https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.23.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/cUFQCbZH2otP5QOpdGCTLbu5RyG.jpg",El Cuervo 3 Salvacion (2000)
-https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.22.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/emArZKGOnB2PgMTzMS9drEyDflB.jpg",el cuervo 2 ciudad de los angeles (1996)
-https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.21.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/926j4wnskRBMtWJuR4bCrlKb1ZF.jpg",el cuervo ciudad de los angeles (1994)
-https://cache018.peliscdn.online/newhls/014073e9bff61b5a42fa5462171669c7/EP.0.1.v0.1709222455.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QPNYz9R/images-1.jpg"group-title="",los descendientes el ascenso de red
 http://192.168.1.53:30001/file/5W2WMQpG/video.mp4
@@ -31,108 +13,35 @@ https://archive.org/download/vid-20240719-130500-328/VID_20240719_130500_328.mp4
 https://dl.dropbox.com/scl/fi/wixgvupny4ukxmzkjcbwy/Wild-Eyed-and-Wicked.mp4?rlkey=cg4gq8natxstiu2fqcn8v42ev&dl=0
 #EXTINF:-1 tvg-logo="https://ia600307.us.archive.org/16/items/ghostbusters-apocalipsis-fantasma_202404/ghostbusters-apocalipsis-fantasma.jpg"group-title="", Cazafantasmas: Imperio Helado 
 https://dl.dropbox.com/scl/fi/tfy4p4hnr760h3xx0o9zw/254611-50ea7ca3-5dd9-4292-9570-16fccfc090b1-qptp-2231606-streamwish.mp4?rlkey=a63w2o9qn42h270vqu4i0hgb2&dl=0
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/gG8Tv060zoUwmeGEk8lGBULO9hw.jpg"group-title="",Ghostbusters
-https://cache011.peliscdn.online/newhls/bb4d7bce7db6b7ce822fcc22365465db/EP.0.1.v0.1709352859.360.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/alicia-en-el-pais-de-las-maravillas.jpg"group-title="",Alicia en el País de las Maravillas
-https://cache010.peliscdn.online/newhls/f3ebb0787b32a75644d196a6956ed9bb/EP.0.1.v0.1708709860.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/avengers-grimm-time-wars-2-1619755683.jpg"group-title="",las vengadoras de grimm: tiempos de guerra
-https://cache011.peliscdn.online/newhls/e36ed675a3af95ecb75c29ffa62b3e05/EP.0.1.v0.1708963794.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/werewolf-castle-2-1682186170.jpg"group-title="", Werewolf Castle (SUB)
-https://cache003.peliscdn.online/newhls/1905b5d2e9961e586eac623cacb4647c/EP.0.0.v0.1708933517.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/nightbooks-2-1631763006.jpg"group-title="", cuentos al caer la noche
-https://cache003.peliscdn.online/newhls/b24eb75dec63096894117cd211fb7e72/EP.0.2.v1.1709015747.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/afterlife-of-the-party-2-1630660803.jpg"group-title="", la fiesta del más allá
-https://cache004.peliscdn.online/newhls/fca593df1430e80eea9c033e2b7cc082/EP.0.2.v1.1708746121.360.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/under-wraps-2-1633998604.jpg"group-title="", una momia en halloween
-https://cache018.peliscdn.online/newhls/df9f4414e591cc92d5d5d1fd9d530f38/EP.0.2.v2.1709234276.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/dynasty-warriors-2-1625332442.jpg"group-title="", disnatia warriors (SUB)
-https://cache011.peliscdn.online/newhls/0c52099116e7467dcffada0083d94e5b/EP.0.0.v0.1708987636.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/kingdom-ashin-of-the-north-2-1670326540.jpg"group-title="", Kingdom: Ashin del norte
-https://cache004.peliscdn.online/newhls/a290a051f5647b3294079baa4178e16d/EP.0.2.v1.1708726697.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-puerta-magica-1695134243.png"group-title="", la puerta magica
-https://cache019.peliscdn.online/newhls/d63a1af637bbc4476c0d379466e84485/EP.0.1.v1.1709353481.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-rey-mono-1692434974.png" group-title="",THE MONKEY KING 
-https://cache009.peliscdn.online/newhls/1c73ea851515ee2f6b2fd3c267b24fe2/EP.0.2.v2.1708766392.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/dragon-fury-2-1624327564.jpg"group-title="" ,furia de dragon
-https://cache001.peliscdn.online/newhls/ad392b83a6eb4b733f5eecd795b09cc9/EP.0.2.v1.1709210596.720.m3u8
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/hEuIC6M7PnBewZo91DrRr3RIXYx.jpg" group-title="",Junto a los dioses : Entre dos Mundos 
-https://cache011.peliscdn.online/newhls/e69a44e09d9549a4fbf6d4ba3f128168/EP.0.1.v2.1708833244.720.m3u8
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/40ollvfwHaVF85lkkg522SIl3Qc.jpg" group-title="", Crepúsculo
-https://cache002.peliscdn.online/newhls/7efcd8159dcbb9b235b25cd389d76db8/EP.0.1.v2.1708701440.360.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/avatar-the-way-of-water-2-1671126604.jpg" group-title="",avatar el Camino del agua 
-https://cache008.peliscdn.online/newhls/34d79718db236fad0af94167212a4869/EP.0.1.v0.1709544496.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/dungeons-dragons-honor-among-thieves-2-1680420001.jpg" group-title="",Dungeons & Dragons: Honor entre ladrones
-https://cache005.peliscdn.online/newhls/0388aa0e21c0e3e1259316cef719c636/EP.0.2.v4.1708593049.720.m3u8 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/harry-potter-y-la-piedra-filosofal.jpg" group-title="",Harry Potter y la piedra filosofal
-https://cache003.peliscdn.online/newhls/d0867d2c0ab0c2ba288df13d41823f46/EP.0.1.v1.1708684468.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/harry-potter-y-la-camara-secreta.jpg" group-title="",Harry Potter y la cámara de los secretos
-https://cache009.peliscdn.online/newhls/b3ffd22c9d2d99f29de3806e1bd422d7/EP.0.1.v2.1708684400.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/harry-potter-y-el-prisionero-de-azkaban.jpg" group-title="",Harry Potter y el prisionero de Azkaban
-https://cache011.peliscdn.online/newhls/628350bdb3d892039150a90e89d6974d/EP.0.1.v3.1708707682.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/harry-potter-y-el-caliz-de-fuego.jpg" group-title="",Harry Potter y el cáliz de fuego
-https://cache019.peliscdn.online/newhls/91251b24766ffefe9dc81ab2ec8edffb/EP.0.1.v2.1708689546.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/harry-potter-y-la-orden-del-fenix.jpg" group-title="",Harry Potter y la orden del fenix
-https://cache005.peliscdn.online/newhls/7811de16d16e207bb4dba110b50ea55b/EP.0.1.v1.1708701041.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/harry-potter-y-el-misterio-del-principe.jpg" group-title="",Harry Potter y el Misterio del Príncipe
-https://cache003.peliscdn.online/newhls/70758a7c51c770d5a80497b7f0aed5b1/EP.0.2.v1.1708597495.720.m3u8
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/fYyoJ4Yadk0MCBHZPFrgvMDl50o.jpg" group-title="",Harry Potter y las Reliquias de la Muerte parte 1
-https://cache002.peliscdn.online/newhls/8f4669fd03147d1dda982822982d0449/EP.0.1.v1.1708705101.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/harry-potter-y-las-reliquias-de-la-muerte-parte-2.jpg" group-title="",Harry Potter y las Reliquias de la Muerte parte 2
-https://cache020.peliscdn.online/newhls/873c1faa312524f5e8db52ed52372025/EP.0.1.v2.1708704067.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/animales-fantasticos-y-donde-encontrarlos.jpg" group-title="",Animales fantásticos y Donde Encontrarlos
-https://cache017.peliscdn.online/newhls/fe60ce6eeb5c78680d86af1d3b9faa65/EP.0.1.v1.1708728812.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/animales-fantasticos-los-crimenes-de-grindelwald.jpg" group-title="",Animales fantásticos 2 los Crímenes de Grindelwald
-https://cache011.peliscdn.online/newhls/7190cee7e8a74339c17f9a35c2ea9e73/EP.0.1.v2.1708723036.720.m3u8
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/yOeuJdwag4bAlnvgrdweRoiuXGC.jpg" group-title="",Animales fantásticos 3 los Secretos de Dumbledore
-https://cache015.peliscdn.online/newhls/585e96feaec357fe1fa324d979f42728/EP.0.1.v2.1708713830.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/harry-potter-20th-anniversary-return-to-hogwarts-2-1641231250.jpg" group-title="",Harry Potter, 20º Aniversario: Regreso a Hogwarts
-https://cache006.peliscdn.online/newhls/7d8e4040ceac49f936f4d1ba8506eb1b/EP.0.0.v2.1708655819.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/las-cronicas-de-narnia-el-leon-la-bruja-y-el.jpg" group-title="",Las Crónicas de Narnia: El León, La Bruja y El Ropero
-https://cache003.peliscdn.online/newhls/96ef8e3908779415b4e2f572393d74f6/EP.0.1.v0.1708730559.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/las-cronicas-de-narnia-2-el-principe-caspian.jpg" group-title="",Las Crónicas de Narnia 2: El Príncipe Caspian
-https://cache017.peliscdn.online/newhls/70993ba1004937aac0d9b4654ef03960/EP.0.1.v0.1708773814.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/las-cronicas-de-narnia-3-la-travesia-del-viajero.jpg" group-title="",Las Crónicas de Narnia 3: La travesía del Viajero del Alba
-https://cache015.peliscdn.online/newhls/9a4cb033290d84ed2b687953547e42d0/EP.0.1.v0.1708854968.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mi-vecino-totoro.jpg" group-title="",Mi Vecino Totoro(sub)
-https://cache013.peliscdn.online/newhls/d71ca05321fdaa095420d3ec6038c393/EP.0.0.v2.1708731643.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mi-vecino-totoro.jpg" group-title="",Mi Vecino Totoro subtitulado en español
 https://moodle1.myyschool.xyz/d2Q5SEpZUkRHQ2tOc2VSY1F0YVhVUT09.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-castillo-ambulante.jpg" group-title="",El Castillo Vagabundo subtitulado en español
 https://pc-36.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/7ff95de21523e2ebef49cabb9b4ddd51/EP.0.0.v1.1677415493.360.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-castillo-ambulante.jpg" group-title="",El Castillo Vagabundo
 https://ia800507.us.archive.org/27/items/14-el-c-4-ast-5-llo-a-5-ambtula-5-nte/14EL%20C4AST5LLO%20A5AMBTULA5NTE.mp4
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-viaje-de-chihiro.jpg" group-title="",El Viaje de Chihiro
-https://cache014.peliscdn.online/newhls/87834e8c6d08ce91fc99ae3530aba708/EP.0.1.v0.1708806050.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-viaje-de-chihiro.jpg" group-title="",El Viaje de Chihiro subtitulado en español
-https://moodle1.myyschool.xyz/emUrRGV6aC9UTEJsdndINDkrT1B4cnl0UTFYZ2lGMVZzakpTOUZKWFB5UT0.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-secret-garden-2-1597216323.jpg" group-title="",El Jardin Secreto
-https://cache017.peliscdn.online/newhls/54342ce14b02cb44d1fe14d72ecbe340/EP.0.1.v0.1709377926.720.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nPhFNB6/Van.jpg",Van Helsing
 https://dl.dropbox.com/s/78yalld8nmq1383/Van%20Helsing%20%282004%29.mp4
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-hogar-de-miss-peregrine-para-ninos-peculiares.jpg" group-title="",El Hogar de Miss Peregrine para Niños Peculiares
-https://cache008.peliscdn.online/newhls/7b72643c2dcae0cf8b5032fdbdbcd6fc/EP.0.1.v2.1708751965.720.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/3xFxGodKPMFLheS8rujFSmLfcq4.jpg" group-title="",Un puente hacia Terabithia
 https://ia800205.us.archive.org/5/items/el-mundo-magico-de-terabithiapelicula-completa-en-espanol-latino-480-p/El%20mundo%20m%C3%A1gico%20de%20Terabithia%28pel%C3%ADcula%20completa%20en%20espa%C3%B1ol%20latino%29%28480P%29.mp4
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/jack-el-cazagigantes.jpg" group-title="",Jack, el Cazagigantes
-https://cache005.peliscdn.online/newhls/66d191248e3f4aa8e2d6dc0de0ae15f8/EP.0.1.v0.1708846568.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hansel-y-gretel-cazadores-de-brujas.jpg" group-title="",Hansel y Gretel: Cazadores de Brujas
-https://cache010.peliscdn.online/newhls/6620b741fe66eb733d95acbb54dd2955/EP.0.1.v0.1708845395.720.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qdgj9N3/Sonic.jpg", Sonic La Pelicula
 https://dl.dropbox.com/s/lktqxhwnbcucano/Sonic-%20La%20pel%C3%ADcula%20%5BTS%5D%5BLatino%5D%5BwWw.EliteTorrent.BZ%5D.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/enemy_mine-922915975-mmed.jpg" group-title="",Enemigo mio
 https://ia800303.us.archive.org/28/items/enemigo-mio-espan-ol-latino-360-p/ENEMIGO%20MIO%20ESPA%C3%91OL%20LATINO%28360P%29.mp4
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/warcraft-el-primer-encuentro-de-dos-mundos.jpg" group-title="",Warcraft: El Primer Encuentro de Dos Mundos
-https://cache005.peliscdn.online/newhls/5a38cf2f71561bff058befd45c780aca/EP.0.1.v0.1709249012.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-water-man-2-1622039042.jpg" group-title="",The Water Man subtitulado al español
-https://cache002.peliscdn.online/newhls/ac084c454e839a986e9879b569d2c24e/EP.0.0.v0.1710054607.720.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7Sdp6dv/ii.jpg",The Old Guard
 https://dl.dropbox.com/s/2dlws4f8y42dq3m/The.Old.Guard.2020.mp4
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-llave-magica-1579626304.jpg" group-title="",La Llave Magica
-https://cache008.peliscdn.online/newhls/88854fecc96d186670c659f6ba430a76/EP.0.1.v0.1709400669.360.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkSRqy7/Pura-Energia.jpg", Pura energia
 https://archive.org/download/kohbn/ptol/kohbn.avi
-
-
-.
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_flight_of_dragons-825167208-mmed.jpg" group-title="",El vuelo de los dragones
 https://ia600203.us.archive.org/6/items/facebook-407722370559405-480p/Facebook%20407722370559405%28480p%29.mp4
+
+
+
+
+
+
+
+
+
+
+
+_______
