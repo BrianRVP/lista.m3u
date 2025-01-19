@@ -1,7 +1,12 @@
 #EXTM3U
 
 
-
+#EXTINF:-1 group-title="" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",Las Crónicas de Narnia 1 (2005)
+http://vod.tuxchannel.mx/peliculas/720/cronicas%20de%20narnia.mkv
+#EXTINF:-1 group-title="" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/z6LVJXEmY8E6s57uf8cV3RlWvws.jpg",Las crónicas de Narnia 3 (2010)
+http://vod.tuxchannel.mx/peliculas/720/las%20cronicas%20de%20narnia%20la%20travesia%20del%20viajero%20del%20alba.mkv
+#EXTINF:-1 group-title="" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qxz3WIyjZiSKUhaTIEJ3c1GcC9z.jpg",Las crónicas de Narnia 2 (2008)
+http://vod.tuxchannel.mx/peliculas/720/las%20cronicas%20de%20narnia%20el%20principe%20caspian.mkv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QPNYz9R/images-1.jpg"group-title="",los descendientes el ascenso de red
 http://192.168.1.53:30001/file/5W2WMQpG/video.mp4
