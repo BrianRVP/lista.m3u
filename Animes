@@ -19,6 +19,10 @@ ________solo leving________
 
 #EXTGRP:SOLO LEVING
 #EXTIMG:https://image.tmdb.org/t/p/original/foO8OjRQhqfDc5NY8vqOxb0TnEy.jpg
+#EXTINF:-1 tvg-logo="",1
+https://archive.org/download/boku-no-hero-4/1solo%20leving1.m3u
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/foO8OjRQhqfDc5NY8vqOxb0TnEy.jpg"group-title="SOLO LEVELING",Solo Leveling (2024)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lheS6E8JKFLdan3qU8xRQvutCQj.jpg"group-title="SOLO LEVELING",TEMPORADA 1 (2024)
 https://archive.org/download/boku-no-hero-4/1solo%20leving1.m3u
 
