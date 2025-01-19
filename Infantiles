@@ -4,17 +4,6 @@
 #EXTINF:-1 tvg-logo="",
 
 
-#EXTINF:-1 group-title=""  type="" tvg-logo="https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/90/47/93/20254074.jpg",Hotel Transylvania 1
-https://dl.dropboxusercontent.com/s/pyjn32ivdu2nsmn/Hotel.Transylvania.mp4
-#EXTINF:-1 group-title=""  type="" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/15/08/31/13/55/556728.jpg",Hotel Transylvania 2
-https://dl.dropboxusercontent.com/s/b7gkyurmmt610wr/Hotel.transylvania.2.mp4
-#EXTINF:-1 group-title=""  type="" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/18/04/06/14/54/0363451.jpg",Hotel Transylvania 3
-https://dl.dropboxusercontent.com/s/15wooe59jbibhye/SalynPM.H.T.3.V.M.mp4
-#EXTINF:-1 group-title=""  type="" tvg-logo="https://es.web.img3.acsta.net/pictures/14/11/03/15/36/301097.jpg",Paddington 1 (2014)
-https://dl.dropboxusercontent.com/s/i2dnitld1ys6q8b/SalynPM-SPM4d1n.mp4
-#EXTINF:-1 group-title=""  type="" tvg-logo="https://es.web.img2.acsta.net/pictures/17/11/07/12/12/1503965.jpg",Paddington 2 (2019)
-https://dl.dropboxusercontent.com/s/2mky7z0vpayuk4p/SalynPM-SPM2q6t.mp4
-
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1wLFPmkT2x6qjVyShv8ErJox9Qx.jpg",Gato en Botas: El Último Deseo (2022)
 https://archive.org/download/el-gato-con-botas-el-ultimo-deseo-720p-dual-1.03-gb_202301/El%20Gato%20Con%20Botas%20El%20%C3%9Altimo%20Deseo%20720p%20DUAL%201.03%20GB.mp4
@@ -132,6 +121,8 @@ https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/INMT2.mp4
 https://github.com/HECTHINHOXD/BFLIX-PELIS/releases/download/Pelis-6/wall-e.mp4
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/b5/Metegol1.jpg/revision/latest?cb=20130714222606&path-prefix=es", METEGOL (2013)
 https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/MTG2013AR.avi
+
+________TOY STORY ______
 #EXTINF:-1 tvg-logo="https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY_PTD1.jpg", TOY STORY (1995)
 https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY1.mp4
 #EXTINF:-1 tvg-logo="https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY_PTD2.jpg", TOY STORY 2 (1999)
@@ -140,6 +131,30 @@ https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY2.mp4
 https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY3.mp4
 #EXTINF:-1 tvg-logo="https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY_PTD4.jpg", TOY STORY 4 (2019)
 https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY4.mkv
+
+______Hotel Transylvania_____
+#EXTINF:-1 group-title=""  type="" tvg-logo="https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/90/47/93/20254074.jpg",Hotel Transylvania 1
+https://dl.dropboxusercontent.com/s/pyjn32ivdu2nsmn/Hotel.Transylvania.mp4
+#EXTINF:-1 group-title=""  type="" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/15/08/31/13/55/556728.jpg",Hotel Transylvania 2
+https://dl.dropboxusercontent.com/s/b7gkyurmmt610wr/Hotel.transylvania.2.mp4
+#EXTINF:-1 group-title=""  type="" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/18/04/06/14/54/0363451.jpg",Hotel Transylvania 3
+https://dl.dropboxusercontent.com/s/15wooe59jbibhye/SalynPM.H.T.3.V.M.mp4
+
+#EXTINF:-1 group-title=""  type="" tvg-logo="https://es.web.img3.acsta.net/pictures/14/11/03/15/36/301097.jpg",Paddington 1 (2014)
+https://dl.dropboxusercontent.com/s/i2dnitld1ys6q8b/SalynPM-SPM4d1n.mp4
+#EXTINF:-1 group-title=""  type="" tvg-logo="https://es.web.img2.acsta.net/pictures/17/11/07/12/12/1503965.jpg",Paddington 2 (2019)
+https://dl.dropboxusercontent.com/s/2mky7z0vpayuk4p/SalynPM-SPM2q6t.mp4
+
+
+
+#EXTINF:-1 group-title=""  type="" tvg-logo="https://es.web.img3.acsta.net/pictures/19/01/22/16/26/2486964.jpg",Dumbo 2019
+https://dl.dropboxusercontent.com/s/lgk8cgzeqc2bfxq/SalynPM-Dumbo.mp4
+#EXTINF:-1 group-title=""  type="" tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/16/04/12/08/39/434495.jpg",Angry Birds La película 2016
+https://dl.dropboxusercontent.com/s/794f7b57ukdxl1b/SalynPM-Angry.birds.mp4
+#EXTINF:-1 group-title=""  type="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLcdg4tTbnc79r1gLaMFCOpCO_ilPVnE7q1A&usqp=CAU.jpg",El Expreso Polar 2004
+https://dl.dropboxusercontent.com/s/cvu997zuj1th9dn/SalynPM-ExPResP0L4R.mp4
+#EXTINF:-1 group-title=""  type="" tvg-logo="https://mx.web.img3.acsta.net/pictures/18/03/07/09/26/4951397.jpg",Christopher Robin:Un reencuentro inolvidable 2018
+https://dl.dropboxusercontent.com/s/rht2qn00mxakvt8/SalynPM-C.R.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/eU9IBodwp3RnTgIJzwKjHow1LI3.jpg"group-title="",All hallows eve
 https://cache010.peliscdn.online/newhls/f0f7f535ad43de0a9b51976ce458a3ad/EP.0.2.v0.1709689181.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ojsARUPhtbMAcA3dCR3UwcHW1wM.jpg"group-title="",paw Patrol la súper película 
