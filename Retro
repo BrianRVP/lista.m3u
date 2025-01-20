@@ -8,11 +8,11 @@ https://archive.org/download/boku-no-hero-4/panterarosa.m3u
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/fNl96aDMjreDdrHvxgtIqz353fK.jpg"group-title="Caricaturas retro",la aldea de arce
 https://archive.org/download/6.los-magnificos/12.la%20aldea%20de%20arce.m3u
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDgwOTg0NDUtMTgzNC00MGI3LThjMDktOGViYWRlMWI1NmI3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Caricaturas retro",Los halcones galacticos
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kyevJdl7IoSztPfbuJLuZ3JPbVs.jpg.web_UX1000_.jpg" group-title="Caricaturas retro",Los halcones galacticos
 https://archive.org/download/elch4v0/halcon.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/DONKEY KONG COUNTRY.jpg" group-title="Caricaturas retro",DONKEY KONG COUNTRY
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iYrkkqxQdsxeamYxpJLDBzteCJ8.jpg.webp" group-title="Caricaturas retro",DONKEY KONG COUNTRY
 http://archive.org/download/dkc_20200820/DonkeykongWX.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/FUERZA G.jpg" group-title="Caricaturas retro",FUERZA G
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xNyW47dV29ixM4o2hyuCglg05sZ.jpg.webp G.jpg" group-title="Caricaturas retro",FUERZA G
 https://archive.org/download/ns_20210520/FUERZG.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/GARFIELD.jpg" group-title="Caricaturas retro",GARFIELD
 http://archive.org/download/g470_20200814/g470.m3u
@@ -24,8 +24,7 @@ https://archive.org/download/ns_20210520/heman.m3u
 http://archive.org/download/heidi_202001/Heidi.m3u
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/6e/c9/b5/6ec9b5e39eee4c27125ecbf07d7633be.jpg"group-title="Caricaturas retro",Mazinger Z
 https://raw.githubusercontent.com/linkarg13/SERIES/main/Mazinger%20Z
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nvnUa6L5dTlmEU1F679undOJbny.jpg"group-title="Caricaturas retro",Gran Mazinger
-https://raw.githubusercontent.com/linkarg13/SERIES/main/Gran%20Mazinger
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xa63wUdChEZL6uDFRzjYITbVPqW.jpg" group-title="Caricaturas retro",Candy Candy 1975
 https://raw.githubusercontent.com/AaronCoyu/Candy/main/Candy
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/silverhawks_tv_series-694193002-large.jpg"group-title="Caricaturas retro",Halcones Galacticos T2
