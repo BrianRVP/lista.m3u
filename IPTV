@@ -1,4 +1,4 @@
-#EXTM3U
+2#EXTM3U
 
 
 
@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/INFANTIL.m3u
 #EXTINF:-1 tvg-logo=""group-title="pruebas",c3
 
 #EXTINF:-1 tvg-logo="",p8
-
+https://argentin1373.b-cdn.net/series/m3u%20terminadas/cuentos%20del%20imperio.m3u
 #EXTINF:-1 tvg-logo="",c4
 https://raw.githubusercontent.com/angel200881/chann/refs/heads/main/series.m3u8
 #EXTINF:-1 tvg-logo="",c5
