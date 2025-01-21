@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jivUhECegXI3OYtPVflWoIDtENt.jpg",Nosferatu (2024)
+https://archive.org/download/d3vu37t4.4.747cc10n/BFLIX4Nosf3ratu1.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5HJqjCTcaE1TFwnNh3Dn21be2es.jpg",Heretic (2024)
 https://archive.org/download/h3R_3j3/h3R_3j3.ia.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3xOYf938hlGXR7Epta7jH2CjCba.jpg",The Shed (2019)
