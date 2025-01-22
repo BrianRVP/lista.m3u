@@ -1,8 +1,5 @@
-#EX
+#EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://www.infobae.com/new-resizer/u3h5_znTjY0Bz_U0hIzXMYD8RuM=/arc-anglerfish-arc2-prod-infobae/public/ZXNM27XQFNHVFPJJYABP6Z22NA.jpg"group-title="Star+",Shogun
-https://github.com/Ezequiel10579/serie-japonesa/releases/download/samurai/shogun.m3u
 
 #EXTINF:-1 tvg-logo="https://www.pelisplus.lat/wp-content/uploads/2021/12/iF8ai2QLNiHV4anwY1TuSGZXqfN-200x300.jpg" group-title="Star+",Chucky 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Chucky
