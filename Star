@@ -1,19 +1,9 @@
-#EXTM3U
+#EX
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jk5wf0r/v-H0-Mghb0l-NJ5k7-Ep-Dw-I7i-JV7qa-O-1.jpg"group-title="Star+",LOS SIMPSON
-https://raw.githubusercontent.com/tokio14-dot/p3l122/refs/heads/main/L0221mps0ns
 
 #EXTINF:-1 tvg-logo="https://www.infobae.com/new-resizer/u3h5_znTjY0Bz_U0hIzXMYD8RuM=/arc-anglerfish-arc2-prod-infobae/public/ZXNM27XQFNHVFPJJYABP6Z22NA.jpg"group-title="Star+",Shogun
 https://github.com/Ezequiel10579/serie-japonesa/releases/download/samurai/shogun.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jk5wf0r/v-H0-Mghb0l-NJ5k7-Ep-Dw-I7i-JV7qa-O-1.jpg"group-title="Star+",LOS SIMPSON
-https://raw.githubusercontent.com/linkarg13/Los-Simpson-/main/Temp1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pJKdfqw/S3m-Qv-Ux-Ro-720x0-1.jpg"group-title="Star+", EL ENCARGADO
-https://raw.githubusercontent.com/linkarg13/PELICULAS/main/ELENCARGADO
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-otra-chica-negra-1694756501.png"group-title="Star+ ", la otra chica negra
-https://raw.githubusercontent.com/linkarg13/Laotrachicadenegro/main/La%20otra%20chica%20de%20negro
+
 #EXTINF:-1 tvg-logo="https://www.pelisplus.lat/wp-content/uploads/2021/12/iF8ai2QLNiHV4anwY1TuSGZXqfN-200x300.jpg" group-title="Star+",Chucky 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Chucky
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="Star+",Chucky temporada 3 latino
