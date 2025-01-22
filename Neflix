@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTGRP: Netflix 
+ 
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8oq118OTYuftOu7lmxIbzB31JzK.jpg"group-title="BEDOS,KITTY",TEMPORADA 1
 https://archive.org/download/bflixr-6/besos%20ketty01.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8oq118OTYuftOu7lmxIbzB31JzK.jpg"group-title="BESOS,KITTY",TEMPORADA 2
 https://raw.githubusercontent.com/BrianRVP/Ejemplo/refs/heads/main/Besos%20Kitty
-
+#EXTGRP: Netflix
 
 #EXTINF:- tvg-logo="https://image.tmdb.org/t/p/original/8oq118OTYuftOu7lmxIbzB31JzK.jpg", Besos Kitty
 https://raw.githubusercontent.com/BrianRVP/Ejemplo/refs/heads/main/Besos%20Kitty
