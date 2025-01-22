@@ -1,15 +1,9 @@
 #EXTM3U
- 
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8oq118OTYuftOu7lmxIbzB31JzK.jpg"group-title="BEDOS,KITTY",TEMPORADA 1
-https://archive.org/download/bflixr-6/besos%20ketty01.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8oq118OTYuftOu7lmxIbzB31JzK.jpg"group-title="BESOS,KITTY",TEMPORADA 2
-https://raw.githubusercontent.com/BrianRVP/Ejemplo/refs/heads/main/Besos%20Kitty
 #EXTGRP: Netflix
 
+
 #EXTINF:- tvg-logo="https://image.tmdb.org/t/p/original/8oq118OTYuftOu7lmxIbzB31JzK.jpg", Besos Kitty
-https://raw.githubusercontent.com/BrianRVP/Ejemplo/refs/heads/main/Besos%20Kitty
+https://archive.org/download/bflixr-6/besosketty.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yZ0HCHe4rMFBWMEqmt1gGyjU7ZK.jpg",100 AN DE SOLEDAD (2024)
 https://archive.org/download/la-ninera-4/cienanods0l3dad.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1WynayCqKRzrl4cFZR8NOfiDwd6.jpg",desencanto(2018)
