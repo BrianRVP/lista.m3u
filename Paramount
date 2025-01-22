@@ -2,7 +2,7 @@
 
  ---------PARAMOUNT--------
 
-#EXTINF:-1 tvg-logo="",NCIS: temp 1-19
+#EXTINF:-1 tvg-logo="https://theposterdb.com/api/assets/349005/view?performed_by=tokio1374"group-title="Paramount+",NCIS: temp 1-19
 https://raw.githubusercontent.com/antonio7129/NCIS-temp.1-al-19/refs/heads/main/NCIS%20.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS SIMULADORESMEXICO.jpg" group-title="Paramount+",LOS SIMULADORESMEXICO
 http://archive.org/download/ns_20210520/SIMU.m3u
@@ -24,8 +24,8 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Acapulco%20shore
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Tulsa%20king
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/your-honor-2-1670920203.jpg" group-tilte="Paramount+",Your honor Latino
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Your%20honor
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5MtCSHh/Evil-Serie-de-TV-731550198-large.jpg"group-title="Paramount+",evil
-https://raw.githubusercontent.com/linkarg13/SERIES/main/EVIL
+
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/halo-1668956365.png" group-title="Paramount+",HALO (2022)
 https://raw.githubusercontent.com/Bvserver123/Ghghg/main/Halo
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/w88Obs6wAdhlmYziKXz8EsKDmJs.jpg" group-title="Paramount+",Knuckles (2024) latino
