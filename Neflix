@@ -2,6 +2,14 @@
 #EXTGRP: Netflix
 
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/bflixasura-7asure/asure%20tapap%C3%B1%20principal.jpg",Asura (2025)
+https://archive.org/download/bflixasura-7asure/BFLIXasure.m3u
 #EXTINF:- tvg-logo="https://image.tmdb.org/t/p/original/8oq118OTYuftOu7lmxIbzB31JzK.jpg", Besos Kitty
 https://archive.org/download/bflixr-6/BFLIXbesosketty.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yZ0HCHe4rMFBWMEqmt1gGyjU7ZK.jpg",100 AN DE SOLEDAD (2024)
