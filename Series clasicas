@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTGRP: Clasic
 
+#EXTINF:-1 tvg-logo="",sd
+https://archive.org/download/sd_20240714/sd.m3u
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/e93H0P6GYoDUhHR5uCdmfLDAvKt.jpg.webp",auto fantastico (2008)
 https://archive.org/download/spartacus_202412/autofabtastico.m3u
