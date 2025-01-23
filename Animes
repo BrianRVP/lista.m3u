@@ -13,8 +13,6 @@ https://raw.githubusercontent.com/tokio14-dot/0nep13c3/refs/heads/main/one%20pie
 https://raw.githubusercontent.com/tokio14-dot/0nep13c3/refs/heads/main/one%20especiales
 
 ________solo leving________
-
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/foO8OjRQhqfDc5NY8vqOxb0TnEy.jpg"group-title="SOLO LEVELING",Solo Leveling (2024)
 #EXTART:https://image.tmdb.org/t/p/original/foO8OjRQhqfDc5NY8vqOxb0TnEy.jpg
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lheS6E8JKFLdan3qU8xRQvutCQj.jpg"group-title="SOLO LEVELING",TEMPORADA 1 (2024)
@@ -22,10 +20,11 @@ https://archive.org/download/boku-no-hero-4/1solo%20leving1.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/a7i9OdTUo9jZ1XoraCRIQNJ6ACX.jpg"group-title="SOLO LEVELING",TEMPORADA 2 (2025)
 https://raw.githubusercontent.com/tokio14-dot/solo/refs/heads/main/solo2
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eH4bOnC8nWwHfgk5XtYq8ts3FF6.jpg"group-title="SAILOR MOON",sailor moom
+#EXTINF:-1 tvg-logo="https://archive.org/download/bflixssilor-01-13/Sailor%20Moon%20Crystal%20principal.jpeg"group-title="SAILOR MOOM",sailor moon CRISTAL (2014)
+https://archive.org/download/bflixssilor-01-13/BFLIXsailormoon.m3u
 ________boku no hero____________
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xTlc93PezcZHMcvmAtPL3cyX0yE.jpg"group-title="BOKU NO HERO",BOKU NO HERO
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dmbJPaYV4nxJCORlmGkNEyGvHBW.jpg"group-title="BOKU NO HERO",PELICULAS
 https://archive.org/download/boku-no-hero-4/peliculas.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/phuYuzqWW9ru8EA3HVjE9W2Rr3M.jpg"group-title="BOKU NO HERO",Season 1 (2016)
