@@ -19,7 +19,8 @@ https://archive.org/download/la-ninera-4/mac-gyver.m3u
 
 #EXTINF:-1 tvg-logo="https://ia600605.us.archive.org/19/items/bflix_202501/IMG_20250117_055112.jpg",mujeres asesinas (2008)
 https://archive.org/download/bflix_202501/mujeresasessin.m3u
-
+#EXTINF:-1 tvg-logo="",OKUPAS mejor calidad
+https://archive.org/download/spartacus_202412/BFLIXokupasMJ.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5uf6L2w2QRomahGMCniHskNOQWf.jpg",okupas (2000)
 https://archive.org/download/bflix_202501/okupa.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2D11vhVBLC4jP0vVqKdQm97Z3qb.jpg",esta en hulu tamb
