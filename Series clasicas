@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTGRP: Clasic
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/e93H0P6GYoDUhHR5uCdmfLDAvKt.jpg.wep",auto fantastico (2008)
+https://archive.org/download/spartacus_202412/autofabtastico.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zyEX66a7TqjtfDfGypDk3de3mF.jpg",ER urgencias (1994)
 https://archive.org/download/spartacus_202412/ERemergenciascoleccion.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ePIoXpCYo3vbmlKfyghAiL1RjYW.jpg",Stargate SG-1 (1997)
