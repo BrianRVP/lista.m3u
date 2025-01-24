@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mD2m6Lr7GtyBv85EP1s0dQHQo1X.jpg",El señor de los anillos: La guerra de los Rohirrim (2024)
+https://github.com/tokio14-dot/ser-53/releases/download/A.1.0.7/0ore2477.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/diPEcLFEb1uuUpApol1Bit6ck3l.jpg",Solo Leveling ReAwakening (2024)
+https://github.com/tokio14-dot/ser-53/releases/download/A.1.0.7/1_5091785288204682858.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ae434jM5NG2kKX1rRkG5giMhpPI.jpg",BLUE LOCK THE MOVIE -EPISODE NAGI- (2024)
+https://github.com/tokio14-dot/Q.5825/releases/download/Q.563737/4914689537.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8rdB1wkheEMMqcY8qLAKjCMPcnZ.jpg",My Hero Academia: You're Next (2024)
+https://github.com/tokio14-dot/Q.5825/releases/download/Q.563737/373679421567.mp4
 
 #EXTINF:-1 tvg-logo="",
 
@@ -7,8 +15,8 @@
 
 #EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zC5OU1G1eeIN1xTnXPWibolYrf6.jpg",Starchaser: La leyenda de Orin (1985)
+https://archive.org/download/starchaser-1985-castellano/Starchaser%20%281985%29%20%5BCastellano%5D.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kGPsphblXzgBNrmHGfqnh8Yc97K.jpg",Lupin III. En busca del tesoro de Harimao (1995)
 https://archive.org/download/12.-el-tesoro-de-harimao/12.-%20El%20Tesoro%20de%20Harimao.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/f4Nyn4ReoECj7YobTJ8okArTYbq.jpg",Ashita no Joe 2 (1981)
@@ -46,14 +54,6 @@ https://archive.org/download/pretty-guardian-sailor-moon-cosmos-la-pelicula-part
 https://archive.org/download/yummy_202105/Ne%20Zha%20%282019%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mDw0xJoiicuGn4UBcvAI1lx5h5h.jpg",juguetes y mascotas (2017)
 https://archive.org/download/yummy_202105/Toys%20and%20pets%20-%20Tea%20Pets%20%282017%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mD2m6Lr7GtyBv85EP1s0dQHQo1X.jpg",El señor de los anillos: La guerra de los Rohirrim (2024)
-https://github.com/tokio14-dot/ser-53/releases/download/A.1.0.7/0ore2477.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/diPEcLFEb1uuUpApol1Bit6ck3l.jpg",Solo Leveling ReAwakening (2024)
-https://github.com/tokio14-dot/ser-53/releases/download/A.1.0.7/1_5091785288204682858.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ae434jM5NG2kKX1rRkG5giMhpPI.jpg",BLUE LOCK THE MOVIE -EPISODE NAGI- (2024)
-https://github.com/tokio14-dot/Q.5825/releases/download/Q.563737/4914689537.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8rdB1wkheEMMqcY8qLAKjCMPcnZ.jpg",My Hero Academia: You're Next (2024)
-https://github.com/tokio14-dot/Q.5825/releases/download/Q.563737/373679421567.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/aLv87NgRJUPkQ6sVLP72IisDdt4.jpg",La leyenda de Hei (2019)
 https://archive.org/download/la-leyenda-de-hei-peli-cula-completa-hd-buena-espan-ol-1080-p-hd/LA%20LEYENDA%20DE%20HEI%20PEL%C3%8DCULA%20COMPLETA-%20HD-%20BUENA%20%28ESPA%C3%91OL%29%281080P_HD%29.ia.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/a3Hxt3UhpiyvX8qcO4vJpu0WThc.jpg"group-title="",el imaginario (2023)
