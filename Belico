@@ -1,5 +1,15 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ylYzMzDbzxFu487FKgdzRxU7HV7.jpg",El Chapo, ascenso y caída
+https://archive.org/download/documentales_202012/El%20Chapo%2C%20ascenso%20y%20caida.mp4.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tuCQtzwSmt36c5q3RpaAmpEZmFW.jpg",A Year With Armin van Buuren (2012)
 https://archive.org/download/1-documentales/A%20Year%20With%20Armin%20van%20Buuren%20documental.ia.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7T8RccFsD3Bwt75omMlPdRHcaWu.jpg", I Am Hardwell (2013)
