@@ -47,7 +47,8 @@ https://archive.org/download/boku-no-hero-4/boku%20no%20hero6.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/myxWINN4lV2YRtb3DcCi7UFn6C5.jpg"group-title="BOKU NO HERO",Final Season
 _________________________________
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg",Castlevania (2017)
+https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/castlevania.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/drX1N080c08fn0xencilweSzW97.jpg"group-title="DAN DA DAN",DAN DA DAN (2024)
 https://archive.org/download/masallasdeljardin/D4nd4d4n.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sTzvJnfiOSZDxXoVNNwzTNETnuj.jpg"group-title="Accion",Demon Slayer 
