@@ -2,10 +2,13 @@
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mD2m6Lr7GtyBv85EP1s0dQHQo1X.jpg",El señor de los anillos: La guerra de los Rohirrim (2024)
 https://github.com/tokio14-dot/ser-53/releases/download/A.1.0.7/0ore2477.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/diPEcLFEb1uuUpApol1Bit6ck3l.jpg",Solo Leveling ReAwakening (2024)
 https://github.com/tokio14-dot/ser-53/releases/download/A.1.0.7/1_5091785288204682858.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ae434jM5NG2kKX1rRkG5giMhpPI.jpg",BLUE LOCK THE MOVIE -EPISODE NAGI- (2024)
 https://github.com/tokio14-dot/Q.5825/releases/download/Q.563737/4914689537.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8rdB1wkheEMMqcY8qLAKjCMPcnZ.jpg",My Hero Academia: You're Next (2024)
 https://github.com/tokio14-dot/Q.5825/releases/download/Q.563737/373679421567.mp4
 
@@ -27,18 +30,7 @@ https://archive.org/download/Pelisyoshii/Lucario%20y%20el%20misterio%20de%20mew.
 https://archive.org/download/el-mundo-secreto-de-arriety/El%20mundo%20secreto%20de%20Arriety.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4jfbKKLpqts3i2h2obkrONcjTg1.jpg",La leyenda de Hei (2019)
 https://archive.org/download/la-leyenda-de-hei-peli-cula-completa-hd-buena-espan-ol-1080-p-hd/LA%20LEYENDA%20DE%20HEI%20PEL%C3%8DCULA%20COMPLETA-%20HD-%20BUENA%20%28ESPA%C3%91OL%29%281080P_HD%29.ia.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6JilEC1SON8tWIRHcdJzf4uVBpX.jpg",Dragon Ball Super: Broly (2018)
-https://archive.org/download/dragon-ball-super-broly-doblaje-argentino/Dragon%20Ball%20Super%20Broly.HDTV.1080i.STRZ_ESP-VILA.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hasMQTJXgv20EyNUDcNKMhQW6gq.jpg",Dragon Ball Z: La Resurreccion de Freezer (2015)
-https://archive.org/download/dragon-ball-z-la-resurreccion-de-freezer/Dragon%20Ball%20Z%3A%20La%20Resurrecci%C3%B3n%20de%20Freezer.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cIyPFIeSKNTiWU9Zny0c0IVPQRY.jpg",Dragon Ball Z: La Batalla de los Dioses (2013)
-https://archive.org/download/dragon-ball-z-la-batalla-de-los-dioses/Dragon%20Ball%20Z%20la%20Batalla%20de%20los%20Dioses.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/27KARvbKeiGasPL7tYVaIEk3bya.jpg",Dragon Ball Z: Los dos Guerreros del Futuro Gohan y Trunks (1993)
-https://archive.org/download/los-dos-guerreros-del-futuro-gohan-y-trunks/Los%20dos%20guerreros%20del%20futuro%20Gohan%20y%20trunks.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jazByuCSWAZ1H1DRFtxiBKmbzJ0.jpg",Dragon Ball Z: La Fusión de Goku y Vegeta (1995)
-https://archive.org/download/dragon-ball-z-la-fusion-de-goku-y-vegeta-1995-www.-leon-games.-com/Dragon%20Ball%20Z%20-%20La%20fusi%C3%B3n%20de%20Goku%20y%20Vegeta%20%5B1995%5D%20%5BWWW.LEON-GAMES.COM%5D.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1hXkEacbCRYYau4dLv4UZPWxKr5.jpg",Dragon Ball Z: Los Rivales más Poderosos (1991)
-https://archive.org/download/los-rivales-mas-poderosos-trailer-latino/DBZ%20-%20Los%20rivales%20mas%20poderosos%20-%20Yoshii.mp4
+
 
 
 
@@ -108,36 +100,44 @@ https://ia601608.us.archive.org/16/items/anime-online-ninja-my-hero-academia-wor
 https://ia801609.us.archive.org/12/items/jujutsu-kaisen-0_202304/Jujutsu%20Kaisen%200.mp4 
 
 
-#EXTINF:-1 tvg-logo="" group-title="",Kimetsu nogroup-title="https://theposterdb.com/api/assets/329809/view",Kimetsu no Yai Yaiba: Mugen Ressha-hen 
-https://server26.pelispluscdn.info/newhls/09417f7b228dc43876c120639c9658bd/EP.0.2.v1.1677255888.720.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="https://theposterdb.com/poster/433613",Dragon Ball Super: Super Hero (2022) 720p latino
-https://ia601405.us.archive.org/30/items/dragon-ball-super-hero_202209/Dragon%20Ball%20Super%20Hero.mp4
 
+
+
+
+#EXTINF:-1 tvg-logo="https://theposterdb.com/api/assets/329809/view",Kimetsu no Yai Yaiba: Mugen Ressha-hen 
+https://server26.pelispluscdn.info/newhls/09417f7b228dc43876c120639c9658bd/EP.0.2.v1.1677255888.720.m3u8 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/nEWftodqakZu0RcfqhVr9f7ZdUH.jpg" group-title="",Resident evil:Death island (2023) 720p latino
+https://dn720304.ca.archive.org/0/items/resident-evil-isla-de-la-muerte-2023/Resident%20evil%20Isla%20de%20la%20Muerte%202023.mp4
 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/dragon-ball-super-broly.jpg" group-title="",Dragon Ball Super: Broly (2019) 720p latino
 https://ia801905.us.archive.org/22/items/dragon-ball-super-broly/Dragon%20Ball%20Super%3A%20Broly.mp4
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/dragon-ball-z-la-resurreccion-de-freezer.jpg" group-title="",Dragon ball Z: La resurreccion de freezer (2015) 720p latino
 https://cache013.peliscdn.online/newhls/7f144d80590d936b87ccb5c02fd2dd52/EP.0.1.v0.1708823920.720.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/nEWftodqakZu0RcfqhVr9f7ZdUH.jpg" group-title="",Resident evil:Death island (2023) 720p latino
-https://dn720304.ca.archive.org/0/items/resident-evil-isla-de-la-muerte-2023/Resident%20evil%20Isla%20de%20la%20Muerte%202023.mp4
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/suzume-no-tojimari-2-1682385002.jpg" group-title="",Suzume (2022) 720p subtitulada
-https://cache001.peliscdn.online/newhls/e405774aeb3f5283cd526a7bba5c9210/EP.0.0.v0.1709641790.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/suzume-no-tojimari-2-1682385002.jpg" group-title="",Suzume (2022) 720p español latino
-https://cache001.peliscdn.online/newhls/e405774aeb3f5283cd526a7bba5c9210/EP.0.2.v0.1709322986.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/doragon-boru-supa-supa-hiro-2-1669025408.jpg" group-title="",Dragon Ball Super: Super Hero corregido
-https://pc-20.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/77c94a44789a69b9e270863a5f73412b/EP.0.2.v9.1676021980.720.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6JilEC1SON8tWIRHcdJzf4uVBpX.jpg",Dragon Ball Super: Broly (2018)
+https://archive.org/download/dragon-ball-super-broly-doblaje-argentino/Dragon%20Ball%20Super%20Broly.HDTV.1080i.STRZ_ESP-VILA.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hasMQTJXgv20EyNUDcNKMhQW6gq.jpg",Dragon Ball Z: La Resurreccion de Freezer (2015)
+https://archive.org/download/dragon-ball-z-la-resurreccion-de-freezer/Dragon%20Ball%20Z%3A%20La%20Resurrecci%C3%B3n%20de%20Freezer.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cIyPFIeSKNTiWU9Zny0c0IVPQRY.jpg",Dragon Ball Z: La Batalla de los Dioses (2013)
+https://archive.org/download/dragon-ball-z-la-batalla-de-los-dioses/Dragon%20Ball%20Z%20la%20Batalla%20de%20los%20Dioses.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/27KARvbKeiGasPL7tYVaIEk3bya.jpg",Dragon Ball Z: Los dos Guerreros del Futuro Gohan y Trunks (1993)
+https://archive.org/download/los-dos-guerreros-del-futuro-gohan-y-trunks/Los%20dos%20guerreros%20del%20futuro%20Gohan%20y%20trunks.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jazByuCSWAZ1H1DRFtxiBKmbzJ0.jpg",Dragon Ball Z: La Fusión de Goku y Vegeta (1995)
+https://archive.org/download/dragon-ball-z-la-fusion-de-goku-y-vegeta-1995-www.-leon-games.-com/Dragon%20Ball%20Z%20-%20La%20fusi%C3%B3n%20de%20Goku%20y%20Vegeta%20%5B1995%5D%20%5BWWW.LEON-GAMES.COM%5D.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1hXkEacbCRYYau4dLv4UZPWxKr5.jpg",Dragon Ball Z: Los Rivales más Poderosos (1991)
+https://archive.org/download/los-rivales-mas-poderosos-trailer-latino/DBZ%20-%20Los%20rivales%20mas%20poderosos%20-%20Yoshii.mp4
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/bNyCoSkJ41uEeya5IW9LQLgq064.jpg" group-title="",Dragon Ball:La leyenda del dragon shenron (1986) 720p latino
 https://ia802503.us.archive.org/32/items/el-camino-hacia-el-poder-dragonball_202206/01-La%20leyenda%20de%20Shenlong.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/ldP1oqszTTOMKHVGxfcEXB6ZPgS.jpg" group-title="",Dragon Ball:La bella durmiente en el castillo del mal (1987) 720p latino
 https://ia802503.us.archive.org/32/items/el-camino-hacia-el-poder-dragonball_202206/02-%20La%20Bella%20Durmiente%20En%20El%20Castillo%20del%20mal.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/24AnQPAeYVGFwUzHt216X7yB27M.jpg" group-title="",Dragon Ball:Aventura mistica (1988) 720p latino
 https://dn720406.ca.archive.org/0/items/el-camino-hacia-el-poder-dragonball_202206/03-Una%20aventura%20mistica.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/wuW7jeE7pX7glnZpCcJZGfC0YSr.jpg" group-title="",Dragon Ball:El camino hacia el poder (1996) 720p latino
-https://dn720406.ca.archive.org/0/items/el-camino-hacia-el-poder-dragonball_202206/El%20camino%20hacia%20el%20poder%20dragonball.mp4
+
 #EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/dragon-ball-z-pelicula-1.jpg" group-title="",Dragon Ball Z:Devuélvanme a mi Gohan (1989) 720p latino
 https://ia802906.us.archive.org/1/items/dragonballz01devuelvanmeamigohan1989id28609/Dragon%20Ball%20Z%2001%20%C2%A1Devuelvanme%20a%20mi%20Gohan%21%201989%20id_28609.mp4
-#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/dragon-ball-z-pelicula-2.jpg" group-title="",Dragon Ball Z:El hombre mas fuerte de este mundo (1990) 720p latino
-https://cache006.peliscdn.online/newhls/efa78033f722d147e391c6a00e9279c3/EP.0.2.v0.1709404709.720.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/dragon-ball-z-pelicula-3.jpg" group-title="",Dragon Ball Z:La batalla mas grande del mundo esta por comenzar (1990) 720p latino
 https://dn720401.ca.archive.org/0/items/06-la-batalla-mas-grande-del-mundo-esta-por-comenzar/06-La%20batalla%20m%C3%A1s%20grande%20del%20mundo%20esta%20por%20comenzar.mp4
 #EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/dragon-ball-z-pelicula-4.jpg" group-title="",Dragon Ball Z:Goku es un super saiyajin (1991) 720p latino
@@ -174,3 +174,20 @@ https://dl.dropboxusercontent.com/scl/fi/9t1ssgrlcnx8ir70ku4px/K6yn7f7u-p3ta5nd6
 https://dl.dropboxusercontent.com/scl/fi/9lsbrup6x52xwun0jsqo7/L4Q1G4A-D41E-L1A-J54ST41IC14IA-P1A4RT3E-1.mp4?rlkey=rjzob9x60qsrcjzhtknteydqs&st=dcamucq7
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/aOT8n3YOOkInZ5VHJN4FffHrm43.jpg" group-title="",La Liga de la Justicia: Crisis en Tierras Infinitas parte 2 parte 2 (2024) 720p latino
 https://dl.dropboxusercontent.com/scl/fi/o4bax634t8bgyhven2f4c/L4Q1G4A-D41E-L1A-J54ST41IC14IA-P1A4RT3E-2.mp4?rlkey=srxs3b33pnqavk8j2gr9h3hek&st=21lpd1va
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_______
