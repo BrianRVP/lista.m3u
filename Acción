@@ -1,8 +1,9 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9eDQv0tnsrJWmqKmKLdxGxp10b7.jpg",Beekeeper: El protector (2024)
+https://archive.org/download/estrenos-2024/Beekeeper%20%282024%29.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9eDQv0tnsrJWmqKmKLdxGxp10b7.jpg",Beekeeper: El protector (2024)
+https://archive.org/download/estrenos-2024/Beekeeper%20%282024%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wsfOvNfUGogZGfSDfMN4hCOM1kR.jpg",Juego de ladrones 2: Pantera (2025)
 https://archive.org/download/d3vu37t4.4.747cc10n/ju3g0sd3l4dr0n352.ia.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mAvyQ2X3767LwXE2htvAd22ucd3.jpg",De vuelta a la acción (2025)
