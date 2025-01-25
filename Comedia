@@ -2,8 +2,10 @@
 
 
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/edgKt5Z7QcH2TZfaT7vXOrs36zt.jpg",codigo rojo (2024)
+https://archive.org/download/estrenos-2024/Red%20One.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/edgKt5Z7QcH2TZfaT7vXOrs36zt.jpg",codigo traje rojo (2024)CAM
+https://github.com/tokio14-dot/pel2/releases/download/Q.6948/2949292929291.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ac2a7CJjxFwUULB8YGHdmDL5oSP.jpg",Om Shanti Om (2007)SUP
 https://archive.org/download/om-shanti-om-2007-pelicula-completa-subtitulada-online/Om%20Shanti%20Om%20%282007%29%20-%20Pelicula%20completa%20subtitulada%20online.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mXM9ko0JvieMPVITaxEY6jo48Pa.jpg",El gran año (2011)
@@ -48,8 +50,6 @@ https://github.com/tokio14-dot/pe-la/releases/download/A.1.0.1/cambio.1.mp4
 https://github.com/tokio14-dot/pel2/releases/download/Q.6948/Q39581959.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6vzr24dRwBOO1AlCIcbJgj46L28.jpg"group-title="",Jackass presenta: Bad Grandpa .5 (2014)
 https://github.com/tokio14-dot/pel2/releases/download/Q.6948/S.4028583.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/edgKt5Z7QcH2TZfaT7vXOrs36zt.jpg",codigo traje rojo (2024)CAM
-https://github.com/tokio14-dot/pel2/releases/download/Q.6948/2949292929291.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/l9slQ1zMnE9fDH4uF0Zk542IC3H.jpg"group-title="",Harold y el lápiz mágico (2024)
 https://dl.dropbox.com/scl/fi/rac4mp0hjgx9b5gn17xca/1920x960-Harold-y-su-cray-n-m-gico.mp4?rlkey=06iqbd5fhea4skgbn2l651awe&st=7fy04fum&dl=0
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/sTpOfjsI17o2ZjehAwqzF2BVjCG.jpg"group-title="",pequeños gigantes (1994)
