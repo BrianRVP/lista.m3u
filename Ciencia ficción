@@ -1,5 +1,14 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1jzVCZxBmgvpGILuEU8icfX77Io.jpg",Transformers One (2024)
+https://archive.org/download/estrenos-2024/TRANSFORMERS%20ONE%20%282024%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tzp6VzED2TBc02bkYoYnQa6r2OK.jpg",(FHD)La guerra del mañana (2021)
 https://archive.org/download/movies_20250123_2146/The%20Tomorrow%20War%20%282021%29.webm
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tzp6VzED2TBc02bkYoYnQa6r2OK.jpg",La guerra del mañana (2021)
