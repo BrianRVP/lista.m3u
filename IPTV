@@ -2,9 +2,9 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z14GjBNXQw5kfHjSnrBSJ9HdvHm.jpg",raw 2
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2bZ5c9sHbzApWVIsUoWztg43EgB.jpg",raw 3
+#EXTINF:-1 tvg-logo="",boca
+http://cdn1702.opentraffic.live:2052/free17/253/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDI1IDEwOjI0OjMyIFBNJmhhc2hfdmFsdWU9cXBpMGZaVGJnOVJsZjlhOXN3V21qUT09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:-1 tvg-logo="",raw 3
 
 
 --------SIDE BY SIDE---
