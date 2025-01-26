@@ -1,5 +1,14 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uJZrBYrj9qC3BsCZKo75COJewOa.jpg",Los horrores de Caddo Lake (2024)
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ozYkQIGsR7kPbu1yzjC7P3ph6vT.jpg",vidas de papel (2021)
 https://archive.org/download/vidas-de-papel-es-pelicula-turca-en-espanol/Vidas%20de%20Papel%20ES%20Pel%C3%ADcula%20Turca%20en%20Espa%C3%B1ol.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/16obDcmphjfq17zwWKJlur53fCh.jpg",La Casa de Cristal (2001)
@@ -8,8 +17,6 @@ https://archive.org/download/yummy_202105/-%20Casas%20de%20cristal.mp4
 https://ia600805.us.archive.org/13/items/w-1-ck-3d/W1_ck3d.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nbjhozJ7uoaZXRXsUDsQXDUW6OZ.jpg",Un silencio (2024)
 https://archive.org/download/d3vu37t4.4.747cc10n/BFLIXUNLUGARENSILENCIO.mp4
-#EXTINF:-1 tvg-logo="",
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hwJaptBD4WoJc7cT33q9ZCDBCo3.jpg",Historias mínimas (2002)
 https://archive.org/download/10000000-354597315867448-4366045384574847787-n/10000000_354597315867448_4366045384574847787_n.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xjj9f4WEdE2NLO8Luf9ofNhvqCQ.jpg",El sabor de las cerezas(1997)
