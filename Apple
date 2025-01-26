@@ -21,8 +21,8 @@ http://archive.org/download/ns_20210520/NED.m3u
 http://archive.org/download/ns_20210520/viajeros%20en%20el%20tiempo.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzMyMDM3MTY1M15BMl5BanBnXkFtZTgwMjQxNDIzMTE@._V1_FMjpg_UX1000_.jpg" group-title="Apple tv+",ZOEY 101
 https://archive.org/download/elch4v0/ZOY1.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/euEhiPzIaNfLAWf1u5xXPjyPqvi.jpg" group-title="Apple tv+",Defender a jacob
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Defender%20a%20jacob
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/euEhiPzIaNfLAWf1u5xXPjyPqvi.jpg" group-title="Apple tv+",Defender a Jacob (2020) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Defender%20a%20Jacob
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-looming-tower.jpg" group-title="Apple tv+",The looming tower
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20looming%20tower
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-returned.jpg" group-title="Apple tv+",The returned
