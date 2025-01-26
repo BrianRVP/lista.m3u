@@ -10,6 +10,10 @@
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/spartacus_202412/exort.jpg",el exorcista (2016)
 https://archive.org/download/spartacus_202412/elexorcista.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/18H6Ehndv8zL3d9Rf1L56AWr3Hx.jpg",Batman el cruzado enmascarado (2024) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Batman%20el%20cruzado%20enmascarado
+#EXTGRP:-1 tvg-logo="https://image.tmdb.org/t/p/w154/vp1136OQ2mEp2KsEJrZDlXPMk8j.jpg",Nivel Secreto (2024) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Nivel%20secreto
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kAUI0oOWZbGAQMmv7WM6scvoE34.jpg",Spartacus
 https://archive.org/download/spartacus_202412/SPARTACUS4.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hgFSL55qTiaTVeSiFdYmmEKTHIi.jpg",(FHD)Cada minuto cuenta (2024)
