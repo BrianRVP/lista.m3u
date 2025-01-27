@@ -1,22 +1,59 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lR4wbJsDX3cUZKJ77dp8xqkI9R1.jpg",La gran aventura de Mortadelo y Filemón (2003)
-https://archive.org/download/mortadelo-scn-title-1-1/MORTADELO_SCN_Title1_1.ia.mp4
+
+___2025____
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kF99jQrV04pcb05FkREzo6SepWW.jpg",Mesa de Regalos (2025)
+https://dl.dropbox.com/scl/fi/17841atls1m0xd0ko4xmy/BFLIXmes4deregal0.mp4?rlkey=pj3q0v54ges40rx350rwh3w9s&st=zmdwa5ky&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3wGZ9QvjFH3wrNChYFFqbsW0Qge.jpg",La culpa no es mía (2025)
+https://archive.org/download/d3vu37t4.4.747cc10n/BFLIXL4culp4no3sm%C3%AD4.ia.mp4
+
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+____2024y2023____
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wCXd5tpUSc12LVPd2oN9OKU1EVQ.jpg",Snack Shack (2024)
+https://archive.org/download/ver-snack-shack-2024-online-re-pelis-24-gratis/Ver%20Snack%20Shack%20%282024%29%20Online%20%E2%9C%85%20RePelis24%20%C2%BB%20Gratis.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vWU2KEMssv8IFVUVkeN2rIOQLB.jpg",Un dolor real (2024)
 https://archive.org/download/bflixelys-1um/BFLIXUn%20dolor%20real.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/edgKt5Z7QcH2TZfaT7vXOrs36zt.jpg",codigo rojo (2024)
 https://archive.org/download/estrenos-2024/Red%20One.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/edgKt5Z7QcH2TZfaT7vXOrs36zt.jpg",codigo traje rojo (2024)CAM
 https://github.com/tokio14-dot/pel2/releases/download/Q.6948/2949292929291.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kdq4Xl7m33BTDY4IDaIgcEn8Jnq.jpg",Cambio de bebés 1 (2023)
+https://github.com/tokio14-dot/pe-la/releases/download/A.1.0.1/cambio.1.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/axxggOMYNyKDsNVMnyMTnvrGByX.jpg",Dear Santa (2024)
+https://github.com/tokio14-dot/dear-431/releases/download/peleo/Q.1.9.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oRuW3TzBqNsHnfx8P7Jla1AJgBJ.jpg",Cambio de bebés 2 (2024)
+https://github.com/tokio14-dot/pe-la/releases/download/A.1.0.1/cambio.2.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/l9slQ1zMnE9fDH4uF0Zk542IC3H.jpg"group-title="",Harold y el lápiz mágico (2024)
+https://dl.dropbox.com/scl/fi/rac4mp0hjgx9b5gn17xca/1920x960-Harold-y-su-cray-n-m-gico.mp4?rlkey=06iqbd5fhea4skgbn2l651awe&st=7fy04fum&dl=0
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/ghlwOez45gndnAp3aPMzg5kxMjp.jpg"group-title="",Grandes espias (2024)
+https://dl.dropbox.com/scl/fi/14dz3i9nn0bju6dxu3udm/Grandes-Esp-as-Misi-n-Italia.mp4?rlkey=shv3u3te613a9sheo95u51epu&dl=0
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/d6mQAufyjfqGhRcvqTKAmUV6QRo.jpg"group-title="",solo una noche de juegos 2024
+https://dl.dropbox.com/scl/fi/8988y8hmdog4vt4l2d6zx/Solo-una-noche-de-juegos.mp4?rlkey=6vet9zch5m8xnue5jth8wfdhj&dl=0
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/2kEL2QFPyqGcFhGvzVos58dQXKS.jpg"group-title="",no negociable (2024)
+https://archive.org/download/n-0-n-3g-0-c-1abl-3-1/N0%20n3g0C1abl3_1.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/nDrUZE24mSB54cuHEjslMLvfFRQ/nDrUZE24mSB54cuHEjslMLvfFRQ.jpg"group-title="",los infalibles (2024)
+https://archive.org/download/los-infalibles-2024-720p-trial-1.71-gb/Los%20Infalibles%20%282024%29%20720p%20TRIAL%201.71%20GB.mkv
+#EXTINF:-1 tvg-logo="https://archive.org/download/img-20240703-185830-742/IMG_20240703_185830_742.jpg"group-title="",un detective suelto (2024)
+https://archive.org/download/un-detective-suelto-en-hollywood-axel-f.-2024-720p/Un%20Detective%20Suelto%20En%20Hollywood%20Axel%20F.%20%282024%29%20720p.mkv
+
+
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ac2a7CJjxFwUULB8YGHdmDL5oSP.jpg",Om Shanti Om (2007)SUP
 https://archive.org/download/om-shanti-om-2007-pelicula-completa-subtitulada-online/Om%20Shanti%20Om%20%282007%29%20-%20Pelicula%20completa%20subtitulada%20online.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mXM9ko0JvieMPVITaxEY6jo48Pa.jpg",El gran año (2011)
 https://archive.org/download/el-gran-ano-2011/El%20Gran%20A%C3%B1o%20%282011%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sPe5NAeegRoRTkngYfZgANppNN.jpg",Mortadelo y Filemón contra Jimmy el Cachondo (2014)
+https://archive.org/download/mort-file-jimmy-el-locuaz/MortFile%20Jimmy%20El%20Locuaz.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x2WDqVdRd0zE6aghv6G077nCLvR.jpg",Mortadelo y Filemón. Misión: Salvar la Tierra (2008)
+https://archive.org/download/myf-mison-salar-la-tierra-title-1/MYF_MISON_SALAR_LA_TIERRA_Title1.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lR4wbJsDX3cUZKJ77dp8xqkI9R1.jpg",La gran aventura de Mortadelo y Filemón (2003)
+https://archive.org/download/mortadelo-scn-title-1-1/MORTADELO_SCN_Title1_1.ia.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vjC6Rez0CiqHAX3JgeDh1Rsshmv.jpg",Johnny English (2003)
 https://archive.org/download/johnny-english-2003_202312/Johnny%20English%20%282003%29.ia.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kF99jQrV04pcb05FkREzo6SepWW.jpg",Mesa de Regalos (2025)
-https://dl.dropbox.com/scl/fi/17841atls1m0xd0ko4xmy/BFLIXmes4deregal0.mp4?rlkey=pj3q0v54ges40rx350rwh3w9s&st=zmdwa5ky&dl=0
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3wGZ9QvjFH3wrNChYFFqbsW0Qge.jpg",La culpa no es mía (2025)
-https://archive.org/download/d3vu37t4.4.747cc10n/BFLIXL4culp4no3sm%C3%AD4.ia.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gQI5fwIKndb8VOMUz3jC0szVBEP.jpg",Hasta que la boda nos separe (2018)
 https://archive.org/download/pack-5_202008/Hasta%20que%20la%20boda%20nos%20separe.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8FBYoWaPQJwqMmnFc1qJeaH6uDX.jpg",Un cuento chino (2011)
@@ -35,38 +72,23 @@ https://archive.org/download/0Juan0de0los0Muertos0/0Juan0de0los0Muertos0.mp4
 https://archive.org/download/0guia0del0autoestopista0galactico0/0guia0del0autoestopista0galactico0.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kVUZfXbq473EIyJKpUkG3TfU8tC.jpg",La pantera rosa 2 (2009)
 https://archive.org/download/la-pantera-rosa-2/la%20pantera%20rosa%202.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wCXd5tpUSc12LVPd2oN9OKU1EVQ.jpg",Snack Shack (2024)
-https://archive.org/download/ver-snack-shack-2024-online-re-pelis-24-gratis/Ver%20Snack%20Shack%20%282024%29%20Online%20%E2%9C%85%20RePelis24%20%C2%BB%20Gratis.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hTu6AGatoigX8OKOmg9YRxcs1Pw.jpg",Pequeña flor (2022)
 https://archive.org/download/pequena-flor/peque%C3%B1a%20flor.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dNZmG2pI5eokUcq0UYYrApb8qOL.jpg",De mendigo a millonario (1983)
 https://archive.org/download/yummy_202105/De%20mendigo%20a%20millonario.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/axxggOMYNyKDsNVMnyMTnvrGByX.jpg",Dear Santa (2024)
-https://github.com/tokio14-dot/dear-431/releases/download/peleo/Q.1.9.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oRuW3TzBqNsHnfx8P7Jla1AJgBJ.jpg",Cambio de bebés 2 (2024)
-https://github.com/tokio14-dot/pe-la/releases/download/A.1.0.1/cambio.2.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kdq4Xl7m33BTDY4IDaIgcEn8Jnq.jpg",Cambio de bebés 1 (2023)
-https://github.com/tokio14-dot/pe-la/releases/download/A.1.0.1/cambio.1.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/j47MMp6SVAZUmXRKMKA57Cgx0Yq.jpg"group-title="",Jackass presenta: Bad Grandpa (2013)
 https://github.com/tokio14-dot/pel2/releases/download/Q.6948/Q39581959.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6vzr24dRwBOO1AlCIcbJgj46L28.jpg"group-title="",Jackass presenta: Bad Grandpa .5 (2014)
 https://github.com/tokio14-dot/pel2/releases/download/Q.6948/S.4028583.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/l9slQ1zMnE9fDH4uF0Zk542IC3H.jpg"group-title="",Harold y el lápiz mágico (2024)
-https://dl.dropbox.com/scl/fi/rac4mp0hjgx9b5gn17xca/1920x960-Harold-y-su-cray-n-m-gico.mp4?rlkey=06iqbd5fhea4skgbn2l651awe&st=7fy04fum&dl=0
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/sTpOfjsI17o2ZjehAwqzF2BVjCG.jpg"group-title="",pequeños gigantes (1994)
 https://archive.org/download/ver-pequenos-gigantes-1994-online-latino-hd-pelisplus/Ver%20Peque%C3%B1os%20Gigantes%20%281994%29%20Online%20Latino%20HD%20-%20Pelisplus.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/2kEL2QFPyqGcFhGvzVos58dQXKS.jpg"group-title="",no negociable (2024)
-https://archive.org/download/n-0-n-3g-0-c-1abl-3-1/N0%20n3g0C1abl3_1.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fnWLRrN/unnamed-1.jpg"group-title="",a toda madre 
 https://archive.org/download/a-toda-madre/A%20toda%20madre.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/d6mQAufyjfqGhRcvqTKAmUV6QRo.jpg"group-title="",solo una noche de juego
 https://archive.org/download/solonochejue/solonochejue.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/uZIzR1bbZcpX23w71RTq72mqNuY.jpg"group-title="", Dos locas en fuga
 https://ia601602.us.archive.org/12/items/tw-0-locas-en-fugas-hd-720p-993513/Tw0_Locas_en_Fuga%27s_HD__720p___993513.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/ghlwOez45gndnAp3aPMzg5kxMjp.jpg"group-title="",Grandes espias (2024)
-https://dl.dropbox.com/scl/fi/14dz3i9nn0bju6dxu3udm/Grandes-Esp-as-Misi-n-Italia.mp4?rlkey=shv3u3te613a9sheo95u51epu&dl=0
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/d6mQAufyjfqGhRcvqTKAmUV6QRo.jpg"group-title="",solo una noche de juegos 2024
-https://dl.dropbox.com/scl/fi/8988y8hmdog4vt4l2d6zx/Solo-una-noche-de-juegos.mp4?rlkey=6vet9zch5m8xnue5jth8wfdhj&dl=0
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/9QusyGRq3X8zmbrqGM1ynGuPFB5.jpg"group-title="",el precio de la novia (2024)
 https://dl.dropbox.com/scl/fi/uj0ta097dwrl5qc9seic8/El-precio-de-la-novia.mp4?rlkey=7qn04bwv6ogm0eb0xv9micorj&dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDJLMsn/South-Park-The-End-of-Obesity.jpg"group-title="",South Park: The End of Obesity
@@ -103,10 +125,9 @@ https://dl.dropbox.com/scl/fi/hkbfltigz5o1t41bcxe4w/Padre-no-hay-mas-que-uno-108
 https://dl.dropbox.com/scl/fi/ib79ozcvyas91il0q27md/Padre-no-hay-m-s-que-uno-2-La-llegada-de-la-suegra-720p-CAST-1.66-GB.mp4?rlkey=nn3i6iuju1ovlnmoc7oiyve2k&dl=0
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/k2v9xSPtiyxCNxaRGtj7COwdgG3.jpg"group-title="",Padre no hay más que uno 3
 https://dl.dropbox.com/scl/fi/nozgdp2a2f1gkvng6avyj/Padre-no-hay-m-s-que-uno-3-720p-CAST-960.57-MB.mkv?rlkey=wiyg438ltll9cptmxpkdr19tb&dl=0
-#EXTINF:-1 tvg-logo="https://archive.org/download/nDrUZE24mSB54cuHEjslMLvfFRQ/nDrUZE24mSB54cuHEjslMLvfFRQ.jpg"group-title="",los infalibles (2024)
-https://archive.org/download/los-infalibles-2024-720p-trial-1.71-gb/Los%20Infalibles%20%282024%29%20720p%20TRIAL%201.71%20GB.mkv
-#EXTINF:-1 tvg-logo="https://archive.org/download/img-20240703-185830-742/IMG_20240703_185830_742.jpg"group-title="",un detective suelto (2024)
-https://archive.org/download/un-detective-suelto-en-hollywood-axel-f.-2024-720p/Un%20Detective%20Suelto%20En%20Hollywood%20Axel%20F.%20%282024%29%20720p.mkv
+
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/d7wn4Q9vXWxscDzcjf2p14tKHTh.jpg"group-title="",Free Guy: tomando el control(2021)
 https://www.googleapis.com/drive/v3/files/1e5ZPInxN_dm_ey6Ox7hXs0wIPXUObbB3?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10
 #EXTINF:-1 tvg-logo="https://archive.org/download/8tpxg-h-4h-ae-g-61d-ffj-pki-vzftfo-z/8tpxgH4hAeG61dFfjPKiVZFTFoZ.jpg"group-title="",la calle de la navidad
