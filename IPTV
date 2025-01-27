@@ -2,11 +2,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="",boca
-http://cdn1702.opentraffic.live:2052/free17/253/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDI1IDEwOjI0OjMyIFBNJmhhc2hfdmFsdWU9cXBpMGZaVGJnOVJsZjlhOXN3V21qUT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-logo="",raw 3
-
-
 --------SIDE BY SIDE---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qeeQ7rfTAXNYh4EqqdolFLkNwKM.jpg",SIDE BY SIDE
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/SIDE%20BY%20SIDE
@@ -25,11 +20,11 @@ https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/INFANTIL.m3u
 #EXTINF:-1 tvg-logo=""group-title="pruebas",c3
 
 #EXTINF:-1 tvg-logo="",p8
-https://argentin1373.b-cdn.net/series/m3u%20terminadas/cuentos%20del%20imperio.m3u
+
 #EXTINF:-1 tvg-logo="",c4
-https://raw.githubusercontent.com/angel200881/chann/refs/heads/main/series.m3u8
+
 #EXTINF:-1 tvg-logo="",c5
-https://archive.org/download/series-en-serie/SERIES%20ALL.m3u
+https://archive.org/download/trwfc-trilogia/TRWFC-TRILOGIA.m3u
 #EXTINF:-1 tvg-logo="",c7
 https://raw.githubusercontent.com/ronmanu/List/refs/heads/main/peliculas.m3u
 
