@@ -1,7 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4dKRTUylqwXQ4VJz0BS84fqW2wa.jpg",Five Nights at Freddy's (2023)
+https://archive.org/download/fnaf-la-pelicula-2023-espanol-latino/FNAF%20La%20Pelicula%202023%20Espa%C3%B1ol%20Latino.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fAXDQny8kEquc1BImiQHhYMGSsW.jpg",The Damned (2025)
 https://archive.org/download/bflixelys-1um/BFLIXThe1Damned8.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3rlU3gwaKobcdrmIBTRfyGcE6ew.jpg",Bird Box Barcelona 
