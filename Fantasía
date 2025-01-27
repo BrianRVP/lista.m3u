@@ -1,6 +1,14 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zqhO44oc0pWM32seJeXMcjPLvwV.jpg",Los Caballeros del Zodíaco (2023)
+https://archive.org/download/los-caballeros-del-zodiaco-el-inicio-www.-gdrive-descarga.-com/Los%20Caballeros%20Del%20Zodiaco%20-%20El%20Inicio%20WWW.GDriveDescarga.Com.mp4
 #EXTINF:-1 group-title=""  type="movie" tvg-logo="https://mx.web.img3.acsta.net/pictures/18/03/07/09/26/4951397.jpg",Christopher Robin:Un reencuentro inolvidable 2018
 https://dl.dropboxusercontent.com/s/rht2qn00mxakvt8/SalynPM-C.R.mp4
 #EXTINF:-1 group-title=""  type="movie" tvg-logo="https://mx.web.img3.acsta.net/pictures/17/11/01/07/50/3949122.jpg",La razón de estar contigo 2016
