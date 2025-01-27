@@ -1,7 +1,4 @@
 #EXTM3U
-
-
-
 ----online-----
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/brd9Bp1MlH8oK2nzR6VV9imY46k.jpg"group-title="DBZ",Dragon Ball Daima (2024)
 https://raw.githubusercontent.com/tokio14-dot/daima/refs/heads/main/daim
@@ -9,7 +6,6 @@ https://raw.githubusercontent.com/tokio14-dot/daima/refs/heads/main/daim
 https://raw.githubusercontent.com/tokio14-dot/0nep13c3/refs/heads/main/one%20piece
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oLy4bn5BUsG1dN0tCIY64cF5pBI.jpg"group-title="ONE PIECE",ESPECIALES
 https://raw.githubusercontent.com/tokio14-dot/0nep13c3/refs/heads/main/one%20especiales
-
 ________solo leving________
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/foO8OjRQhqfDc5NY8vqOxb0TnEy.jpg"group-title="SOLO LEVELING",Solo Leveling (2024)
 #EXTART:https://image.tmdb.org/t/p/original/foO8OjRQhqfDc5NY8vqOxb0TnEy.jpg
@@ -17,8 +13,6 @@ ________solo leving________
 https://archive.org/download/boku-no-hero-4/1solo%20leving1.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/a7i9OdTUo9jZ1XoraCRIQNJ6ACX.jpg"group-title="SOLO LEVELING",TEMPORADA 2 (2025)
 https://raw.githubusercontent.com/tokio14-dot/solo/refs/heads/main/solo2
-
-
 _______SAILOR MOON_____
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eH4bOnC8nWwHfgk5XtYq8ts3FF6.jpg"group-title="SAILOR MOON",SAILOR MOON
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aVjhC5Iv0VHq6RgSEo479ANxImG.jpg"group-title="SAILOR MOON",Sailor Moon (1992)
@@ -49,28 +43,17 @@ _________________________________
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg",Castlevania (2017)
 https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/castlevania.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/drX1N080c08fn0xencilweSzW97.jpg"group-title="DAN DA DAN",DAN DA DAN (2024)
-https://archive.org/download/masallasdeljardin/D4nd4d4n.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sTzvJnfiOSZDxXoVNNwzTNETnuj.jpg"group-title="Accion",Demon Slayer 
-https://raw.githubusercontent.com/BrianRVP/Cuantas/refs/heads/main/Demon
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/c1T8UHwCaq6JeQYgt4U8ERPGoxN.jpg"group-title="Accion",Kaiju No. 8 (2024)
-https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Kaiju%20no%208
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/awcSoxNyCJg3OzH7acX6K6EISDZ.jpg"group-title="SuperCampeones",SUPER CAMPEONES
-https://raw.githubusercontent.com/linkarg13/SERIES/main/Supercampeones
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9RTWmNrzy7IfpdpMOynjT5KDfVP.jpg" group-title=“Caballeros del Zodiaco”,Saga Santuario
 https://raw.githubusercontent.com/AaronCoyu/CDZ1/main/Caballeros%2001
+____super campeones_____
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zHgc9nTXiP77qoy14BO7WUFTwkp.jpg" group-title=“SuperCampeones”,Supercampeones Temporada 1
 https://raw.githubusercontent.com/AaronCoyu/CapitanTsubasa/main/Tsubasa
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zHgc9nTXiP77qoy14BO7WUFTwkp.jpg" group-title=“SuperCampeones”,SuperCampeones Temporada 2
 https://raw.githubusercontent.com/AaronCoyu/CapitanTsubasa2/main/CapitanTsubasa2
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zHgc9nTXiP77qoy14BO7WUFTwkp.jpg" group-title=“Accion”,Sentouin Hakenshimasu
-https://raw.githubusercontent.com/LuisKong123/Animes/main/Sentouin%20hakenshimasu
-#EXTINF:-1 tvg-logo="https://img.animeflv.ws/cover/kemono-jihen.jpg"group-title="Accion", Kemono Jihen 
-https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Kemono%20Jihen
-
+____naruto-----
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg" group-title="Naruto S",Naruto Shippuden 1
 https://raw.githubusercontent.com/AaronCoyu/NarutoShippuden/main/T1
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg" group-title=“Naruto S”,Naruto Shippuden 2
@@ -113,7 +96,6 @@ https://raw.githubusercontent.com/AaronCoyu/NST19/main/NST19
 https://raw.githubusercontent.com/AaronCoyu/NST20/main/NST20
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg" group-title=“Naruto S”,Naruto Shippuden 21
 https://raw.githubusercontent.com/AaronCoyu/NST21/main/NST21
-
 ___________DRAGON BALL_________
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/onCLyCOgszTIyyVs2XKYSkKPOPG.jpg" group-title="DBZ",DB 01 En busca de las Esferas del Dragon
 https://raw.githubusercontent.com/AaronCoyu/DB/main/01%20En%20busca%20de%20las%20Esferas%20del%20Dragon
@@ -150,7 +132,44 @@ https://raw.githubusercontent.com/AaronCoyu/GT4/main/Saga%20Los%20Dragones%20Osc
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s3clSZKSqJNILzmAEm5KaTUS5Z0.jpg"group-title="DBZ",DBKai
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/DBKai
 
+PUBLICAR ACA LOS ANIMES POCAS TEMPORADAS CON SU GENERO..
+▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼  
+#EXTINF:-1 tvg-logo=""group-title="Terror",
+#EXTINF:-1 tvg-logo=""group-title="Fantasia",
+#EXTINF:-1 tvg-logo=""group-title="Accion",
+#EXTINF:-1 tvg-logo=""group-title="Ciencia Ficcion",
+#EXTINF:-1 tvg-logo=""group-title="Artes Marciales",
+#EXTINF:-1 tvg-logo=""group-title="Recuentos de la vida",
+#EXTINF:-1 tvg-logo=""group-title="Seinen",
+#EXTINF:-1 tvg-logo="" group-title="Romance",
+#EXTINF:-1 tvg-logo="" group-title="Comedia Romantica",
+#EXTINF:-1 tvg-logo="" group-title="Fantasia Oscura",
+#EXTINF:-1 tvg-logo=""group-title="Gore",
 
+▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/drX1N080c08fn0xencilweSzW97.jpg"group-title="Comedia",DAN DA DAN (2024)
+https://archive.org/download/masallasdeljardin/D4nd4d4n.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sTzvJnfiOSZDxXoVNNwzTNETnuj.jpg"group-title="Accion",Demon Slayer 
+https://raw.githubusercontent.com/BrianRVP/Cuantas/refs/heads/main/Demon
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/c1T8UHwCaq6JeQYgt4U8ERPGoxN.jpg"group-title="Accion",Kaiju No. 8 (2024)
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Kaiju%20no%208
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/glYmuH2ptaFUPWKRuYn1MJEEC1u.jpg"group-title="Comedia",Azumanga Daioh (2002)
+https://archive.org/download/azumanga-daioh-subs-en-esp-lat/Azumanga%20Daioh.m3u
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zHgc9nTXiP77qoy14BO7WUFTwkp.jpg" group-title=“Accion”,Sentouin Hakenshimasu
+https://raw.githubusercontent.com/LuisKong123/Animes/main/Sentouin%20hakenshimasu
+#EXTINF:-1 tvg-logo="https://img.animeflv.ws/cover/kemono-jihen.jpg"group-title="Accion", Kemono Jihen 
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Kemono%20Jihen
 #EXTINF:-1 tvg-logo="https://img.animeflv.ws/cover/escaflowne.jpg" group-title="Fantasia Oscura",La Vision de Escaflowne (Latino)
 https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/Escaflowne
 #EXTINF:-1 tvg-logo="https://img.animeflv.ws/cover/goblin-slayer.jpg" group-title="Accion",Goblin Slayer
