@@ -20,13 +20,13 @@ https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/INFANTIL.m3u
 #EXTINF:-1 tvg-logo=""group-title="pruebas",c3
 
 #EXTINF:-1 tvg-logo="",p8
-
+https://archive.org/download/bflixelys-1um/prueba2.m3u8
 #EXTINF:-1 tvg-logo="",c4
-https://archive.org/download/kusta/kusta.m3u
+
 #EXTINF:-1 tvg-logo="",c5
 
 #EXTINF:-1 tvg-logo="",c7
-https://archive.org/download/bflixssilor-01-13/prueba.m3u
+
 
 #EXTINF:-1 tvg-logo=""group-title="Plutotv + canales",Canales
 https://telechancho.github.io/telechancho-iptv/telechancho-infinity.m3u
