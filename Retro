@@ -2,6 +2,9 @@
 
 ....Retro....
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iQpTDb8VTMylGRK861BPxkLwVbs.jpg"group-title="Caricaturas retro",LOS CENTURIONES (1986)
+https://github.com/tokio14-dot/cuentos/blob/main/The%20Centurions%20(1986).m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qocFW3XPbs7iJUdPswC3xMJlFFT.jpg"group-title="Caricaturas retro",FELIX EL GATO (1958)
 https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/F%C3%A9lix%20el%20Gato(1958).m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sDyXr6M6KJHC6TQmtpFGDSRKmjS.jpg"group-title="Caricaturas retro",Crazylegs Crane (1978)
