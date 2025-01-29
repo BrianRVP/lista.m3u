@@ -19,7 +19,6 @@ _______SAILOR MOON_____
 https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/BFLIXsailormoon1992.m3u
 #EXTINF:-1 tvg-logo="https://archive.org/download/bflixssilor-01-13/Sailor%20Moon%20Crystal%20principal.jpeg"group-title="SAILOR MOON",sailor moon CRISTAL (2014)
 https://archive.org/download/bflixssilor-01-13/BFLIXsailormoon2014.m3u
-
 ________boku no hero____________
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xTlc93PezcZHMcvmAtPL3cyX0yE.jpg"group-title="BOKU NO HERO",BOKU NO HERO
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dmbJPaYV4nxJCORlmGkNEyGvHBW.jpg"group-title="BOKU NO HERO",PELICULAS
@@ -43,7 +42,6 @@ _________________________________
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg",Castlevania (2017)
 https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/castlevania.m3u
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9RTWmNrzy7IfpdpMOynjT5KDfVP.jpg" group-title=“Caballeros del Zodiaco”,Saga Santuario
 https://raw.githubusercontent.com/AaronCoyu/CDZ1/main/Caballeros%2001
 ____super campeones_____
@@ -158,7 +156,18 @@ PUBLICAR ACA LOS ANIMES POCAS TEMPORADAS CON SU GENERO..
 
 
 
+#EXTINF:-1 tvg-logo=""group-title="",
 
+#EXTINF:-1 tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9cRoETOVySxwDDfvwJ7Zu7caAwe.jpg"group-title="Fantasia",Haibane Renmei (2002)
+https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/Haibane%20Renmei.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/drX1N080c08fn0xencilweSzW97.jpg"group-title="Comedia",DAN DA DAN (2024)
 https://archive.org/download/masallasdeljardin/D4nd4d4n.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sTzvJnfiOSZDxXoVNNwzTNETnuj.jpg"group-title="Accion",Demon Slayer 
