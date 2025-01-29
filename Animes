@@ -138,9 +138,9 @@ PUBLICAR ACA LOS ANIMES POCAS TEMPORADAS CON SU GENERO..
 #EXTINF:-1 tvg-logo=""group-title="Ciencia Ficcion",
 #EXTINF:-1 tvg-logo=""group-title="Artes Marciales",
 #EXTINF:-1 tvg-logo=""group-title="Recuentos de la vida",
-#EXTINF:-1 tvg-logo="" group-title="Romance",
-#EXTINF:-1 tvg-logo="" group-title="Comedia Romantica",
-#EXTINF:-1 tvg-logo="" group-title="Fantasia Oscura",
+#EXTINF:-1 tvg-logo=""group-title="Romance",
+#EXTINF:-1 tvg-logo=""group-title="Comedia Romantica",
+#EXTINF:-1 tvg-logo=""group-title="Fantasia Oscura",
 #EXTINF:-1 tvg-logo=""group-title="Gore",
 #EXTINF:-1 tvg-logo=""group-title="Shojo",
 #EXTINF:-1 tvg-logo=""group-title="Seinen",
@@ -164,8 +164,8 @@ PUBLICAR ACA LOS ANIMES POCAS TEMPORADAS CON SU GENERO..
 
 #EXTINF:-1 tvg-logo=""group-title="",
 
-#EXTINF:-1 tvg-logo=""group-title="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/Aa2x9qWRU7UwU1PCsBOj0HqoErZ.jpg"group-title="Fantasia",Kaiba (2008)
+https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/Kaiba(2008).m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9cRoETOVySxwDDfvwJ7Zu7caAwe.jpg"group-title="Fantasia",Haibane Renmei (2002)
 https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/Haibane%20Renmei.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/drX1N080c08fn0xencilweSzW97.jpg"group-title="Comedia",DAN DA DAN (2024)
