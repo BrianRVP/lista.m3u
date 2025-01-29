@@ -162,8 +162,8 @@ PUBLICAR ACA LOS ANIMES POCAS TEMPORADAS CON SU GENERO..
 
 #EXTINF:-1 tvg-logo=""group-title="",
 
-#EXTINF:-1 tvg-logo=""group-title="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zJ4H8HhhcPU3kgBuGlHhNW1jA2h.jpg"group-title="Accion",Yumeria (2003)
+https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/Yumeria%20(2003).m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/Aa2x9qWRU7UwU1PCsBOj0HqoErZ.jpg"group-title="Fantasia",Kaiba (2008)
 https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/Kaiba(2008).m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9cRoETOVySxwDDfvwJ7Zu7caAwe.jpg"group-title="Fantasia",Haibane Renmei (2002)
