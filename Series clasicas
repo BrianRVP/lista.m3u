@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTGRP: Clasic
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fV5U1eWPC8Dvxq0BUIoF7cvBK1o.jpg",V (1983)
+https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/V%20invacion%20estaterreste.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rDWPkR9jgDHg3D3XkKsxUy7S3NW.jpg",Dawson crece (1998)
 https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/Dawsonscreek.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/e93H0P6GYoDUhHR5uCdmfLDAvKt.jpg.webp",auto fantastico (2008)
