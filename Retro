@@ -2,6 +2,10 @@
 
 ....Retro....
 
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/njPVnzFu0wtzkEQbN2ePc9OIGgq.jpg"group-title="Caricaturas retro",Meteoro (1967)
+https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/Meteoro%20(1967).m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yFJnXxFei4aEJlpnk0CbXMdGQzH.jpg"group-title="Caricaturas retro",Extreme Dinosaurs (1997)
 https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/Dinosaurios%20Extremos.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iQpTDb8VTMylGRK861BPxkLwVbs.jpg"group-title="Caricaturas retro",LOS CENTURIONES (1986)
