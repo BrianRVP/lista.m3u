@@ -1,6 +1,10 @@
 #EXTM3U
 
 ____2025.2024.2013....
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mtAL32HHIfdRhfl8RIlldlU5k7N.jpg",Uma y Haggen: Princesa y Vikingo (2024)
+https://archive.org/download/uma-haggen-mitos-2025-1080-p-hd/Uma%20Haggen%20Mitos%202025%281080P_HD%29.ia.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mD2m6Lr7GtyBv85EP1s0dQHQo1X.jpg",El señor de los anillos: La guerra de los Rohirrim (2024)
 https://github.com/tokio14-dot/ser-53/releases/download/A.1.0.7/0ore2477.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/diPEcLFEb1uuUpApol1Bit6ck3l.jpg",Solo Leveling ReAwakening (2024)
