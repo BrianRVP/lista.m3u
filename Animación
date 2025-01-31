@@ -1,6 +1,6 @@
 #EXTM3U
 
-____2025.2024.2013....
+____2025.2024.2023....
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mtAL32HHIfdRhfl8RIlldlU5k7N.jpg",Uma y Haggen: Princesa y Vikingo (2024)
@@ -15,7 +15,8 @@ https://github.com/tokio14-dot/Q.5825/releases/download/Q.563737/4914689537.mp4
 https://github.com/tokio14-dot/Q.5825/releases/download/Q.563737/373679421567.mp4
 
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yv2T3RlZuq3ZI0oVkZqjamKzgmk.jpg",Un disfraz para Nicolás (2021)
+https://archive.org/download/un-disfraz-para-nicolas-2020/Un%20disfraz%20para%20Nicol%C3%A1s%20%282020%29.ia.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aAXMn1wGPALJy9u3tEtDHeAqVEd.jpg",Ana y Bruno (2017)
 https://archive.org/download/ana-y-bruno-2018/Ana%20y%20Bruno%20%282018%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/auuAjNOBr5vlgrWTQgYarExuplw.jpg",Salma y su gran sueño (2019)
