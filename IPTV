@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/INFANTIL.m3u
 #EXTINF:-1 tvg-logo="",c5
 
 #EXTINF:-1 tvg-logo="",c7
-https://raw.githubusercontent.com/mo3ad801/omartv/c85e9645f98a653405c20064e5782f14c0746e83/Netflix.m3u
+
 
 #EXTINF:-1 tvg-logo=""group-title="Plutotv + canales",Canales
 https://telechancho.github.io/telechancho-iptv/telechancho-infinity.m3u
