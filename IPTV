@@ -23,9 +23,9 @@ https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/INFANTIL.m3u
 #EXTINF:-1 tvg-logo="",c4
 
 #EXTINF:-1 tvg-logo="",c5
-https://venturas23.github.io/VenturaStudio/js/Lista/M3U/SERIES/LEGENDADAS.m3u
+
 #EXTINF:-1 tvg-logo="",c7
-https://venturas23.github.io/VenturaStudio/js/Lista/M3U/SERIES/TURCAS
+
 
 #EXTINF:-1 tvg-logo=""group-title="Plutotv + canales",Canales
 https://telechancho.github.io/telechancho-iptv/telechancho-infinity.m3u
