@@ -1,6 +1,9 @@
 #EXTM3U
 
 ___2025____
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/14jxZmclGIqAQ4xtYXYKhvRLTwx.jpg",Estás Cordialmente Invitado (2025)
+https://archive.org/download/bflixc-0mp-4n-3ra-1p-3rf-3cta/BFLIXCordi4lment41invit4dos.ts
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kF99jQrV04pcb05FkREzo6SepWW.jpg",Mesa de Regalos (2025)
 https://dl.dropbox.com/scl/fi/17841atls1m0xd0ko4xmy/BFLIXmes4deregal0.mp4?rlkey=pj3q0v54ges40rx350rwh3w9s&st=zmdwa5ky&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3wGZ9QvjFH3wrNChYFFqbsW0Qge.jpg",La culpa no es mía (2025)
