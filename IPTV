@@ -1,16 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",rafita 3
-https://d7.dunyapurkaraja.com:999/hls/canal1111.m3u8?md5=Shqh-pxmeyiBcE4O3GuULg&expires=1738380743
-#EXTINF:-1 tvg-logo="",rafita 2
-https://d3.dunyapurkaraja.com:999/hls/canal1111.m3u8?md5=g3yNaGrFJ9akTxq82e0NAA&expires=1738380555
-#EXTINF:-1 tvg-logo="",rafita
-https://d7.dunyapurkaraja.com:999/hls/canal2222.m3u8?md5=Lpb0hAPSiWxthqGB1xiAVg&expires=1738380186
-
-
 --------SIDE BY SIDE---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qeeQ7rfTAXNYh4EqqdolFLkNwKM.jpg",SIDE BY SIDE
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/SIDE%20BY%20SIDE
@@ -35,7 +25,7 @@ https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/INFANTIL.m3u
 #EXTINF:-1 tvg-logo="",c5
 
 #EXTINF:-1 tvg-logo="",c7
-http://sharevideo1.com/v/cG8wSzJCc1pLcGs=?t=ytb&f=co
+https://raw.githubusercontent.com/mo3ad801/omartv/c85e9645f98a653405c20064e5782f14c0746e83/Netflix.m3u
 
 #EXTINF:-1 tvg-logo=""group-title="Plutotv + canales",Canales
 https://telechancho.github.io/telechancho-iptv/telechancho-infinity.m3u
