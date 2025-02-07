@@ -6,8 +6,8 @@
 
 #EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/93aeiPZpQMxF4tlPHZpmS7cVXZt.jpg",11.22.63 (2016)
+https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/22.11.63.m3u
 #EXTINF:-1 tvg-logo="https://archive.org/download/spartacus_202412/exort.jpg",el exorcista (2016)
 https://archive.org/download/spartacus_202412/elexorcista.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/vp1136OQ2mEp2KsEJrZDlXPMk8j.jpg",Nivel Secreto (2024) latino
