@@ -7,8 +7,8 @@
 
 #EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wTXwQe3Qa97UG2rDdiA6OjQ9xGK.jpg",El Midnight Studio (2024)
+https://raw.githubusercontent.com/tokio14-dot/dora/refs/heads/main/Midnight%20Photo%20Studio.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7AJCemR9KHGEMvtaBVULJWbeodi.jpg",Una Odisea Coreana (2017)
 https://raw.githubusercontent.com/tokio14-dot/dora/refs/heads/main/Una%20Odisea%20Coreana.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xQw7VaDkcJBv9R17Xj1LyIAbL5C.jpg",El Mayor Amor (2011)
