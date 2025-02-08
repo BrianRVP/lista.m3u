@@ -1,6 +1,24 @@
 #EXTM3U
 #EXTGRP: K-Dramas
 
+
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4ww3Xfan6BCUCGnOLAMbTwBcG4U.jpg",Citas: Qué Es Estar En Amor (2015)
+https://raw.githubusercontent.com/tokio14-dot/dora/refs/heads/main/BFLIXMe%20Pregunto%20C%C3%B3mo%20Ser%C3%A1%20el%20Amor.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rSv5vX6PVBsLOJIE0sGxbckx80O.jpg",Vigilante (2023)
 https://raw.githubusercontent.com/tokio14-dot/dora/refs/heads/main/BFLIXvigilante.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/thQFGzhfbtffuje3xDv7ANtpjXi.jpg",Amor Que Te Hace Llorar (2016)
