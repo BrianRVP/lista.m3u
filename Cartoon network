@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jpCIjeyiy5MGDTQEcmtwet68urF.jpg"group-title="Cartoon Network",Aventuras de una mosca (2000)
 https://github.com/tokio14-dot/from-3/releases/download/V.1.0.9/fly.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/9o6H0I4laiJfjtJ4lbrAmToFPzm.jpg" group-title="Cartoon Network",Chowder (2007) latino
+https://raw.githubusercontent.com/Dante5910/Caricaturas/refs/heads/main/Chowder
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/obbdeoOk8XSXzJrWGiBbaeMMSMl.jpg" group-title="Cartoon Network",Johnny Bravo (1997) latino
+https://raw.githubusercontent.com/Dante5910/Caricaturas/refs/heads/main/Johnny%20Bravo
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vWhzjxoHLrvl7JUKNDoXUfNqF2x.jpg" group-title="Cartoon Network",LA VACA Y EL POLLITO
 https://archive.org/download/ns_20210520/VACAPOLLO.m3u
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/fkCGY56kZoGsElefYGl91fzsLTs.jpg" group-title="Cartoon Network", Escandalositos
@@ -91,6 +95,6 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Samurai%20Jack
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Clarence
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/ed-edd-y-eddy-1669643622.png" group-title="Cartoon Network",Ed Edd y Eddy (1999) Latino
 https://raw.githubusercontent.com/Dante5910/Caricaturas/refs/heads/main/Ed%20edd%20y%20eddy
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/las-sombrias-aventuras-de-billy-y-mandy-1605740732.jpg" group-title="Cartoon Network",Las sombrias aventuras de billy y mandy Latino
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Las%20sombrias%20aventuras%20de%20billy%20y%20mandy
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/las-sombrias-aventuras-de-billy-y-mandy-1605740732.jpg" group-title="Cartoon Network",Las sombrias aventuras de billy y mandy (2001) Latino
+https://raw.githubusercontent.com/Dante5910/Caricaturas/refs/heads/main/Las%20sombrias%20aventuras%20de%20billy%20y%20mandy
 
