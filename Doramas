@@ -5,8 +5,8 @@
 
 #EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hTVXwzisv1M90AZlOPzxokWHDSQ.jpg",Mundo Maravilloso (2024)
+https://raw.githubusercontent.com/tokio14-dot/dora/refs/heads/main/Mundo%20Maravilloso.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hf3SfWsGnUzEblMXIEk44xP3jHf.jpg",el senor de la Casa (2024)
 https://raw.githubusercontent.com/tokio14-dot/dora/refs/heads/main/Maestro%20de%20la%20Casa.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bCUcNIUvwtceuF3WdvlFfGll7Eo.jpg",Family by Choice (2024)
