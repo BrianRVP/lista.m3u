@@ -5,6 +5,8 @@
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7ur5q1QMXd5FP8zcAEdNAffymZ3.jpg"group-title="Caricaturas retro",El Atom Ant Show (1965)
 https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/La%20Hormiga%20At%C3%B3mica.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/bccVkejZxfi0AIhswyo4010iMxM.jpg" group-title="Caricaturas retro",Don gato y su pandilla (1961) latino
+https://raw.githubusercontent.com/Dante5910/Caricaturas-retro/refs/heads/main/Don%20gato%20y%20su%20pandilla
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cyDmONcIVor4tI1WcQr0HcQFGMI.jpg"group-title="Caricaturas retro",The Sylvester & Tweety 
 https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/The%20Sylvester%20%26%20Tweety.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/b5GWrj3NpGVmSK44mwgKMJatROw.jpg"group-title="Caricaturas retro",Skeleton Warriors (1994)
