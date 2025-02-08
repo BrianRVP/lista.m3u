@@ -5,8 +5,8 @@
 
 #EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nwPp8ClNZAFl7Mm4H1GrQHF23az.jpg",1 Litro de Lágrimas (2005)
+https://raw.githubusercontent.com/tokio14-dot/dora/refs/heads/main/1%20Litro%20de%20L%C3%A1grimas.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wTXwQe3Qa97UG2rDdiA6OjQ9xGK.jpg",El Midnight Studio (2024)
 https://raw.githubusercontent.com/tokio14-dot/dora/refs/heads/main/Midnight%20Photo%20Studio.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7AJCemR9KHGEMvtaBVULJWbeodi.jpg",Una Odisea Coreana (2017)
