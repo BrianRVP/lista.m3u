@@ -9,6 +9,8 @@
 
 #EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="https://archive.org/download/bflixasura-7asure/asure%20tapap%C3%B1%20principal.jpg",Asura (2025)
+https://archive.org/download/bflixasura-7asure/BFLIXasure.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kQMXEmYkyKGMGA1ZdgfWIxCOWOX.jpg",Brewing Amor (2024)
 https://raw.githubusercontent.com/tokio14-dot/dora/refs/heads/main/Brewing%20Amor.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iRgH73xibpeNZ8zzPDkIpxuoKgC.jpg",Tienda de Luz (2024)
