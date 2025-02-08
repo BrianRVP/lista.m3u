@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTGRP: K-Dramas
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/thQFGzhfbtffuje3xDv7ANtpjXi.jpg",Amor Que Te Hace Llorar (2016)
+https://raw.githubusercontent.com/tokio14-dot/dora/refs/heads/main/el%20amor%20te%20hace%20llorar.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/axvl3VA1swAQUrChromXkkk8yI3.jpg",Veinticinco Veinte Uno (2022)
 https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/BFLIX25%2C21.m3u
 #EXTINF:- tvg-logo="https://image.tmdb.org/t/p/original/8oq118OTYuftOu7lmxIbzB31JzK.jpg", Besos Kitty
