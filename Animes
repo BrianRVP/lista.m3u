@@ -19,6 +19,11 @@ _______SAILOR MOON_____
 https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/BFLIXsailormoon1992.m3u
 #EXTINF:-1 tvg-logo="https://archive.org/download/bflixssilor-01-13/Sailor%20Moon%20Crystal%20principal.jpeg"group-title="SAILOR MOON",sailor moon CRISTAL (2014)
 https://archive.org/download/bflixssilor-01-13/BFLIXsailormoon2014.m3u
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3XNeBzlAYo0GsbryNHulkY52MOq.jpg"group-title="NARUTO",NARUTO
+https://raw.githubusercontent.com/tokio14-dot/naru/refs/heads/main/naru
+
+
 ________boku no hero____________
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xTlc93PezcZHMcvmAtPL3cyX0yE.jpg"group-title="BOKU NO HERO",BOKU NO HERO
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dmbJPaYV4nxJCORlmGkNEyGvHBW.jpg"group-title="BOKU NO HERO",PELICULAS
