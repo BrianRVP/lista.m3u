@@ -1,7 +1,7 @@
 #EXTM3U
 
  ---------PARAMOUNT--------
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sb2bd5YoaB9v9sFQBVuA20CKNef.jpg" ,Operativo: Lioness
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sb2bd5YoaB9v9sFQBVuA20CKNef.jpg" group-title="Paramount+",Operativo: Lioness
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/refs/heads/main/Liones
 #EXTINF:-1 tvg-logo="https://theposterdb.com/api/assets/349005/view?performed_by=tokio1374"group-title="Paramount+",NCIS: temp 1-19
 https://raw.githubusercontent.com/antonio7129/NCIS-temp.1-al-19/refs/heads/main/NCIS%20.m3u
