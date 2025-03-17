@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/odVlTMqPPiMksmxpN9cCbPCjUPP.jpg",1
+https://dl.dropbox.com/scl/fi/niovn3ssce5kvgfqjc3d4/solo1.mp4?rlkey=r4mrvxn3y1fop55638ubp4mit&st=m1ryu2el&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/odVlTMqPPiMksmxpN9cCbPCjUPP.jpg",2
+https://dl.dropbox.com/scl/fi/ljbm9uogc48whcujjpupy/solo2.mp4?rlkey=4c0qwxkx7arcl8hoo133azvjj&st=wno6cq3f&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/odVlTMqPPiMksmxpN9cCbPCjUPP.jpg",3
+https://dl.dropbox.com/scl/fi/4wwxeaazktfxrqwys0pv0/solo3.mp4?rlkey=6pjwr8ass6bimxzv84um5tyb6&st=ofjrbmuc&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/odVlTMqPPiMksmxpN9cCbPCjUPP.jpg",4
+https://dl.dropbox.com/scl/fi/qoirz9ya3pd5ld15niosi/1953_4.mp4?rlkey=r352d6dofu68ukerpkxb5c54r&st=rvgfs26l&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/odVlTMqPPiMksmxpN9cCbPCjUPP.jpg",5
+https://dl.dropbox.com/scl/fi/dawid829sglwnm9o6pc9a/OredakeLevelUpnaKenSeason2ArisefromtheShadow_5_A6Dl.mp4?rlkey=qk3ge1pg8ie46dycz72qazn4l&st=s0muky12&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/odVlTMqPPiMksmxpN9cCbPCjUPP.jpg",6
+https://dl.dropbox.com/scl/fi/w7y19kip4j7rvwcvb6rq6/6.mp4?rlkey=hdjtr48cgrb42kbl15a6zdb9t&st=wj3lyrvv&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/odVlTMqPPiMksmxpN9cCbPCjUPP.jpg",7
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/odVlTMqPPiMksmxpN9cCbPCjUPP.jpg",8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/odVlTMqPPiMksmxpN9cCbPCjUPP.jpg",9
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/odVlTMqPPiMksmxpN9cCbPCjUPP.jpg",10
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/odVlTMqPPiMksmxpN9cCbPCjUPP.jpg",11
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/odVlTMqPPiMksmxpN9cCbPCjUPP.jpg",12
