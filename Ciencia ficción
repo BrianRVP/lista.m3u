@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/y80qIpEmqFAHlqzgkbo0wOgxIyS.jpg",estado electrico (2025)
+https://dl.dropbox.com/scl/fi/cpl1qdflx74hkbbq95kll/3st4d0.mp4?rlkey=rtd4t568a2cb9oj87z9xchl9s&st=9zng209f&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",Compañera perfecta(2025)
 https://archive.org/download/bflixc-0mp-4n-3ra-1p-3rf-3cta/BFLIXC0mp4%C3%B13ra1p3rf3cta.ts
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vbuPrwclrYanFF7cVd7NHoqmWD1.jpg",The Wandering Earth (2019)
