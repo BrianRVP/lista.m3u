@@ -23,3 +23,6 @@ https://dl.dropbox.com/scl/fi/8qpsugrusu7l8ptldtr4s/10.mp4?rlkey=mn4cujw93r7b001
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/odVlTMqPPiMksmxpN9cCbPCjUPP.jpg",11
 https://dl.dropbox.com/scl/fi/nidcifns7csybhgkg86li/11.mp4?rlkey=ddb0ttsret85vnzw9453not73&st=fu9k6lbe&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/odVlTMqPPiMksmxpN9cCbPCjUPP.jpg",12
+https://dl.dropbox.com/scl/fi/ajh641noh1pgvc6vzgtkd/Ver-Ore-dake-Level-Up-na-Ken-Season-2-Arise-from-the-Shadow-Cap-tulo-12-Sub-Espa-ol-Latino-en-HD-Online-AnimeLHD_1.mp4?rlkey=w61fjrfgmylxmo7ni64pbuxpe&st=sg45ghmg&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/odVlTMqPPiMksmxpN9cCbPCjUPP.jpg",12
+
